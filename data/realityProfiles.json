@@ -46826,5 +46826,4606 @@
       },
       "realitySummary": "Inheritance Ruling for Zelophehad's Family."
     }
+  },
+  {
+    "id": "deuteronomy-01-moses-first-address",
+    "sourceFile": "deuteronomy-01-moses-first-address.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Horeb",
+      "Kadesh-barnea",
+      "Amorite hill country",
+      "Moses first address",
+      "spies reviewed",
+      "Horeb reviewed",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Moses Reviews Horeb, Leaders, Spies, and Israel's Refusal",
+      "Speech",
+      "Historical Review",
+      "Leadership Review",
+      "Rebellion Review",
+      "Deuteronomy 1:1-46",
+      "Moses Reviews Horeb, Leaders, Spies, and Israel's Refusal. Moses begins his address by reviewing the journey from Horeb, the appointment of leaders, the spy report, Israel's refusal, and the failed attempt to enter the hill country."
+    ],
+    "title": "Moses Reviews Horeb, Leaders, Spies, and Israel's Refusal",
+    "reference": "Deuteronomy 1:1-46",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Historical Review",
+      "Leadership Review",
+      "Rebellion Review"
+    ],
+    "summary": "Moses Reviews Horeb, Leaders, Spies, and Israel's Refusal. Moses begins his address by reviewing the journey from Horeb, the appointment of leaders, the spy report, Israel's refusal, and the failed attempt to enter the hill country.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Moses Reviews Horeb, Leaders, Spies, and Israel's Refusal",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Moses Reviews Horeb, Leaders, Spies, and Israel's Refusal",
+    "stepIntoStory": "The scene is a public address on the plains of Moab. Israel is camped east of the Jordan, close enough for Canaan to be the next major destination.\n\nMoses looks backward across decades of travel. Horeb, Kadesh-barnea, the hill country, leaders, spies, and the failed invasion are all brought before the assembled people through memory.\n\nA nearby observer would see a nation paused before crossing, listening as its leader reconstructs the route that brought them to this point.",
+    "notice": [
+      "A large assembled nation east of the Jordan.",
+      "Moses speaking before the people.",
+      "The Jordan and Jericho nearby.",
+      "Horeb recalled as the earlier mountain setting.",
+      "Kadesh-barnea recalled as the spy-sending location.",
+      "Tribal leaders remembered as appointed helpers.",
+      "The failed hill-country attempt reviewed.",
+      "A new generation hearing the story of the old generation."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers ended with Israel still in the plains of Moab after inheritance rulings."
+      },
+      {
+        "label": "Now",
+        "value": "Moses begins his address by reviewing the journey from Horeb, the appointment of leaders, the spy report, Israel's refusal, and the failed attempt to enter the hill country."
+      },
+      {
+        "label": "Next",
+        "value": "Moses continues by reviewing the wilderness years and encounters with Edom, Moab, Ammon, and Sihon."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This opens Deuteronomy as Moses' final address east of the Jordan.",
+      "It connects the current generation to the earlier failure at Kadesh-barnea.",
+      "It places the people on the edge of Canaan while recalling why entry was delayed."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      },
+      {
+        "ancientName": "Horeb",
+        "modernRegion": "Sinai / Horeb region; exact location debated",
+        "description": "Mountain region reviewed by Moses"
+      },
+      {
+        "ancientName": "Kadesh-barnea",
+        "modernRegion": "Southern wilderness / Negev region",
+        "description": "Place connected to the spy episode"
+      },
+      {
+        "ancientName": "Amorite hill country",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Region Israel refused to enter"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Horeb",
+      "Kadesh-barnea",
+      "Amorite hill country"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy opens on the plains of Moab, east of the Jordan. Moses speaks to Israel before the people enter Canaan. He begins by looking back: Horeb, the appointment of leaders, the journey to Kadesh-barnea, the sending of spies, and Israel's refusal to go up into the hill country. The current generation stands near the land while hearing why the earlier generation did not enter. The scene is not a journey in motion, but a nation paused at the edge of Canaan, listening to its history before the crossing.",
+    "crossReferences": [
+      "Numbers 13:1-14:45",
+      "Numbers 36:13",
+      "Deuteronomy 1:1-46",
+      "Deuteronomy 2:1-37",
+      "Hebrews 3:16-19"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 13:1-14:45",
+        "Numbers 36:13"
+      ],
+      "directlyRelatedEvents": [
+        "Deuteronomy 1:1-46"
+      ],
+      "laterReferences": [
+        "Deuteronomy 2:1-37"
+      ],
+      "newTestamentReferences": [
+        "Hebrews 3:16-19"
+      ]
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "numbers-29-zelophehad-inheritance-ruling",
+      "nextStory": "deuteronomy-02-wilderness-years-reviewed"
+    },
+    "source": {
+      "id": "deuteronomy-01-moses-first-address",
+      "reference": "Deuteronomy 1:1-46",
+      "storyTitle": "Moses Reviews Horeb, Leaders, Spies, and Israel's Refusal",
+      "eventType": [
+        "Speech",
+        "Historical Review",
+        "Leadership Review",
+        "Rebellion Review"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        },
+        {
+          "ancientName": "Horeb",
+          "modernRegion": "Sinai / Horeb region; exact location debated",
+          "description": "Mountain region reviewed by Moses"
+        },
+        {
+          "ancientName": "Kadesh-barnea",
+          "modernRegion": "Southern wilderness / Negev region",
+          "description": "Place connected to the spy episode"
+        },
+        {
+          "ancientName": "Amorite hill country",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Region Israel refused to enter"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers ended with Israel still in the plains of Moab after inheritance rulings.",
+        "whatIsHappeningNow": "Moses begins his address by reviewing the journey from Horeb, the appointment of leaders, the spy report, Israel's refusal, and the failed attempt to enter the hill country.",
+        "whatHappensAfter": "Moses continues by reviewing the wilderness years and encounters with Edom, Moab, Ammon, and Sihon.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Moses Reviews Horeb, Leaders, Spies, and Israel's Refusal ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This opens Deuteronomy as Moses' final address east of the Jordan.",
+        "It connects the current generation to the earlier failure at Kadesh-barnea.",
+        "It places the people on the edge of Canaan while recalling why entry was delayed."
+      ],
+      "stepIntoTheStory": [
+        "The scene is a public address on the plains of Moab. Israel is camped east of the Jordan, close enough for Canaan to be the next major destination.",
+        "Moses looks backward across decades of travel. Horeb, Kadesh-barnea, the hill country, leaders, spies, and the failed invasion are all brought before the assembled people through memory.",
+        "A nearby observer would see a nation paused before crossing, listening as its leader reconstructs the route that brought them to this point."
+      ],
+      "documentaryObservations": [
+        "A large assembled nation east of the Jordan.",
+        "Moses speaking before the people.",
+        "The Jordan and Jericho nearby.",
+        "Horeb recalled as the earlier mountain setting.",
+        "Kadesh-barnea recalled as the spy-sending location.",
+        "Tribal leaders remembered as appointed helpers.",
+        "The failed hill-country attempt reviewed.",
+        "A new generation hearing the story of the old generation."
+      ],
+      "audioScript": "Deuteronomy opens on the plains of Moab, east of the Jordan. Moses speaks to Israel before the people enter Canaan. He begins by looking back: Horeb, the appointment of leaders, the journey to Kadesh-barnea, the sending of spies, and Israel's refusal to go up into the hill country. The current generation stands near the land while hearing why the earlier generation did not enter. The scene is not a journey in motion, but a nation paused at the edge of Canaan, listening to its history before the crossing.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 13:1-14:45",
+          "Numbers 36:13"
+        ],
+        "directlyRelatedEvents": [
+          "Deuteronomy 1:1-46"
+        ],
+        "laterReferences": [
+          "Deuteronomy 2:1-37"
+        ],
+        "newTestamentReferences": [
+          "Hebrews 3:16-19"
+        ]
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "numbers-29-zelophehad-inheritance-ruling",
+        "nextStory": "deuteronomy-02-wilderness-years-reviewed"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan",
+          "Horeb",
+          "Kadesh-barnea",
+          "Amorite hill country"
+        ],
+        "events": [
+          "Moses first address",
+          "Kadesh-barnea",
+          "spies reviewed",
+          "Horeb reviewed"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Moses Reviews Horeb, Leaders, Spies, and Israel's Refusal"
+        ]
+      },
+      "realitySummary": "Moses Reviews Horeb, Leaders, Spies, and Israel's Refusal. Moses begins his address by reviewing the journey from Horeb, the appointment of leaders, the spy report, Israel's refusal, and the failed attempt to enter the hill country."
+    }
+  },
+  {
+    "id": "deuteronomy-02-wilderness-years-reviewed",
+    "sourceFile": "deuteronomy-02-wilderness-years-reviewed.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Mount Seir",
+      "Moab",
+      "Ammon",
+      "Heshbon",
+      "Arnon",
+      "wilderness years reviewed",
+      "Sihon defeated",
+      "Edom Moab Ammon",
+      "Wilderness",
+      "Before Canaan entry",
+      "Moses Reviews the Wilderness Years and Sihon",
+      "Speech",
+      "Historical Review",
+      "Travel Review",
+      "Battle Review",
+      "Deuteronomy 2:1-37",
+      "Moses Reviews the Wilderness Years and Sihon. Moses reviews the long wilderness period, the passing of the earlier generation, Israel's movement past Edom, Moab, and Ammon, and the defeat of Sihon."
+    ],
+    "title": "Moses Reviews the Wilderness Years and Sihon",
+    "reference": "Deuteronomy 2:1-37",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Historical Review",
+      "Travel Review",
+      "Battle Review"
+    ],
+    "summary": "Moses Reviews the Wilderness Years and Sihon. Moses reviews the long wilderness period, the passing of the earlier generation, Israel's movement past Edom, Moab, and Ammon, and the defeat of Sihon.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Moses Reviews the Wilderness Years and Sihon",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Moses Reviews the Wilderness Years and Sihon",
+    "stepIntoStory": "Moses' review moves across a map east and southeast of Canaan. Seir, Moab, Ammon, the Arnon, and Heshbon become visible route markers.\n\nThe speech describes Israel moving carefully around territories linked to Esau and Lot, then confronting Sihon of Heshbon.\n\nA person hearing this in Moab would be standing near the very regions Moses is naming.",
+    "notice": [
+      "Travel around Mount Seir.",
+      "Border regions avoided rather than seized.",
+      "Food and water purchased or requested.",
+      "The Arnon as a major boundary marker.",
+      "Messengers sent to Sihon.",
+      "Heshbon as a fortified royal city.",
+      "Battle with Sihon's forces.",
+      "The earlier generation described as gone."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses reviewed Horeb, the appointment of leaders, the spies, and Israel's refusal."
+      },
+      {
+        "label": "Now",
+        "value": "Moses reviews the long wilderness period, the passing of the earlier generation, Israel's movement past Edom, Moab, and Ammon, and the defeat of Sihon."
+      },
+      {
+        "label": "Next",
+        "value": "Moses continues by reviewing Og of Bashan and the land assigned east of the Jordan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This connects the forty-year wilderness period to the current Transjordan victories.",
+      "It distinguishes lands Israel was not to take from territory taken from Sihon.",
+      "It shows the current generation positioned after the earlier generation has passed."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      },
+      {
+        "ancientName": "Mount Seir",
+        "modernRegion": "Edom / southern Jordan region",
+        "description": "Region associated with Esau's descendants"
+      },
+      {
+        "ancientName": "Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Region Israel was not to seize"
+      },
+      {
+        "ancientName": "Ammon",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Region Israel was not to seize"
+      },
+      {
+        "ancientName": "Heshbon",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "City of Sihon"
+      },
+      {
+        "ancientName": "Arnon",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Boundary region in Transjordan"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Mount Seir",
+      "Moab",
+      "Ammon",
+      "Heshbon",
+      "Arnon"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Moses continues his address by tracing Israel's wilderness movement. He recalls turning back into the wilderness, circling Mount Seir, and passing by Edom, Moab, and Ammon without taking their land. The route then reaches the territory of Sihon king of Heshbon. Israel sends words of peace, but Sihon refuses passage and comes out to fight. The review reminds Israel that they are now standing beyond the old wilderness delay, in territory east of the Jordan.",
+    "crossReferences": [
+      "Numbers 20:14-21",
+      "Numbers 21:21-31",
+      "Deuteronomy 2:1-37",
+      "Deuteronomy 3:1-29"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 20:14-21",
+        "Numbers 21:21-31"
+      ],
+      "directlyRelatedEvents": [
+        "Deuteronomy 2:1-37"
+      ],
+      "laterReferences": [
+        "Deuteronomy 3:1-29"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-01-moses-first-address",
+      "nextStory": "deuteronomy-03-transjordan-victories-reviewed"
+    },
+    "source": {
+      "id": "deuteronomy-02-wilderness-years-reviewed",
+      "reference": "Deuteronomy 2:1-37",
+      "storyTitle": "Moses Reviews the Wilderness Years and Sihon",
+      "eventType": [
+        "Speech",
+        "Historical Review",
+        "Travel Review",
+        "Battle Review"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        },
+        {
+          "ancientName": "Mount Seir",
+          "modernRegion": "Edom / southern Jordan region",
+          "description": "Region associated with Esau's descendants"
+        },
+        {
+          "ancientName": "Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Region Israel was not to seize"
+        },
+        {
+          "ancientName": "Ammon",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Region Israel was not to seize"
+        },
+        {
+          "ancientName": "Heshbon",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "City of Sihon"
+        },
+        {
+          "ancientName": "Arnon",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Boundary region in Transjordan"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses reviewed Horeb, the appointment of leaders, the spies, and Israel's refusal.",
+        "whatIsHappeningNow": "Moses reviews the long wilderness period, the passing of the earlier generation, Israel's movement past Edom, Moab, and Ammon, and the defeat of Sihon.",
+        "whatHappensAfter": "Moses continues by reviewing Og of Bashan and the land assigned east of the Jordan.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Moses Reviews the Wilderness Years and Sihon ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This connects the forty-year wilderness period to the current Transjordan victories.",
+        "It distinguishes lands Israel was not to take from territory taken from Sihon.",
+        "It shows the current generation positioned after the earlier generation has passed."
+      ],
+      "stepIntoTheStory": [
+        "Moses' review moves across a map east and southeast of Canaan. Seir, Moab, Ammon, the Arnon, and Heshbon become visible route markers.",
+        "The speech describes Israel moving carefully around territories linked to Esau and Lot, then confronting Sihon of Heshbon.",
+        "A person hearing this in Moab would be standing near the very regions Moses is naming."
+      ],
+      "documentaryObservations": [
+        "Travel around Mount Seir.",
+        "Border regions avoided rather than seized.",
+        "Food and water purchased or requested.",
+        "The Arnon as a major boundary marker.",
+        "Messengers sent to Sihon.",
+        "Heshbon as a fortified royal city.",
+        "Battle with Sihon's forces.",
+        "The earlier generation described as gone."
+      ],
+      "audioScript": "Moses continues his address by tracing Israel's wilderness movement. He recalls turning back into the wilderness, circling Mount Seir, and passing by Edom, Moab, and Ammon without taking their land. The route then reaches the territory of Sihon king of Heshbon. Israel sends words of peace, but Sihon refuses passage and comes out to fight. The review reminds Israel that they are now standing beyond the old wilderness delay, in territory east of the Jordan.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 20:14-21",
+          "Numbers 21:21-31"
+        ],
+        "directlyRelatedEvents": [
+          "Deuteronomy 2:1-37"
+        ],
+        "laterReferences": [
+          "Deuteronomy 3:1-29"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-01-moses-first-address",
+        "nextStory": "deuteronomy-03-transjordan-victories-reviewed"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan",
+          "Mount Seir",
+          "Moab",
+          "Ammon",
+          "Heshbon",
+          "Arnon"
+        ],
+        "events": [
+          "wilderness years reviewed",
+          "Sihon defeated",
+          "Edom Moab Ammon"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Moses Reviews the Wilderness Years and Sihon"
+        ]
+      },
+      "realitySummary": "Moses Reviews the Wilderness Years and Sihon. Moses reviews the long wilderness period, the passing of the earlier generation, Israel's movement past Edom, Moab, and Ammon, and the defeat of Sihon."
+    }
+  },
+  {
+    "id": "deuteronomy-03-transjordan-victories-reviewed",
+    "sourceFile": "deuteronomy-03-transjordan-victories-reviewed.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Joshua",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Bashan",
+      "Gilead",
+      "Pisgah",
+      "Og defeated",
+      "Transjordan land",
+      "Moses barred from crossing",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Moses Reviews Og, Transjordan Land, and His Request to Cross",
+      "Speech",
+      "Battle Review",
+      "Land Assignment",
+      "Leadership Transition",
+      "Deuteronomy 3:1-29",
+      "Moses Reviews Og, Transjordan Land, and His Request to Cross. Moses reviews the defeat of Og, the distribution of Transjordan land, and Yahweh's refusal to let him cross the Jordan."
+    ],
+    "title": "Moses Reviews Og, Transjordan Land, and His Request to Cross",
+    "reference": "Deuteronomy 3:1-29",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Battle Review",
+      "Land Assignment",
+      "Leadership Transition"
+    ],
+    "summary": "Moses Reviews Og, Transjordan Land, and His Request to Cross. Moses reviews the defeat of Og, the distribution of Transjordan land, and Yahweh's refusal to let him cross the Jordan.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Moses Reviews Og, Transjordan Land, and His Request to Cross",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Moses Reviews Og, Transjordan Land, and His Request to Cross",
+    "stepIntoStory": "The review moves north into Bashan, where Og is defeated and fortified cities are remembered.\n\nThe scene then shifts to land assignment east of the Jordan: Gilead, Bashan, Reuben, Gad, and half-Manasseh.\n\nFinally, the view becomes personal and geographic: Moses looks toward the Jordan and the land from Pisgah but is told not to cross.",
+    "notice": [
+      "Og of Bashan remembered as defeated.",
+      "Fortified cities with high walls recalled.",
+      "Gilead and Bashan named as assigned regions.",
+      "Transjordan tribes receiving land.",
+      "The Jordan as the uncrossed boundary for Moses.",
+      "Pisgah as a viewing height.",
+      "Joshua being charged and strengthened."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses reviewed the wilderness years and Sihon's defeat."
+      },
+      {
+        "label": "Now",
+        "value": "Moses reviews the defeat of Og, the distribution of Transjordan land, and Yahweh's refusal to let him cross the Jordan."
+      },
+      {
+        "label": "Next",
+        "value": "Moses calls Israel to listen, remember Horeb, and obey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This completes the review of victories east of the Jordan.",
+      "It explains the Transjordan settlements before the main land entry.",
+      "It places Moses' death and Joshua's leadership in view.",
+      "It emphasizes that Moses will see the land but not cross into it."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      },
+      {
+        "name": "Joshua",
+        "role": "Successor to Moses and future leader into Canaan",
+        "relationships": [
+          "Son of Nun"
+        ]
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      },
+      {
+        "ancientName": "Bashan",
+        "modernRegion": "Golan / southern Syria region",
+        "description": "Region ruled by Og"
+      },
+      {
+        "ancientName": "Gilead",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Transjordan region assigned to tribes"
+      },
+      {
+        "ancientName": "Pisgah",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "High place where Moses is told to view the land"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites",
+      "Joshua"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Bashan",
+      "Gilead",
+      "Pisgah"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Moses reviews the victory over Og king of Bashan and the territory taken east of the Jordan. The review includes fortified cities, regions of Gilead and Bashan, and the land assigned to Reuben, Gad, and half the tribe of Manasseh. Then the speech turns personal. Moses recalls asking to cross and see the good land beyond the Jordan. He is told instead to go up Pisgah, look in every direction, and charge Joshua, who will lead the people across.",
+    "crossReferences": [
+      "Numbers 21:33-35",
+      "Numbers 32:1-42",
+      "Deuteronomy 3:1-29",
+      "Deuteronomy 31:1-8",
+      "Deuteronomy 34:1-12"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 21:33-35",
+        "Numbers 32:1-42"
+      ],
+      "directlyRelatedEvents": [
+        "Deuteronomy 3:1-29"
+      ],
+      "laterReferences": [
+        "Deuteronomy 31:1-8",
+        "Deuteronomy 34:1-12"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-02-wilderness-years-reviewed",
+      "nextStory": "deuteronomy-04-call-to-remember-and-obey"
+    },
+    "source": {
+      "id": "deuteronomy-03-transjordan-victories-reviewed",
+      "reference": "Deuteronomy 3:1-29",
+      "storyTitle": "Moses Reviews Og, Transjordan Land, and His Request to Cross",
+      "eventType": [
+        "Speech",
+        "Battle Review",
+        "Land Assignment",
+        "Leadership Transition"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        },
+        {
+          "name": "Joshua",
+          "role": "Successor to Moses and future leader into Canaan",
+          "relationships": [
+            "Son of Nun"
+          ]
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        },
+        {
+          "ancientName": "Bashan",
+          "modernRegion": "Golan / southern Syria region",
+          "description": "Region ruled by Og"
+        },
+        {
+          "ancientName": "Gilead",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Transjordan region assigned to tribes"
+        },
+        {
+          "ancientName": "Pisgah",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "High place where Moses is told to view the land"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses reviewed the wilderness years and Sihon's defeat.",
+        "whatIsHappeningNow": "Moses reviews the defeat of Og, the distribution of Transjordan land, and Yahweh's refusal to let him cross the Jordan.",
+        "whatHappensAfter": "Moses calls Israel to listen, remember Horeb, and obey.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Moses Reviews Og, Transjordan Land, and His Request to Cross ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This completes the review of victories east of the Jordan.",
+        "It explains the Transjordan settlements before the main land entry.",
+        "It places Moses' death and Joshua's leadership in view.",
+        "It emphasizes that Moses will see the land but not cross into it."
+      ],
+      "stepIntoTheStory": [
+        "The review moves north into Bashan, where Og is defeated and fortified cities are remembered.",
+        "The scene then shifts to land assignment east of the Jordan: Gilead, Bashan, Reuben, Gad, and half-Manasseh.",
+        "Finally, the view becomes personal and geographic: Moses looks toward the Jordan and the land from Pisgah but is told not to cross."
+      ],
+      "documentaryObservations": [
+        "Og of Bashan remembered as defeated.",
+        "Fortified cities with high walls recalled.",
+        "Gilead and Bashan named as assigned regions.",
+        "Transjordan tribes receiving land.",
+        "The Jordan as the uncrossed boundary for Moses.",
+        "Pisgah as a viewing height.",
+        "Joshua being charged and strengthened."
+      ],
+      "audioScript": "Moses reviews the victory over Og king of Bashan and the territory taken east of the Jordan. The review includes fortified cities, regions of Gilead and Bashan, and the land assigned to Reuben, Gad, and half the tribe of Manasseh. Then the speech turns personal. Moses recalls asking to cross and see the good land beyond the Jordan. He is told instead to go up Pisgah, look in every direction, and charge Joshua, who will lead the people across.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 21:33-35",
+          "Numbers 32:1-42"
+        ],
+        "directlyRelatedEvents": [
+          "Deuteronomy 3:1-29"
+        ],
+        "laterReferences": [
+          "Deuteronomy 31:1-8",
+          "Deuteronomy 34:1-12"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-02-wilderness-years-reviewed",
+        "nextStory": "deuteronomy-04-call-to-remember-and-obey"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites",
+          "Joshua"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan",
+          "Bashan",
+          "Gilead",
+          "Pisgah"
+        ],
+        "events": [
+          "Og defeated",
+          "Transjordan land",
+          "Moses barred from crossing",
+          "Pisgah"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Moses Reviews Og, Transjordan Land, and His Request to Cross"
+        ]
+      },
+      "realitySummary": "Moses Reviews Og, Transjordan Land, and His Request to Cross. Moses reviews the defeat of Og, the distribution of Transjordan land, and Yahweh's refusal to let him cross the Jordan."
+    }
+  },
+  {
+    "id": "deuteronomy-04-call-to-remember-and-obey",
+    "sourceFile": "deuteronomy-04-call-to-remember-and-obey.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Horeb",
+      "Bezer",
+      "Ramoth in Gilead",
+      "Golan in Bashan",
+      "remember Horeb",
+      "avoid idols",
+      "refuge cities east of Jordan",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Moses Calls Israel to Remember Horeb and Sets Apart Refuge Cities",
+      "Speech",
+      "Instruction Received",
+      "Historical Warning",
+      "Legal Action",
+      "Deuteronomy 4:1-43",
+      "Moses Calls Israel to Remember Horeb and Sets Apart Refuge Cities. Moses calls Israel to remember Horeb, avoid idols, teach future generations, and sets apart three refuge cities east of the Jordan."
+    ],
+    "title": "Moses Calls Israel to Remember Horeb and Sets Apart Refuge Cities",
+    "reference": "Deuteronomy 4:1-43",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Instruction Received",
+      "Historical Warning",
+      "Legal Action"
+    ],
+    "summary": "Moses Calls Israel to Remember Horeb and Sets Apart Refuge Cities. Moses calls Israel to remember Horeb, avoid idols, teach future generations, and sets apart three refuge cities east of the Jordan.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Moses Calls Israel to Remember Horeb and Sets Apart Refuge Cities",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Moses Calls Israel to Remember Horeb and Sets Apart Refuge Cities",
+    "stepIntoStory": "The scene remains east of the Jordan, but Moses directs Israel's memory back to Horeb, where the people heard a voice but saw no form.\n\nThe speech reaches forward to children, grandchildren, land life, scattering, and return. Time stretches from Horeb to future generations.\n\nThe final movement becomes legal and geographic: three refuge cities are named east of the Jordan for manslayers.",
+    "notice": [
+      "Israel assembled east of the Jordan.",
+      "Horeb remembered as fire, cloud, and voice.",
+      "No visible form remembered at Horeb.",
+      "Parents instructed to teach children and grandchildren.",
+      "Beth-peor region near the current camp.",
+      "Three refuge cities set apart east of Jordan.",
+      "Bezer, Ramoth, and Golan named.",
+      "A manslayer fleeing to a refuge city."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses reviewed Sihon, Og, Transjordan land, and his own exclusion from crossing."
+      },
+      {
+        "label": "Now",
+        "value": "Moses calls Israel to remember Horeb, avoid idols, teach future generations, and sets apart three refuge cities east of the Jordan."
+      },
+      {
+        "label": "Next",
+        "value": "The covenant instruction is introduced in Deuteronomy 4:44-49 before the Ten Words are reviewed."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This closes Moses' first historical address with a call to remember Horeb.",
+      "It connects memory, future generations, and life in the land.",
+      "It sets apart the first named refuge cities east of the Jordan.",
+      "It transitions into the covenant instruction section."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      },
+      {
+        "ancientName": "Horeb",
+        "modernRegion": "Sinai / Horeb region; exact location debated",
+        "description": "Mountain where Israel heard the voice and saw no form"
+      },
+      {
+        "ancientName": "Bezer",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Refuge city for Reuben"
+      },
+      {
+        "ancientName": "Ramoth in Gilead",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Refuge city for Gad"
+      },
+      {
+        "ancientName": "Golan in Bashan",
+        "modernRegion": "Golan region",
+        "description": "Refuge city for Manasseh"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Horeb",
+      "Bezer",
+      "Ramoth in Gilead",
+      "Golan in Bashan"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Moses closes the first address by calling Israel to remember Horeb. He reminds them that they heard a voice from the fire but saw no form. Standing east of the Jordan, the people are told to carry this memory into the land and teach future generations. The speech also looks ahead to failure, scattering, and return. Then Moses sets apart three refuge cities east of the Jordan: Bezer, Ramoth in Gilead, and Golan in Bashan. The address moves from memory to geography, from Horeb to the cities already assigned east of the river.",
+    "crossReferences": [
+      "Exodus 19:1-20:21",
+      "Numbers 35:9-34",
+      "Deuteronomy 4:1-43",
+      "Joshua 20:1-9"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Exodus 19:1-20:21",
+        "Numbers 35:9-34"
+      ],
+      "directlyRelatedEvents": [
+        "Deuteronomy 4:1-43"
+      ],
+      "laterReferences": [
+        "Joshua 20:1-9"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-03-transjordan-victories-reviewed",
+      "nextStory": "deuteronomy-05-covenant-introduction"
+    },
+    "source": {
+      "id": "deuteronomy-04-call-to-remember-and-obey",
+      "reference": "Deuteronomy 4:1-43",
+      "storyTitle": "Moses Calls Israel to Remember Horeb and Sets Apart Refuge Cities",
+      "eventType": [
+        "Speech",
+        "Instruction Received",
+        "Historical Warning",
+        "Legal Action"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        },
+        {
+          "ancientName": "Horeb",
+          "modernRegion": "Sinai / Horeb region; exact location debated",
+          "description": "Mountain where Israel heard the voice and saw no form"
+        },
+        {
+          "ancientName": "Bezer",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Refuge city for Reuben"
+        },
+        {
+          "ancientName": "Ramoth in Gilead",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Refuge city for Gad"
+        },
+        {
+          "ancientName": "Golan in Bashan",
+          "modernRegion": "Golan region",
+          "description": "Refuge city for Manasseh"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses reviewed Sihon, Og, Transjordan land, and his own exclusion from crossing.",
+        "whatIsHappeningNow": "Moses calls Israel to remember Horeb, avoid idols, teach future generations, and sets apart three refuge cities east of the Jordan.",
+        "whatHappensAfter": "The covenant instruction is introduced in Deuteronomy 4:44-49 before the Ten Words are reviewed.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Moses Calls Israel to Remember Horeb and Sets Apart Refuge Cities ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This closes Moses' first historical address with a call to remember Horeb.",
+        "It connects memory, future generations, and life in the land.",
+        "It sets apart the first named refuge cities east of the Jordan.",
+        "It transitions into the covenant instruction section."
+      ],
+      "stepIntoTheStory": [
+        "The scene remains east of the Jordan, but Moses directs Israel's memory back to Horeb, where the people heard a voice but saw no form.",
+        "The speech reaches forward to children, grandchildren, land life, scattering, and return. Time stretches from Horeb to future generations.",
+        "The final movement becomes legal and geographic: three refuge cities are named east of the Jordan for manslayers."
+      ],
+      "documentaryObservations": [
+        "Israel assembled east of the Jordan.",
+        "Horeb remembered as fire, cloud, and voice.",
+        "No visible form remembered at Horeb.",
+        "Parents instructed to teach children and grandchildren.",
+        "Beth-peor region near the current camp.",
+        "Three refuge cities set apart east of Jordan.",
+        "Bezer, Ramoth, and Golan named.",
+        "A manslayer fleeing to a refuge city."
+      ],
+      "audioScript": "Moses closes the first address by calling Israel to remember Horeb. He reminds them that they heard a voice from the fire but saw no form. Standing east of the Jordan, the people are told to carry this memory into the land and teach future generations. The speech also looks ahead to failure, scattering, and return. Then Moses sets apart three refuge cities east of the Jordan: Bezer, Ramoth in Gilead, and Golan in Bashan. The address moves from memory to geography, from Horeb to the cities already assigned east of the river.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Exodus 19:1-20:21",
+          "Numbers 35:9-34"
+        ],
+        "directlyRelatedEvents": [
+          "Deuteronomy 4:1-43"
+        ],
+        "laterReferences": [
+          "Joshua 20:1-9"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-03-transjordan-victories-reviewed",
+        "nextStory": "deuteronomy-05-covenant-introduction"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan",
+          "Horeb",
+          "Bezer",
+          "Ramoth in Gilead",
+          "Golan in Bashan"
+        ],
+        "events": [
+          "remember Horeb",
+          "avoid idols",
+          "refuge cities east of Jordan"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Moses Calls Israel to Remember Horeb and Sets Apart Refuge Cities"
+        ]
+      },
+      "realitySummary": "Moses Calls Israel to Remember Horeb and Sets Apart Refuge Cities. Moses calls Israel to remember Horeb, avoid idols, teach future generations, and sets apart three refuge cities east of the Jordan."
+    }
+  },
+  {
+    "id": "deuteronomy-05-covenant-introduction",
+    "sourceFile": "deuteronomy-05-covenant-introduction.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Valley opposite Beth-peor",
+      "Land of Sihon",
+      "Bashan",
+      "covenant introduction",
+      "Beth-peor",
+      "east of Jordan setting",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Introduction to the Covenant Instruction East of the Jordan",
+      "Introduction",
+      "Location Marker",
+      "Covenant Instruction",
+      "Deuteronomy 4:44-49",
+      "Introduction to the Covenant Instruction East of the Jordan. A formal location and covenant introduction identifies the law Moses sets before Israel east of the Jordan."
+    ],
+    "title": "Introduction to the Covenant Instruction East of the Jordan",
+    "reference": "Deuteronomy 4:44-49",
+    "kicker": "Study",
+    "eventType": [
+      "Introduction",
+      "Location Marker",
+      "Covenant Instruction"
+    ],
+    "summary": "Introduction to the Covenant Instruction East of the Jordan. A formal location and covenant introduction identifies the law Moses sets before Israel east of the Jordan.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Introduction to the Covenant Instruction East of the Jordan",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Introduction to the Covenant Instruction East of the Jordan",
+    "stepIntoStory": "The passage briefly fixes the camera on the location: east of the Jordan, in the valley opposite Beth-peor.\n\nThe land around them is no longer only wilderness; it includes territories taken from Sihon and Og.\n\nThis short unit functions like a title card before the next speech begins.",
+    "notice": [
+      "Israel east of the Jordan.",
+      "Valley opposite Beth-peor named.",
+      "Former Amorite territories summarized.",
+      "Sihon and Og remembered as defeated kings.",
+      "Moses setting the law before Israel.",
+      "A formal transition into covenant instruction."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses called Israel to remember Horeb and set apart three refuge cities east of the Jordan."
+      },
+      {
+        "label": "Now",
+        "value": "A formal location and covenant introduction identifies the law Moses sets before Israel east of the Jordan."
+      },
+      {
+        "label": "Next",
+        "value": "Moses reviews the Ten Words in Deuteronomy 5."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This acts as a bridge between Moses' first address and the covenant instruction that follows.",
+      "It anchors the next section geographically east of the Jordan.",
+      "It reminds the reader that Israel is already occupying conquered Transjordan territory."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      },
+      {
+        "ancientName": "Valley opposite Beth-peor",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Speech setting east of Jordan"
+      },
+      {
+        "ancientName": "Land of Sihon",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Former Amorite territory east of Jordan"
+      },
+      {
+        "ancientName": "Bashan",
+        "modernRegion": "Golan / southern Syria region",
+        "description": "Former territory of Og"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Valley opposite Beth-peor",
+      "Land of Sihon",
+      "Bashan"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 4:44-49 works like a location marker. Moses has finished the first major review, and the text introduces the law he sets before Israel. The people are east of the Jordan, in the valley opposite Beth-peor, in territory taken from Sihon and Og. The scene is still the plains of Moab, but the focus now shifts from historical review to covenant instruction. The next chapter begins with Moses reviewing the Ten Words spoken at Horeb.",
+    "crossReferences": [
+      "Deuteronomy 4:1-43",
+      "Deuteronomy 4:44-49",
+      "Deuteronomy 5:1-33"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Deuteronomy 4:1-43"
+      ],
+      "directlyRelatedEvents": [
+        "Deuteronomy 4:44-49"
+      ],
+      "laterReferences": [
+        "Deuteronomy 5:1-33"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-04-call-to-remember-and-obey",
+      "nextStory": "deuteronomy-06-ten-words-reviewed"
+    },
+    "source": {
+      "id": "deuteronomy-05-covenant-introduction",
+      "reference": "Deuteronomy 4:44-49",
+      "storyTitle": "Introduction to the Covenant Instruction East of the Jordan",
+      "eventType": [
+        "Introduction",
+        "Location Marker",
+        "Covenant Instruction"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        },
+        {
+          "ancientName": "Valley opposite Beth-peor",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Speech setting east of Jordan"
+        },
+        {
+          "ancientName": "Land of Sihon",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Former Amorite territory east of Jordan"
+        },
+        {
+          "ancientName": "Bashan",
+          "modernRegion": "Golan / southern Syria region",
+          "description": "Former territory of Og"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses called Israel to remember Horeb and set apart three refuge cities east of the Jordan.",
+        "whatIsHappeningNow": "A formal location and covenant introduction identifies the law Moses sets before Israel east of the Jordan.",
+        "whatHappensAfter": "Moses reviews the Ten Words in Deuteronomy 5.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Introduction to the Covenant Instruction East of the Jordan ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This acts as a bridge between Moses' first address and the covenant instruction that follows.",
+        "It anchors the next section geographically east of the Jordan.",
+        "It reminds the reader that Israel is already occupying conquered Transjordan territory."
+      ],
+      "stepIntoTheStory": [
+        "The passage briefly fixes the camera on the location: east of the Jordan, in the valley opposite Beth-peor.",
+        "The land around them is no longer only wilderness; it includes territories taken from Sihon and Og.",
+        "This short unit functions like a title card before the next speech begins."
+      ],
+      "documentaryObservations": [
+        "Israel east of the Jordan.",
+        "Valley opposite Beth-peor named.",
+        "Former Amorite territories summarized.",
+        "Sihon and Og remembered as defeated kings.",
+        "Moses setting the law before Israel.",
+        "A formal transition into covenant instruction."
+      ],
+      "audioScript": "Deuteronomy 4:44-49 works like a location marker. Moses has finished the first major review, and the text introduces the law he sets before Israel. The people are east of the Jordan, in the valley opposite Beth-peor, in territory taken from Sihon and Og. The scene is still the plains of Moab, but the focus now shifts from historical review to covenant instruction. The next chapter begins with Moses reviewing the Ten Words spoken at Horeb.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Deuteronomy 4:1-43"
+        ],
+        "directlyRelatedEvents": [
+          "Deuteronomy 4:44-49"
+        ],
+        "laterReferences": [
+          "Deuteronomy 5:1-33"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-04-call-to-remember-and-obey",
+        "nextStory": "deuteronomy-06-ten-words-reviewed"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan",
+          "Valley opposite Beth-peor",
+          "Land of Sihon",
+          "Bashan"
+        ],
+        "events": [
+          "covenant introduction",
+          "Beth-peor",
+          "east of Jordan setting"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Introduction to the Covenant Instruction East of the Jordan"
+        ]
+      },
+      "realitySummary": "Introduction to the Covenant Instruction East of the Jordan. A formal location and covenant introduction identifies the law Moses sets before Israel east of the Jordan."
+    }
+  },
+  {
+    "id": "deuteronomy-06-ten-words-reviewed",
+    "sourceFile": "deuteronomy-06-ten-words-reviewed.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Horeb",
+      "Ten Words reviewed",
+      "Horeb covenant",
+      "Deuteronomy 5",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Moses Reviews the Ten Words at Horeb",
+      "Speech",
+      "Covenant Review",
+      "Instruction Received",
+      "Deuteronomy 5:1-33",
+      "Moses Reviews the Ten Words at Horeb. Moses summons Israel and reviews the Ten Words spoken at Horeb, including the people's fear and Moses' mediating role."
+    ],
+    "title": "Moses Reviews the Ten Words at Horeb",
+    "reference": "Deuteronomy 5:1-33",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Covenant Review",
+      "Instruction Received"
+    ],
+    "summary": "Moses Reviews the Ten Words at Horeb. Moses summons Israel and reviews the Ten Words spoken at Horeb, including the people's fear and Moses' mediating role.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Moses Reviews the Ten Words at Horeb",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Moses Reviews the Ten Words at Horeb",
+    "stepIntoStory": "The assembled people hear Moses repeat the words connected to Horeb. The memory is vivid: mountain fire, cloud, darkness, and the voice from the fire.\n\nMoses recalls that tribal heads and elders approached him because the people feared hearing the voice directly.\n\nThe plains of Moab become a second setting for hearing what was first spoken at Horeb.",
+    "notice": [
+      "The nation assembled to hear Moses.",
+      "Horeb remembered with fire and thick darkness.",
+      "The Ten Words repeated aloud.",
+      "Elders and tribal heads approaching Moses in the review.",
+      "The people standing at a distance in the memory.",
+      "Moses acting as mediator."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "The covenant introduction located Israel east of the Jordan."
+      },
+      {
+        "label": "Now",
+        "value": "Moses summons Israel and reviews the Ten Words spoken at Horeb, including the people's fear and Moses' mediating role."
+      },
+      {
+        "label": "Next",
+        "value": "Moses continues with instruction to love Yahweh and teach children."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This restates the Horeb covenant for the generation about to enter the land.",
+      "It places the Ten Words at the beginning of the covenant instruction core.",
+      "It recalls the fire, cloud, voice, and the people's request for Moses to mediate."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      },
+      {
+        "ancientName": "Horeb",
+        "modernRegion": "Sinai / Horeb region; exact location debated",
+        "description": "Mountain where the Ten Words were first spoken"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Horeb"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 5 begins with Moses summoning all Israel. Standing east of the Jordan, he reviews the Ten Words spoken at Horeb. The scene he recalls is dramatic: the mountain burning with fire, cloud, thick darkness, and a voice from the fire. The people hear the words but fear continuing to hear directly, so their leaders approach Moses. Moses becomes the one who receives and speaks further instruction. The chapter places the Horeb covenant before the generation about to enter the land.",
+    "crossReferences": [
+      "Deuteronomy 5:1-33"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 5:1-33"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-05-covenant-introduction",
+      "nextStory": "deuteronomy-07-love-yahweh-and-teach-children"
+    },
+    "source": {
+      "id": "deuteronomy-06-ten-words-reviewed",
+      "reference": "Deuteronomy 5:1-33",
+      "storyTitle": "Moses Reviews the Ten Words at Horeb",
+      "eventType": [
+        "Speech",
+        "Covenant Review",
+        "Instruction Received"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        },
+        {
+          "ancientName": "Horeb",
+          "modernRegion": "Sinai / Horeb region; exact location debated",
+          "description": "Mountain where the Ten Words were first spoken"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "The covenant introduction located Israel east of the Jordan.",
+        "whatIsHappeningNow": "Moses summons Israel and reviews the Ten Words spoken at Horeb, including the people's fear and Moses' mediating role.",
+        "whatHappensAfter": "Moses continues with instruction to love Yahweh and teach children.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Moses Reviews the Ten Words at Horeb ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This restates the Horeb covenant for the generation about to enter the land.",
+        "It places the Ten Words at the beginning of the covenant instruction core.",
+        "It recalls the fire, cloud, voice, and the people's request for Moses to mediate."
+      ],
+      "stepIntoTheStory": [
+        "The assembled people hear Moses repeat the words connected to Horeb. The memory is vivid: mountain fire, cloud, darkness, and the voice from the fire.",
+        "Moses recalls that tribal heads and elders approached him because the people feared hearing the voice directly.",
+        "The plains of Moab become a second setting for hearing what was first spoken at Horeb."
+      ],
+      "documentaryObservations": [
+        "The nation assembled to hear Moses.",
+        "Horeb remembered with fire and thick darkness.",
+        "The Ten Words repeated aloud.",
+        "Elders and tribal heads approaching Moses in the review.",
+        "The people standing at a distance in the memory.",
+        "Moses acting as mediator."
+      ],
+      "audioScript": "Deuteronomy 5 begins with Moses summoning all Israel. Standing east of the Jordan, he reviews the Ten Words spoken at Horeb. The scene he recalls is dramatic: the mountain burning with fire, cloud, thick darkness, and a voice from the fire. The people hear the words but fear continuing to hear directly, so their leaders approach Moses. Moses becomes the one who receives and speaks further instruction. The chapter places the Horeb covenant before the generation about to enter the land.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 5:1-33"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-05-covenant-introduction",
+        "nextStory": "deuteronomy-07-love-yahweh-and-teach-children"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan",
+          "Horeb"
+        ],
+        "events": [
+          "Ten Words reviewed",
+          "Horeb covenant",
+          "Deuteronomy 5"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Moses Reviews the Ten Words at Horeb"
+        ]
+      },
+      "realitySummary": "Moses Reviews the Ten Words at Horeb. Moses summons Israel and reviews the Ten Words spoken at Horeb, including the people's fear and Moses' mediating role."
+    }
+  },
+  {
+    "id": "deuteronomy-07-love-yahweh-and-teach-children",
+    "sourceFile": "deuteronomy-07-love-yahweh-and-teach-children.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Shema",
+      "teach children",
+      "remember Exodus",
+      "doorposts",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Instruction to Love Yahweh, Teach Children, and Remember the Exodus",
+      "Speech",
+      "Instruction",
+      "Household Teaching",
+      "Memory",
+      "Deuteronomy 6:1-25",
+      "Instruction to Love Yahweh, Teach Children, and Remember the Exodus. Moses instructs Israel to love Yahweh, teach the words diligently to children, bind and write them, and remember the Exodus when living in the land."
+    ],
+    "title": "Instruction to Love Yahweh, Teach Children, and Remember the Exodus",
+    "reference": "Deuteronomy 6:1-25",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Instruction",
+      "Household Teaching",
+      "Memory"
+    ],
+    "summary": "Instruction to Love Yahweh, Teach Children, and Remember the Exodus. Moses instructs Israel to love Yahweh, teach the words diligently to children, bind and write them, and remember the Exodus when living in the land.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Instruction to Love Yahweh, Teach Children, and Remember the Exodus",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Instruction to Love Yahweh, Teach Children, and Remember the Exodus",
+    "stepIntoStory": "The scene looks from the plains of Moab into future homes in Canaan. Moses describes houses Israel did not build, wells they did not dig, and vineyards they did not plant.\n\nParents are told to speak these words in ordinary daily movement: sitting, walking, lying down, and rising.\n\nA future child asking about the testimonies becomes part of the scene, and the Exodus is retold as the answer.",
+    "notice": [
+      "Parents teaching children in households.",
+      "Words spoken while sitting in the house.",
+      "Words spoken while walking on the road.",
+      "Doorposts and gates named as visible places.",
+      "Future cities and houses in Canaan.",
+      "Wells, vineyards, and olive trees described.",
+      "Children asking about the instructions.",
+      "The Exodus retold inside family life."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses reviewed the Ten Words spoken at Horeb."
+      },
+      {
+        "label": "Now",
+        "value": "Moses instructs Israel to love Yahweh, teach the words diligently to children, bind and write them, and remember the Exodus when living in the land."
+      },
+      {
+        "label": "Next",
+        "value": "Moses warns Israel concerning the nations and objects in Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This brings covenant instruction into household life.",
+      "It frames future land life through houses, cities, wells, vineyards, and family teaching.",
+      "It places children and memory of the Exodus at the center of daily instruction."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 6 brings Moses' speech into the home. Israel is still east of the Jordan, but Moses describes future life in the land: cities, houses, wells, vineyards, and olive trees. The words are to be taught to children in daily settings: sitting in the house, walking on the road, lying down, and rising. The chapter also imagines a child asking why these instructions matter. The answer looks back to the Exodus from Egypt. The scene connects future households in Canaan with the memory of deliverance.",
+    "crossReferences": [
+      "Deuteronomy 6:1-25"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 6:1-25"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-06-ten-words-reviewed",
+      "nextStory": "deuteronomy-08-canaan-nations-warning"
+    },
+    "source": {
+      "id": "deuteronomy-07-love-yahweh-and-teach-children",
+      "reference": "Deuteronomy 6:1-25",
+      "storyTitle": "Instruction to Love Yahweh, Teach Children, and Remember the Exodus",
+      "eventType": [
+        "Speech",
+        "Instruction",
+        "Household Teaching",
+        "Memory"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses reviewed the Ten Words spoken at Horeb.",
+        "whatIsHappeningNow": "Moses instructs Israel to love Yahweh, teach the words diligently to children, bind and write them, and remember the Exodus when living in the land.",
+        "whatHappensAfter": "Moses warns Israel concerning the nations and objects in Canaan.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Instruction to Love Yahweh, Teach Children, and Remember the Exodus ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This brings covenant instruction into household life.",
+        "It frames future land life through houses, cities, wells, vineyards, and family teaching.",
+        "It places children and memory of the Exodus at the center of daily instruction."
+      ],
+      "stepIntoTheStory": [
+        "The scene looks from the plains of Moab into future homes in Canaan. Moses describes houses Israel did not build, wells they did not dig, and vineyards they did not plant.",
+        "Parents are told to speak these words in ordinary daily movement: sitting, walking, lying down, and rising.",
+        "A future child asking about the testimonies becomes part of the scene, and the Exodus is retold as the answer."
+      ],
+      "documentaryObservations": [
+        "Parents teaching children in households.",
+        "Words spoken while sitting in the house.",
+        "Words spoken while walking on the road.",
+        "Doorposts and gates named as visible places.",
+        "Future cities and houses in Canaan.",
+        "Wells, vineyards, and olive trees described.",
+        "Children asking about the instructions.",
+        "The Exodus retold inside family life."
+      ],
+      "audioScript": "Deuteronomy 6 brings Moses' speech into the home. Israel is still east of the Jordan, but Moses describes future life in the land: cities, houses, wells, vineyards, and olive trees. The words are to be taught to children in daily settings: sitting in the house, walking on the road, lying down, and rising. The chapter also imagines a child asking why these instructions matter. The answer looks back to the Exodus from Egypt. The scene connects future households in Canaan with the memory of deliverance.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 6:1-25"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-06-ten-words-reviewed",
+        "nextStory": "deuteronomy-08-canaan-nations-warning"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ],
+        "events": [
+          "Shema",
+          "teach children",
+          "remember Exodus",
+          "doorposts"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Instruction to Love Yahweh, Teach Children, and Remember the Exodus"
+        ]
+      },
+      "realitySummary": "Instruction to Love Yahweh, Teach Children, and Remember the Exodus. Moses instructs Israel to love Yahweh, teach the words diligently to children, bind and write them, and remember the Exodus when living in the land."
+    }
+  },
+  {
+    "id": "deuteronomy-08-canaan-nations-warning",
+    "sourceFile": "deuteronomy-08-canaan-nations-warning.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Canaan nations",
+      "altars pillars images",
+      "Deuteronomy 7",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Instructions Concerning Canaan's Nations and Their Objects",
+      "Speech",
+      "Warning",
+      "Land Instruction",
+      "Deuteronomy 7:1-26",
+      "Instructions Concerning Canaan's Nations and Their Objects. Moses warns Israel about the nations in Canaan, intermarriage, images, and objects connected to their worship."
+    ],
+    "title": "Instructions Concerning Canaan's Nations and Their Objects",
+    "reference": "Deuteronomy 7:1-26",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Warning",
+      "Land Instruction"
+    ],
+    "summary": "Instructions Concerning Canaan's Nations and Their Objects. Moses warns Israel about the nations in Canaan, intermarriage, images, and objects connected to their worship.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Instructions Concerning Canaan's Nations and Their Objects",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Instructions Concerning Canaan's Nations and Their Objects",
+    "stepIntoStory": "The speech looks across the Jordan into a populated land. Israel is not entering empty territory.\n\nMoses names nations already in the land and describes physical objects Israel will encounter: altars, pillars, Asherah poles, carved images, silver, and gold.\n\nThe warning is practical and visual because it concerns what the people will see, touch, break, burn, or refuse.",
+    "notice": [
+      "Canaan described as already occupied.",
+      "Seven nations named.",
+      "Altars and pillars to be destroyed.",
+      "Asherah poles and carved images named.",
+      "Silver and gold on images mentioned.",
+      "Marriage alliances warned against.",
+      "Houses and objects in the land anticipated.",
+      "Israel camped just outside the territory."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses instructed Israel to love Yahweh, teach children, and remember the Exodus."
+      },
+      {
+        "label": "Now",
+        "value": "Moses warns Israel about the nations in Canaan, intermarriage, images, and objects connected to their worship."
+      },
+      {
+        "label": "Next",
+        "value": "Moses continues by warning Israel to remember the wilderness and not forget in prosperity."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This prepares Israel for direct contact with Canaan's existing nations.",
+      "It connects land entry with destruction of specific objects and avoidance of alliances.",
+      "It keeps the focus on visible material culture: altars, pillars, poles, carved images, and silver or gold."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 7 prepares Israel for a populated Canaan. Moses names the nations in the land and warns the people about alliances, marriages, and worship objects. The chapter is visually concrete: altars, pillars, Asherah poles, carved images, silver, and gold. Israel is still east of the Jordan, but the speech points to what they will encounter after crossing. The issue is not travel yet; it is preparation for entering a land filled with existing cities, peoples, and objects.",
+    "crossReferences": [
+      "Deuteronomy 7:1-26"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 7:1-26"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-07-love-yahweh-and-teach-children",
+      "nextStory": "deuteronomy-09-wilderness-warning"
+    },
+    "source": {
+      "id": "deuteronomy-08-canaan-nations-warning",
+      "reference": "Deuteronomy 7:1-26",
+      "storyTitle": "Instructions Concerning Canaan's Nations and Their Objects",
+      "eventType": [
+        "Speech",
+        "Warning",
+        "Land Instruction"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses instructed Israel to love Yahweh, teach children, and remember the Exodus.",
+        "whatIsHappeningNow": "Moses warns Israel about the nations in Canaan, intermarriage, images, and objects connected to their worship.",
+        "whatHappensAfter": "Moses continues by warning Israel to remember the wilderness and not forget in prosperity.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Instructions Concerning Canaan's Nations and Their Objects ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This prepares Israel for direct contact with Canaan's existing nations.",
+        "It connects land entry with destruction of specific objects and avoidance of alliances.",
+        "It keeps the focus on visible material culture: altars, pillars, poles, carved images, and silver or gold."
+      ],
+      "stepIntoTheStory": [
+        "The speech looks across the Jordan into a populated land. Israel is not entering empty territory.",
+        "Moses names nations already in the land and describes physical objects Israel will encounter: altars, pillars, Asherah poles, carved images, silver, and gold.",
+        "The warning is practical and visual because it concerns what the people will see, touch, break, burn, or refuse."
+      ],
+      "documentaryObservations": [
+        "Canaan described as already occupied.",
+        "Seven nations named.",
+        "Altars and pillars to be destroyed.",
+        "Asherah poles and carved images named.",
+        "Silver and gold on images mentioned.",
+        "Marriage alliances warned against.",
+        "Houses and objects in the land anticipated.",
+        "Israel camped just outside the territory."
+      ],
+      "audioScript": "Deuteronomy 7 prepares Israel for a populated Canaan. Moses names the nations in the land and warns the people about alliances, marriages, and worship objects. The chapter is visually concrete: altars, pillars, Asherah poles, carved images, silver, and gold. Israel is still east of the Jordan, but the speech points to what they will encounter after crossing. The issue is not travel yet; it is preparation for entering a land filled with existing cities, peoples, and objects.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 7:1-26"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-07-love-yahweh-and-teach-children",
+        "nextStory": "deuteronomy-09-wilderness-warning"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ],
+        "events": [
+          "Canaan nations",
+          "altars pillars images",
+          "Deuteronomy 7"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Instructions Concerning Canaan's Nations and Their Objects"
+        ]
+      },
+      "realitySummary": "Instructions Concerning Canaan's Nations and Their Objects. Moses warns Israel about the nations in Canaan, intermarriage, images, and objects connected to their worship."
+    }
+  },
+  {
+    "id": "deuteronomy-09-wilderness-warning",
+    "sourceFile": "deuteronomy-09-wilderness-warning.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "remember wilderness",
+      "manna",
+      "land abundance",
+      "Deuteronomy 8",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Moses Warns Israel to Remember the Wilderness",
+      "Speech",
+      "Warning",
+      "Historical Memory",
+      "Deuteronomy 8:1-20",
+      "Moses Warns Israel to Remember the Wilderness. Moses tells Israel to remember the wilderness, manna, hunger, clothing, and future prosperity in the land."
+    ],
+    "title": "Moses Warns Israel to Remember the Wilderness",
+    "reference": "Deuteronomy 8:1-20",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Warning",
+      "Historical Memory"
+    ],
+    "summary": "Moses Warns Israel to Remember the Wilderness. Moses tells Israel to remember the wilderness, manna, hunger, clothing, and future prosperity in the land.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Moses Warns Israel to Remember the Wilderness",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Moses Warns Israel to Remember the Wilderness",
+    "stepIntoStory": "The speech moves between two landscapes: wilderness and cultivated land. Moses recalls hunger, manna, walking, clothing, and feet that did not swell.\n\nThen the picture shifts to Canaan: streams, springs, wheat, barley, vines, figs, pomegranates, olive oil, honey, iron, and copper.\n\nThe warning is tied to the change from scarcity to abundance.",
+    "notice": [
+      "Wilderness hunger remembered.",
+      "Manna named as daily food.",
+      "Clothing not wearing out recalled.",
+      "Feet not swelling on the journey.",
+      "Canaan described with water sources.",
+      "Wheat and barley fields anticipated.",
+      "Vines, figs, pomegranates, olives, and honey named.",
+      "Iron and copper resources described.",
+      "Houses and herds increasing in the land."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses warned Israel about Canaan's nations and their objects."
+      },
+      {
+        "label": "Now",
+        "value": "Moses tells Israel to remember the wilderness, manna, hunger, clothing, and future prosperity in the land."
+      },
+      {
+        "label": "Next",
+        "value": "Moses reviews the golden calf and intercession."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This interprets the wilderness years as essential memory for the generation entering the land.",
+      "It contrasts wilderness dependence with future agricultural abundance.",
+      "It names the physical conditions of both desert travel and settled Canaan life."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 8 asks Israel to remember the wilderness before entering a land of abundance. Moses recalls hunger, manna, the long journey, clothing that did not wear out, and feet that did not swell. Then the landscape changes. The land ahead has streams, springs, wheat, barley, vines, figs, pomegranates, olive oil, honey, iron, and copper. The people stand in Moab between two worlds: the wilderness behind them and settled abundance ahead. Moses warns them not to forget this path when life becomes prosperous.",
+    "crossReferences": [
+      "Deuteronomy 8:1-20"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 8:1-20"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-08-canaan-nations-warning",
+      "nextStory": "deuteronomy-10-golden-calf-reviewed"
+    },
+    "source": {
+      "id": "deuteronomy-09-wilderness-warning",
+      "reference": "Deuteronomy 8:1-20",
+      "storyTitle": "Moses Warns Israel to Remember the Wilderness",
+      "eventType": [
+        "Speech",
+        "Warning",
+        "Historical Memory"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses warned Israel about Canaan's nations and their objects.",
+        "whatIsHappeningNow": "Moses tells Israel to remember the wilderness, manna, hunger, clothing, and future prosperity in the land.",
+        "whatHappensAfter": "Moses reviews the golden calf and intercession.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Moses Warns Israel to Remember the Wilderness ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This interprets the wilderness years as essential memory for the generation entering the land.",
+        "It contrasts wilderness dependence with future agricultural abundance.",
+        "It names the physical conditions of both desert travel and settled Canaan life."
+      ],
+      "stepIntoTheStory": [
+        "The speech moves between two landscapes: wilderness and cultivated land. Moses recalls hunger, manna, walking, clothing, and feet that did not swell.",
+        "Then the picture shifts to Canaan: streams, springs, wheat, barley, vines, figs, pomegranates, olive oil, honey, iron, and copper.",
+        "The warning is tied to the change from scarcity to abundance."
+      ],
+      "documentaryObservations": [
+        "Wilderness hunger remembered.",
+        "Manna named as daily food.",
+        "Clothing not wearing out recalled.",
+        "Feet not swelling on the journey.",
+        "Canaan described with water sources.",
+        "Wheat and barley fields anticipated.",
+        "Vines, figs, pomegranates, olives, and honey named.",
+        "Iron and copper resources described.",
+        "Houses and herds increasing in the land."
+      ],
+      "audioScript": "Deuteronomy 8 asks Israel to remember the wilderness before entering a land of abundance. Moses recalls hunger, manna, the long journey, clothing that did not wear out, and feet that did not swell. Then the landscape changes. The land ahead has streams, springs, wheat, barley, vines, figs, pomegranates, olive oil, honey, iron, and copper. The people stand in Moab between two worlds: the wilderness behind them and settled abundance ahead. Moses warns them not to forget this path when life becomes prosperous.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 8:1-20"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-08-canaan-nations-warning",
+        "nextStory": "deuteronomy-10-golden-calf-reviewed"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ],
+        "events": [
+          "remember wilderness",
+          "manna",
+          "land abundance",
+          "Deuteronomy 8"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Moses Warns Israel to Remember the Wilderness"
+        ]
+      },
+      "realitySummary": "Moses Warns Israel to Remember the Wilderness. Moses tells Israel to remember the wilderness, manna, hunger, clothing, and future prosperity in the land."
+    }
+  },
+  {
+    "id": "deuteronomy-10-golden-calf-reviewed",
+    "sourceFile": "deuteronomy-10-golden-calf-reviewed.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Horeb",
+      "golden calf reviewed",
+      "new tablets",
+      "ark",
+      "Levites",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Moses Reviews the Golden Calf, Intercession, and New Tablets",
+      "Speech",
+      "Historical Review",
+      "Rebellion Review",
+      "Intercession",
+      "Deuteronomy 9:1-10:11",
+      "Moses Reviews the Golden Calf, Intercession, and New Tablets. Moses reviews Israel's rebellion at Horeb, the golden calf, his intercession, the new tablets, the ark, and the Levites."
+    ],
+    "title": "Moses Reviews the Golden Calf, Intercession, and New Tablets",
+    "reference": "Deuteronomy 9:1-10:11",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Historical Review",
+      "Rebellion Review",
+      "Intercession"
+    ],
+    "summary": "Moses Reviews the Golden Calf, Intercession, and New Tablets. Moses reviews Israel's rebellion at Horeb, the golden calf, his intercession, the new tablets, the ark, and the Levites.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Moses Reviews the Golden Calf, Intercession, and New Tablets",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Moses Reviews the Golden Calf, Intercession, and New Tablets",
+    "stepIntoStory": "Moses' speech moves back to Horeb, where the golden calf was made while he was on the mountain.\n\nThe scene includes fire on the mountain, stone tablets, the calf, broken tablets, grinding the calf, and Moses falling down before Yahweh.\n\nThe review then moves to new tablets, the ark, the death of Aaron, and the Levites' role.",
+    "notice": [
+      "Horeb remembered as mountain setting.",
+      "Stone tablets carried by Moses.",
+      "The golden calf made in the camp.",
+      "Tablets broken before the people.",
+      "Calf burned, crushed, and thrown into water.",
+      "Moses fasting forty days and nights.",
+      "New tablets cut like the first.",
+      "Ark made to hold the tablets.",
+      "Levites set apart for service."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses warned Israel not to forget Yahweh in the land."
+      },
+      {
+        "label": "Now",
+        "value": "Moses reviews Israel's rebellion at Horeb, the golden calf, his intercession, the new tablets, the ark, and the Levites."
+      },
+      {
+        "label": "Next",
+        "value": "Moses calls Israel to love, obey, and choose blessing."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This replays the golden calf event for the new generation.",
+      "It links the current Moab audience to earlier rebellion at Horeb.",
+      "It reviews Moses' forty-day intercession and the replacement tablets."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      },
+      {
+        "ancientName": "Horeb",
+        "modernRegion": "Sinai / Horeb region; exact location debated",
+        "description": "Mountain setting of the golden calf event in the review"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Horeb"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 9 through 10:11 brings the golden calf story into Moses' final speech. Moses reminds Israel that Horeb was not only a place of covenant but also a place of rebellion. He recalls receiving the stone tablets, seeing the calf, breaking the tablets, grinding the calf, and interceding for the people. Then new tablets are made and placed in the ark. The review also mentions Aaron's death and the Levites being set apart. The scene links the current generation in Moab to the failures and restoration at Horeb.",
+    "crossReferences": [
+      "Deuteronomy 9:1-10:11"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 9:1-10:11"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-09-wilderness-warning",
+      "nextStory": "deuteronomy-11-call-to-circumcise-heart"
+    },
+    "source": {
+      "id": "deuteronomy-10-golden-calf-reviewed",
+      "reference": "Deuteronomy 9:1-10:11",
+      "storyTitle": "Moses Reviews the Golden Calf, Intercession, and New Tablets",
+      "eventType": [
+        "Speech",
+        "Historical Review",
+        "Rebellion Review",
+        "Intercession"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        },
+        {
+          "ancientName": "Horeb",
+          "modernRegion": "Sinai / Horeb region; exact location debated",
+          "description": "Mountain setting of the golden calf event in the review"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses warned Israel not to forget Yahweh in the land.",
+        "whatIsHappeningNow": "Moses reviews Israel's rebellion at Horeb, the golden calf, his intercession, the new tablets, the ark, and the Levites.",
+        "whatHappensAfter": "Moses calls Israel to love, obey, and choose blessing.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Moses Reviews the Golden Calf, Intercession, and New Tablets ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This replays the golden calf event for the new generation.",
+        "It links the current Moab audience to earlier rebellion at Horeb.",
+        "It reviews Moses' forty-day intercession and the replacement tablets."
+      ],
+      "stepIntoTheStory": [
+        "Moses' speech moves back to Horeb, where the golden calf was made while he was on the mountain.",
+        "The scene includes fire on the mountain, stone tablets, the calf, broken tablets, grinding the calf, and Moses falling down before Yahweh.",
+        "The review then moves to new tablets, the ark, the death of Aaron, and the Levites' role."
+      ],
+      "documentaryObservations": [
+        "Horeb remembered as mountain setting.",
+        "Stone tablets carried by Moses.",
+        "The golden calf made in the camp.",
+        "Tablets broken before the people.",
+        "Calf burned, crushed, and thrown into water.",
+        "Moses fasting forty days and nights.",
+        "New tablets cut like the first.",
+        "Ark made to hold the tablets.",
+        "Levites set apart for service."
+      ],
+      "audioScript": "Deuteronomy 9 through 10:11 brings the golden calf story into Moses' final speech. Moses reminds Israel that Horeb was not only a place of covenant but also a place of rebellion. He recalls receiving the stone tablets, seeing the calf, breaking the tablets, grinding the calf, and interceding for the people. Then new tablets are made and placed in the ark. The review also mentions Aaron's death and the Levites being set apart. The scene links the current generation in Moab to the failures and restoration at Horeb.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 9:1-10:11"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-09-wilderness-warning",
+        "nextStory": "deuteronomy-11-call-to-circumcise-heart"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan",
+          "Horeb"
+        ],
+        "events": [
+          "golden calf reviewed",
+          "new tablets",
+          "ark",
+          "Levites"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Moses Reviews the Golden Calf, Intercession, and New Tablets"
+        ]
+      },
+      "realitySummary": "Moses Reviews the Golden Calf, Intercession, and New Tablets. Moses reviews Israel's rebellion at Horeb, the golden calf, his intercession, the new tablets, the ark, and the Levites."
+    }
+  },
+  {
+    "id": "deuteronomy-11-call-to-circumcise-heart",
+    "sourceFile": "deuteronomy-11-call-to-circumcise-heart.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Mount Gerizim",
+      "Mount Ebal",
+      "love obey remember",
+      "Gerizim Ebal",
+      "blessing curse",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Moses Calls Israel to Love, Obey, Remember, and Choose Blessing",
+      "Speech",
+      "Instruction",
+      "Blessing and Curse",
+      "Land Warning",
+      "Deuteronomy 10:12-11:32",
+      "Moses Calls Israel to Love, Obey, Remember, and Choose Blessing. Moses calls Israel to fear, love, serve, remember what they saw, teach children, and choose blessing or curse as they enter the land."
+    ],
+    "title": "Moses Calls Israel to Love, Obey, Remember, and Choose Blessing",
+    "reference": "Deuteronomy 10:12-11:32",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Instruction",
+      "Blessing and Curse",
+      "Land Warning"
+    ],
+    "summary": "Moses Calls Israel to Love, Obey, Remember, and Choose Blessing. Moses calls Israel to fear, love, serve, remember what they saw, teach children, and choose blessing or curse as they enter the land.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Moses Calls Israel to Love, Obey, Remember, and Choose Blessing",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Moses Calls Israel to Love, Obey, Remember, and Choose Blessing",
+    "stepIntoStory": "The scene again looks from Moab into Canaan. Moses describes a land of hills and valleys watered by rain from the sky.\n\nHe tells the people to teach their children and keep the words in visible household rhythms.\n\nThe address ends with blessing and curse placed ahead at Mount Gerizim and Mount Ebal.",
+    "notice": [
+      "Israel camped east of Jordan.",
+      "Children named as future learners.",
+      "Hills and valleys of Canaan described.",
+      "Rain from the heavens contrasted with Egypt's irrigation.",
+      "Grain, wine, and oil anticipated.",
+      "Words tied to hand, forehead, doors, and gates.",
+      "Gerizim and Ebal named ahead in the land.",
+      "Blessing and curse placed before Israel."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses reviewed the golden calf, intercession, new tablets, and Levites."
+      },
+      {
+        "label": "Now",
+        "value": "Moses calls Israel to fear, love, serve, remember what they saw, teach children, and choose blessing or curse as they enter the land."
+      },
+      {
+        "label": "Next",
+        "value": "Moses begins the central instruction about worship at the chosen place."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This concludes the covenant exhortation before the central law section begins.",
+      "It frames the land ahead through rain, hills, valleys, agriculture, and public choice.",
+      "It anticipates Mount Gerizim and Mount Ebal as future ceremony locations."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      },
+      {
+        "ancientName": "Mount Gerizim",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Mountain named for future blessing ceremony"
+      },
+      {
+        "ancientName": "Mount Ebal",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Mountain named for future curse ceremony"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Mount Gerizim",
+      "Mount Ebal"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Moses concludes this part of the address by calling Israel to love, serve, remember, and teach. The land ahead is described as different from Egypt: a land of hills and valleys that drinks rain from the sky. Grain, wine, oil, grass for livestock, and household teaching all come into view. The speech ends with a choice set before the people, with Mount Gerizim and Mount Ebal named as future locations for blessing and curse. The camp in Moab is being prepared for both land and decision.",
+    "crossReferences": [
+      "Deuteronomy 10:12-11:32"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 10:12-11:32"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-10-golden-calf-reviewed",
+      "nextStory": null
+    },
+    "source": {
+      "id": "deuteronomy-11-call-to-circumcise-heart",
+      "reference": "Deuteronomy 10:12-11:32",
+      "storyTitle": "Moses Calls Israel to Love, Obey, Remember, and Choose Blessing",
+      "eventType": [
+        "Speech",
+        "Instruction",
+        "Blessing and Curse",
+        "Land Warning"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        },
+        {
+          "ancientName": "Mount Gerizim",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Mountain named for future blessing ceremony"
+        },
+        {
+          "ancientName": "Mount Ebal",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Mountain named for future curse ceremony"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses reviewed the golden calf, intercession, new tablets, and Levites.",
+        "whatIsHappeningNow": "Moses calls Israel to fear, love, serve, remember what they saw, teach children, and choose blessing or curse as they enter the land.",
+        "whatHappensAfter": "Moses begins the central instruction about worship at the chosen place.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Moses Calls Israel to Love, Obey, Remember, and Choose Blessing ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This concludes the covenant exhortation before the central law section begins.",
+        "It frames the land ahead through rain, hills, valleys, agriculture, and public choice.",
+        "It anticipates Mount Gerizim and Mount Ebal as future ceremony locations."
+      ],
+      "stepIntoTheStory": [
+        "The scene again looks from Moab into Canaan. Moses describes a land of hills and valleys watered by rain from the sky.",
+        "He tells the people to teach their children and keep the words in visible household rhythms.",
+        "The address ends with blessing and curse placed ahead at Mount Gerizim and Mount Ebal."
+      ],
+      "documentaryObservations": [
+        "Israel camped east of Jordan.",
+        "Children named as future learners.",
+        "Hills and valleys of Canaan described.",
+        "Rain from the heavens contrasted with Egypt's irrigation.",
+        "Grain, wine, and oil anticipated.",
+        "Words tied to hand, forehead, doors, and gates.",
+        "Gerizim and Ebal named ahead in the land.",
+        "Blessing and curse placed before Israel."
+      ],
+      "audioScript": "Moses concludes this part of the address by calling Israel to love, serve, remember, and teach. The land ahead is described as different from Egypt: a land of hills and valleys that drinks rain from the sky. Grain, wine, oil, grass for livestock, and household teaching all come into view. The speech ends with a choice set before the people, with Mount Gerizim and Mount Ebal named as future locations for blessing and curse. The camp in Moab is being prepared for both land and decision.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 10:12-11:32"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-10-golden-calf-reviewed",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan",
+          "Mount Gerizim",
+          "Mount Ebal"
+        ],
+        "events": [
+          "love obey remember",
+          "Gerizim Ebal",
+          "blessing curse"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Moses Calls Israel to Love, Obey, Remember, and Choose Blessing"
+        ]
+      },
+      "realitySummary": "Moses Calls Israel to Love, Obey, Remember, and Choose Blessing. Moses calls Israel to fear, love, serve, remember what they saw, teach children, and choose blessing or curse as they enter the land."
+    }
   }
 ]
