@@ -68855,5 +68855,1611 @@
       },
       "realitySummary": "The Tent of Meeting at Shiloh and the Remaining Tribal Allotments. The congregation sets up the Tent of Meeting at Shiloh, surveyors divide the remaining land into written portions, and the remaining tribes receive allotments by lot."
     }
+  },
+  {
+    "id": "joshua-16-cities-of-refuge",
+    "sourceFile": "joshua-16-cities-of-refuge.json",
+    "searchTerms": [
+      "Joshua",
+      "Manslayer",
+      "Avenger of blood",
+      "City elders",
+      "Israelites and sojourners",
+      "Kedesh",
+      "Shechem",
+      "Kiriath-arba / Hebron",
+      "Bezer",
+      "Ramoth in Gilead",
+      "Golan in Bashan",
+      "cities of refuge",
+      "manslayer",
+      "avenger of blood",
+      "Kedesh Shechem Hebron",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 20",
+      "refuge cities appointed",
+      "six cities of refuge",
+      "Instruction Received",
+      "Legal Protection",
+      "City Appointment",
+      "Settlement Planning",
+      "Cities of Refuge Appointed",
+      "Cities of Refuge Appointed. Six cities of refuge are appointed for manslayers who kill unintentionally, with access for Israelites and sojourners."
+    ],
+    "title": "Cities of Refuge Appointed",
+    "reference": "Joshua 20",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Legal Protection",
+      "City Appointment",
+      "Settlement Planning"
+    ],
+    "summary": "Cities of Refuge Appointed. Six cities of refuge are appointed for manslayers who kill unintentionally, with access for Israelites and sojourners.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Canaan and Transjordan"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Legal City Network"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After tribal allotments; before Levitical cities"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "Cities of Refuge Appointed"
+    ],
+    "currentStory": "Cities of Refuge Appointed",
+    "stepIntoStory": "After the land allotments, the story turns to legal geography. Six cities are selected as places of refuge.\n\nA manslayer who kills unintentionally can run to one of these cities. The gate becomes the first legal scene, where elders hear the case.\n\nThe cities are spread across the land and east of the Jordan, creating a network of protection within Israel's new settlement map.",
+    "notice": [
+      "Six refuge cities named.",
+      "Three cities west of the Jordan.",
+      "Three cities east of the Jordan.",
+      "A manslayer fleeing toward a city gate.",
+      "Elders hearing a case at the gate.",
+      "The avenger of blood named as a threat.",
+      "Sojourners included in the protection.",
+      "The high priest's death marking possible return."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "The main tribal allotments were completed at Shiloh."
+      },
+      {
+        "label": "Now",
+        "value": "Six cities of refuge are appointed for manslayers who kill unintentionally, with access for Israelites and sojourners."
+      },
+      {
+        "label": "Next",
+        "value": "Levitical cities are assigned from tribal inheritances."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This implements the refuge city instructions given earlier in Torah."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It creates a legal protection network across both sides of the Jordan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It places justice infrastructure inside the newly allotted land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It prepares directly for the broader Levitical city network."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The refuge cities are distributed across north, central, south, and east-Jordan regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Shechem, Hebron, and Kedesh anchor the west-side network; Bezer, Ramoth, and Golan serve east of the Jordan."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "City gates function as legal entry points where elders hear the fleeing person's case."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Ancient city gates served as public legal spaces."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel distance to refuge cities mattered because the manslayer was fleeing danger."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The system includes both Israelites and sojourners living among them."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The high priest's death becomes a time marker for the manslayer's return."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This turns earlier law into actual city appointments in the land.",
+      "It connects tribal inheritance with legal protection.",
+      "It shows settlement as more than possession of territory; it includes justice structures.",
+      "It leads naturally into the Levitical city assignments."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Carries out instructions concerning cities of refuge",
+        "relationships": []
+      },
+      {
+        "name": "Manslayer",
+        "role": "Person who kills unintentionally and may flee to refuge",
+        "relationships": []
+      },
+      {
+        "name": "Avenger of blood",
+        "role": "Family representative from whom the manslayer seeks protection",
+        "relationships": []
+      },
+      {
+        "name": "City elders",
+        "role": "Hear the case at the city gate",
+        "relationships": []
+      },
+      {
+        "name": "Israelites and sojourners",
+        "role": "People for whom refuge cities are available",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Kedesh",
+        "modernRegion": "Northern Israel / Galilee-Hazor region",
+        "description": "Refuge city in Galilee in Naphtali's hill country"
+      },
+      {
+        "ancientName": "Shechem",
+        "modernRegion": "West Bank / Shechem-Nablus region",
+        "description": "Refuge city in Ephraim's hill country"
+      },
+      {
+        "ancientName": "Kiriath-arba / Hebron",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Refuge city in Judah's hill country"
+      },
+      {
+        "ancientName": "Bezer",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Refuge city east of Jordan"
+      },
+      {
+        "ancientName": "Ramoth in Gilead",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Refuge city east of Jordan"
+      },
+      {
+        "ancientName": "Golan in Bashan",
+        "modernRegion": "Northern Israel / Galilee-Hazor region",
+        "description": "Refuge city east/northeast of Jordan"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Manslayer",
+      "Avenger of blood",
+      "City elders",
+      "Israelites and sojourners"
+    ],
+    "places": [
+      "Kedesh",
+      "Shechem",
+      "Kiriath-arba / Hebron",
+      "Bezer",
+      "Ramoth in Gilead",
+      "Golan in Bashan"
+    ],
+    "movement": [
+      "Yahweh speaks to Joshua about refuge cities",
+      "Cities are appointed west and east of the Jordan",
+      "A manslayer may flee to one of them",
+      "The manslayer states his case at the city gate",
+      "He remains there until trial and until the death of the high priest"
+    ],
+    "movementDetails": {
+      "startingPoint": "Instruction after tribal allotments",
+      "destination": "Six refuge cities across the land",
+      "route": [
+        "Yahweh speaks to Joshua about refuge cities",
+        "Cities are appointed west and east of the Jordan",
+        "A manslayer may flee to one of them",
+        "The manslayer states his case at the city gate",
+        "He remains there until trial and until the death of the high priest"
+      ],
+      "majorStops": [
+        "Kedesh",
+        "Shechem",
+        "Hebron",
+        "Bezer",
+        "Ramoth",
+        "Golan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 20 appoints the cities of refuge. These cities are not battle sites but legal safety points within the land. A person who kills unintentionally can flee to one of them and state his case at the city gate before the elders. The cities are spread across the land: Kedesh, Shechem, Hebron, Bezer, Ramoth in Gilead, and Golan in Bashan. The appointment of these cities turns earlier instructions into a functioning legal network for Israel and the sojourner living among them.",
+    "crossReferences": [
+      "Numbers 35:9-34",
+      "Deuteronomy 19:1-13",
+      "Joshua 18:1-19:51",
+      "Joshua 20:1-9",
+      "Joshua 21:1-45"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 35:9-34",
+        "Deuteronomy 19:1-13",
+        "Joshua 18:1-19:51"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 20:1-9"
+      ],
+      "laterReferences": [
+        "Joshua 21:1-45"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-15-shiloh-and-remaining-allotments",
+      "nextStory": "joshua-17-levitical-cities"
+    },
+    "source": {
+      "id": "joshua-16-cities-of-refuge",
+      "reference": "Joshua 20",
+      "storyTitle": "Cities of Refuge Appointed",
+      "eventType": [
+        "Instruction Received",
+        "Legal Protection",
+        "City Appointment",
+        "Settlement Planning"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Canaan and Transjordan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "manslayer",
+          "avenger of blood",
+          "elders"
+        ],
+        "sceneScale": "Legal City Network",
+        "timeAnchor": "After tribal allotments; before Levitical cities",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Carries out instructions concerning cities of refuge",
+          "relationships": []
+        },
+        {
+          "name": "Manslayer",
+          "role": "Person who kills unintentionally and may flee to refuge",
+          "relationships": []
+        },
+        {
+          "name": "Avenger of blood",
+          "role": "Family representative from whom the manslayer seeks protection",
+          "relationships": []
+        },
+        {
+          "name": "City elders",
+          "role": "Hear the case at the city gate",
+          "relationships": []
+        },
+        {
+          "name": "Israelites and sojourners",
+          "role": "People for whom refuge cities are available",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Kedesh",
+          "modernRegion": "Northern Israel / Galilee-Hazor region",
+          "description": "Refuge city in Galilee in Naphtali's hill country"
+        },
+        {
+          "ancientName": "Shechem",
+          "modernRegion": "West Bank / Shechem-Nablus region",
+          "description": "Refuge city in Ephraim's hill country"
+        },
+        {
+          "ancientName": "Kiriath-arba / Hebron",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Refuge city in Judah's hill country"
+        },
+        {
+          "ancientName": "Bezer",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Refuge city east of Jordan"
+        },
+        {
+          "ancientName": "Ramoth in Gilead",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Refuge city east of Jordan"
+        },
+        {
+          "ancientName": "Golan in Bashan",
+          "modernRegion": "Northern Israel / Galilee-Hazor region",
+          "description": "Refuge city east/northeast of Jordan"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Instruction after tribal allotments",
+        "destination": "Six refuge cities across the land",
+        "route": [
+          "Yahweh speaks to Joshua about refuge cities",
+          "Cities are appointed west and east of the Jordan",
+          "A manslayer may flee to one of them",
+          "The manslayer states his case at the city gate",
+          "He remains there until trial and until the death of the high priest"
+        ],
+        "majorStops": [
+          "Kedesh",
+          "Shechem",
+          "Hebron",
+          "Bezer",
+          "Ramoth",
+          "Golan"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "The main tribal allotments were completed at Shiloh.",
+        "whatIsHappeningNow": "Six cities of refuge are appointed for manslayers who kill unintentionally, with access for Israelites and sojourners.",
+        "whatHappensAfter": "Levitical cities are assigned from tribal inheritances.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "Cities of Refuge Appointed ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This implements the refuge city instructions given earlier in Torah.",
+          "It creates a legal protection network across both sides of the Jordan.",
+          "It places justice infrastructure inside the newly allotted land.",
+          "It prepares directly for the broader Levitical city network."
+        ],
+        "geographicContext": [
+          "The refuge cities are distributed across north, central, south, and east-Jordan regions.",
+          "Shechem, Hebron, and Kedesh anchor the west-side network; Bezer, Ramoth, and Golan serve east of the Jordan.",
+          "City gates function as legal entry points where elders hear the fleeing person's case."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Ancient city gates served as public legal spaces.",
+          "Travel distance to refuge cities mattered because the manslayer was fleeing danger.",
+          "The system includes both Israelites and sojourners living among them.",
+          "The high priest's death becomes a time marker for the manslayer's return."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This turns earlier law into actual city appointments in the land.",
+        "It connects tribal inheritance with legal protection.",
+        "It shows settlement as more than possession of territory; it includes justice structures.",
+        "It leads naturally into the Levitical city assignments."
+      ],
+      "stepIntoTheStory": [
+        "After the land allotments, the story turns to legal geography. Six cities are selected as places of refuge.",
+        "A manslayer who kills unintentionally can run to one of these cities. The gate becomes the first legal scene, where elders hear the case.",
+        "The cities are spread across the land and east of the Jordan, creating a network of protection within Israel's new settlement map."
+      ],
+      "documentaryObservations": [
+        "Six refuge cities named.",
+        "Three cities west of the Jordan.",
+        "Three cities east of the Jordan.",
+        "A manslayer fleeing toward a city gate.",
+        "Elders hearing a case at the gate.",
+        "The avenger of blood named as a threat.",
+        "Sojourners included in the protection.",
+        "The high priest's death marking possible return."
+      ],
+      "audioScript": "Joshua 20 appoints the cities of refuge. These cities are not battle sites but legal safety points within the land. A person who kills unintentionally can flee to one of them and state his case at the city gate before the elders. The cities are spread across the land: Kedesh, Shechem, Hebron, Bezer, Ramoth in Gilead, and Golan in Bashan. The appointment of these cities turns earlier instructions into a functioning legal network for Israel and the sojourner living among them.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 35:9-34",
+          "Deuteronomy 19:1-13",
+          "Joshua 18:1-19:51"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 20:1-9"
+        ],
+        "laterReferences": [
+          "Joshua 21:1-45"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-15-shiloh-and-remaining-allotments",
+        "nextStory": "joshua-17-levitical-cities"
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Manslayer",
+          "Avenger of blood",
+          "City elders",
+          "Israelites and sojourners"
+        ],
+        "places": [
+          "Kedesh",
+          "Shechem",
+          "Kiriath-arba / Hebron",
+          "Bezer",
+          "Ramoth in Gilead",
+          "Golan in Bashan"
+        ],
+        "events": [
+          "cities of refuge",
+          "manslayer",
+          "avenger of blood",
+          "Kedesh Shechem Hebron"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 20",
+          "refuge cities appointed",
+          "six cities of refuge"
+        ]
+      },
+      "realitySummary": "Cities of Refuge Appointed. Six cities of refuge are appointed for manslayers who kill unintentionally, with access for Israelites and sojourners."
+    }
+  },
+  {
+    "id": "joshua-17-levitical-cities",
+    "sourceFile": "joshua-17-levitical-cities.json",
+    "searchTerms": [
+      "Levites",
+      "Eleazar",
+      "Joshua",
+      "Heads of fathers' houses",
+      "Kohathites, Gershonites, and Merarites",
+      "Shiloh",
+      "Tribal territories",
+      "Hebron",
+      "Shechem",
+      "Golan",
+      "Pasturelands",
+      "Levitical cities",
+      "Levites receive cities",
+      "pasturelands",
+      "Kohath Gershon Merari",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 21",
+      "cities for Levites",
+      "Levite city allotment",
+      "Land Allocation",
+      "Levitical Cities",
+      "Settlement",
+      "Fulfillment Summary",
+      "The Levites Receive Cities Among the Tribes",
+      "The Levites Receive Cities Among the Tribes. The Levites receive cities and pasturelands from the tribal inheritances, and the chapter closes with a summary of Yahweh giving Israel the land and rest."
+    ],
+    "title": "The Levites Receive Cities Among the Tribes",
+    "reference": "Joshua 21",
+    "kicker": "Study",
+    "eventType": [
+      "Land Allocation",
+      "Levitical Cities",
+      "Settlement",
+      "Fulfillment Summary"
+    ],
+    "summary": "The Levites Receive Cities Among the Tribes. The Levites receive cities and pasturelands from the tribal inheritances, and the chapter closes with a summary of Yahweh giving Israel the land and rest.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Levites"
+      },
+      {
+        "label": "Location",
+        "value": "Shiloh and tribal territories"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Levitical City Distribution"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After refuge cities; before eastern tribes return"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "The Levites Receive Cities Among the Tribes"
+    ],
+    "currentStory": "The Levites Receive Cities Among the Tribes",
+    "stepIntoStory": "The Levite family heads approach Eleazar, Joshua, and the tribal leaders. Their request concerns cities, not a single territory.\n\nCities are then given from the inheritances of the tribes. The Levites are distributed throughout the land in clan groups.\n\nThe chapter's final summary steps back from the lists: Israel has received land, rest, and settlement according to the narrative's land-distribution frame.",
+    "notice": [
+      "Levite leaders approaching Eleazar and Joshua.",
+      "Cities assigned from each tribal territory.",
+      "Pasturelands attached to cities.",
+      "Kohathites, Gershonites, and Merarites receiving city groups.",
+      "Refuge cities also functioning as Levitical cities.",
+      "Levites spread across Israel rather than concentrated in one region.",
+      "Tribal inheritances contributing cities.",
+      "A closing summary of land and rest."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Six cities of refuge were appointed across the land."
+      },
+      {
+        "label": "Now",
+        "value": "The Levites receive cities and pasturelands from the tribal inheritances, and the chapter closes with a summary of Yahweh giving Israel the land and rest."
+      },
+      {
+        "label": "Next",
+        "value": "The eastern tribes are released to return to their land beyond the Jordan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This completes the land distribution system by placing Levites throughout Israel."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It fulfills the earlier instruction that Levites receive cities rather than one tribal territory."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It connects refuge cities and Levitical cities because several cities serve both roles."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It closes the land allotment section with a summary of possession and rest."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Levitical cities are spread among the tribal territories rather than concentrated in one region."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Pasturelands around the cities provide space for animals and local support."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The distribution creates a network of Levite presence across Israel's settlement map."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Levites need places to live and pasturelands for livestock, despite not receiving a tribal land block."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The assignment is handled publicly through leaders and lots."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "City distribution reflects a settled society with towns, boundaries, and surrounding land use."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the final major land-allocation chapter in Joshua.",
+      "It shows how the Levites fit into the inheritance structure.",
+      "It provides a closure statement after the land allotments.",
+      "It prepares for the eastern tribes to be sent home."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Levites",
+        "role": "Receive cities and pasturelands from the tribal inheritances",
+        "relationships": []
+      },
+      {
+        "name": "Eleazar",
+        "role": "Priest involved in the distribution",
+        "relationships": []
+      },
+      {
+        "name": "Joshua",
+        "role": "Participates in assigning cities",
+        "relationships": []
+      },
+      {
+        "name": "Heads of fathers' houses",
+        "role": "Represent Levite families",
+        "relationships": []
+      },
+      {
+        "name": "Kohathites, Gershonites, and Merarites",
+        "role": "Levite clan divisions receiving cities",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Shiloh",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Central assembly location for land distribution"
+      },
+      {
+        "ancientName": "Tribal territories",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Regions from which cities are given"
+      },
+      {
+        "ancientName": "Hebron",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Levitical/refuge city in Judah"
+      },
+      {
+        "ancientName": "Shechem",
+        "modernRegion": "West Bank / Shechem-Nablus region",
+        "description": "Levitical/refuge city in Ephraim"
+      },
+      {
+        "ancientName": "Golan",
+        "modernRegion": "Northern Israel / Galilee-Hazor region",
+        "description": "Levitical/refuge city in Bashan"
+      },
+      {
+        "ancientName": "Pasturelands",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Lands surrounding Levitical cities"
+      }
+    ],
+    "people": [
+      "Levites",
+      "Eleazar",
+      "Joshua",
+      "Heads of fathers' houses",
+      "Kohathites, Gershonites, and Merarites"
+    ],
+    "places": [
+      "Shiloh",
+      "Tribal territories",
+      "Hebron",
+      "Shechem",
+      "Golan",
+      "Pasturelands"
+    ],
+    "movement": [
+      "Levite heads request cities according to earlier command",
+      "Cities are assigned by lot from tribal inheritances",
+      "Kohathites, Gershonites, and Merarites receive cities",
+      "Pasturelands are attached to the cities",
+      "The chapter ends with a summary of rest and possession"
+    ],
+    "movementDetails": {
+      "startingPoint": "Levites come to Eleazar, Joshua, and tribal heads",
+      "destination": "Levitical cities throughout Israel",
+      "route": [
+        "Levite heads request cities according to earlier command",
+        "Cities are assigned by lot from tribal inheritances",
+        "Kohathites, Gershonites, and Merarites receive cities",
+        "Pasturelands are attached to the cities",
+        "The chapter ends with a summary of rest and possession"
+      ],
+      "majorStops": [
+        "Shiloh",
+        "Judah's territory",
+        "Ephraim's territory",
+        "Bashan",
+        "Gilead",
+        "tribal cities"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 21 records the Levitical cities. The Levites do not receive a single tribal territory, so their family heads come to Eleazar, Joshua, and the leaders to receive cities and pasturelands from the other tribes. Cities are assigned by lot to the Kohathites, Gershonites, and Merarites. Several cities are also refuge cities. This distribution places Levites throughout Israel's territories. The chapter ends by summarizing that Israel received land, rest, and possession in the narrative's settlement frame.",
+    "crossReferences": [
+      "Numbers 35:1-8",
+      "Joshua 20:1-9",
+      "Joshua 21:1-45",
+      "Joshua 22:1-34",
+      "1 Chronicles 6:54-81"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 35:1-8",
+        "Joshua 20:1-9"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 21:1-45"
+      ],
+      "laterReferences": [
+        "Joshua 22:1-34",
+        "1 Chronicles 6:54-81"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Levites",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-16-cities-of-refuge",
+      "nextStory": "joshua-18-eastern-tribes-altar"
+    },
+    "source": {
+      "id": "joshua-17-levitical-cities",
+      "reference": "Joshua 21",
+      "storyTitle": "The Levites Receive Cities Among the Tribes",
+      "eventType": [
+        "Land Allocation",
+        "Levitical Cities",
+        "Settlement",
+        "Fulfillment Summary"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Levites",
+        "approximateAge": null,
+        "currentLocation": "Shiloh and tribal territories",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "Eleazar",
+          "Joshua",
+          "tribal heads",
+          "Levite clans"
+        ],
+        "sceneScale": "Levitical City Distribution",
+        "timeAnchor": "After refuge cities; before eastern tribes return",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Levites",
+          "role": "Receive cities and pasturelands from the tribal inheritances",
+          "relationships": []
+        },
+        {
+          "name": "Eleazar",
+          "role": "Priest involved in the distribution",
+          "relationships": []
+        },
+        {
+          "name": "Joshua",
+          "role": "Participates in assigning cities",
+          "relationships": []
+        },
+        {
+          "name": "Heads of fathers' houses",
+          "role": "Represent Levite families",
+          "relationships": []
+        },
+        {
+          "name": "Kohathites, Gershonites, and Merarites",
+          "role": "Levite clan divisions receiving cities",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Shiloh",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Central assembly location for land distribution"
+        },
+        {
+          "ancientName": "Tribal territories",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Regions from which cities are given"
+        },
+        {
+          "ancientName": "Hebron",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Levitical/refuge city in Judah"
+        },
+        {
+          "ancientName": "Shechem",
+          "modernRegion": "West Bank / Shechem-Nablus region",
+          "description": "Levitical/refuge city in Ephraim"
+        },
+        {
+          "ancientName": "Golan",
+          "modernRegion": "Northern Israel / Galilee-Hazor region",
+          "description": "Levitical/refuge city in Bashan"
+        },
+        {
+          "ancientName": "Pasturelands",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Lands surrounding Levitical cities"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Levites come to Eleazar, Joshua, and tribal heads",
+        "destination": "Levitical cities throughout Israel",
+        "route": [
+          "Levite heads request cities according to earlier command",
+          "Cities are assigned by lot from tribal inheritances",
+          "Kohathites, Gershonites, and Merarites receive cities",
+          "Pasturelands are attached to the cities",
+          "The chapter ends with a summary of rest and possession"
+        ],
+        "majorStops": [
+          "Shiloh",
+          "Judah's territory",
+          "Ephraim's territory",
+          "Bashan",
+          "Gilead",
+          "tribal cities"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Six cities of refuge were appointed across the land.",
+        "whatIsHappeningNow": "The Levites receive cities and pasturelands from the tribal inheritances, and the chapter closes with a summary of Yahweh giving Israel the land and rest.",
+        "whatHappensAfter": "The eastern tribes are released to return to their land beyond the Jordan.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "The Levites Receive Cities Among the Tribes ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This completes the land distribution system by placing Levites throughout Israel.",
+          "It fulfills the earlier instruction that Levites receive cities rather than one tribal territory.",
+          "It connects refuge cities and Levitical cities because several cities serve both roles.",
+          "It closes the land allotment section with a summary of possession and rest."
+        ],
+        "geographicContext": [
+          "Levitical cities are spread among the tribal territories rather than concentrated in one region.",
+          "Pasturelands around the cities provide space for animals and local support.",
+          "The distribution creates a network of Levite presence across Israel's settlement map."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Levites need places to live and pasturelands for livestock, despite not receiving a tribal land block.",
+          "The assignment is handled publicly through leaders and lots.",
+          "City distribution reflects a settled society with towns, boundaries, and surrounding land use."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the final major land-allocation chapter in Joshua.",
+        "It shows how the Levites fit into the inheritance structure.",
+        "It provides a closure statement after the land allotments.",
+        "It prepares for the eastern tribes to be sent home."
+      ],
+      "stepIntoTheStory": [
+        "The Levite family heads approach Eleazar, Joshua, and the tribal leaders. Their request concerns cities, not a single territory.",
+        "Cities are then given from the inheritances of the tribes. The Levites are distributed throughout the land in clan groups.",
+        "The chapter's final summary steps back from the lists: Israel has received land, rest, and settlement according to the narrative's land-distribution frame."
+      ],
+      "documentaryObservations": [
+        "Levite leaders approaching Eleazar and Joshua.",
+        "Cities assigned from each tribal territory.",
+        "Pasturelands attached to cities.",
+        "Kohathites, Gershonites, and Merarites receiving city groups.",
+        "Refuge cities also functioning as Levitical cities.",
+        "Levites spread across Israel rather than concentrated in one region.",
+        "Tribal inheritances contributing cities.",
+        "A closing summary of land and rest."
+      ],
+      "audioScript": "Joshua 21 records the Levitical cities. The Levites do not receive a single tribal territory, so their family heads come to Eleazar, Joshua, and the leaders to receive cities and pasturelands from the other tribes. Cities are assigned by lot to the Kohathites, Gershonites, and Merarites. Several cities are also refuge cities. This distribution places Levites throughout Israel's territories. The chapter ends by summarizing that Israel received land, rest, and possession in the narrative's settlement frame.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 35:1-8",
+          "Joshua 20:1-9"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 21:1-45"
+        ],
+        "laterReferences": [
+          "Joshua 22:1-34",
+          "1 Chronicles 6:54-81"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Levites",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-16-cities-of-refuge",
+        "nextStory": "joshua-18-eastern-tribes-altar"
+      },
+      "search": {
+        "people": [
+          "Levites",
+          "Eleazar",
+          "Joshua",
+          "Heads of fathers' houses",
+          "Kohathites, Gershonites, and Merarites"
+        ],
+        "places": [
+          "Shiloh",
+          "Tribal territories",
+          "Hebron",
+          "Shechem",
+          "Golan",
+          "Pasturelands"
+        ],
+        "events": [
+          "Levitical cities",
+          "Levites receive cities",
+          "pasturelands",
+          "Kohath Gershon Merari"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 21",
+          "cities for Levites",
+          "Levite city allotment"
+        ]
+      },
+      "realitySummary": "The Levites Receive Cities Among the Tribes. The Levites receive cities and pasturelands from the tribal inheritances, and the chapter closes with a summary of Yahweh giving Israel the land and rest."
+    }
+  },
+  {
+    "id": "joshua-18-eastern-tribes-altar",
+    "sourceFile": "joshua-18-eastern-tribes-altar.json",
+    "searchTerms": [
+      "Joshua",
+      "Reubenites, Gadites, and half-tribe of Manasseh",
+      "Phinehas",
+      "Ten chiefs",
+      "Western congregation",
+      "Shiloh",
+      "Jordan River",
+      "Gilead",
+      "Eastern tribal lands",
+      "eastern tribes return",
+      "altar by Jordan",
+      "Phinehas delegation",
+      "Reuben Gad Manasseh",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 22",
+      "altar of witness",
+      "eastern tribes altar",
+      "Return",
+      "Tribal Conflict",
+      "Altar",
+      "Negotiation",
+      "Resolution",
+      "The Eastern Tribes Return and Build an Altar by the Jordan",
+      "The Eastern Tribes Return and Build an Altar by the Jordan. Joshua releases the eastern tribes, they build a large altar near the Jordan, the western tribes investigate, and the altar is explained as a witness rather than a rival altar."
+    ],
+    "title": "The Eastern Tribes Return and Build an Altar by the Jordan",
+    "reference": "Joshua 22",
+    "kicker": "Study",
+    "eventType": [
+      "Return",
+      "Tribal Conflict",
+      "Altar",
+      "Negotiation",
+      "Resolution"
+    ],
+    "summary": "The Eastern Tribes Return and Build an Altar by the Jordan. Joshua releases the eastern tribes, they build a large altar near the Jordan, the western tribes investigate, and the altar is explained as a witness rather than a rival altar.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Jordan River region and eastern tribal lands"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan River Valley / Israel-Jordan border region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Intertribal Crisis and Resolution"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Levitical cities; before Joshua's farewell"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "The Eastern Tribes Return and Build an Altar by the Jordan"
+    ],
+    "currentStory": "The Eastern Tribes Return and Build an Altar by the Jordan",
+    "stepIntoStory": "The eastern tribes have fought west of the Jordan and are now released. They begin the return to their lands beyond the river with wealth, livestock, and goods.\n\nNear the Jordan, they build a large altar. When the western tribes hear of it, the whole congregation gathers at Shiloh and prepares to confront the matter.\n\nPhinehas and tribal chiefs cross to investigate. The eastern tribes explain the altar as a witness between generations, and the crisis ends without battle.",
+    "notice": [
+      "Eastern fighting men released to return home.",
+      "Livestock, silver, gold, bronze, iron, and clothing carried east.",
+      "A large altar built near the Jordan.",
+      "Western tribes gathering at Shiloh.",
+      "Phinehas leading an investigative delegation.",
+      "Ten chiefs representing western tribes.",
+      "The Jordan as a visible tribal boundary.",
+      "Speeches exchanged before conflict begins.",
+      "The altar named as a witness."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Levites received cities and pasturelands, completing the main land distribution."
+      },
+      {
+        "label": "Now",
+        "value": "Joshua releases the eastern tribes, they build a large altar near the Jordan, the western tribes investigate, and the altar is explained as a witness rather than a rival altar."
+      },
+      {
+        "label": "Next",
+        "value": "Joshua addresses Israel's leaders in his farewell speech."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This resolves the obligation made by the eastern tribes before the Jordan crossing."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It shows the Jordan as both boundary and potential source of tribal division."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It presents a major intertribal conflict handled through investigation before war."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It explains the altar as a witness marker in the narrative."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Jordan River separates the eastern tribal lands from the main western settlements."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Shiloh is the western assembly point where concern about the altar gathers."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Gilead and the lands east of the Jordan are the destination for Reuben, Gad, and half-Manasseh."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A large altar near a boundary river would be highly visible and potentially controversial."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Tribal delegations could prevent war by investigation and speech."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The eastern tribes return with livestock, silver, gold, bronze, iron, and clothing from the campaigns."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This closes the eastern tribes' campaign obligation that began before crossing the Jordan.",
+      "It prevents a civil conflict before Joshua's farewell.",
+      "It shows the fragility of unity between tribes separated by the Jordan.",
+      "It transitions from land distribution to final covenant speeches."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Releases the eastern tribes to return home",
+        "relationships": []
+      },
+      {
+        "name": "Reubenites, Gadites, and half-tribe of Manasseh",
+        "role": "Return east of Jordan after helping the other tribes",
+        "relationships": []
+      },
+      {
+        "name": "Phinehas",
+        "role": "Leads delegation to investigate the altar",
+        "relationships": [
+          "Son of Eleazar"
+        ]
+      },
+      {
+        "name": "Ten chiefs",
+        "role": "Represent western tribes in the delegation",
+        "relationships": []
+      },
+      {
+        "name": "Western congregation",
+        "role": "Prepares for possible conflict after hearing of the altar",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Shiloh",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Assembly location where the western tribes gather"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+        "description": "Boundary where the altar is built"
+      },
+      {
+        "ancientName": "Gilead",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Eastern region associated with Reuben, Gad, and half-Manasseh"
+      },
+      {
+        "ancientName": "Eastern tribal lands",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Inheritance lands beyond the Jordan"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Reubenites, Gadites, and half-tribe of Manasseh",
+      "Phinehas",
+      "Ten chiefs",
+      "Western congregation"
+    ],
+    "places": [
+      "Shiloh",
+      "Jordan River",
+      "Gilead",
+      "Eastern tribal lands"
+    ],
+    "movement": [
+      "Joshua releases the eastern tribes",
+      "They depart with wealth and livestock",
+      "They build a large altar near the Jordan",
+      "Western tribes hear and gather at Shiloh",
+      "Phinehas and chiefs investigate",
+      "Eastern tribes explain the altar as a witness",
+      "The conflict is resolved and the tribes return"
+    ],
+    "movementDetails": {
+      "startingPoint": "Shiloh / western land after allotments",
+      "destination": "Eastern tribal territories beyond the Jordan",
+      "route": [
+        "Joshua releases the eastern tribes",
+        "They depart with wealth and livestock",
+        "They build a large altar near the Jordan",
+        "Western tribes hear and gather at Shiloh",
+        "Phinehas and chiefs investigate",
+        "Eastern tribes explain the altar as a witness",
+        "The conflict is resolved and the tribes return"
+      ],
+      "majorStops": [
+        "Shiloh",
+        "Jordan River",
+        "altar site",
+        "Gilead",
+        "eastern lands"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 22 sends the eastern tribes home. Reuben, Gad, and half the tribe of Manasseh have crossed the Jordan and fought with the other tribes. Joshua releases them, and they return east with livestock, metals, clothing, and goods. Near the Jordan, they build a large altar. The western tribes hear about it and gather at Shiloh, ready for confrontation. Phinehas and ten chiefs investigate. The eastern tribes explain that the altar is a witness between them and the western tribes, not a rival altar. The crisis ends without civil war.",
+    "crossReferences": [
+      "Numbers 32:16-32",
+      "Joshua 1:12-18",
+      "Joshua 21:1-45",
+      "Joshua 22:1-34",
+      "Joshua 23:1-16"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 32:16-32",
+        "Joshua 1:12-18",
+        "Joshua 21:1-45"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 22:1-34"
+      ],
+      "laterReferences": [
+        "Joshua 23:1-16"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-17-levitical-cities",
+      "nextStory": null
+    },
+    "source": {
+      "id": "joshua-18-eastern-tribes-altar",
+      "reference": "Joshua 22",
+      "storyTitle": "The Eastern Tribes Return and Build an Altar by the Jordan",
+      "eventType": [
+        "Return",
+        "Tribal Conflict",
+        "Altar",
+        "Negotiation",
+        "Resolution"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Jordan River region and eastern tribal lands",
+        "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "Reuben",
+          "Gad",
+          "half-tribe of Manasseh",
+          "Phinehas",
+          "western tribes"
+        ],
+        "sceneScale": "Intertribal Crisis and Resolution",
+        "timeAnchor": "After Levitical cities; before Joshua's farewell",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Releases the eastern tribes to return home",
+          "relationships": []
+        },
+        {
+          "name": "Reubenites, Gadites, and half-tribe of Manasseh",
+          "role": "Return east of Jordan after helping the other tribes",
+          "relationships": []
+        },
+        {
+          "name": "Phinehas",
+          "role": "Leads delegation to investigate the altar",
+          "relationships": [
+            "Son of Eleazar"
+          ]
+        },
+        {
+          "name": "Ten chiefs",
+          "role": "Represent western tribes in the delegation",
+          "relationships": []
+        },
+        {
+          "name": "Western congregation",
+          "role": "Prepares for possible conflict after hearing of the altar",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Shiloh",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Assembly location where the western tribes gather"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+          "description": "Boundary where the altar is built"
+        },
+        {
+          "ancientName": "Gilead",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Eastern region associated with Reuben, Gad, and half-Manasseh"
+        },
+        {
+          "ancientName": "Eastern tribal lands",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Inheritance lands beyond the Jordan"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Shiloh / western land after allotments",
+        "destination": "Eastern tribal territories beyond the Jordan",
+        "route": [
+          "Joshua releases the eastern tribes",
+          "They depart with wealth and livestock",
+          "They build a large altar near the Jordan",
+          "Western tribes hear and gather at Shiloh",
+          "Phinehas and chiefs investigate",
+          "Eastern tribes explain the altar as a witness",
+          "The conflict is resolved and the tribes return"
+        ],
+        "majorStops": [
+          "Shiloh",
+          "Jordan River",
+          "altar site",
+          "Gilead",
+          "eastern lands"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Levites received cities and pasturelands, completing the main land distribution.",
+        "whatIsHappeningNow": "Joshua releases the eastern tribes, they build a large altar near the Jordan, the western tribes investigate, and the altar is explained as a witness rather than a rival altar.",
+        "whatHappensAfter": "Joshua addresses Israel's leaders in his farewell speech.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "The Eastern Tribes Return and Build an Altar by the Jordan ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This resolves the obligation made by the eastern tribes before the Jordan crossing.",
+          "It shows the Jordan as both boundary and potential source of tribal division.",
+          "It presents a major intertribal conflict handled through investigation before war.",
+          "It explains the altar as a witness marker in the narrative."
+        ],
+        "geographicContext": [
+          "The Jordan River separates the eastern tribal lands from the main western settlements.",
+          "Shiloh is the western assembly point where concern about the altar gathers.",
+          "Gilead and the lands east of the Jordan are the destination for Reuben, Gad, and half-Manasseh."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "A large altar near a boundary river would be highly visible and potentially controversial.",
+          "Tribal delegations could prevent war by investigation and speech.",
+          "The eastern tribes return with livestock, silver, gold, bronze, iron, and clothing from the campaigns."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This closes the eastern tribes' campaign obligation that began before crossing the Jordan.",
+        "It prevents a civil conflict before Joshua's farewell.",
+        "It shows the fragility of unity between tribes separated by the Jordan.",
+        "It transitions from land distribution to final covenant speeches."
+      ],
+      "stepIntoTheStory": [
+        "The eastern tribes have fought west of the Jordan and are now released. They begin the return to their lands beyond the river with wealth, livestock, and goods.",
+        "Near the Jordan, they build a large altar. When the western tribes hear of it, the whole congregation gathers at Shiloh and prepares to confront the matter.",
+        "Phinehas and tribal chiefs cross to investigate. The eastern tribes explain the altar as a witness between generations, and the crisis ends without battle."
+      ],
+      "documentaryObservations": [
+        "Eastern fighting men released to return home.",
+        "Livestock, silver, gold, bronze, iron, and clothing carried east.",
+        "A large altar built near the Jordan.",
+        "Western tribes gathering at Shiloh.",
+        "Phinehas leading an investigative delegation.",
+        "Ten chiefs representing western tribes.",
+        "The Jordan as a visible tribal boundary.",
+        "Speeches exchanged before conflict begins.",
+        "The altar named as a witness."
+      ],
+      "audioScript": "Joshua 22 sends the eastern tribes home. Reuben, Gad, and half the tribe of Manasseh have crossed the Jordan and fought with the other tribes. Joshua releases them, and they return east with livestock, metals, clothing, and goods. Near the Jordan, they build a large altar. The western tribes hear about it and gather at Shiloh, ready for confrontation. Phinehas and ten chiefs investigate. The eastern tribes explain that the altar is a witness between them and the western tribes, not a rival altar. The crisis ends without civil war.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 32:16-32",
+          "Joshua 1:12-18",
+          "Joshua 21:1-45"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 22:1-34"
+        ],
+        "laterReferences": [
+          "Joshua 23:1-16"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-17-levitical-cities",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Reubenites, Gadites, and half-tribe of Manasseh",
+          "Phinehas",
+          "Ten chiefs",
+          "Western congregation"
+        ],
+        "places": [
+          "Shiloh",
+          "Jordan River",
+          "Gilead",
+          "Eastern tribal lands"
+        ],
+        "events": [
+          "eastern tribes return",
+          "altar by Jordan",
+          "Phinehas delegation",
+          "Reuben Gad Manasseh"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 22",
+          "altar of witness",
+          "eastern tribes altar"
+        ]
+      },
+      "realitySummary": "The Eastern Tribes Return and Build an Altar by the Jordan. Joshua releases the eastern tribes, they build a large altar near the Jordan, the western tribes investigate, and the altar is explained as a witness rather than a rival altar."
+    }
   }
 ]
