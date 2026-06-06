@@ -2,15 +2,42 @@ import fs from "node:fs";
 import path from "node:path";
 
 const root = process.cwd();
-const attachmentPath = process.argv[2];
+const inputPath = process.argv[2];
 
-if (!attachmentPath) {
-  throw new Error("Pass the pasted-text attachment path as the first argument.");
+if (!inputPath) {
+  throw new Error("Pass a pasted-text attachment, JSON file, or folder of JSON files as the first argument.");
 }
 
-const input = fs.readFileSync(attachmentPath, "utf8");
 const targetPath = path.join(root, "data", "realityProfiles.json");
 const existing = JSON.parse(fs.readFileSync(targetPath, "utf8"));
+
+function readProfileInputs(sourcePath) {
+  const resolved = path.resolve(sourcePath);
+  const stat = fs.statSync(resolved);
+
+  if (stat.isDirectory()) {
+    return fs.readdirSync(resolved)
+      .filter((fileName) => fileName.endsWith(".json"))
+      .sort()
+      .map((fileName) => ({
+        fileName,
+        jsonText: fs.readFileSync(path.join(resolved, fileName), "utf8")
+      }));
+  }
+
+  const input = fs.readFileSync(resolved, "utf8");
+  const sourceFileName = path.basename(resolved);
+
+  if (sourceFileName.endsWith(".json")) {
+    return [{ fileName: sourceFileName, jsonText: input }];
+  }
+
+  const blocks = [...input.matchAll(/FILE:\s*([^\r\n]+)\s*([\s\S]*?)(?=\nFILE:|\s*$)/g)];
+  return blocks.map(([, fileName, jsonText]) => ({
+    fileName: fileName.trim(),
+    jsonText
+  }));
+}
 
 function cleanMarker(value) {
   return String(value || "")
@@ -130,8 +157,7 @@ function normalize(raw, sourceFile) {
   };
 }
 
-const blocks = [...input.matchAll(/FILE:\s*([^\r\n]+)\s*([\s\S]*?)(?=\nFILE:|\s*$)/g)];
-const imported = blocks.map(([, fileName, jsonText]) => normalize(JSON.parse(jsonText), fileName.trim()));
+const imported = readProfileInputs(inputPath).map(({ fileName, jsonText }) => normalize(JSON.parse(jsonText), fileName));
 
 const byId = new Map(existing.map((profile) => [profile.id, profile]));
 for (const profile of imported) {
