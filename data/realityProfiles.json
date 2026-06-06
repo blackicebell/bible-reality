@@ -24502,5 +24502,3789 @@
       },
       "realitySummary": "Leviticus 6:8-7:38 gives priestly procedures for the offerings, including altar fire, ash removal, priestly portions, holy food, and restrictions on fat and blood."
     }
+  },
+  {
+    "id": "leviticus-07-ordination-of-aaron-and-sons",
+    "sourceFile": "leviticus-07-ordination-of-aaron-and-sons.json",
+    "searchTerms": [
+      "Moses",
+      "Aaron",
+      "Nadab",
+      "Abihu",
+      "Eleazar",
+      "Ithamar",
+      "Congregation of Israel",
+      "Tent of Meeting",
+      "Entrance of the Tent of Meeting",
+      "Altar",
+      "Basin",
+      "congregation",
+      "Tabernacle",
+      "altar",
+      "Sinai",
+      "ordination of Aaron",
+      "ordination of priests",
+      "priestly garments",
+      "anointing oil",
+      "Wilderness",
+      "Aaron ordained",
+      "Leviticus priestly ordination",
+      "ordination ceremony",
+      "Ordination",
+      "Worship Activity",
+      "Assembly",
+      "Instruction Carried Out",
+      "Aaron and His Sons Are Ordained",
+      "Leviticus 8",
+      "Leviticus 8 narrates the public ordination of Aaron and his sons at the entrance of the Tent of Meeting, including washing, garments, anointing, offerings, and a seven-day stay."
+    ],
+    "title": "Aaron and His Sons Are Ordained",
+    "reference": "Leviticus 8",
+    "kicker": "Study",
+    "eventType": [
+      "Ordination",
+      "Worship Activity",
+      "Assembly",
+      "Instruction Carried Out"
+    ],
+    "summary": "Leviticus 8 narrates the public ordination of Aaron and his sons at the entrance of the Tent of Meeting, including washing, garments, anointing, offerings, and a seven-day stay.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Aaron"
+      },
+      {
+        "label": "Location",
+        "value": "Entrance of the Tent of Meeting"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Assembly at the Tabernacle"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After offering procedures; after Tabernacle is set up; before first priestly service; before Israel leaves Sinai"
+      }
+    ],
+    "situation": "Priestly garments include special clothing and items already described in Exodus.",
+    "storyPosition": [
+      "Tabernacle Built",
+      "Offering Instructions",
+      "Priestly Procedures",
+      "Aaron and Sons Ordained",
+      "First Priestly Service",
+      "Nadab and Abihu"
+    ],
+    "currentStory": "Aaron and Sons Ordained",
+    "stepIntoStory": "The camp gathers at the entrance of the Tent of Meeting. The completed Tabernacle stands in view, with the altar and courtyard forming the center of the scene.\n\nMoses brings Aaron and his sons forward. They are washed, clothed in priestly garments, and anointed. The activity is public, visible, and carefully ordered.\n\nAnimals are brought for the ordination offerings. Blood is applied, portions are placed on the altar, and Aaron and his sons remain at the entrance for seven days.",
+    "notice": [
+      "The congregation gathered at the sanctuary entrance.",
+      "Aaron and his sons standing before the people.",
+      "Washing at the Tabernacle area.",
+      "Priestly garments placed piece by piece.",
+      "Anointing oil applied to Tabernacle objects and priests.",
+      "A bull and rams brought for offerings.",
+      "Blood applied to Aaron and his sons.",
+      "Offerings burned on the altar.",
+      "Aaron and his sons remaining at the entrance for seven days."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 6:8-7:38 gave priestly procedures for the offerings."
+      },
+      {
+        "label": "Now",
+        "value": "Moses gathers the congregation, washes Aaron and his sons, clothes them in priestly garments, anoints the Tabernacle and altar, offers ordination sacrifices, and instructs Aaron and his sons to remain at the entrance for seven days."
+      },
+      {
+        "label": "Next",
+        "value": "On the eighth day, Aaron begins priestly service and offerings are presented for Aaron and the people."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the first major narrative scene in Leviticus after the offering instructions."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Aaron and his sons were named for priestly service in Exodus and Leviticus; this chapter narrates their ordination."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle is already completed and functioning as the setting."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The first priestly service has not yet occurred."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Israel remains camped at Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The event occurs at the entrance of the Tent of Meeting inside the camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Tabernacle courtyard, altar, and basin are the visible ritual spaces."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priestly garments include special clothing and items already described in Exodus."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Washing, anointing oil, blood application, and offerings are part of the ordination process."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The entire congregation is gathered, making the event public rather than private."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Aaron and his sons remain at the entrance for seven days."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This formally installs Aaron and his sons into priestly service.",
+      "It moves Leviticus from instruction blocks into public action at the Tabernacle.",
+      "It prepares for the first priestly service in Leviticus 9.",
+      "It places the congregation as witnesses to the priestly ordination."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Conducts the ordination according to the command given",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Ordained for priestly service",
+        "relationships": [
+          "Brother of Moses",
+          "father of Aaron's sons"
+        ]
+      },
+      {
+        "name": "Nadab",
+        "role": "Son of Aaron ordained with his brothers",
+        "relationships": [
+          "Son of Aaron"
+        ]
+      },
+      {
+        "name": "Abihu",
+        "role": "Son of Aaron ordained with his brothers",
+        "relationships": [
+          "Son of Aaron"
+        ]
+      },
+      {
+        "name": "Eleazar",
+        "role": "Son of Aaron ordained with his brothers",
+        "relationships": [
+          "Son of Aaron"
+        ]
+      },
+      {
+        "name": "Ithamar",
+        "role": "Son of Aaron ordained with his brothers",
+        "relationships": [
+          "Son of Aaron"
+        ]
+      },
+      {
+        "name": "Congregation of Israel",
+        "role": "Gathered at the entrance of the Tent of Meeting",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Portable sanctuary in the Israelite camp"
+      },
+      {
+        "ancientName": "Entrance of the Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Assembly point for the ordination"
+      },
+      {
+        "ancientName": "Altar",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place where ordination sacrifices are offered"
+      },
+      {
+        "ancientName": "Basin",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place associated with washing"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Aaron",
+      "Nadab",
+      "Abihu",
+      "Eleazar",
+      "Ithamar",
+      "Congregation of Israel"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Entrance of the Tent of Meeting",
+      "Altar",
+      "Basin"
+    ],
+    "movement": [
+      "The congregation gathers at the entrance",
+      "Aaron and his sons are washed",
+      "Priestly garments are placed on Aaron and his sons",
+      "Anointing oil is applied",
+      "Ordination offerings are presented",
+      "Aaron and his sons remain at the entrance seven days"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp",
+      "destination": "Entrance of the Tent of Meeting",
+      "route": [
+        "The congregation gathers at the entrance",
+        "Aaron and his sons are washed",
+        "Priestly garments are placed on Aaron and his sons",
+        "Anointing oil is applied",
+        "Ordination offerings are presented",
+        "Aaron and his sons remain at the entrance seven days"
+      ],
+      "majorStops": [
+        "Israelite camp",
+        "Entrance of Tent of Meeting",
+        "Altar"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 8 brings the offering instructions into public action. The congregation gathers at the entrance of the Tent of Meeting, where Moses brings Aaron and his sons forward. They are washed, dressed in priestly garments, and anointed. The Tabernacle, altar, and priestly family are all part of the visible scene. Animals are brought for the ordination offerings, blood is applied, and portions are burned on the altar. Aaron and his sons are instructed to remain at the entrance for seven days. This chapter installs the priestly family before the first priestly service begins.",
+    "crossReferences": [
+      "Exodus 28:1-43",
+      "Exodus 29:1-37",
+      "Leviticus 6:8-7:38",
+      "Leviticus 8:1-36",
+      "Leviticus 9:1-24",
+      "Numbers 3:1-4"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Exodus 28:1-43",
+        "Exodus 29:1-37",
+        "Leviticus 6:8-7:38"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 8:1-36"
+      ],
+      "laterReferences": [
+        "Leviticus 9:1-24",
+        "Numbers 3:1-4"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Aaron",
+      "arc": "Priestly Service at the Tabernacle",
+      "previousStory": "leviticus-06-priestly-offering-procedures",
+      "nextStory": "leviticus-08-first-priestly-service"
+    },
+    "source": {
+      "id": "leviticus-07-ordination-of-aaron-and-sons",
+      "reference": "Leviticus 8",
+      "storyTitle": "Aaron and His Sons Are Ordained",
+      "eventType": [
+        "Ordination",
+        "Worship Activity",
+        "Assembly",
+        "Instruction Carried Out"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Aaron",
+        "approximateAge": null,
+        "currentLocation": "Entrance of the Tent of Meeting",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Aaron's sons",
+          "congregation of Israel"
+        ],
+        "sceneScale": "National Assembly at the Tabernacle",
+        "timeAnchor": "After offering procedures; after Tabernacle is set up; before first priestly service; before Israel leaves Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Conducts the ordination according to the command given",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Ordained for priestly service",
+          "relationships": [
+            "Brother of Moses",
+            "father of Aaron's sons"
+          ]
+        },
+        {
+          "name": "Nadab",
+          "role": "Son of Aaron ordained with his brothers",
+          "relationships": [
+            "Son of Aaron"
+          ]
+        },
+        {
+          "name": "Abihu",
+          "role": "Son of Aaron ordained with his brothers",
+          "relationships": [
+            "Son of Aaron"
+          ]
+        },
+        {
+          "name": "Eleazar",
+          "role": "Son of Aaron ordained with his brothers",
+          "relationships": [
+            "Son of Aaron"
+          ]
+        },
+        {
+          "name": "Ithamar",
+          "role": "Son of Aaron ordained with his brothers",
+          "relationships": [
+            "Son of Aaron"
+          ]
+        },
+        {
+          "name": "Congregation of Israel",
+          "role": "Gathered at the entrance of the Tent of Meeting",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Portable sanctuary in the Israelite camp"
+        },
+        {
+          "ancientName": "Entrance of the Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Assembly point for the ordination"
+        },
+        {
+          "ancientName": "Altar",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place where ordination sacrifices are offered"
+        },
+        {
+          "ancientName": "Basin",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place associated with washing"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp",
+        "destination": "Entrance of the Tent of Meeting",
+        "route": [
+          "The congregation gathers at the entrance",
+          "Aaron and his sons are washed",
+          "Priestly garments are placed on Aaron and his sons",
+          "Anointing oil is applied",
+          "Ordination offerings are presented",
+          "Aaron and his sons remain at the entrance seven days"
+        ],
+        "majorStops": [
+          "Israelite camp",
+          "Entrance of Tent of Meeting",
+          "Altar"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 6:8-7:38 gave priestly procedures for the offerings.",
+        "whatIsHappeningNow": "Moses gathers the congregation, washes Aaron and his sons, clothes them in priestly garments, anoints the Tabernacle and altar, offers ordination sacrifices, and instructs Aaron and his sons to remain at the entrance for seven days.",
+        "whatHappensAfter": "On the eighth day, Aaron begins priestly service and offerings are presented for Aaron and the people.",
+        "storyPositionStrip": [
+          "Tabernacle Built",
+          "Offering Instructions",
+          "Priestly Procedures",
+          "Aaron and Sons Ordained ← YOU ARE HERE",
+          "First Priestly Service",
+          "Nadab and Abihu"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This is the first major narrative scene in Leviticus after the offering instructions.",
+          "Aaron and his sons were named for priestly service in Exodus and Leviticus; this chapter narrates their ordination.",
+          "The Tabernacle is already completed and functioning as the setting.",
+          "The first priestly service has not yet occurred."
+        ],
+        "geographicContext": [
+          "Israel remains camped at Sinai.",
+          "The event occurs at the entrance of the Tent of Meeting inside the camp.",
+          "The Tabernacle courtyard, altar, and basin are the visible ritual spaces."
+        ],
+        "dailyLifeContext": [
+          "Priestly garments include special clothing and items already described in Exodus.",
+          "Washing, anointing oil, blood application, and offerings are part of the ordination process.",
+          "The entire congregation is gathered, making the event public rather than private.",
+          "Aaron and his sons remain at the entrance for seven days."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This formally installs Aaron and his sons into priestly service.",
+        "It moves Leviticus from instruction blocks into public action at the Tabernacle.",
+        "It prepares for the first priestly service in Leviticus 9.",
+        "It places the congregation as witnesses to the priestly ordination."
+      ],
+      "stepIntoTheStory": [
+        "The camp gathers at the entrance of the Tent of Meeting. The completed Tabernacle stands in view, with the altar and courtyard forming the center of the scene.",
+        "Moses brings Aaron and his sons forward. They are washed, clothed in priestly garments, and anointed. The activity is public, visible, and carefully ordered.",
+        "Animals are brought for the ordination offerings. Blood is applied, portions are placed on the altar, and Aaron and his sons remain at the entrance for seven days."
+      ],
+      "documentaryObservations": [
+        "The congregation gathered at the sanctuary entrance.",
+        "Aaron and his sons standing before the people.",
+        "Washing at the Tabernacle area.",
+        "Priestly garments placed piece by piece.",
+        "Anointing oil applied to Tabernacle objects and priests.",
+        "A bull and rams brought for offerings.",
+        "Blood applied to Aaron and his sons.",
+        "Offerings burned on the altar.",
+        "Aaron and his sons remaining at the entrance for seven days."
+      ],
+      "audioScript": "Leviticus 8 brings the offering instructions into public action. The congregation gathers at the entrance of the Tent of Meeting, where Moses brings Aaron and his sons forward. They are washed, dressed in priestly garments, and anointed. The Tabernacle, altar, and priestly family are all part of the visible scene. Animals are brought for the ordination offerings, blood is applied, and portions are burned on the altar. Aaron and his sons are instructed to remain at the entrance for seven days. This chapter installs the priestly family before the first priestly service begins.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Exodus 28:1-43",
+          "Exodus 29:1-37",
+          "Leviticus 6:8-7:38"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 8:1-36"
+        ],
+        "laterReferences": [
+          "Leviticus 9:1-24",
+          "Numbers 3:1-4"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Aaron",
+        "arc": "Priestly Service at the Tabernacle",
+        "previousStory": "leviticus-06-priestly-offering-procedures",
+        "nextStory": "leviticus-08-first-priestly-service"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Aaron",
+          "Nadab",
+          "Abihu",
+          "Eleazar",
+          "Ithamar",
+          "congregation"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "Tabernacle",
+          "altar",
+          "Sinai"
+        ],
+        "events": [
+          "ordination of Aaron",
+          "ordination of priests",
+          "priestly garments",
+          "anointing oil"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Aaron ordained",
+          "Leviticus priestly ordination",
+          "ordination ceremony"
+        ]
+      },
+      "realitySummary": "Leviticus 8 narrates the public ordination of Aaron and his sons at the entrance of the Tent of Meeting, including washing, garments, anointing, offerings, and a seven-day stay."
+    }
+  },
+  {
+    "id": "leviticus-08-first-priestly-service",
+    "sourceFile": "leviticus-08-first-priestly-service.json",
+    "searchTerms": [
+      "Moses",
+      "Aaron",
+      "Aaron's sons",
+      "Elders of Israel",
+      "Congregation of Israel",
+      "Tent of Meeting",
+      "Altar",
+      "elders",
+      "congregation",
+      "Tabernacle",
+      "altar",
+      "Sinai",
+      "first priestly service",
+      "Aaron offers sacrifices",
+      "fire consumes offering",
+      "Wilderness",
+      "Aaron's first offering",
+      "eighth day service",
+      "Leviticus 9",
+      "Priestly Service",
+      "Offering",
+      "Assembly",
+      "Worship Activity",
+      "Aaron Begins His Priestly Service",
+      "Leviticus 9 records Aaron's first priestly service after ordination, with offerings presented for Aaron and the people and fire consuming the offering on the altar."
+    ],
+    "title": "Aaron Begins His Priestly Service",
+    "reference": "Leviticus 9",
+    "kicker": "Study",
+    "eventType": [
+      "Priestly Service",
+      "Offering",
+      "Assembly",
+      "Worship Activity"
+    ],
+    "summary": "Leviticus 9 records Aaron's first priestly service after ordination, with offerings presented for Aaron and the people and fire consuming the offering on the altar.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Aaron"
+      },
+      {
+        "label": "Location",
+        "value": "Tent of Meeting at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Worship Assembly"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Aaron's ordination; before Nadab and Abihu; before Israel leaves Sinai"
+      }
+    ],
+    "situation": "Animals are brought for sin offerings, burnt offerings, peace offerings, and grain offerings.",
+    "storyPosition": [
+      "Priestly Ordination",
+      "First Priestly Service",
+      "Nadab and Abihu",
+      "Clean and Unclean Animals",
+      "Purification Instructions"
+    ],
+    "currentStory": "First Priestly Service",
+    "stepIntoStory": "The eighth day begins with the congregation gathered at the Tent of Meeting. Aaron, newly ordained, stands with his sons and begins the work described in the earlier offering instructions.\n\nAnimals are brought to the altar. Aaron offers for himself first, then for the people. His sons bring blood to him as the ritual work continues.\n\nMoses and Aaron enter the Tent of Meeting and come out. Then fire comes out before the people and consumes the burnt offering and fat on the altar.",
+    "notice": [
+      "Elders and congregation gathered at the Tent of Meeting.",
+      "Aaron standing at the altar for the first recorded service.",
+      "Animals brought for multiple offerings.",
+      "Aaron's sons carrying blood to him.",
+      "Blood applied to the altar.",
+      "Fat and animal portions placed on the altar.",
+      "Moses and Aaron entering and exiting the Tent.",
+      "Fire coming out and consuming the offering.",
+      "The people falling on their faces."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Aaron and his sons were ordained and remained at the entrance of the Tent of Meeting for seven days."
+      },
+      {
+        "label": "Now",
+        "value": "On the eighth day, Aaron begins priestly service by offering sacrifices for himself and for the people. Fire comes out and consumes the offering on the altar."
+      },
+      {
+        "label": "Next",
+        "value": "Nadab and Abihu offer unauthorized fire and die before Yahweh."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This occurs immediately after the seven-day ordination period."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Aaron now performs priestly duties in front of the people."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The offerings listed earlier in Leviticus are now carried out in narrative form."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Nadab and Abihu appear in the next chapter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The event occurs at the Tabernacle in Israel's Sinai camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The altar in the courtyard is the center of the visible action."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The congregation gathers at the sanctuary entrance."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Animals are brought for sin offerings, burnt offerings, peace offerings, and grain offerings."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests handle blood, fat, animal parts, and altar fire."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The event is public and involves the whole congregation."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The eighth day follows the seven-day ordination period."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is Aaron's first recorded priestly service after ordination.",
+      "It shows the offering system being performed publicly for the people.",
+      "It links the instructions of Leviticus 1-7 with actual priestly activity.",
+      "It leads directly into the Nadab and Abihu incident."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Instructs Aaron, his sons, and the elders",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Performs offerings for himself and the people",
+        "relationships": []
+      },
+      {
+        "name": "Aaron's sons",
+        "role": "Assist with blood and offering procedures",
+        "relationships": [
+          "Sons of Aaron"
+        ]
+      },
+      {
+        "name": "Elders of Israel",
+        "role": "Summoned by Moses",
+        "relationships": []
+      },
+      {
+        "name": "Congregation of Israel",
+        "role": "Stands before Yahweh at the Tent of Meeting",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary where the congregation gathers"
+      },
+      {
+        "ancientName": "Altar",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place where Aaron performs the offerings"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Aaron",
+      "Aaron's sons",
+      "Elders of Israel",
+      "Congregation of Israel"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Altar"
+    ],
+    "movement": [
+      "Moses summons Aaron, his sons, and the elders",
+      "Offerings are brought before the Tent of Meeting",
+      "The congregation draws near",
+      "Aaron offers sacrifices for himself",
+      "Aaron offers sacrifices for the people",
+      "Moses and Aaron enter and come out of the Tent of Meeting",
+      "Fire comes out and consumes the offering"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp",
+      "destination": "Tabernacle courtyard",
+      "route": [
+        "Moses summons Aaron, his sons, and the elders",
+        "Offerings are brought before the Tent of Meeting",
+        "The congregation draws near",
+        "Aaron offers sacrifices for himself",
+        "Aaron offers sacrifices for the people",
+        "Moses and Aaron enter and come out of the Tent of Meeting",
+        "Fire comes out and consumes the offering"
+      ],
+      "majorStops": [
+        "Israelite camp",
+        "Entrance of Tent of Meeting",
+        "Altar"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 9 opens on the eighth day after the ordination of Aaron and his sons. Moses summons Aaron, his sons, and the elders of Israel. The congregation gathers before the Tent of Meeting, and the offerings are brought forward. Aaron begins his priestly service at the altar. He offers for himself and then for the people, while his sons assist with the blood. Moses and Aaron enter the Tent of Meeting and come out again. Then fire comes out before the people and consumes the offering on the altar. The congregation sees it and falls on their faces.",
+    "crossReferences": [
+      "Leviticus 8:1-36",
+      "Leviticus 9:1-24",
+      "Leviticus 10:1-20"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 8:1-36"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 9:1-24"
+      ],
+      "laterReferences": [
+        "Leviticus 10:1-20"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Aaron",
+      "arc": "Priestly Service at the Tabernacle",
+      "previousStory": "leviticus-07-ordination-of-aaron-and-sons",
+      "nextStory": "leviticus-09-nadab-abihu"
+    },
+    "source": {
+      "id": "leviticus-08-first-priestly-service",
+      "reference": "Leviticus 9",
+      "storyTitle": "Aaron Begins His Priestly Service",
+      "eventType": [
+        "Priestly Service",
+        "Offering",
+        "Assembly",
+        "Worship Activity"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Aaron",
+        "approximateAge": null,
+        "currentLocation": "Tent of Meeting at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Aaron's sons",
+          "elders of Israel",
+          "congregation"
+        ],
+        "sceneScale": "National Worship Assembly",
+        "timeAnchor": "After Aaron's ordination; before Nadab and Abihu; before Israel leaves Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Instructs Aaron, his sons, and the elders",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Performs offerings for himself and the people",
+          "relationships": []
+        },
+        {
+          "name": "Aaron's sons",
+          "role": "Assist with blood and offering procedures",
+          "relationships": [
+            "Sons of Aaron"
+          ]
+        },
+        {
+          "name": "Elders of Israel",
+          "role": "Summoned by Moses",
+          "relationships": []
+        },
+        {
+          "name": "Congregation of Israel",
+          "role": "Stands before Yahweh at the Tent of Meeting",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary where the congregation gathers"
+        },
+        {
+          "ancientName": "Altar",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place where Aaron performs the offerings"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp",
+        "destination": "Tabernacle courtyard",
+        "route": [
+          "Moses summons Aaron, his sons, and the elders",
+          "Offerings are brought before the Tent of Meeting",
+          "The congregation draws near",
+          "Aaron offers sacrifices for himself",
+          "Aaron offers sacrifices for the people",
+          "Moses and Aaron enter and come out of the Tent of Meeting",
+          "Fire comes out and consumes the offering"
+        ],
+        "majorStops": [
+          "Israelite camp",
+          "Entrance of Tent of Meeting",
+          "Altar"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Aaron and his sons were ordained and remained at the entrance of the Tent of Meeting for seven days.",
+        "whatIsHappeningNow": "On the eighth day, Aaron begins priestly service by offering sacrifices for himself and for the people. Fire comes out and consumes the offering on the altar.",
+        "whatHappensAfter": "Nadab and Abihu offer unauthorized fire and die before Yahweh.",
+        "storyPositionStrip": [
+          "Priestly Ordination",
+          "First Priestly Service ← YOU ARE HERE",
+          "Nadab and Abihu",
+          "Clean and Unclean Animals",
+          "Purification Instructions"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This occurs immediately after the seven-day ordination period.",
+          "Aaron now performs priestly duties in front of the people.",
+          "The offerings listed earlier in Leviticus are now carried out in narrative form.",
+          "Nadab and Abihu appear in the next chapter."
+        ],
+        "geographicContext": [
+          "The event occurs at the Tabernacle in Israel's Sinai camp.",
+          "The altar in the courtyard is the center of the visible action.",
+          "The congregation gathers at the sanctuary entrance."
+        ],
+        "dailyLifeContext": [
+          "Animals are brought for sin offerings, burnt offerings, peace offerings, and grain offerings.",
+          "Priests handle blood, fat, animal parts, and altar fire.",
+          "The event is public and involves the whole congregation.",
+          "The eighth day follows the seven-day ordination period."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is Aaron's first recorded priestly service after ordination.",
+        "It shows the offering system being performed publicly for the people.",
+        "It links the instructions of Leviticus 1-7 with actual priestly activity.",
+        "It leads directly into the Nadab and Abihu incident."
+      ],
+      "stepIntoTheStory": [
+        "The eighth day begins with the congregation gathered at the Tent of Meeting. Aaron, newly ordained, stands with his sons and begins the work described in the earlier offering instructions.",
+        "Animals are brought to the altar. Aaron offers for himself first, then for the people. His sons bring blood to him as the ritual work continues.",
+        "Moses and Aaron enter the Tent of Meeting and come out. Then fire comes out before the people and consumes the burnt offering and fat on the altar."
+      ],
+      "documentaryObservations": [
+        "Elders and congregation gathered at the Tent of Meeting.",
+        "Aaron standing at the altar for the first recorded service.",
+        "Animals brought for multiple offerings.",
+        "Aaron's sons carrying blood to him.",
+        "Blood applied to the altar.",
+        "Fat and animal portions placed on the altar.",
+        "Moses and Aaron entering and exiting the Tent.",
+        "Fire coming out and consuming the offering.",
+        "The people falling on their faces."
+      ],
+      "audioScript": "Leviticus 9 opens on the eighth day after the ordination of Aaron and his sons. Moses summons Aaron, his sons, and the elders of Israel. The congregation gathers before the Tent of Meeting, and the offerings are brought forward. Aaron begins his priestly service at the altar. He offers for himself and then for the people, while his sons assist with the blood. Moses and Aaron enter the Tent of Meeting and come out again. Then fire comes out before the people and consumes the offering on the altar. The congregation sees it and falls on their faces.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 8:1-36"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 9:1-24"
+        ],
+        "laterReferences": [
+          "Leviticus 10:1-20"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Aaron",
+        "arc": "Priestly Service at the Tabernacle",
+        "previousStory": "leviticus-07-ordination-of-aaron-and-sons",
+        "nextStory": "leviticus-09-nadab-abihu"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Aaron",
+          "Aaron's sons",
+          "elders",
+          "congregation"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "Tabernacle",
+          "altar",
+          "Sinai"
+        ],
+        "events": [
+          "first priestly service",
+          "Aaron offers sacrifices",
+          "fire consumes offering"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Aaron's first offering",
+          "eighth day service",
+          "Leviticus 9"
+        ]
+      },
+      "realitySummary": "Leviticus 9 records Aaron's first priestly service after ordination, with offerings presented for Aaron and the people and fire consuming the offering on the altar."
+    }
+  },
+  {
+    "id": "leviticus-09-nadab-abihu",
+    "sourceFile": "leviticus-09-nadab-abihu.json",
+    "searchTerms": [
+      "Nadab",
+      "Abihu",
+      "Aaron",
+      "Moses",
+      "Eleazar",
+      "Ithamar",
+      "Mishael",
+      "Elzaphan",
+      "Tent of Meeting",
+      "Before Yahweh",
+      "Outside the camp",
+      "Tabernacle",
+      "outside the camp",
+      "Sinai",
+      "Nadab and Abihu",
+      "unauthorized fire",
+      "death of Aaron's sons",
+      "Wilderness",
+      "strange fire",
+      "Nadab and Abihu die",
+      "Leviticus 10",
+      "Priestly Failure",
+      "Death",
+      "Instruction Received",
+      "Family Event",
+      "Nadab and Abihu Die Before Yahweh",
+      "Leviticus 10 records Nadab and Abihu offering unauthorized fire and dying before Yahweh, followed by their removal outside the camp and instructions to Aaron and his surviving sons."
+    ],
+    "title": "Nadab and Abihu Die Before Yahweh",
+    "reference": "Leviticus 10",
+    "kicker": "Study",
+    "eventType": [
+      "Priestly Failure",
+      "Death",
+      "Instruction Received",
+      "Family Event"
+    ],
+    "summary": "Leviticus 10 records Nadab and Abihu offering unauthorized fire and dying before Yahweh, followed by their removal outside the camp and instructions to Aaron and his surviving sons.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Nadab and Abihu"
+      },
+      {
+        "label": "Location",
+        "value": "Tent of Meeting at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Priestly Family Crisis"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After first priestly service; before clean and unclean animal instructions; before Israel leaves Sinai"
+      }
+    ],
+    "situation": "Firepans were priestly objects used in incense or fire-related service.",
+    "storyPosition": [
+      "Aaron Ordained",
+      "First Priestly Service",
+      "Nadab and Abihu",
+      "Clean and Unclean Animals",
+      "Purification Instructions"
+    ],
+    "currentStory": "Nadab and Abihu",
+    "stepIntoStory": "The scene follows directly after the public fire that consumed the offering in Leviticus 9. The Tabernacle area is still the center of attention.\n\nNadab and Abihu each take a firepan and bring unauthorized fire before Yahweh. Fire comes out, and both men die in the sanctuary setting.\n\nMoses calls relatives to carry them away. Their bodies are taken from before the sanctuary to outside the camp, while Aaron and his remaining sons receive instructions.",
+    "notice": [
+      "Two priests holding firepans.",
+      "Unauthorized fire brought before Yahweh.",
+      "Fire coming out in the sanctuary setting.",
+      "Nadab and Abihu dead before the Tent of Meeting.",
+      "Relatives called forward to remove the bodies.",
+      "Bodies carried outside the camp.",
+      "Aaron and surviving sons remaining in priestly garments.",
+      "The congregation still around the Tabernacle area.",
+      "Instructions given immediately after the deaths."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Aaron performed his first priestly service, and fire came out to consume the offering on the altar."
+      },
+      {
+        "label": "Now",
+        "value": "Nadab and Abihu offer unauthorized fire and die. Their bodies are carried outside the camp, and instructions are given to Aaron and his remaining sons."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus moves into instructions concerning clean and unclean animals."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This event occurs immediately after the first priestly service."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Nadab and Abihu are sons of Aaron and were included in the ordination of Leviticus 8."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Eleazar and Ithamar remain as Aaron's surviving sons in the priestly line."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event interrupts the opening sequence of Tabernacle service."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The event occurs at the Tabernacle in the Sinai camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Bodies are carried from the sanctuary area to outside the camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The movement crosses from the holy service area to the camp boundary."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Firepans were priestly objects used in incense or fire-related service."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priestly garments and mourning restrictions are part of the instructions that follow."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Relatives are called to remove the bodies."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The camp has an inside/outside structure that matters in priestly procedure."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the first death recorded in the priestly service narrative.",
+      "It changes Aaron's family line by leaving Eleazar and Ithamar as the surviving priestly sons.",
+      "It introduces instructions about priestly conduct immediately after the Tabernacle service begins.",
+      "It marks a major interruption between the first priestly service and the purity instructions that follow."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Nadab",
+        "role": "Son of Aaron who offers unauthorized fire and dies",
+        "relationships": [
+          "Son of Aaron",
+          "brother of Abihu, Eleazar, and Ithamar"
+        ]
+      },
+      {
+        "name": "Abihu",
+        "role": "Son of Aaron who offers unauthorized fire and dies",
+        "relationships": [
+          "Son of Aaron",
+          "brother of Nadab, Eleazar, and Ithamar"
+        ]
+      },
+      {
+        "name": "Aaron",
+        "role": "Father of Nadab and Abihu; remains in priestly setting",
+        "relationships": [
+          "Father of Nadab, Abihu, Eleazar, and Ithamar"
+        ]
+      },
+      {
+        "name": "Moses",
+        "role": "Gives instructions after the deaths",
+        "relationships": []
+      },
+      {
+        "name": "Eleazar",
+        "role": "Surviving son of Aaron",
+        "relationships": [
+          "Son of Aaron"
+        ]
+      },
+      {
+        "name": "Ithamar",
+        "role": "Surviving son of Aaron",
+        "relationships": [
+          "Son of Aaron"
+        ]
+      },
+      {
+        "name": "Mishael",
+        "role": "Relative called to carry the bodies away",
+        "relationships": []
+      },
+      {
+        "name": "Elzaphan",
+        "role": "Relative called to carry the bodies away",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary where the event occurs"
+      },
+      {
+        "ancientName": "Before Yahweh",
+        "modernRegion": "Tabernacle setting",
+        "description": "Location of the fire and deaths"
+      },
+      {
+        "ancientName": "Outside the camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where the bodies are carried"
+      }
+    ],
+    "people": [
+      "Nadab",
+      "Abihu",
+      "Aaron",
+      "Moses",
+      "Eleazar",
+      "Ithamar",
+      "Mishael",
+      "Elzaphan"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Before Yahweh",
+      "Outside the camp"
+    ],
+    "movement": [
+      "Nadab and Abihu each take a firepan",
+      "They offer unauthorized fire",
+      "Fire comes out and they die",
+      "Mishael and Elzaphan carry them outside the camp",
+      "Moses gives instructions to Aaron and surviving sons"
+    ],
+    "movementDetails": {
+      "startingPoint": "Tabernacle area",
+      "destination": "Outside the camp",
+      "route": [
+        "Nadab and Abihu each take a firepan",
+        "They offer unauthorized fire",
+        "Fire comes out and they die",
+        "Mishael and Elzaphan carry them outside the camp",
+        "Moses gives instructions to Aaron and surviving sons"
+      ],
+      "majorStops": [
+        "Tent of Meeting",
+        "Tabernacle area",
+        "Outside the camp"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 10 follows immediately after Aaron's first priestly service. Nadab and Abihu, two sons of Aaron, each take a firepan and bring unauthorized fire before Yahweh. Fire comes out, and both men die before the sanctuary. Moses calls Mishael and Elzaphan, relatives of Aaron, to carry the bodies away from the front of the holy place to outside the camp. Aaron remains silent. The chapter then focuses on instructions for Aaron and his surviving sons, Eleazar and Ithamar, as priestly service continues after the family crisis.",
+    "crossReferences": [
+      "Leviticus 8:1-36",
+      "Leviticus 9:1-24",
+      "Leviticus 10:1-20",
+      "Numbers 3:1-4",
+      "Numbers 26:60-61"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 8:1-36",
+        "Leviticus 9:1-24"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 10:1-20"
+      ],
+      "laterReferences": [
+        "Numbers 3:1-4",
+        "Numbers 26:60-61"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Aaron",
+      "arc": "Priestly Service at the Tabernacle",
+      "previousStory": "leviticus-08-first-priestly-service",
+      "nextStory": "leviticus-10-clean-and-unclean-animals"
+    },
+    "source": {
+      "id": "leviticus-09-nadab-abihu",
+      "reference": "Leviticus 10",
+      "storyTitle": "Nadab and Abihu Die Before Yahweh",
+      "eventType": [
+        "Priestly Failure",
+        "Death",
+        "Instruction Received",
+        "Family Event"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Nadab and Abihu",
+        "approximateAge": null,
+        "currentLocation": "Tent of Meeting at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Aaron",
+          "Moses",
+          "Eleazar",
+          "Ithamar",
+          "Mishael",
+          "Elzaphan"
+        ],
+        "sceneScale": "Priestly Family Crisis",
+        "timeAnchor": "After first priestly service; before clean and unclean animal instructions; before Israel leaves Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Nadab",
+          "role": "Son of Aaron who offers unauthorized fire and dies",
+          "relationships": [
+            "Son of Aaron",
+            "brother of Abihu, Eleazar, and Ithamar"
+          ]
+        },
+        {
+          "name": "Abihu",
+          "role": "Son of Aaron who offers unauthorized fire and dies",
+          "relationships": [
+            "Son of Aaron",
+            "brother of Nadab, Eleazar, and Ithamar"
+          ]
+        },
+        {
+          "name": "Aaron",
+          "role": "Father of Nadab and Abihu; remains in priestly setting",
+          "relationships": [
+            "Father of Nadab, Abihu, Eleazar, and Ithamar"
+          ]
+        },
+        {
+          "name": "Moses",
+          "role": "Gives instructions after the deaths",
+          "relationships": []
+        },
+        {
+          "name": "Eleazar",
+          "role": "Surviving son of Aaron",
+          "relationships": [
+            "Son of Aaron"
+          ]
+        },
+        {
+          "name": "Ithamar",
+          "role": "Surviving son of Aaron",
+          "relationships": [
+            "Son of Aaron"
+          ]
+        },
+        {
+          "name": "Mishael",
+          "role": "Relative called to carry the bodies away",
+          "relationships": []
+        },
+        {
+          "name": "Elzaphan",
+          "role": "Relative called to carry the bodies away",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary where the event occurs"
+        },
+        {
+          "ancientName": "Before Yahweh",
+          "modernRegion": "Tabernacle setting",
+          "description": "Location of the fire and deaths"
+        },
+        {
+          "ancientName": "Outside the camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where the bodies are carried"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Tabernacle area",
+        "destination": "Outside the camp",
+        "route": [
+          "Nadab and Abihu each take a firepan",
+          "They offer unauthorized fire",
+          "Fire comes out and they die",
+          "Mishael and Elzaphan carry them outside the camp",
+          "Moses gives instructions to Aaron and surviving sons"
+        ],
+        "majorStops": [
+          "Tent of Meeting",
+          "Tabernacle area",
+          "Outside the camp"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Aaron performed his first priestly service, and fire came out to consume the offering on the altar.",
+        "whatIsHappeningNow": "Nadab and Abihu offer unauthorized fire and die. Their bodies are carried outside the camp, and instructions are given to Aaron and his remaining sons.",
+        "whatHappensAfter": "Leviticus moves into instructions concerning clean and unclean animals.",
+        "storyPositionStrip": [
+          "Aaron Ordained",
+          "First Priestly Service",
+          "Nadab and Abihu ← YOU ARE HERE",
+          "Clean and Unclean Animals",
+          "Purification Instructions"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This event occurs immediately after the first priestly service.",
+          "Nadab and Abihu are sons of Aaron and were included in the ordination of Leviticus 8.",
+          "Eleazar and Ithamar remain as Aaron's surviving sons in the priestly line.",
+          "The event interrupts the opening sequence of Tabernacle service."
+        ],
+        "geographicContext": [
+          "The event occurs at the Tabernacle in the Sinai camp.",
+          "Bodies are carried from the sanctuary area to outside the camp.",
+          "The movement crosses from the holy service area to the camp boundary."
+        ],
+        "dailyLifeContext": [
+          "Firepans were priestly objects used in incense or fire-related service.",
+          "Priestly garments and mourning restrictions are part of the instructions that follow.",
+          "Relatives are called to remove the bodies.",
+          "The camp has an inside/outside structure that matters in priestly procedure."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the first death recorded in the priestly service narrative.",
+        "It changes Aaron's family line by leaving Eleazar and Ithamar as the surviving priestly sons.",
+        "It introduces instructions about priestly conduct immediately after the Tabernacle service begins.",
+        "It marks a major interruption between the first priestly service and the purity instructions that follow."
+      ],
+      "stepIntoTheStory": [
+        "The scene follows directly after the public fire that consumed the offering in Leviticus 9. The Tabernacle area is still the center of attention.",
+        "Nadab and Abihu each take a firepan and bring unauthorized fire before Yahweh. Fire comes out, and both men die in the sanctuary setting.",
+        "Moses calls relatives to carry them away. Their bodies are taken from before the sanctuary to outside the camp, while Aaron and his remaining sons receive instructions."
+      ],
+      "documentaryObservations": [
+        "Two priests holding firepans.",
+        "Unauthorized fire brought before Yahweh.",
+        "Fire coming out in the sanctuary setting.",
+        "Nadab and Abihu dead before the Tent of Meeting.",
+        "Relatives called forward to remove the bodies.",
+        "Bodies carried outside the camp.",
+        "Aaron and surviving sons remaining in priestly garments.",
+        "The congregation still around the Tabernacle area.",
+        "Instructions given immediately after the deaths."
+      ],
+      "audioScript": "Leviticus 10 follows immediately after Aaron's first priestly service. Nadab and Abihu, two sons of Aaron, each take a firepan and bring unauthorized fire before Yahweh. Fire comes out, and both men die before the sanctuary. Moses calls Mishael and Elzaphan, relatives of Aaron, to carry the bodies away from the front of the holy place to outside the camp. Aaron remains silent. The chapter then focuses on instructions for Aaron and his surviving sons, Eleazar and Ithamar, as priestly service continues after the family crisis.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 8:1-36",
+          "Leviticus 9:1-24"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 10:1-20"
+        ],
+        "laterReferences": [
+          "Numbers 3:1-4",
+          "Numbers 26:60-61"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Aaron",
+        "arc": "Priestly Service at the Tabernacle",
+        "previousStory": "leviticus-08-first-priestly-service",
+        "nextStory": "leviticus-10-clean-and-unclean-animals"
+      },
+      "search": {
+        "people": [
+          "Nadab",
+          "Abihu",
+          "Aaron",
+          "Moses",
+          "Eleazar",
+          "Ithamar",
+          "Mishael",
+          "Elzaphan"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "Tabernacle",
+          "outside the camp",
+          "Sinai"
+        ],
+        "events": [
+          "Nadab and Abihu",
+          "unauthorized fire",
+          "death of Aaron's sons"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "strange fire",
+          "Nadab and Abihu die",
+          "Leviticus 10"
+        ]
+      },
+      "realitySummary": "Leviticus 10 records Nadab and Abihu offering unauthorized fire and dying before Yahweh, followed by their removal outside the camp and instructions to Aaron and his surviving sons."
+    }
+  },
+  {
+    "id": "leviticus-10-clean-and-unclean-animals",
+    "sourceFile": "leviticus-10-clean-and-unclean-animals.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Israelites",
+      "Israelite camp",
+      "Land",
+      "Waters",
+      "land",
+      "waters",
+      "clean animals",
+      "unclean animals",
+      "food laws",
+      "carcass impurity",
+      "Wilderness",
+      "Sinai",
+      "Leviticus food laws",
+      "clean and unclean animals",
+      "kosher animals",
+      "Instruction Received",
+      "Food Instruction",
+      "Purity Instruction",
+      "Instructions About Clean and Unclean Animals",
+      "Leviticus 11",
+      "Leviticus 11 gives instructions about clean and unclean animals, edible creatures, carcass contact, and how these categories affect daily camp life."
+    ],
+    "title": "Instructions About Clean and Unclean Animals",
+    "reference": "Leviticus 11",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Food Instruction",
+      "Purity Instruction"
+    ],
+    "summary": "Leviticus 11 gives instructions about clean and unclean animals, edible creatures, carcass contact, and how these categories affect daily camp life.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses and Aaron"
+      },
+      {
+        "label": "Location",
+        "value": "Tent of Meeting at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Food and Purity Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Nadab and Abihu; before childbirth purification instructions; before Israel leaves Sinai"
+      }
+    ],
+    "situation": "Food preparation, animal carcasses, vessels, ovens, clothing, seed, and water containers are part of ordinary life.",
+    "storyPosition": [
+      "Nadab and Abihu",
+      "Clean and Unclean Animals",
+      "Childbirth Purification",
+      "Skin Disease Instructions",
+      "Day of Atonement"
+    ],
+    "currentStory": "Clean and Unclean Animals",
+    "stepIntoStory": "The scene is not a single event at the altar. It is instruction that reaches into tents, cooking areas, water vessels, fields, and daily food decisions across the camp.\n\nThe categories are visible and practical. People are to notice hooves, cud chewing, fins, scales, wings, crawling movement, and carcass contact.\n\nThe instructions make ordinary life part of the Leviticus setting: what people eat, what they touch, what vessels are affected, and what happens when dead animals fall on household items.",
+    "notice": [
+      "Herd animals distinguished by hoof and chewing cud.",
+      "Fish and water creatures distinguished by fins and scales.",
+      "Birds listed by category.",
+      "Winged insects moving on jointed legs.",
+      "Small creatures swarming on the ground.",
+      "Animal carcasses affecting people who touch them.",
+      "Clay vessels broken after contamination.",
+      "Ovens, water containers, seed, and clothing affected by carcass contact.",
+      "Food choices being made inside the camp."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Nadab and Abihu died after offering unauthorized fire, and instructions were given to Aaron and his remaining sons."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given identifying animals that may or may not be eaten and rules concerning contact with carcasses."
+      },
+      {
+        "label": "Next",
+        "value": "Instructions continue with purification after childbirth in Leviticus 12."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This begins a major section of purity instructions in Leviticus."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The instructions are addressed to Moses and Aaron for the people of Israel."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The setting remains Israel at Sinai, before departure in Numbers."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The instructions move from Tabernacle ritual scenes into daily food and contact practices."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The animal categories include land animals, water creatures, birds, winged insects, swarming creatures, and carcasses."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The instructions apply across camp life and later settlement life."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Habitats mentioned include land, water, air, and ground-level swarming environments."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Food preparation, animal carcasses, vessels, ovens, clothing, seed, and water containers are part of ordinary life."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The instructions distinguish animals by visible features such as hoof, chewing cud, fins, scales, wings, and movement."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Contact with carcasses affects people, objects, and containers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Daily eating practices are directly connected to purity categories."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This introduces the clean and unclean animal categories in Leviticus.",
+      "It shifts Leviticus from altar procedures to daily household life.",
+      "It provides visible criteria for distinguishing animals.",
+      "It begins the purity instruction sequence that continues through Leviticus 15."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses and Aaron",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates animal instructions",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Receives instructions with Moses",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Recipients of the clean and unclean animal instructions",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Community setting where food and contact rules affect daily life"
+      },
+      {
+        "ancientName": "Land",
+        "modernRegion": "Future land and wilderness setting",
+        "description": "Place where animals are encountered"
+      },
+      {
+        "ancientName": "Waters",
+        "modernRegion": "General setting",
+        "description": "Habitat for fish and water creatures"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Israelites"
+    ],
+    "places": [
+      "Israelite camp",
+      "Land",
+      "Waters"
+    ],
+    "movement": [],
+    "movementDetails": {
+      "startingPoint": null,
+      "destination": null,
+      "route": [],
+      "majorStops": []
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 11 moves from priestly crisis to national instruction about animals, food, and contact. Moses and Aaron receive categories for Israel: land animals, water creatures, birds, winged insects, and creatures that swarm on the ground. The instructions are based on visible features such as hooves, chewing cud, fins, scales, wings, and movement. The chapter also addresses carcasses and ordinary objects: clothing, vessels, ovens, water, seed, and food. The scene extends beyond the Tabernacle into the daily life of the camp, where eating, touching, carrying, and washing become part of Israel's ordered life.",
+    "crossReferences": [
+      "Leviticus 10:1-20",
+      "Leviticus 11:1-47",
+      "Deuteronomy 14:3-21",
+      "Acts 10:9-16",
+      "Mark 7:18-19",
+      "Acts 10:9-16"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 10:1-20"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 11:1-47"
+      ],
+      "laterReferences": [
+        "Deuteronomy 14:3-21",
+        "Acts 10:9-16"
+      ],
+      "newTestamentReferences": [
+        "Mark 7:18-19",
+        "Acts 10:9-16"
+      ]
+    },
+    "series": {
+      "character": "Moses and Aaron",
+      "arc": "Purity Instructions at Sinai",
+      "previousStory": "leviticus-09-nadab-abihu",
+      "nextStory": "leviticus-11-childbirth-purification"
+    },
+    "source": {
+      "id": "leviticus-10-clean-and-unclean-animals",
+      "reference": "Leviticus 11",
+      "storyTitle": "Instructions About Clean and Unclean Animals",
+      "eventType": [
+        "Instruction Received",
+        "Food Instruction",
+        "Purity Instruction"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses and Aaron",
+        "approximateAge": null,
+        "currentLocation": "Tent of Meeting at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Food and Purity Instruction",
+        "timeAnchor": "After Nadab and Abihu; before childbirth purification instructions; before Israel leaves Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses and Aaron",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates animal instructions",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Receives instructions with Moses",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Recipients of the clean and unclean animal instructions",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Community setting where food and contact rules affect daily life"
+        },
+        {
+          "ancientName": "Land",
+          "modernRegion": "Future land and wilderness setting",
+          "description": "Place where animals are encountered"
+        },
+        {
+          "ancientName": "Waters",
+          "modernRegion": "General setting",
+          "description": "Habitat for fish and water creatures"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": null,
+        "destination": null,
+        "route": [],
+        "majorStops": []
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Nadab and Abihu died after offering unauthorized fire, and instructions were given to Aaron and his remaining sons.",
+        "whatIsHappeningNow": "Instructions are given identifying animals that may or may not be eaten and rules concerning contact with carcasses.",
+        "whatHappensAfter": "Instructions continue with purification after childbirth in Leviticus 12.",
+        "storyPositionStrip": [
+          "Nadab and Abihu",
+          "Clean and Unclean Animals ← YOU ARE HERE",
+          "Childbirth Purification",
+          "Skin Disease Instructions",
+          "Day of Atonement"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This begins a major section of purity instructions in Leviticus.",
+          "The instructions are addressed to Moses and Aaron for the people of Israel.",
+          "The setting remains Israel at Sinai, before departure in Numbers.",
+          "The instructions move from Tabernacle ritual scenes into daily food and contact practices."
+        ],
+        "geographicContext": [
+          "The animal categories include land animals, water creatures, birds, winged insects, swarming creatures, and carcasses.",
+          "The instructions apply across camp life and later settlement life.",
+          "Habitats mentioned include land, water, air, and ground-level swarming environments."
+        ],
+        "dailyLifeContext": [
+          "Food preparation, animal carcasses, vessels, ovens, clothing, seed, and water containers are part of ordinary life.",
+          "The instructions distinguish animals by visible features such as hoof, chewing cud, fins, scales, wings, and movement.",
+          "Contact with carcasses affects people, objects, and containers.",
+          "Daily eating practices are directly connected to purity categories."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This introduces the clean and unclean animal categories in Leviticus.",
+        "It shifts Leviticus from altar procedures to daily household life.",
+        "It provides visible criteria for distinguishing animals.",
+        "It begins the purity instruction sequence that continues through Leviticus 15."
+      ],
+      "stepIntoTheStory": [
+        "The scene is not a single event at the altar. It is instruction that reaches into tents, cooking areas, water vessels, fields, and daily food decisions across the camp.",
+        "The categories are visible and practical. People are to notice hooves, cud chewing, fins, scales, wings, crawling movement, and carcass contact.",
+        "The instructions make ordinary life part of the Leviticus setting: what people eat, what they touch, what vessels are affected, and what happens when dead animals fall on household items."
+      ],
+      "documentaryObservations": [
+        "Herd animals distinguished by hoof and chewing cud.",
+        "Fish and water creatures distinguished by fins and scales.",
+        "Birds listed by category.",
+        "Winged insects moving on jointed legs.",
+        "Small creatures swarming on the ground.",
+        "Animal carcasses affecting people who touch them.",
+        "Clay vessels broken after contamination.",
+        "Ovens, water containers, seed, and clothing affected by carcass contact.",
+        "Food choices being made inside the camp."
+      ],
+      "audioScript": "Leviticus 11 moves from priestly crisis to national instruction about animals, food, and contact. Moses and Aaron receive categories for Israel: land animals, water creatures, birds, winged insects, and creatures that swarm on the ground. The instructions are based on visible features such as hooves, chewing cud, fins, scales, wings, and movement. The chapter also addresses carcasses and ordinary objects: clothing, vessels, ovens, water, seed, and food. The scene extends beyond the Tabernacle into the daily life of the camp, where eating, touching, carrying, and washing become part of Israel's ordered life.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 10:1-20"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 11:1-47"
+        ],
+        "laterReferences": [
+          "Deuteronomy 14:3-21",
+          "Acts 10:9-16"
+        ],
+        "newTestamentReferences": [
+          "Mark 7:18-19",
+          "Acts 10:9-16"
+        ]
+      },
+      "series": {
+        "character": "Moses and Aaron",
+        "arc": "Purity Instructions at Sinai",
+        "previousStory": "leviticus-09-nadab-abihu",
+        "nextStory": "leviticus-11-childbirth-purification"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron",
+          "Israelites"
+        ],
+        "places": [
+          "Israelite camp",
+          "land",
+          "waters"
+        ],
+        "events": [
+          "clean animals",
+          "unclean animals",
+          "food laws",
+          "carcass impurity"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Leviticus food laws",
+          "clean and unclean animals",
+          "kosher animals"
+        ]
+      },
+      "realitySummary": "Leviticus 11 gives instructions about clean and unclean animals, edible creatures, carcass contact, and how these categories affect daily camp life."
+    }
+  },
+  {
+    "id": "leviticus-11-childbirth-purification",
+    "sourceFile": "leviticus-11-childbirth-purification.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelite woman",
+      "Male child",
+      "Priest",
+      "Israelite household",
+      "Entrance of the Tent of Meeting",
+      "Tabernacle altar",
+      "mother",
+      "male child",
+      "priest",
+      "Tent of Meeting",
+      "Tabernacle",
+      "childbirth purification",
+      "eighth day circumcision",
+      "mother's offering",
+      "Wilderness",
+      "Sinai",
+      "purification after childbirth",
+      "Leviticus 12",
+      "mother's purification",
+      "Instruction Received",
+      "Purification Instruction",
+      "Family Event",
+      "Instructions for Purification After Childbirth",
+      "Leviticus 12 gives instructions for purification after childbirth, including time periods, eighth-day circumcision for a male child, and offerings brought to the priest."
+    ],
+    "title": "Instructions for Purification After Childbirth",
+    "reference": "Leviticus 12",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Purification Instruction",
+      "Family Event"
+    ],
+    "summary": "Leviticus 12 gives instructions for purification after childbirth, including time periods, eighth-day circumcision for a male child, and offerings brought to the priest.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household Purification Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After clean and unclean animal instructions; before skin disease instructions; before Israel leaves Sinai"
+      }
+    ],
+    "situation": "Childbirth occurs inside family and household life.",
+    "storyPosition": [
+      "Clean and Unclean Animals",
+      "Childbirth Purification",
+      "Skin Disease Examination",
+      "Skin Disease Cleansing",
+      "Bodily Discharges"
+    ],
+    "currentStory": "Childbirth Purification",
+    "stepIntoStory": "The scene begins in an Israelite household, not at the altar. A woman gives birth, and the passage describes time periods that follow the birth.\n\nIf the child is male, the eighth day is marked by circumcision. The mother then remains through the stated purification period.\n\nAt the end, she moves from household space to the entrance of the Tent of Meeting with offerings. The priest receives them and performs the required altar service.",
+    "notice": [
+      "A birth inside an Israelite household.",
+      "A mother remaining through a measured period of days.",
+      "A male child circumcised on the eighth day.",
+      "A lamb brought as an offering where possible.",
+      "Turtledoves or pigeons brought as a lower-cost offering option.",
+      "Movement from household to sanctuary entrance.",
+      "A priest receiving the offering.",
+      "Family life connected to the Tabernacle."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 11 gave instructions concerning clean and unclean animals and carcass contact."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given concerning purification periods after childbirth and offerings brought afterward."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 13 gives instructions concerning skin disease and examination by priests."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This continues the purity instruction section after Leviticus 11."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The instructions address childbirth within Israelite households."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The eighth-day circumcision of male children is mentioned within the procedure."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The mother's offerings connect household birth to the Tent of Meeting."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting begins in Israelite households within the Sinai camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The procedure ends at the entrance of the Tent of Meeting."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The movement is from domestic space to sanctuary space after the required period."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Childbirth occurs inside family and household life."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Purification periods are measured in days."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Offerings include a lamb and a bird, or two birds if the mother cannot afford a lamb."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The priest receives the offering at the sanctuary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This brings Leviticus purity instructions into the setting of childbirth and family life.",
+      "It connects the birth of children with later presentation of offerings at the sanctuary.",
+      "It mentions eighth-day circumcision for male children.",
+      "It provides an offering option for a mother who cannot afford a lamb."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates childbirth purification instructions",
+        "relationships": []
+      },
+      {
+        "name": "Israelite woman",
+        "role": "Mother who gives birth and follows purification period",
+        "relationships": []
+      },
+      {
+        "name": "Male child",
+        "role": "Circumcised on the eighth day if a son is born",
+        "relationships": []
+      },
+      {
+        "name": "Priest",
+        "role": "Receives offerings at the end of the purification period",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite household",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Family setting where childbirth occurs"
+      },
+      {
+        "ancientName": "Entrance of the Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where offerings are brought after purification period"
+      },
+      {
+        "ancientName": "Tabernacle altar",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place where the priest offers the sacrifices"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelite woman",
+      "Male child",
+      "Priest"
+    ],
+    "places": [
+      "Israelite household",
+      "Entrance of the Tent of Meeting",
+      "Tabernacle altar"
+    ],
+    "movement": [
+      "A woman gives birth",
+      "A defined purification period passes",
+      "If the child is male, he is circumcised on the eighth day",
+      "The mother brings offerings to the priest",
+      "The priest offers them at the Tent of Meeting"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite household",
+      "destination": "Entrance of the Tent of Meeting",
+      "route": [
+        "A woman gives birth",
+        "A defined purification period passes",
+        "If the child is male, he is circumcised on the eighth day",
+        "The mother brings offerings to the priest",
+        "The priest offers them at the Tent of Meeting"
+      ],
+      "majorStops": [
+        "Household",
+        "Entrance of Tent of Meeting",
+        "Altar"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 12 brings the purity instructions into the household. The subject is childbirth. A woman who gives birth follows a defined period of purification. If the child is male, circumcision takes place on the eighth day. After the required days are completed, the mother brings offerings to the entrance of the Tent of Meeting. The normal offering includes a lamb and a bird, but two birds are allowed if she cannot afford a lamb. The scene moves from birth inside the family tent to priestly service at the sanctuary.",
+    "crossReferences": [
+      "Leviticus 11:1-47",
+      "Leviticus 12:1-8",
+      "Leviticus 15:19-30",
+      "Luke 2:21-24",
+      "Luke 2:21-24"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 11:1-47"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 12:1-8"
+      ],
+      "laterReferences": [
+        "Leviticus 15:19-30",
+        "Luke 2:21-24"
+      ],
+      "newTestamentReferences": [
+        "Luke 2:21-24"
+      ]
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Purity Instructions at Sinai",
+      "previousStory": "leviticus-10-clean-and-unclean-animals",
+      "nextStory": "leviticus-12-skin-disease-laws-part-1"
+    },
+    "source": {
+      "id": "leviticus-11-childbirth-purification",
+      "reference": "Leviticus 12",
+      "storyTitle": "Instructions for Purification After Childbirth",
+      "eventType": [
+        "Instruction Received",
+        "Purification Instruction",
+        "Family Event"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelite mothers",
+          "priests"
+        ],
+        "sceneScale": "Household Purification Instruction",
+        "timeAnchor": "After clean and unclean animal instructions; before skin disease instructions; before Israel leaves Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates childbirth purification instructions",
+          "relationships": []
+        },
+        {
+          "name": "Israelite woman",
+          "role": "Mother who gives birth and follows purification period",
+          "relationships": []
+        },
+        {
+          "name": "Male child",
+          "role": "Circumcised on the eighth day if a son is born",
+          "relationships": []
+        },
+        {
+          "name": "Priest",
+          "role": "Receives offerings at the end of the purification period",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite household",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Family setting where childbirth occurs"
+        },
+        {
+          "ancientName": "Entrance of the Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where offerings are brought after purification period"
+        },
+        {
+          "ancientName": "Tabernacle altar",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place where the priest offers the sacrifices"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite household",
+        "destination": "Entrance of the Tent of Meeting",
+        "route": [
+          "A woman gives birth",
+          "A defined purification period passes",
+          "If the child is male, he is circumcised on the eighth day",
+          "The mother brings offerings to the priest",
+          "The priest offers them at the Tent of Meeting"
+        ],
+        "majorStops": [
+          "Household",
+          "Entrance of Tent of Meeting",
+          "Altar"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 11 gave instructions concerning clean and unclean animals and carcass contact.",
+        "whatIsHappeningNow": "Instructions are given concerning purification periods after childbirth and offerings brought afterward.",
+        "whatHappensAfter": "Leviticus 13 gives instructions concerning skin disease and examination by priests.",
+        "storyPositionStrip": [
+          "Clean and Unclean Animals",
+          "Childbirth Purification ← YOU ARE HERE",
+          "Skin Disease Examination",
+          "Skin Disease Cleansing",
+          "Bodily Discharges"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This continues the purity instruction section after Leviticus 11.",
+          "The instructions address childbirth within Israelite households.",
+          "The eighth-day circumcision of male children is mentioned within the procedure.",
+          "The mother's offerings connect household birth to the Tent of Meeting."
+        ],
+        "geographicContext": [
+          "The setting begins in Israelite households within the Sinai camp.",
+          "The procedure ends at the entrance of the Tent of Meeting.",
+          "The movement is from domestic space to sanctuary space after the required period."
+        ],
+        "dailyLifeContext": [
+          "Childbirth occurs inside family and household life.",
+          "Purification periods are measured in days.",
+          "Offerings include a lamb and a bird, or two birds if the mother cannot afford a lamb.",
+          "The priest receives the offering at the sanctuary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This brings Leviticus purity instructions into the setting of childbirth and family life.",
+        "It connects the birth of children with later presentation of offerings at the sanctuary.",
+        "It mentions eighth-day circumcision for male children.",
+        "It provides an offering option for a mother who cannot afford a lamb."
+      ],
+      "stepIntoTheStory": [
+        "The scene begins in an Israelite household, not at the altar. A woman gives birth, and the passage describes time periods that follow the birth.",
+        "If the child is male, the eighth day is marked by circumcision. The mother then remains through the stated purification period.",
+        "At the end, she moves from household space to the entrance of the Tent of Meeting with offerings. The priest receives them and performs the required altar service."
+      ],
+      "documentaryObservations": [
+        "A birth inside an Israelite household.",
+        "A mother remaining through a measured period of days.",
+        "A male child circumcised on the eighth day.",
+        "A lamb brought as an offering where possible.",
+        "Turtledoves or pigeons brought as a lower-cost offering option.",
+        "Movement from household to sanctuary entrance.",
+        "A priest receiving the offering.",
+        "Family life connected to the Tabernacle."
+      ],
+      "audioScript": "Leviticus 12 brings the purity instructions into the household. The subject is childbirth. A woman who gives birth follows a defined period of purification. If the child is male, circumcision takes place on the eighth day. After the required days are completed, the mother brings offerings to the entrance of the Tent of Meeting. The normal offering includes a lamb and a bird, but two birds are allowed if she cannot afford a lamb. The scene moves from birth inside the family tent to priestly service at the sanctuary.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 11:1-47"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 12:1-8"
+        ],
+        "laterReferences": [
+          "Leviticus 15:19-30",
+          "Luke 2:21-24"
+        ],
+        "newTestamentReferences": [
+          "Luke 2:21-24"
+        ]
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Purity Instructions at Sinai",
+        "previousStory": "leviticus-10-clean-and-unclean-animals",
+        "nextStory": "leviticus-12-skin-disease-laws-part-1"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Israelite woman",
+          "mother",
+          "male child",
+          "priest"
+        ],
+        "places": [
+          "Israelite household",
+          "Tent of Meeting",
+          "Tabernacle"
+        ],
+        "events": [
+          "childbirth purification",
+          "eighth day circumcision",
+          "mother's offering"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "purification after childbirth",
+          "Leviticus 12",
+          "mother's purification"
+        ]
+      },
+      "realitySummary": "Leviticus 12 gives instructions for purification after childbirth, including time periods, eighth-day circumcision for a male child, and offerings brought to the priest."
+    }
+  },
+  {
+    "id": "leviticus-12-skin-disease-laws-part-1",
+    "sourceFile": "leviticus-12-skin-disease-laws-part-1.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Priest",
+      "Person with suspected disease",
+      "Israelite camp",
+      "Priestly examination area",
+      "Outside the camp",
+      "Household garment storage",
+      "priest",
+      "person with skin disease",
+      "outside the camp",
+      "priestly examination",
+      "skin disease examination",
+      "leprosy laws",
+      "garment contamination",
+      "seven day isolation",
+      "Wilderness",
+      "Sinai",
+      "tzaraath",
+      "skin disease laws",
+      "Leviticus 13",
+      "leprosy examination",
+      "Instruction Received",
+      "Priestly Examination",
+      "Purity Instruction",
+      "Instructions for Examining Skin Disease, Garments, and Contamination",
+      "Leviticus 13 gives priests instructions for examining skin conditions, bodily marks, and contamination in garments or leather, including isolation and living outside the camp when declared unclean."
+    ],
+    "title": "Instructions for Examining Skin Disease, Garments, and Contamination",
+    "reference": "Leviticus 13",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Priestly Examination",
+      "Purity Instruction"
+    ],
+    "summary": "Leviticus 13 gives priests instructions for examining skin conditions, bodily marks, and contamination in garments or leather, including isolation and living outside the camp when declared unclean.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Aaron and his sons"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Community Purity Examination"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After childbirth purification instructions; before skin disease cleansing instructions; before Israel leaves Sinai"
+      }
+    ],
+    "situation": "The instructions mention skin, hair, raw flesh, burns, sores, baldness, garments, wool, linen, leather, warp, and woof.",
+    "storyPosition": [
+      "Childbirth Purification",
+      "Skin Disease Examination",
+      "Skin Disease Cleansing",
+      "Bodily Discharges",
+      "Day of Atonement"
+    ],
+    "currentStory": "Skin Disease Examination",
+    "stepIntoStory": "The scene begins when something visible appears on a body or object: a swelling, eruption, spot, burn mark, hair change, or discoloration in cloth or leather.\n\nThe person or item is brought to the priest. The priest looks closely, compares signs, orders isolation where needed, and examines again after seven days.\n\nIf a person is declared unclean, the scene moves outside the camp. Clothing is torn, hair is loose, the upper lip is covered, and the person lives apart.",
+    "notice": [
+      "A person brought to the priest for inspection.",
+      "Visible marks on skin, hair, burns, or sores.",
+      "Priests examining closely by sight.",
+      "Seven-day isolation periods.",
+      "Garments made of wool or linen examined for marks.",
+      "Leather objects checked for contamination.",
+      "Clothing washed, torn, or burned.",
+      "A person declared unclean living outside the camp.",
+      "Torn clothes and loose hair marking public status.",
+      "Camp boundaries affected by priestly decisions."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 12 gave instructions concerning purification after childbirth."
+      },
+      {
+        "label": "Now",
+        "value": "Priests are instructed how to examine skin conditions, hair, sores, burns, baldness, and contamination in garments or leather objects."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 14 gives instructions for cleansing a person or house after disease or contamination."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This continues the purity instruction sequence."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The priests serve as examiners and decision-makers for visible conditions."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The passage addresses both human bodies and fabric or leather items."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Leviticus 14 continues with cleansing procedures after the examination process."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting is the Israelite wilderness camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Cases move from household space to priestly examination."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "A person declared unclean lives outside the camp until restored."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The instructions mention skin, hair, raw flesh, burns, sores, baldness, garments, wool, linen, leather, warp, and woof."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Seven-day isolation periods are used for observation."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Clothing may be washed, torn, burned, or reexamined."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A declared unclean person has visible signs: torn clothes, loose hair, covered upper lip, and living apart."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This gives priests a diagnostic role in community life.",
+      "It shows how visible bodily and material conditions affect camp boundaries.",
+      "It explains why some people may be isolated or live outside the camp.",
+      "It prepares for the cleansing procedures in Leviticus 14."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses and Aaron",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives instructions with Aaron",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Receives instructions concerning priestly examination",
+        "relationships": []
+      },
+      {
+        "name": "Priest",
+        "role": "Examines skin, hair, raw flesh, burns, sores, and garments",
+        "relationships": []
+      },
+      {
+        "name": "Person with suspected disease",
+        "role": "Presented for priestly examination",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Community setting where affected persons live"
+      },
+      {
+        "ancientName": "Priestly examination area",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Location where a person or garment is examined"
+      },
+      {
+        "ancientName": "Outside the camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where a person declared unclean lives"
+      },
+      {
+        "ancientName": "Household garment storage",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Setting for affected cloth, leather, warp, and woof"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Priest",
+      "Person with suspected disease"
+    ],
+    "places": [
+      "Israelite camp",
+      "Priestly examination area",
+      "Outside the camp",
+      "Household garment storage"
+    ],
+    "movement": [
+      "A mark appears on skin, hair, burn, sore, bald area, garment, or leather object",
+      "The person or object is brought to the priest",
+      "The priest examines and may isolate the case for seven days",
+      "The priest reexamines and declares clean or unclean",
+      "A person declared unclean lives outside the camp"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite household or camp",
+      "destination": "Priest for examination",
+      "route": [
+        "A mark appears on skin, hair, burn, sore, bald area, garment, or leather object",
+        "The person or object is brought to the priest",
+        "The priest examines and may isolate the case for seven days",
+        "The priest reexamines and declares clean or unclean",
+        "A person declared unclean lives outside the camp"
+      ],
+      "majorStops": [
+        "Household",
+        "Priest",
+        "Isolation period",
+        "Outside the camp"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 13 gives priests a public examination role in the camp. A person with a visible mark on the skin, hair, sore, burn, or bald area is brought to the priest. The priest examines the signs and may isolate the person for seven days before looking again. The chapter also includes garments, wool, linen, and leather objects that show signs of contamination. Some items are washed, reexamined, torn, or burned. A person declared unclean lives outside the camp with torn clothes and loose hair. The passage shows how visible conditions affected daily life, clothing, and camp boundaries.",
+    "crossReferences": [
+      "Leviticus 12:1-8",
+      "Leviticus 13:1-59",
+      "Leviticus 14:1-57",
+      "Numbers 5:1-4",
+      "Matthew 8:1-4",
+      "Luke 17:11-19"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 12:1-8"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 13:1-59"
+      ],
+      "laterReferences": [
+        "Leviticus 14:1-57",
+        "Numbers 5:1-4"
+      ],
+      "newTestamentReferences": [
+        "Matthew 8:1-4",
+        "Luke 17:11-19"
+      ]
+    },
+    "series": {
+      "character": "Aaron and his sons",
+      "arc": "Purity Instructions at Sinai",
+      "previousStory": "leviticus-11-childbirth-purification",
+      "nextStory": "leviticus-13-skin-disease-laws-part-2"
+    },
+    "source": {
+      "id": "leviticus-12-skin-disease-laws-part-1",
+      "reference": "Leviticus 13",
+      "storyTitle": "Instructions for Examining Skin Disease, Garments, and Contamination",
+      "eventType": [
+        "Instruction Received",
+        "Priestly Examination",
+        "Purity Instruction"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Aaron and his sons",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Israelites"
+        ],
+        "sceneScale": "Community Purity Examination",
+        "timeAnchor": "After childbirth purification instructions; before skin disease cleansing instructions; before Israel leaves Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses and Aaron",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives instructions with Aaron",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Receives instructions concerning priestly examination",
+          "relationships": []
+        },
+        {
+          "name": "Priest",
+          "role": "Examines skin, hair, raw flesh, burns, sores, and garments",
+          "relationships": []
+        },
+        {
+          "name": "Person with suspected disease",
+          "role": "Presented for priestly examination",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Community setting where affected persons live"
+        },
+        {
+          "ancientName": "Priestly examination area",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Location where a person or garment is examined"
+        },
+        {
+          "ancientName": "Outside the camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where a person declared unclean lives"
+        },
+        {
+          "ancientName": "Household garment storage",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Setting for affected cloth, leather, warp, and woof"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite household or camp",
+        "destination": "Priest for examination",
+        "route": [
+          "A mark appears on skin, hair, burn, sore, bald area, garment, or leather object",
+          "The person or object is brought to the priest",
+          "The priest examines and may isolate the case for seven days",
+          "The priest reexamines and declares clean or unclean",
+          "A person declared unclean lives outside the camp"
+        ],
+        "majorStops": [
+          "Household",
+          "Priest",
+          "Isolation period",
+          "Outside the camp"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 12 gave instructions concerning purification after childbirth.",
+        "whatIsHappeningNow": "Priests are instructed how to examine skin conditions, hair, sores, burns, baldness, and contamination in garments or leather objects.",
+        "whatHappensAfter": "Leviticus 14 gives instructions for cleansing a person or house after disease or contamination.",
+        "storyPositionStrip": [
+          "Childbirth Purification",
+          "Skin Disease Examination ← YOU ARE HERE",
+          "Skin Disease Cleansing",
+          "Bodily Discharges",
+          "Day of Atonement"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This continues the purity instruction sequence.",
+          "The priests serve as examiners and decision-makers for visible conditions.",
+          "The passage addresses both human bodies and fabric or leather items.",
+          "Leviticus 14 continues with cleansing procedures after the examination process."
+        ],
+        "geographicContext": [
+          "The setting is the Israelite wilderness camp.",
+          "Cases move from household space to priestly examination.",
+          "A person declared unclean lives outside the camp until restored."
+        ],
+        "dailyLifeContext": [
+          "The instructions mention skin, hair, raw flesh, burns, sores, baldness, garments, wool, linen, leather, warp, and woof.",
+          "Seven-day isolation periods are used for observation.",
+          "Clothing may be washed, torn, burned, or reexamined.",
+          "A declared unclean person has visible signs: torn clothes, loose hair, covered upper lip, and living apart."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This gives priests a diagnostic role in community life.",
+        "It shows how visible bodily and material conditions affect camp boundaries.",
+        "It explains why some people may be isolated or live outside the camp.",
+        "It prepares for the cleansing procedures in Leviticus 14."
+      ],
+      "stepIntoTheStory": [
+        "The scene begins when something visible appears on a body or object: a swelling, eruption, spot, burn mark, hair change, or discoloration in cloth or leather.",
+        "The person or item is brought to the priest. The priest looks closely, compares signs, orders isolation where needed, and examines again after seven days.",
+        "If a person is declared unclean, the scene moves outside the camp. Clothing is torn, hair is loose, the upper lip is covered, and the person lives apart."
+      ],
+      "documentaryObservations": [
+        "A person brought to the priest for inspection.",
+        "Visible marks on skin, hair, burns, or sores.",
+        "Priests examining closely by sight.",
+        "Seven-day isolation periods.",
+        "Garments made of wool or linen examined for marks.",
+        "Leather objects checked for contamination.",
+        "Clothing washed, torn, or burned.",
+        "A person declared unclean living outside the camp.",
+        "Torn clothes and loose hair marking public status.",
+        "Camp boundaries affected by priestly decisions."
+      ],
+      "audioScript": "Leviticus 13 gives priests a public examination role in the camp. A person with a visible mark on the skin, hair, sore, burn, or bald area is brought to the priest. The priest examines the signs and may isolate the person for seven days before looking again. The chapter also includes garments, wool, linen, and leather objects that show signs of contamination. Some items are washed, reexamined, torn, or burned. A person declared unclean lives outside the camp with torn clothes and loose hair. The passage shows how visible conditions affected daily life, clothing, and camp boundaries.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 12:1-8"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 13:1-59"
+        ],
+        "laterReferences": [
+          "Leviticus 14:1-57",
+          "Numbers 5:1-4"
+        ],
+        "newTestamentReferences": [
+          "Matthew 8:1-4",
+          "Luke 17:11-19"
+        ]
+      },
+      "series": {
+        "character": "Aaron and his sons",
+        "arc": "Purity Instructions at Sinai",
+        "previousStory": "leviticus-11-childbirth-purification",
+        "nextStory": "leviticus-13-skin-disease-laws-part-2"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron",
+          "priest",
+          "person with skin disease"
+        ],
+        "places": [
+          "Israelite camp",
+          "outside the camp",
+          "priestly examination"
+        ],
+        "events": [
+          "skin disease examination",
+          "leprosy laws",
+          "garment contamination",
+          "seven day isolation"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "tzaraath",
+          "skin disease laws",
+          "Leviticus 13",
+          "leprosy examination"
+        ]
+      },
+      "realitySummary": "Leviticus 13 gives priests instructions for examining skin conditions, bodily marks, and contamination in garments or leather, including isolation and living outside the camp when declared unclean."
+    }
+  },
+  {
+    "id": "leviticus-13-skin-disease-laws-part-2",
+    "sourceFile": "leviticus-13-skin-disease-laws-part-2.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Priest",
+      "Person being cleansed",
+      "House owner",
+      "Outside the camp",
+      "Israelite camp",
+      "Tent of Meeting",
+      "Future house in Canaan",
+      "priest",
+      "person cleansed",
+      "house owner",
+      "outside the camp",
+      "Canaanite house",
+      "cleansing skin disease",
+      "house contamination",
+      "two birds",
+      "eighth day offerings",
+      "Wilderness",
+      "Sinai",
+      "cleansing leper",
+      "tzaraath cleansing",
+      "Leviticus 14",
+      "house leprosy",
+      "Instruction Received",
+      "Cleansing Procedure",
+      "Purity Instruction",
+      "Instructions for Cleansing After Skin Disease and House Contamination",
+      "Leviticus 14 gives procedures for cleansing a person after skin disease and for inspecting and cleansing contaminated houses, including movement from outside the camp back toward the sanctuary."
+    ],
+    "title": "Instructions for Cleansing After Skin Disease and House Contamination",
+    "reference": "Leviticus 14",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Cleansing Procedure",
+      "Purity Instruction"
+    ],
+    "summary": "Leviticus 14 gives procedures for cleansing a person after skin disease and for inspecting and cleansing contaminated houses, including movement from outside the camp back toward the sanctuary.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Priest"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp and future houses in the land"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Restoration Procedure"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After skin disease examination instructions; before bodily discharge instructions; before Israel leaves Sinai"
+      }
+    ],
+    "situation": "The cleansing procedure uses birds, cedarwood, scarlet yarn, hyssop, water, washing, shaving, oil, and offerings.",
+    "storyPosition": [
+      "Skin Disease Examination",
+      "Skin Disease Cleansing",
+      "Bodily Discharges",
+      "Day of Atonement",
+      "Holiness Instructions"
+    ],
+    "currentStory": "Skin Disease Cleansing",
+    "stepIntoStory": "The priest leaves the camp to examine the person outside the boundary. The scene begins at the edge of the community, where the affected person has been living apart.\n\nThe procedure uses visible objects: two birds, cedarwood, scarlet yarn, hyssop, water, shaving, washing, oil, and offerings. The person moves step by step from outside the camp back toward the sanctuary.\n\nThe chapter then looks ahead to houses in Canaan. A house owner reports a mark, the priest inspects the walls, stones may be removed, plaster scraped, and the structure may be repaired or demolished.",
+    "notice": [
+      "A priest going outside the camp.",
+      "A person examined before returning.",
+      "Two birds used in the cleansing procedure.",
+      "Cedarwood, scarlet yarn, and hyssop in the ritual.",
+      "Clothes washed and hair shaved.",
+      "A person reentering the camp after waiting.",
+      "Offerings brought on the eighth day.",
+      "A house emptied before inspection.",
+      "Wall stones removed from a contaminated house.",
+      "Plaster scraped and replaced."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 13 gave examination procedures for skin disease, garments, and contamination."
+      },
+      {
+        "label": "Now",
+        "value": "Cleansing procedures are given for a person healed from skin disease and for contaminated houses in the land."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 15 gives instructions concerning bodily discharges."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This continues and completes the skin disease section begun in Leviticus 13."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The priest goes outside the camp to examine the person before return."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The procedure includes a multi-stage return: outside camp, reentry to camp, waiting period, and offerings."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "House contamination instructions look ahead to life in Canaan."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The first part occurs outside and inside the wilderness camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The second part anticipates houses in the land of Canaan."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The instructions move between camp boundary, washing space, sanctuary entrance, and future domestic architecture."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The cleansing procedure uses birds, cedarwood, scarlet yarn, hyssop, water, washing, shaving, oil, and offerings."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The person shaves hair, washes clothes, bathes, and waits through a measured period."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "House inspection includes emptying a house, examining walls, removing stones, scraping plaster, and replacing materials."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Lower-cost offering options are provided for someone with limited means."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This explains how a person excluded because of skin disease can return to the camp.",
+      "It gives the priest a role outside the camp as well as at the sanctuary.",
+      "It introduces procedures for houses, anticipating settled life in Canaan.",
+      "It completes the skin disease instruction unit before Leviticus moves to bodily discharges."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives cleansing instructions",
+        "relationships": []
+      },
+      {
+        "name": "Priest",
+        "role": "Goes outside the camp, examines, and performs cleansing procedures",
+        "relationships": []
+      },
+      {
+        "name": "Person being cleansed",
+        "role": "Formerly affected person who returns through cleansing process",
+        "relationships": []
+      },
+      {
+        "name": "House owner",
+        "role": "Reports possible contamination in a house",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Outside the camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where the priest examines the person being cleansed"
+      },
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Community space the person returns toward"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where offerings are brought after washing period"
+      },
+      {
+        "ancientName": "Future house in Canaan",
+        "modernRegion": "Land of Canaan",
+        "description": "Setting for house contamination instructions after entry into the land"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Priest",
+      "Person being cleansed",
+      "House owner"
+    ],
+    "places": [
+      "Outside the camp",
+      "Israelite camp",
+      "Tent of Meeting",
+      "Future house in Canaan"
+    ],
+    "movement": [
+      "Priest goes outside the camp",
+      "The affected person is examined",
+      "Birds, cedarwood, scarlet yarn, and hyssop are used",
+      "The person washes, shaves, and reenters the camp",
+      "Offerings are brought on the eighth day",
+      "House contamination procedures are described for the land"
+    ],
+    "movementDetails": {
+      "startingPoint": "Outside the camp",
+      "destination": "Tent of Meeting and household restoration",
+      "route": [
+        "Priest goes outside the camp",
+        "The affected person is examined",
+        "Birds, cedarwood, scarlet yarn, and hyssop are used",
+        "The person washes, shaves, and reenters the camp",
+        "Offerings are brought on the eighth day",
+        "House contamination procedures are described for the land"
+      ],
+      "majorStops": [
+        "Outside the camp",
+        "Camp",
+        "Tent of Meeting",
+        "Future house in Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 14 explains how a person previously declared unclean may return. The priest goes outside the camp to examine the person. The cleansing procedure uses two birds, cedarwood, scarlet yarn, hyssop, water, washing, and shaving. The person reenters the camp, waits, and later brings offerings to the Tent of Meeting. The chapter then looks ahead to life in Canaan, where houses may also be examined. A house can be emptied, inspected, scraped, repaired, or torn down. The scene moves from the camp boundary to the sanctuary, and then forward to future homes in the land.",
+    "crossReferences": [
+      "Leviticus 13:1-59",
+      "Leviticus 14:1-57",
+      "Numbers 5:1-4",
+      "Deuteronomy 24:8",
+      "Matthew 8:1-4",
+      "Mark 1:40-44",
+      "Luke 17:11-19"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 13:1-59"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 14:1-57"
+      ],
+      "laterReferences": [
+        "Numbers 5:1-4",
+        "Deuteronomy 24:8"
+      ],
+      "newTestamentReferences": [
+        "Matthew 8:1-4",
+        "Mark 1:40-44",
+        "Luke 17:11-19"
+      ]
+    },
+    "series": {
+      "character": "Priest",
+      "arc": "Purity Instructions at Sinai",
+      "previousStory": "leviticus-12-skin-disease-laws-part-1",
+      "nextStory": "leviticus-14-bodily-discharges"
+    },
+    "source": {
+      "id": "leviticus-13-skin-disease-laws-part-2",
+      "reference": "Leviticus 14",
+      "storyTitle": "Instructions for Cleansing After Skin Disease and House Contamination",
+      "eventType": [
+        "Instruction Received",
+        "Cleansing Procedure",
+        "Purity Instruction"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Priest",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp and future houses in the land",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "person being cleansed"
+        ],
+        "sceneScale": "Restoration Procedure",
+        "timeAnchor": "After skin disease examination instructions; before bodily discharge instructions; before Israel leaves Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives cleansing instructions",
+          "relationships": []
+        },
+        {
+          "name": "Priest",
+          "role": "Goes outside the camp, examines, and performs cleansing procedures",
+          "relationships": []
+        },
+        {
+          "name": "Person being cleansed",
+          "role": "Formerly affected person who returns through cleansing process",
+          "relationships": []
+        },
+        {
+          "name": "House owner",
+          "role": "Reports possible contamination in a house",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Outside the camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where the priest examines the person being cleansed"
+        },
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Community space the person returns toward"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where offerings are brought after washing period"
+        },
+        {
+          "ancientName": "Future house in Canaan",
+          "modernRegion": "Land of Canaan",
+          "description": "Setting for house contamination instructions after entry into the land"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Outside the camp",
+        "destination": "Tent of Meeting and household restoration",
+        "route": [
+          "Priest goes outside the camp",
+          "The affected person is examined",
+          "Birds, cedarwood, scarlet yarn, and hyssop are used",
+          "The person washes, shaves, and reenters the camp",
+          "Offerings are brought on the eighth day",
+          "House contamination procedures are described for the land"
+        ],
+        "majorStops": [
+          "Outside the camp",
+          "Camp",
+          "Tent of Meeting",
+          "Future house in Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 13 gave examination procedures for skin disease, garments, and contamination.",
+        "whatIsHappeningNow": "Cleansing procedures are given for a person healed from skin disease and for contaminated houses in the land.",
+        "whatHappensAfter": "Leviticus 15 gives instructions concerning bodily discharges.",
+        "storyPositionStrip": [
+          "Skin Disease Examination",
+          "Skin Disease Cleansing ← YOU ARE HERE",
+          "Bodily Discharges",
+          "Day of Atonement",
+          "Holiness Instructions"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This continues and completes the skin disease section begun in Leviticus 13.",
+          "The priest goes outside the camp to examine the person before return.",
+          "The procedure includes a multi-stage return: outside camp, reentry to camp, waiting period, and offerings.",
+          "House contamination instructions look ahead to life in Canaan."
+        ],
+        "geographicContext": [
+          "The first part occurs outside and inside the wilderness camp.",
+          "The second part anticipates houses in the land of Canaan.",
+          "The instructions move between camp boundary, washing space, sanctuary entrance, and future domestic architecture."
+        ],
+        "dailyLifeContext": [
+          "The cleansing procedure uses birds, cedarwood, scarlet yarn, hyssop, water, washing, shaving, oil, and offerings.",
+          "The person shaves hair, washes clothes, bathes, and waits through a measured period.",
+          "House inspection includes emptying a house, examining walls, removing stones, scraping plaster, and replacing materials.",
+          "Lower-cost offering options are provided for someone with limited means."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This explains how a person excluded because of skin disease can return to the camp.",
+        "It gives the priest a role outside the camp as well as at the sanctuary.",
+        "It introduces procedures for houses, anticipating settled life in Canaan.",
+        "It completes the skin disease instruction unit before Leviticus moves to bodily discharges."
+      ],
+      "stepIntoTheStory": [
+        "The priest leaves the camp to examine the person outside the boundary. The scene begins at the edge of the community, where the affected person has been living apart.",
+        "The procedure uses visible objects: two birds, cedarwood, scarlet yarn, hyssop, water, shaving, washing, oil, and offerings. The person moves step by step from outside the camp back toward the sanctuary.",
+        "The chapter then looks ahead to houses in Canaan. A house owner reports a mark, the priest inspects the walls, stones may be removed, plaster scraped, and the structure may be repaired or demolished."
+      ],
+      "documentaryObservations": [
+        "A priest going outside the camp.",
+        "A person examined before returning.",
+        "Two birds used in the cleansing procedure.",
+        "Cedarwood, scarlet yarn, and hyssop in the ritual.",
+        "Clothes washed and hair shaved.",
+        "A person reentering the camp after waiting.",
+        "Offerings brought on the eighth day.",
+        "A house emptied before inspection.",
+        "Wall stones removed from a contaminated house.",
+        "Plaster scraped and replaced."
+      ],
+      "audioScript": "Leviticus 14 explains how a person previously declared unclean may return. The priest goes outside the camp to examine the person. The cleansing procedure uses two birds, cedarwood, scarlet yarn, hyssop, water, washing, and shaving. The person reenters the camp, waits, and later brings offerings to the Tent of Meeting. The chapter then looks ahead to life in Canaan, where houses may also be examined. A house can be emptied, inspected, scraped, repaired, or torn down. The scene moves from the camp boundary to the sanctuary, and then forward to future homes in the land.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 13:1-59"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 14:1-57"
+        ],
+        "laterReferences": [
+          "Numbers 5:1-4",
+          "Deuteronomy 24:8"
+        ],
+        "newTestamentReferences": [
+          "Matthew 8:1-4",
+          "Mark 1:40-44",
+          "Luke 17:11-19"
+        ]
+      },
+      "series": {
+        "character": "Priest",
+        "arc": "Purity Instructions at Sinai",
+        "previousStory": "leviticus-12-skin-disease-laws-part-1",
+        "nextStory": "leviticus-14-bodily-discharges"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "priest",
+          "person cleansed",
+          "house owner"
+        ],
+        "places": [
+          "outside the camp",
+          "Israelite camp",
+          "Tent of Meeting",
+          "Canaanite house"
+        ],
+        "events": [
+          "cleansing skin disease",
+          "house contamination",
+          "two birds",
+          "eighth day offerings"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "cleansing leper",
+          "tzaraath cleansing",
+          "Leviticus 14",
+          "house leprosy"
+        ]
+      },
+      "realitySummary": "Leviticus 14 gives procedures for cleansing a person after skin disease and for inspecting and cleansing contaminated houses, including movement from outside the camp back toward the sanctuary."
+    }
+  },
+  {
+    "id": "leviticus-14-bodily-discharges",
+    "sourceFile": "leviticus-14-bodily-discharges.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Israelite man",
+      "Israelite woman",
+      "Priest",
+      "Israelite household",
+      "Israelite camp",
+      "Tent of Meeting",
+      "priest",
+      "bodily discharges",
+      "purity washing",
+      "household impurity",
+      "birds offered",
+      "Wilderness",
+      "Sinai",
+      "Leviticus 15",
+      "discharge laws",
+      "purity laws",
+      "Instruction Received",
+      "Purity Instruction",
+      "Household Instruction",
+      "Instructions About Bodily Discharges",
+      "Leviticus 15 gives instructions about bodily discharges, contact with beds, seats, vessels, washing, counting days, and offerings brought to the priest."
+    ],
+    "title": "Instructions About Bodily Discharges",
+    "reference": "Leviticus 15",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Purity Instruction",
+      "Household Instruction"
+    ],
+    "summary": "Leviticus 15 gives instructions about bodily discharges, contact with beds, seats, vessels, washing, counting days, and offerings brought to the priest.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses and Aaron"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household Purity Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After skin disease instructions; before Day of Atonement instructions; before Israel leaves Sinai"
+      }
+    ],
+    "situation": "The chapter mentions beds, seats, saddles, earthen vessels, wooden vessels, clothing, bathing, and washing.",
+    "storyPosition": [
+      "Clean and Unclean Animals",
+      "Childbirth Purification",
+      "Skin Disease Instructions",
+      "Bodily Discharges",
+      "Day of Atonement"
+    ],
+    "currentStory": "Bodily Discharges",
+    "stepIntoStory": "The setting is everyday camp life: tents, bedding, seats, saddles, vessels, clothing, and water for washing.\n\nThe instructions follow what happens when bodies, objects, and other people come into contact with discharges. The scene is practical and domestic, not centered first at the altar.\n\nAfter the required period, the person moves from household life toward the Tent of Meeting with birds for the priest.",
+    "notice": [
+      "Beds and seats affected by contact.",
+      "Clothing washed after contact.",
+      "People bathing in water.",
+      "Earthen vessels broken.",
+      "Wooden vessels rinsed with water.",
+      "Saddles and sitting places mentioned.",
+      "Days counted after cleansing.",
+      "Turtledoves or pigeons brought to the priest.",
+      "Movement from household impurity to sanctuary offering.",
+      "Daily camp life regulated by purity instructions."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 13-14 gave instructions about skin disease, cleansing, garments, and houses."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given about male and female bodily discharges, contact with beds and seats, washing, counting days, and offerings."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 16 gives instructions for the Day of Atonement after the death of Aaron's two sons."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This completes the purity instruction sequence begun in Leviticus 11."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The passage is addressed to Moses and Aaron."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The instructions affect men, women, household objects, and sanctuary access."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Leviticus 16 returns to the aftermath of Nadab and Abihu and gives Day of Atonement instructions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The immediate setting is the Israelite camp at Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The instructions begin in household spaces and end at the Tent of Meeting when offerings are brought."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Beds, seats, vessels, and washing activities belong to ordinary camp life."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The chapter mentions beds, seats, saddles, earthen vessels, wooden vessels, clothing, bathing, and washing."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Counting days is part of the purification process."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Offerings include turtledoves or pigeons brought to the priest."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The instructions regulate contact and washing in daily domestic settings."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This brings the purity instructions into the most ordinary spaces of life: bodies, beds, seats, vessels, and washing.",
+      "It completes the Leviticus 11-15 purity unit.",
+      "It connects household conditions to access at the Tent of Meeting.",
+      "It prepares for the Day of Atonement instructions in Leviticus 16."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses and Aaron",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates discharge instructions",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Receives instructions with Moses",
+        "relationships": []
+      },
+      {
+        "name": "Israelite man",
+        "role": "Subject of male discharge instructions",
+        "relationships": []
+      },
+      {
+        "name": "Israelite woman",
+        "role": "Subject of female discharge instructions",
+        "relationships": []
+      },
+      {
+        "name": "Priest",
+        "role": "Receives offerings after purification period",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite household",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Domestic setting where beds, seats, vessels, and washing are involved"
+      },
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Community setting affected by impurity instructions"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where offerings are brought after purification period"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Israelite man",
+      "Israelite woman",
+      "Priest"
+    ],
+    "places": [
+      "Israelite household",
+      "Israelite camp",
+      "Tent of Meeting"
+    ],
+    "movement": [
+      "A man or woman experiences a bodily discharge",
+      "Affected beds, seats, vessels, and persons are washed or handled according to instruction",
+      "A period of days is counted after cleansing",
+      "Offerings are brought to the priest at the Tent of Meeting"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite household",
+      "destination": "Tent of Meeting",
+      "route": [
+        "A man or woman experiences a bodily discharge",
+        "Affected beds, seats, vessels, and persons are washed or handled according to instruction",
+        "A period of days is counted after cleansing",
+        "Offerings are brought to the priest at the Tent of Meeting"
+      ],
+      "majorStops": [
+        "Household",
+        "Camp washing area",
+        "Tent of Meeting"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 15 closes the purity instruction section with bodily discharges. The scene is ordinary camp life: beds, seats, saddles, clothing, vessels, bathing, and washing. The instructions describe how contact affects people and objects, and what must be washed, broken, rinsed, or counted. Men and women are both addressed. After the required period, offerings of birds are brought to the priest at the Tent of Meeting. The chapter connects the most private parts of household life with the order of the wider camp and the sanctuary.",
+    "crossReferences": [
+      "Leviticus 11:1-14:57",
+      "Leviticus 15:1-33",
+      "Leviticus 16:1-34",
+      "Numbers 5:1-4",
+      "Mark 5:25-34",
+      "Luke 8:43-48"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 11:1-14:57"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 15:1-33"
+      ],
+      "laterReferences": [
+        "Leviticus 16:1-34",
+        "Numbers 5:1-4"
+      ],
+      "newTestamentReferences": [
+        "Mark 5:25-34",
+        "Luke 8:43-48"
+      ]
+    },
+    "series": {
+      "character": "Moses and Aaron",
+      "arc": "Purity Instructions at Sinai",
+      "previousStory": "leviticus-13-skin-disease-laws-part-2",
+      "nextStory": null
+    },
+    "source": {
+      "id": "leviticus-14-bodily-discharges",
+      "reference": "Leviticus 15",
+      "storyTitle": "Instructions About Bodily Discharges",
+      "eventType": [
+        "Instruction Received",
+        "Purity Instruction",
+        "Household Instruction"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses and Aaron",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelite men and women",
+          "priests"
+        ],
+        "sceneScale": "Household Purity Instruction",
+        "timeAnchor": "After skin disease instructions; before Day of Atonement instructions; before Israel leaves Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses and Aaron",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates discharge instructions",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Receives instructions with Moses",
+          "relationships": []
+        },
+        {
+          "name": "Israelite man",
+          "role": "Subject of male discharge instructions",
+          "relationships": []
+        },
+        {
+          "name": "Israelite woman",
+          "role": "Subject of female discharge instructions",
+          "relationships": []
+        },
+        {
+          "name": "Priest",
+          "role": "Receives offerings after purification period",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite household",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Domestic setting where beds, seats, vessels, and washing are involved"
+        },
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Community setting affected by impurity instructions"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where offerings are brought after purification period"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite household",
+        "destination": "Tent of Meeting",
+        "route": [
+          "A man or woman experiences a bodily discharge",
+          "Affected beds, seats, vessels, and persons are washed or handled according to instruction",
+          "A period of days is counted after cleansing",
+          "Offerings are brought to the priest at the Tent of Meeting"
+        ],
+        "majorStops": [
+          "Household",
+          "Camp washing area",
+          "Tent of Meeting"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 13-14 gave instructions about skin disease, cleansing, garments, and houses.",
+        "whatIsHappeningNow": "Instructions are given about male and female bodily discharges, contact with beds and seats, washing, counting days, and offerings.",
+        "whatHappensAfter": "Leviticus 16 gives instructions for the Day of Atonement after the death of Aaron's two sons.",
+        "storyPositionStrip": [
+          "Clean and Unclean Animals",
+          "Childbirth Purification",
+          "Skin Disease Instructions",
+          "Bodily Discharges ← YOU ARE HERE",
+          "Day of Atonement"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This completes the purity instruction sequence begun in Leviticus 11.",
+          "The passage is addressed to Moses and Aaron.",
+          "The instructions affect men, women, household objects, and sanctuary access.",
+          "Leviticus 16 returns to the aftermath of Nadab and Abihu and gives Day of Atonement instructions."
+        ],
+        "geographicContext": [
+          "The immediate setting is the Israelite camp at Sinai.",
+          "The instructions begin in household spaces and end at the Tent of Meeting when offerings are brought.",
+          "Beds, seats, vessels, and washing activities belong to ordinary camp life."
+        ],
+        "dailyLifeContext": [
+          "The chapter mentions beds, seats, saddles, earthen vessels, wooden vessels, clothing, bathing, and washing.",
+          "Counting days is part of the purification process.",
+          "Offerings include turtledoves or pigeons brought to the priest.",
+          "The instructions regulate contact and washing in daily domestic settings."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This brings the purity instructions into the most ordinary spaces of life: bodies, beds, seats, vessels, and washing.",
+        "It completes the Leviticus 11-15 purity unit.",
+        "It connects household conditions to access at the Tent of Meeting.",
+        "It prepares for the Day of Atonement instructions in Leviticus 16."
+      ],
+      "stepIntoTheStory": [
+        "The setting is everyday camp life: tents, bedding, seats, saddles, vessels, clothing, and water for washing.",
+        "The instructions follow what happens when bodies, objects, and other people come into contact with discharges. The scene is practical and domestic, not centered first at the altar.",
+        "After the required period, the person moves from household life toward the Tent of Meeting with birds for the priest."
+      ],
+      "documentaryObservations": [
+        "Beds and seats affected by contact.",
+        "Clothing washed after contact.",
+        "People bathing in water.",
+        "Earthen vessels broken.",
+        "Wooden vessels rinsed with water.",
+        "Saddles and sitting places mentioned.",
+        "Days counted after cleansing.",
+        "Turtledoves or pigeons brought to the priest.",
+        "Movement from household impurity to sanctuary offering.",
+        "Daily camp life regulated by purity instructions."
+      ],
+      "audioScript": "Leviticus 15 closes the purity instruction section with bodily discharges. The scene is ordinary camp life: beds, seats, saddles, clothing, vessels, bathing, and washing. The instructions describe how contact affects people and objects, and what must be washed, broken, rinsed, or counted. Men and women are both addressed. After the required period, offerings of birds are brought to the priest at the Tent of Meeting. The chapter connects the most private parts of household life with the order of the wider camp and the sanctuary.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 11:1-14:57"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 15:1-33"
+        ],
+        "laterReferences": [
+          "Leviticus 16:1-34",
+          "Numbers 5:1-4"
+        ],
+        "newTestamentReferences": [
+          "Mark 5:25-34",
+          "Luke 8:43-48"
+        ]
+      },
+      "series": {
+        "character": "Moses and Aaron",
+        "arc": "Purity Instructions at Sinai",
+        "previousStory": "leviticus-13-skin-disease-laws-part-2",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron",
+          "Israelite man",
+          "Israelite woman",
+          "priest"
+        ],
+        "places": [
+          "Israelite household",
+          "Israelite camp",
+          "Tent of Meeting"
+        ],
+        "events": [
+          "bodily discharges",
+          "purity washing",
+          "household impurity",
+          "birds offered"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Leviticus 15",
+          "discharge laws",
+          "purity laws"
+        ]
+      },
+      "realitySummary": "Leviticus 15 gives instructions about bodily discharges, contact with beds, seats, vessels, washing, counting days, and offerings brought to the priest."
+    }
   }
 ]
