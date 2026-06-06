@@ -66188,5 +66188,2672 @@
       },
       "realitySummary": "Summary of Defeated Kings East and West of the Jordan. The chapter summarizes kings defeated east of the Jordan under Moses and west of the Jordan under Joshua."
     }
+  },
+  {
+    "id": "joshua-11-land-allocation-begins",
+    "sourceFile": "joshua-11-land-allocation-begins.json",
+    "searchTerms": [
+      "Joshua",
+      "Reubenites",
+      "Gadites",
+      "Half-tribe of Manasseh",
+      "Levites",
+      "Canaan",
+      "Gilead",
+      "Bashan",
+      "Jordan River",
+      "Shiloh",
+      "land allocation begins",
+      "eastern tribes inheritance",
+      "Levites no land inheritance",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 13",
+      "Joshua 14:1-5",
+      "land allotment begins",
+      "Land Allocation",
+      "Instruction Received",
+      "Inheritance",
+      "Tribal Settlement",
+      "Land Allocation Begins East and West of the Jordan",
+      "Joshua 13:1-14:5",
+      "Land Allocation Begins East and West of the Jordan. Joshua is instructed to distribute the land, eastern tribal inheritances are reviewed, and the structure for western allotments is introduced."
+    ],
+    "title": "Land Allocation Begins East and West of the Jordan",
+    "reference": "Joshua 13:1-14:5",
+    "kicker": "Study",
+    "eventType": [
+      "Land Allocation",
+      "Instruction Received",
+      "Inheritance",
+      "Tribal Settlement"
+    ],
+    "summary": "Land Allocation Begins East and West of the Jordan. Joshua is instructed to distribute the land, eastern tribal inheritances are reviewed, and the structure for western allotments is introduced.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Canaan and Transjordan"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Land Distribution"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After conquest summary; before Caleb receives Hebron"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "Land Allocation Begins East and West of the Jordan"
+    ],
+    "currentStory": "Land Allocation Begins East and West of the Jordan",
+    "stepIntoStory": "After the king list, the camera slows down. Joshua is now old, and the work shifts from battles to inheritance boundaries.\n\nThe eastern lands already assigned to Reuben, Gad, and half-Manasseh are reviewed. The Jordan is the dividing line between these lands and the allotments west of the river.\n\nThe Levites stand out because they do not receive territory like the other tribes. Their place in the land will be handled differently.",
+    "notice": [
+      "Joshua described as old.",
+      "Remaining land still named.",
+      "Eastern tribes' territory reviewed.",
+      "Gilead and Bashan listed as inheritance regions.",
+      "The Jordan functioning as a boundary.",
+      "Levites distinguished from landholding tribes.",
+      "Land distribution by tribal inheritance beginning.",
+      "The story shifting from armies to boundaries."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Joshua 12 summarized defeated kings east and west of the Jordan."
+      },
+      {
+        "label": "Now",
+        "value": "Joshua is instructed to distribute the land, eastern tribal inheritances are reviewed, and the structure for western allotments is introduced."
+      },
+      {
+        "label": "Next",
+        "value": "Caleb approaches Joshua at Gilgal and receives Hebron."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This shifts Joshua from battle narratives to settlement and inheritance."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It recognizes remaining land still not possessed while beginning distribution."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It connects Numbers 32 and the eastern tribes with Joshua's land section."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It prepares the reader for tribe-by-tribe allotments."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The land section spans both sides of the Jordan."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Eastern territories include Gilead and Bashan; western Canaan is the main focus of subsequent allotments."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Jordan functions as a major boundary between already assigned eastern land and western tribal allotments."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Inheritance distribution involves tribes, clans, families, boundaries, cities, and pasturelands."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Levites differ from other tribes because they do not receive one continuous tribal territory."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Land allotment is administrative, geographic, and covenantal within the narrative, not a battle scene."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This begins the settlement half of Joshua.",
+      "It shows that conquest summary does not equal every piece of land being fully occupied.",
+      "It organizes Israel from a mobile military camp toward territorial tribal life.",
+      "It sets up Caleb, Judah, Joseph, and the remaining tribes."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Older leader instructed to distribute remaining land",
+        "relationships": []
+      },
+      {
+        "name": "Reubenites",
+        "role": "Tribe with inheritance east of Jordan",
+        "relationships": []
+      },
+      {
+        "name": "Gadites",
+        "role": "Tribe with inheritance east of Jordan",
+        "relationships": []
+      },
+      {
+        "name": "Half-tribe of Manasseh",
+        "role": "Receives inheritance east and later west of Jordan",
+        "relationships": []
+      },
+      {
+        "name": "Levites",
+        "role": "Receive no tribal land inheritance, but receive offerings and later cities",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Land west of the Jordan being allocated"
+      },
+      {
+        "ancientName": "Gilead",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "East-Jordan region assigned to tribes"
+      },
+      {
+        "ancientName": "Bashan",
+        "modernRegion": "Northern Israel / Galilee-Hazor region",
+        "description": "Northern Transjordan region associated with Og"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+        "description": "Boundary between eastern and western allotments"
+      },
+      {
+        "ancientName": "Shiloh",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Later central location for the Tent of Meeting in Joshua"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Reubenites",
+      "Gadites",
+      "Half-tribe of Manasseh",
+      "Levites"
+    ],
+    "places": [
+      "Canaan",
+      "Gilead",
+      "Bashan",
+      "Jordan River",
+      "Shiloh"
+    ],
+    "movement": [
+      "Joshua is described as old",
+      "Remaining land is named",
+      "Eastern inheritances are reviewed",
+      "Levites are distinguished from landholding tribes",
+      "The narrative prepares for western allotments by lot"
+    ],
+    "movementDetails": {
+      "startingPoint": "Conquest summary after defeated kings",
+      "destination": "Tribal inheritance distribution",
+      "route": [
+        "Joshua is described as old",
+        "Remaining land is named",
+        "Eastern inheritances are reviewed",
+        "Levites are distinguished from landholding tribes",
+        "The narrative prepares for western allotments by lot"
+      ],
+      "majorStops": [
+        "Canaan",
+        "Gilead",
+        "Bashan",
+        "Jordan boundary",
+        "tribal allotment areas"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 13 through 14:5 begins the land distribution section. Joshua is described as old, and remaining land is still named. The chapter reviews the territories east of the Jordan already assigned to Reuben, Gad, and half the tribe of Manasseh. The Jordan becomes the dividing line between eastern inheritances and the western allotments still to be assigned. The Levites are also set apart from ordinary tribal land inheritance. The narrative is moving from conquest campaigns into settlement, boundaries, and tribal identity.",
+    "crossReferences": [
+      "Numbers 32:1-42",
+      "Joshua 12:1-24",
+      "Joshua 13:1-14:5",
+      "Joshua 14:6-15",
+      "Joshua 21:1-45"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 32:1-42",
+        "Joshua 12:1-24"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 13:1-14:5"
+      ],
+      "laterReferences": [
+        "Joshua 14:6-15",
+        "Joshua 21:1-45"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-10-conquest-summary",
+      "nextStory": "joshua-12-caleb-and-hebron"
+    },
+    "source": {
+      "id": "joshua-11-land-allocation-begins",
+      "reference": "Joshua 13:1-14:5",
+      "storyTitle": "Land Allocation Begins East and West of the Jordan",
+      "eventType": [
+        "Land Allocation",
+        "Instruction Received",
+        "Inheritance",
+        "Tribal Settlement"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Canaan and Transjordan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "tribes of Israel",
+          "Reuben",
+          "Gad",
+          "half-tribe of Manasseh",
+          "Levites"
+        ],
+        "sceneScale": "National Land Distribution",
+        "timeAnchor": "After conquest summary; before Caleb receives Hebron",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Older leader instructed to distribute remaining land",
+          "relationships": []
+        },
+        {
+          "name": "Reubenites",
+          "role": "Tribe with inheritance east of Jordan",
+          "relationships": []
+        },
+        {
+          "name": "Gadites",
+          "role": "Tribe with inheritance east of Jordan",
+          "relationships": []
+        },
+        {
+          "name": "Half-tribe of Manasseh",
+          "role": "Receives inheritance east and later west of Jordan",
+          "relationships": []
+        },
+        {
+          "name": "Levites",
+          "role": "Receive no tribal land inheritance, but receive offerings and later cities",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Land west of the Jordan being allocated"
+        },
+        {
+          "ancientName": "Gilead",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "East-Jordan region assigned to tribes"
+        },
+        {
+          "ancientName": "Bashan",
+          "modernRegion": "Northern Israel / Galilee-Hazor region",
+          "description": "Northern Transjordan region associated with Og"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+          "description": "Boundary between eastern and western allotments"
+        },
+        {
+          "ancientName": "Shiloh",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Later central location for the Tent of Meeting in Joshua"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Conquest summary after defeated kings",
+        "destination": "Tribal inheritance distribution",
+        "route": [
+          "Joshua is described as old",
+          "Remaining land is named",
+          "Eastern inheritances are reviewed",
+          "Levites are distinguished from landholding tribes",
+          "The narrative prepares for western allotments by lot"
+        ],
+        "majorStops": [
+          "Canaan",
+          "Gilead",
+          "Bashan",
+          "Jordan boundary",
+          "tribal allotment areas"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Joshua 12 summarized defeated kings east and west of the Jordan.",
+        "whatIsHappeningNow": "Joshua is instructed to distribute the land, eastern tribal inheritances are reviewed, and the structure for western allotments is introduced.",
+        "whatHappensAfter": "Caleb approaches Joshua at Gilgal and receives Hebron.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "Land Allocation Begins East and West of the Jordan ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This shifts Joshua from battle narratives to settlement and inheritance.",
+          "It recognizes remaining land still not possessed while beginning distribution.",
+          "It connects Numbers 32 and the eastern tribes with Joshua's land section.",
+          "It prepares the reader for tribe-by-tribe allotments."
+        ],
+        "geographicContext": [
+          "The land section spans both sides of the Jordan.",
+          "Eastern territories include Gilead and Bashan; western Canaan is the main focus of subsequent allotments.",
+          "The Jordan functions as a major boundary between already assigned eastern land and western tribal allotments."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Inheritance distribution involves tribes, clans, families, boundaries, cities, and pasturelands.",
+          "Levites differ from other tribes because they do not receive one continuous tribal territory.",
+          "Land allotment is administrative, geographic, and covenantal within the narrative, not a battle scene."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This begins the settlement half of Joshua.",
+        "It shows that conquest summary does not equal every piece of land being fully occupied.",
+        "It organizes Israel from a mobile military camp toward territorial tribal life.",
+        "It sets up Caleb, Judah, Joseph, and the remaining tribes."
+      ],
+      "stepIntoTheStory": [
+        "After the king list, the camera slows down. Joshua is now old, and the work shifts from battles to inheritance boundaries.",
+        "The eastern lands already assigned to Reuben, Gad, and half-Manasseh are reviewed. The Jordan is the dividing line between these lands and the allotments west of the river.",
+        "The Levites stand out because they do not receive territory like the other tribes. Their place in the land will be handled differently."
+      ],
+      "documentaryObservations": [
+        "Joshua described as old.",
+        "Remaining land still named.",
+        "Eastern tribes' territory reviewed.",
+        "Gilead and Bashan listed as inheritance regions.",
+        "The Jordan functioning as a boundary.",
+        "Levites distinguished from landholding tribes.",
+        "Land distribution by tribal inheritance beginning.",
+        "The story shifting from armies to boundaries."
+      ],
+      "audioScript": "Joshua 13 through 14:5 begins the land distribution section. Joshua is described as old, and remaining land is still named. The chapter reviews the territories east of the Jordan already assigned to Reuben, Gad, and half the tribe of Manasseh. The Jordan becomes the dividing line between eastern inheritances and the western allotments still to be assigned. The Levites are also set apart from ordinary tribal land inheritance. The narrative is moving from conquest campaigns into settlement, boundaries, and tribal identity.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 32:1-42",
+          "Joshua 12:1-24"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 13:1-14:5"
+        ],
+        "laterReferences": [
+          "Joshua 14:6-15",
+          "Joshua 21:1-45"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-10-conquest-summary",
+        "nextStory": "joshua-12-caleb-and-hebron"
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Reubenites",
+          "Gadites",
+          "Half-tribe of Manasseh",
+          "Levites"
+        ],
+        "places": [
+          "Canaan",
+          "Gilead",
+          "Bashan",
+          "Jordan River",
+          "Shiloh"
+        ],
+        "events": [
+          "land allocation begins",
+          "eastern tribes inheritance",
+          "Levites no land inheritance"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 13",
+          "Joshua 14:1-5",
+          "land allotment begins"
+        ]
+      },
+      "realitySummary": "Land Allocation Begins East and West of the Jordan. Joshua is instructed to distribute the land, eastern tribal inheritances are reviewed, and the structure for western allotments is introduced."
+    }
+  },
+  {
+    "id": "joshua-12-caleb-and-hebron",
+    "sourceFile": "joshua-12-caleb-and-hebron.json",
+    "searchTerms": [
+      "Caleb",
+      "Joshua",
+      "Judahites",
+      "Moses",
+      "Gilgal",
+      "Hebron",
+      "Kadesh-barnea",
+      "Hill country",
+      "Caleb receives Hebron",
+      "Caleb inheritance",
+      "Hebron hill country",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 14 Caleb",
+      "Caleb and Hebron",
+      "Caleb son of Jephunneh",
+      "Inheritance",
+      "Request",
+      "Land Grant",
+      "Personal History",
+      "Caleb Receives Hebron",
+      "Joshua 14:6-15",
+      "Caleb Receives Hebron. Caleb recalls the spy episode, asks Joshua for the hill country, and receives Hebron as his inheritance."
+    ],
+    "title": "Caleb Receives Hebron",
+    "reference": "Joshua 14:6-15",
+    "kicker": "Study",
+    "eventType": [
+      "Inheritance",
+      "Request",
+      "Land Grant",
+      "Personal History"
+    ],
+    "summary": "Caleb Receives Hebron. Caleb recalls the spy episode, asks Joshua for the hill country, and receives Hebron as his inheritance.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Caleb"
+      },
+      {
+        "label": "Location",
+        "value": "Gilgal and Hebron"
+      },
+      {
+        "label": "Modern Region",
+        "value": "West Bank / central hill country region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Tribal Inheritance Request"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After land allocation begins; before Judah's inheritance boundaries"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "Caleb Receives Hebron"
+    ],
+    "currentStory": "Caleb Receives Hebron",
+    "stepIntoStory": "At Gilgal, Caleb comes before Joshua with men of Judah. He is no longer the young spy who entered the land from Kadesh-barnea.\n\nCaleb's speech reaches back forty-five years to the spy mission. The hill country he once saw now becomes the land he asks to receive.\n\nJoshua grants him Hebron. The scene turns a broad national allotment into a specific inheritance for a specific man and clan.",
+    "notice": [
+      "Caleb approaching Joshua at Gilgal.",
+      "Judahites present with Caleb.",
+      "Kadesh-barnea remembered as the spy-sending location.",
+      "Forty-five years referenced in Caleb's speech.",
+      "Hill country requested as inheritance.",
+      "Hebron named as Caleb's inheritance.",
+      "Joshua blessing Caleb.",
+      "Land allotment becoming personal and tribal."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Joshua was instructed to distribute the land and the eastern inheritances were reviewed."
+      },
+      {
+        "label": "Now",
+        "value": "Caleb recalls the spy episode, asks Joshua for the hill country, and receives Hebron as his inheritance."
+      },
+      {
+        "label": "Next",
+        "value": "Judah's tribal inheritance boundaries and cities are listed."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This reconnects Joshua's land section to the spy story in Numbers."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It highlights Caleb as one of the two surviving faithful spies from the earlier generation."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces Hebron as a major inheritance location in Judah's territory."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It personalizes land distribution through one named survivor from the wilderness generation."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Gilgal is the administrative setting where Caleb speaks to Joshua."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Hebron is in the hill country, a different terrain from the Jordan Valley and coastal plain."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The request looks back to Kadesh-barnea and forward to possession in the hill country."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Inheritance requests could be handled publicly before leaders and tribal representatives."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Hill country settlement involved different terrain than valley agriculture or fortified lowlands."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The memory of older promises shapes current land distribution."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the first personal inheritance request in Joshua's land section.",
+      "It ties the land allotments to the earlier spy narrative.",
+      "It positions Hebron within Judah's developing inheritance story.",
+      "It shows continuity between Moses' promise and Joshua's distribution."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Caleb",
+        "role": "Requests the hill country promised to him",
+        "relationships": [
+          "Son of Jephunneh",
+          "from the tribe of Judah"
+        ]
+      },
+      {
+        "name": "Joshua",
+        "role": "Grants Hebron to Caleb as inheritance",
+        "relationships": []
+      },
+      {
+        "name": "Judahites",
+        "role": "Tribal group present in the inheritance setting",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Earlier promised Caleb inheritance according to the review",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Location where Caleb approaches Joshua"
+      },
+      {
+        "ancientName": "Hebron",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Hill country city given to Caleb"
+      },
+      {
+        "ancientName": "Kadesh-barnea",
+        "modernRegion": "Southern wilderness / Negev region",
+        "description": "Place where Caleb was sent as a spy in the earlier generation"
+      },
+      {
+        "ancientName": "Hill country",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Terrain Caleb asks to receive"
+      }
+    ],
+    "people": [
+      "Caleb",
+      "Joshua",
+      "Judahites",
+      "Moses"
+    ],
+    "places": [
+      "Gilgal",
+      "Hebron",
+      "Kadesh-barnea",
+      "Hill country"
+    ],
+    "movement": [
+      "Caleb approaches Joshua at Gilgal",
+      "He recalls being sent from Kadesh-barnea as a spy",
+      "He recalls Moses' promise",
+      "He asks for the hill country",
+      "Joshua grants Hebron to Caleb"
+    ],
+    "movementDetails": {
+      "startingPoint": "Gilgal",
+      "destination": "Hebron in the hill country",
+      "route": [
+        "Caleb approaches Joshua at Gilgal",
+        "He recalls being sent from Kadesh-barnea as a spy",
+        "He recalls Moses' promise",
+        "He asks for the hill country",
+        "Joshua grants Hebron to Caleb"
+      ],
+      "majorStops": [
+        "Gilgal",
+        "Kadesh-barnea in memory",
+        "Hebron",
+        "hill country"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 14:6-15 narrows the land distribution to Caleb. At Gilgal, Caleb son of Jephunneh comes to Joshua with men from Judah. He recalls the spy mission from Kadesh-barnea and the promise Moses made to him. Caleb asks for the hill country, including Hebron. Joshua grants it to him as inheritance. This scene connects the current land allotments to the earlier spy story and shows one of the surviving members of the wilderness generation receiving land inside Canaan.",
+    "crossReferences": [
+      "Numbers 13:1-14:38",
+      "Deuteronomy 1:34-36",
+      "Joshua 14:6-15",
+      "Joshua 15:13-19",
+      "Judges 1:10-15"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 13:1-14:38",
+        "Deuteronomy 1:34-36"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 14:6-15"
+      ],
+      "laterReferences": [
+        "Joshua 15:13-19",
+        "Judges 1:10-15"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Caleb",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-11-land-allocation-begins",
+      "nextStory": "joshua-13-judah-inheritance"
+    },
+    "source": {
+      "id": "joshua-12-caleb-and-hebron",
+      "reference": "Joshua 14:6-15",
+      "storyTitle": "Caleb Receives Hebron",
+      "eventType": [
+        "Inheritance",
+        "Request",
+        "Land Grant",
+        "Personal History"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Caleb",
+        "approximateAge": null,
+        "currentLocation": "Gilgal and Hebron",
+        "modernRegion": "West Bank / central hill country region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "Joshua",
+          "Judahites",
+          "Caleb"
+        ],
+        "sceneScale": "Tribal Inheritance Request",
+        "timeAnchor": "After land allocation begins; before Judah's inheritance boundaries",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Caleb",
+          "role": "Requests the hill country promised to him",
+          "relationships": [
+            "Son of Jephunneh",
+            "from the tribe of Judah"
+          ]
+        },
+        {
+          "name": "Joshua",
+          "role": "Grants Hebron to Caleb as inheritance",
+          "relationships": []
+        },
+        {
+          "name": "Judahites",
+          "role": "Tribal group present in the inheritance setting",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Earlier promised Caleb inheritance according to the review",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Location where Caleb approaches Joshua"
+        },
+        {
+          "ancientName": "Hebron",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Hill country city given to Caleb"
+        },
+        {
+          "ancientName": "Kadesh-barnea",
+          "modernRegion": "Southern wilderness / Negev region",
+          "description": "Place where Caleb was sent as a spy in the earlier generation"
+        },
+        {
+          "ancientName": "Hill country",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Terrain Caleb asks to receive"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Gilgal",
+        "destination": "Hebron in the hill country",
+        "route": [
+          "Caleb approaches Joshua at Gilgal",
+          "He recalls being sent from Kadesh-barnea as a spy",
+          "He recalls Moses' promise",
+          "He asks for the hill country",
+          "Joshua grants Hebron to Caleb"
+        ],
+        "majorStops": [
+          "Gilgal",
+          "Kadesh-barnea in memory",
+          "Hebron",
+          "hill country"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Joshua was instructed to distribute the land and the eastern inheritances were reviewed.",
+        "whatIsHappeningNow": "Caleb recalls the spy episode, asks Joshua for the hill country, and receives Hebron as his inheritance.",
+        "whatHappensAfter": "Judah's tribal inheritance boundaries and cities are listed.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "Caleb Receives Hebron ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This reconnects Joshua's land section to the spy story in Numbers.",
+          "It highlights Caleb as one of the two surviving faithful spies from the earlier generation.",
+          "It introduces Hebron as a major inheritance location in Judah's territory.",
+          "It personalizes land distribution through one named survivor from the wilderness generation."
+        ],
+        "geographicContext": [
+          "Gilgal is the administrative setting where Caleb speaks to Joshua.",
+          "Hebron is in the hill country, a different terrain from the Jordan Valley and coastal plain.",
+          "The request looks back to Kadesh-barnea and forward to possession in the hill country."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Inheritance requests could be handled publicly before leaders and tribal representatives.",
+          "Hill country settlement involved different terrain than valley agriculture or fortified lowlands.",
+          "The memory of older promises shapes current land distribution."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the first personal inheritance request in Joshua's land section.",
+        "It ties the land allotments to the earlier spy narrative.",
+        "It positions Hebron within Judah's developing inheritance story.",
+        "It shows continuity between Moses' promise and Joshua's distribution."
+      ],
+      "stepIntoTheStory": [
+        "At Gilgal, Caleb comes before Joshua with men of Judah. He is no longer the young spy who entered the land from Kadesh-barnea.",
+        "Caleb's speech reaches back forty-five years to the spy mission. The hill country he once saw now becomes the land he asks to receive.",
+        "Joshua grants him Hebron. The scene turns a broad national allotment into a specific inheritance for a specific man and clan."
+      ],
+      "documentaryObservations": [
+        "Caleb approaching Joshua at Gilgal.",
+        "Judahites present with Caleb.",
+        "Kadesh-barnea remembered as the spy-sending location.",
+        "Forty-five years referenced in Caleb's speech.",
+        "Hill country requested as inheritance.",
+        "Hebron named as Caleb's inheritance.",
+        "Joshua blessing Caleb.",
+        "Land allotment becoming personal and tribal."
+      ],
+      "audioScript": "Joshua 14:6-15 narrows the land distribution to Caleb. At Gilgal, Caleb son of Jephunneh comes to Joshua with men from Judah. He recalls the spy mission from Kadesh-barnea and the promise Moses made to him. Caleb asks for the hill country, including Hebron. Joshua grants it to him as inheritance. This scene connects the current land allotments to the earlier spy story and shows one of the surviving members of the wilderness generation receiving land inside Canaan.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 13:1-14:38",
+          "Deuteronomy 1:34-36"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 14:6-15"
+        ],
+        "laterReferences": [
+          "Joshua 15:13-19",
+          "Judges 1:10-15"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Caleb",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-11-land-allocation-begins",
+        "nextStory": "joshua-13-judah-inheritance"
+      },
+      "search": {
+        "people": [
+          "Caleb",
+          "Joshua",
+          "Judahites",
+          "Moses"
+        ],
+        "places": [
+          "Gilgal",
+          "Hebron",
+          "Kadesh-barnea",
+          "Hill country"
+        ],
+        "events": [
+          "Caleb receives Hebron",
+          "Caleb inheritance",
+          "Hebron hill country"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 14 Caleb",
+          "Caleb and Hebron",
+          "Caleb son of Jephunneh"
+        ]
+      },
+      "realitySummary": "Caleb Receives Hebron. Caleb recalls the spy episode, asks Joshua for the hill country, and receives Hebron as his inheritance."
+    }
+  },
+  {
+    "id": "joshua-13-judah-inheritance",
+    "sourceFile": "joshua-13-judah-inheritance.json",
+    "searchTerms": [
+      "Tribe of Judah",
+      "Caleb",
+      "Achsah",
+      "Othniel",
+      "Jebusites",
+      "Judah's territory",
+      "Hebron",
+      "Debir / Kiriath-sepher",
+      "Negev",
+      "Jerusalem",
+      "Mediterranean Sea",
+      "Judah inheritance",
+      "Achsah springs",
+      "Othniel Debir",
+      "Judah boundaries",
+      "Conquest",
+      "Joshua",
+      "Entry into Canaan",
+      "Joshua 15",
+      "Judah allotment",
+      "Achsah and Othniel",
+      "Land Allocation",
+      "Boundary List",
+      "City List",
+      "Family Settlement",
+      "Judah's Inheritance",
+      "Judah's Inheritance. Judah's boundaries and cities are listed, Caleb's family inheritance is expanded, and Achsah receives springs."
+    ],
+    "title": "Judah's Inheritance",
+    "reference": "Joshua 15",
+    "kicker": "Study",
+    "eventType": [
+      "Land Allocation",
+      "Boundary List",
+      "City List",
+      "Family Settlement"
+    ],
+    "summary": "Judah's Inheritance. Judah's boundaries and cities are listed, Caleb's family inheritance is expanded, and Achsah receives springs.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Judah"
+      },
+      {
+        "label": "Location",
+        "value": "Southern Canaan"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Tribal Land Allotment"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Caleb receives Hebron; before Joseph tribes' inheritance"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "Judah's Inheritance"
+    ],
+    "currentStory": "Judah's Inheritance",
+    "stepIntoStory": "The chapter moves like a surveyor's record across Judah's territory. Boundaries are traced through southern, eastern, northern, and western edges.\n\nWithin that large map, the narrative zooms into Caleb's family. Hebron, Debir, Othniel, Achsah, and springs create a smaller inheritance scene inside the tribal allotment.\n\nThe chapter ends with city names, turning conquest geography into settlement geography.",
+    "notice": [
+      "Judah's boundaries traced by region.",
+      "Negev dryland included in the allotment.",
+      "Hebron linked to Caleb.",
+      "Anakim driven out in Caleb's inheritance notice.",
+      "Kiriath-sepher/Debir captured by Othniel.",
+      "Achsah riding and asking for springs.",
+      "Upper and lower springs granted.",
+      "Long city lists organized by region.",
+      "Jebusites remaining in Jerusalem."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Caleb received Hebron as his inheritance."
+      },
+      {
+        "label": "Now",
+        "value": "Judah's boundaries and cities are listed, Caleb's family inheritance is expanded, and Achsah receives springs."
+      },
+      {
+        "label": "Next",
+        "value": "The inheritance of Ephraim and Manasseh is described."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the first major western tribal allotment described in detail."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It places Judah in the southern part of Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It continues Caleb's story inside Judah's inheritance."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces city lists and boundary descriptions as core settlement material."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Judah's territory includes southern wilderness/Negev areas, hill country, lowland zones, and western approaches."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Hebron and Debir are key hill country locations within the narrative."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The chapter also references Jerusalem, where Jebusites remain at this stage."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Land allotments depend on boundaries, cities, water sources, and family claims."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Springs are valuable in dry southern terrain, which makes Achsah's request geographically practical."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "City lists organize settlement by regions rather than battle scenes."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This establishes Judah's tribal geography in Joshua.",
+      "It develops Caleb's inheritance through Hebron, Debir, Othniel, and Achsah.",
+      "It shows that allotment includes boundaries, cities, family claims, and remaining inhabitants.",
+      "It prepares for later tribal allotment lists."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Tribe of Judah",
+        "role": "Receives southern tribal allotment",
+        "relationships": []
+      },
+      {
+        "name": "Caleb",
+        "role": "Receives Hebron and drives out Anakim in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Achsah",
+        "role": "Caleb's daughter who asks for springs",
+        "relationships": []
+      },
+      {
+        "name": "Othniel",
+        "role": "Captures Kiriath-sepher and receives Achsah as wife",
+        "relationships": [
+          "Son of Kenaz",
+          "relative of Caleb"
+        ]
+      },
+      {
+        "name": "Jebusites",
+        "role": "Remain in Jerusalem according to the chapter's notice",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Judah's territory",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Southern tribal inheritance region"
+      },
+      {
+        "ancientName": "Hebron",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "City connected to Caleb"
+      },
+      {
+        "ancientName": "Debir / Kiriath-sepher",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "City captured by Othniel"
+      },
+      {
+        "ancientName": "Negev",
+        "modernRegion": "Southern Israel",
+        "description": "Southern dryland region in Judah's allotment"
+      },
+      {
+        "ancientName": "Jerusalem",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "City where Jebusites remain in this notice"
+      },
+      {
+        "ancientName": "Mediterranean Sea",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Western boundary region"
+      }
+    ],
+    "people": [
+      "Tribe of Judah",
+      "Caleb",
+      "Achsah",
+      "Othniel",
+      "Jebusites"
+    ],
+    "places": [
+      "Judah's territory",
+      "Hebron",
+      "Debir / Kiriath-sepher",
+      "Negev",
+      "Jerusalem",
+      "Mediterranean Sea"
+    ],
+    "movement": [
+      "Judah's southern, eastern, northern, and western boundaries are described",
+      "Caleb's inheritance at Hebron is narrated",
+      "Othniel captures Kiriath-sepher",
+      "Achsah asks for springs",
+      "Cities of Judah are listed by regions"
+    ],
+    "movementDetails": {
+      "startingPoint": "Judah's boundary description",
+      "destination": "Cities and family inheritance within Judah",
+      "route": [
+        "Judah's southern, eastern, northern, and western boundaries are described",
+        "Caleb's inheritance at Hebron is narrated",
+        "Othniel captures Kiriath-sepher",
+        "Achsah asks for springs",
+        "Cities of Judah are listed by regions"
+      ],
+      "majorStops": [
+        "Negev",
+        "Dead Sea region",
+        "Hebron",
+        "Debir",
+        "Jerusalem",
+        "western boundary"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 15 gives Judah's inheritance. The chapter traces boundaries, names cities, and then returns to Caleb's family story. Caleb receives Hebron, and Othniel captures Kiriath-sepher, also called Debir. Caleb's daughter Achsah asks for springs, an important request in the dry southern landscape, and receives upper and lower springs. The chapter then lists Judah's cities by region. This is no longer a battle march; it is a land record, showing boundaries, towns, family claims, water sources, and remaining inhabitants.",
+    "crossReferences": [
+      "Joshua 14:6-15",
+      "Joshua 15:1-63",
+      "Judges 1:10-15",
+      "2 Samuel 5:6-9"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 14:6-15"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 15:1-63"
+      ],
+      "laterReferences": [
+        "Judges 1:10-15",
+        "2 Samuel 5:6-9"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Judah",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-12-caleb-and-hebron",
+      "nextStory": "joshua-14-ephraim-and-manasseh"
+    },
+    "source": {
+      "id": "joshua-13-judah-inheritance",
+      "reference": "Joshua 15",
+      "storyTitle": "Judah's Inheritance",
+      "eventType": [
+        "Land Allocation",
+        "Boundary List",
+        "City List",
+        "Family Settlement"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Judah",
+        "approximateAge": null,
+        "currentLocation": "Southern Canaan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "tribe of Judah",
+          "Caleb",
+          "Achsah",
+          "Othniel"
+        ],
+        "sceneScale": "Tribal Land Allotment",
+        "timeAnchor": "After Caleb receives Hebron; before Joseph tribes' inheritance",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Tribe of Judah",
+          "role": "Receives southern tribal allotment",
+          "relationships": []
+        },
+        {
+          "name": "Caleb",
+          "role": "Receives Hebron and drives out Anakim in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Achsah",
+          "role": "Caleb's daughter who asks for springs",
+          "relationships": []
+        },
+        {
+          "name": "Othniel",
+          "role": "Captures Kiriath-sepher and receives Achsah as wife",
+          "relationships": [
+            "Son of Kenaz",
+            "relative of Caleb"
+          ]
+        },
+        {
+          "name": "Jebusites",
+          "role": "Remain in Jerusalem according to the chapter's notice",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Judah's territory",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Southern tribal inheritance region"
+        },
+        {
+          "ancientName": "Hebron",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "City connected to Caleb"
+        },
+        {
+          "ancientName": "Debir / Kiriath-sepher",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "City captured by Othniel"
+        },
+        {
+          "ancientName": "Negev",
+          "modernRegion": "Southern Israel",
+          "description": "Southern dryland region in Judah's allotment"
+        },
+        {
+          "ancientName": "Jerusalem",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "City where Jebusites remain in this notice"
+        },
+        {
+          "ancientName": "Mediterranean Sea",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Western boundary region"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Judah's boundary description",
+        "destination": "Cities and family inheritance within Judah",
+        "route": [
+          "Judah's southern, eastern, northern, and western boundaries are described",
+          "Caleb's inheritance at Hebron is narrated",
+          "Othniel captures Kiriath-sepher",
+          "Achsah asks for springs",
+          "Cities of Judah are listed by regions"
+        ],
+        "majorStops": [
+          "Negev",
+          "Dead Sea region",
+          "Hebron",
+          "Debir",
+          "Jerusalem",
+          "western boundary"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Caleb received Hebron as his inheritance.",
+        "whatIsHappeningNow": "Judah's boundaries and cities are listed, Caleb's family inheritance is expanded, and Achsah receives springs.",
+        "whatHappensAfter": "The inheritance of Ephraim and Manasseh is described.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "Judah's Inheritance ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This is the first major western tribal allotment described in detail.",
+          "It places Judah in the southern part of Canaan.",
+          "It continues Caleb's story inside Judah's inheritance.",
+          "It introduces city lists and boundary descriptions as core settlement material."
+        ],
+        "geographicContext": [
+          "Judah's territory includes southern wilderness/Negev areas, hill country, lowland zones, and western approaches.",
+          "Hebron and Debir are key hill country locations within the narrative.",
+          "The chapter also references Jerusalem, where Jebusites remain at this stage."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Land allotments depend on boundaries, cities, water sources, and family claims.",
+          "Springs are valuable in dry southern terrain, which makes Achsah's request geographically practical.",
+          "City lists organize settlement by regions rather than battle scenes."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This establishes Judah's tribal geography in Joshua.",
+        "It develops Caleb's inheritance through Hebron, Debir, Othniel, and Achsah.",
+        "It shows that allotment includes boundaries, cities, family claims, and remaining inhabitants.",
+        "It prepares for later tribal allotment lists."
+      ],
+      "stepIntoTheStory": [
+        "The chapter moves like a surveyor's record across Judah's territory. Boundaries are traced through southern, eastern, northern, and western edges.",
+        "Within that large map, the narrative zooms into Caleb's family. Hebron, Debir, Othniel, Achsah, and springs create a smaller inheritance scene inside the tribal allotment.",
+        "The chapter ends with city names, turning conquest geography into settlement geography."
+      ],
+      "documentaryObservations": [
+        "Judah's boundaries traced by region.",
+        "Negev dryland included in the allotment.",
+        "Hebron linked to Caleb.",
+        "Anakim driven out in Caleb's inheritance notice.",
+        "Kiriath-sepher/Debir captured by Othniel.",
+        "Achsah riding and asking for springs.",
+        "Upper and lower springs granted.",
+        "Long city lists organized by region.",
+        "Jebusites remaining in Jerusalem."
+      ],
+      "audioScript": "Joshua 15 gives Judah's inheritance. The chapter traces boundaries, names cities, and then returns to Caleb's family story. Caleb receives Hebron, and Othniel captures Kiriath-sepher, also called Debir. Caleb's daughter Achsah asks for springs, an important request in the dry southern landscape, and receives upper and lower springs. The chapter then lists Judah's cities by region. This is no longer a battle march; it is a land record, showing boundaries, towns, family claims, water sources, and remaining inhabitants.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 14:6-15"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 15:1-63"
+        ],
+        "laterReferences": [
+          "Judges 1:10-15",
+          "2 Samuel 5:6-9"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Judah",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-12-caleb-and-hebron",
+        "nextStory": "joshua-14-ephraim-and-manasseh"
+      },
+      "search": {
+        "people": [
+          "Tribe of Judah",
+          "Caleb",
+          "Achsah",
+          "Othniel",
+          "Jebusites"
+        ],
+        "places": [
+          "Judah's territory",
+          "Hebron",
+          "Debir / Kiriath-sepher",
+          "Negev",
+          "Jerusalem",
+          "Mediterranean Sea"
+        ],
+        "events": [
+          "Judah inheritance",
+          "Achsah springs",
+          "Othniel Debir",
+          "Judah boundaries"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 15",
+          "Judah allotment",
+          "Achsah and Othniel"
+        ]
+      },
+      "realitySummary": "Judah's Inheritance. Judah's boundaries and cities are listed, Caleb's family inheritance is expanded, and Achsah receives springs."
+    }
+  },
+  {
+    "id": "joshua-14-ephraim-and-manasseh",
+    "sourceFile": "joshua-14-ephraim-and-manasseh.json",
+    "searchTerms": [
+      "Ephraim",
+      "Manasseh",
+      "Daughters of Zelophehad",
+      "Joshua",
+      "Canaanites",
+      "Ephraim's territory",
+      "Manasseh's territory",
+      "Shechem",
+      "Tappuah",
+      "Megiddo",
+      "Beth-shean",
+      "Ephraim inheritance",
+      "Manasseh inheritance",
+      "daughters of Zelophehad",
+      "Joseph tribes complaint",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 16-17",
+      "Joseph tribes allotment",
+      "Ephraim and Manasseh",
+      "Land Allocation",
+      "Boundary List",
+      "Inheritance Case",
+      "Tribal Complaint",
+      "The Inheritance of Ephraim and Manasseh",
+      "The Inheritance of Ephraim and Manasseh. Ephraim and Manasseh receive central inheritances, Zelophehad's daughters receive land, and the Joseph tribes raise a complaint about territory."
+    ],
+    "title": "The Inheritance of Ephraim and Manasseh",
+    "reference": "Joshua 16-17",
+    "kicker": "Study",
+    "eventType": [
+      "Land Allocation",
+      "Boundary List",
+      "Inheritance Case",
+      "Tribal Complaint"
+    ],
+    "summary": "The Inheritance of Ephraim and Manasseh. Ephraim and Manasseh receive central inheritances, Zelophehad's daughters receive land, and the Joseph tribes raise a complaint about territory.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joseph tribes"
+      },
+      {
+        "label": "Location",
+        "value": "Central Canaan"
+      },
+      {
+        "label": "Modern Region",
+        "value": "West Bank / central hill country region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Tribal Land Allotment"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Judah's inheritance; before Shiloh allotments"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "The Inheritance of Ephraim and Manasseh"
+    ],
+    "currentStory": "The Inheritance of Ephraim and Manasseh",
+    "stepIntoStory": "The land record moves north from Judah into the central hill country. Ephraim and Manasseh, the Joseph tribes, receive their allotments.\n\nThe daughters of Zelophehad appear again, now not as a legal theory but as recipients of land among Manasseh's clans.\n\nThe Joseph tribes complain that their land is not enough. Joshua points them toward the forested hill country, turning inheritance into the physical work of clearing and settling.",
+    "notice": [
+      "Boundary lines for Ephraim and Manasseh.",
+      "Clan-based inheritance among Manasseh.",
+      "Daughters of Zelophehad receiving land.",
+      "Canaanites remaining in certain towns.",
+      "Valley towns associated with chariots of iron.",
+      "Forested hill country named as expandable land.",
+      "Joshua responding to tribal complaint.",
+      "The difference between allotted land and occupied land."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Judah's southern inheritance was described."
+      },
+      {
+        "label": "Now",
+        "value": "Ephraim and Manasseh receive central inheritances, Zelophehad's daughters receive land, and the Joseph tribes raise a complaint about territory."
+      },
+      {
+        "label": "Next",
+        "value": "The Tent of Meeting is set up at Shiloh, and the remaining land is surveyed and allotted."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This defines the inheritance of the Joseph tribes in central Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It continues the daughters of Zelophehad inheritance case from Numbers and Joshua's land section."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It shows that land allotment still involves unresolved settlement challenges."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces the issue of forested hill country and Canaanite chariots."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Ephraim and Manasseh occupy central hill country regions, with some access toward valleys and strategic towns."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Shechem and surrounding highlands become important central locations."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Valley towns with chariots represent a different challenge from forested hill country settlement."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Inheritance is distributed by clans and families, not only by tribe names."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Women with a legal inheritance claim receive land among their father's brothers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Forested hill country requires clearing for settlement."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Iron chariots are associated with stronger control in valley regions."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This establishes the central tribal geography of Ephraim and Manasseh.",
+      "It carries forward the Zelophehad inheritance ruling into actual land distribution.",
+      "It shows that receiving land and fully occupying land are not the same thing in Joshua.",
+      "It leads into the remaining allotments handled from Shiloh."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Ephraim",
+        "role": "Joseph tribe receiving central inheritance",
+        "relationships": []
+      },
+      {
+        "name": "Manasseh",
+        "role": "Joseph tribe receiving inheritance west and east of Jordan",
+        "relationships": []
+      },
+      {
+        "name": "Daughters of Zelophehad",
+        "role": "Receive inheritance among Manasseh according to earlier ruling",
+        "relationships": []
+      },
+      {
+        "name": "Joshua",
+        "role": "Responds to Joseph tribes' complaint about land",
+        "relationships": []
+      },
+      {
+        "name": "Canaanites",
+        "role": "Remain in some towns and are later put to forced labor according to the text",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Ephraim's territory",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Central hill country allotment"
+      },
+      {
+        "ancientName": "Manasseh's territory",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Central/northern hill country allotment"
+      },
+      {
+        "ancientName": "Shechem",
+        "modernRegion": "West Bank / Shechem-Nablus region",
+        "description": "Key central hill country area"
+      },
+      {
+        "ancientName": "Tappuah",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Boundary location in the allotment"
+      },
+      {
+        "ancientName": "Megiddo",
+        "modernRegion": "Northern Israel / Jezreel region",
+        "description": "City associated with Manasseh's towns"
+      },
+      {
+        "ancientName": "Beth-shean",
+        "modernRegion": "Northern Jordan Valley / Israel",
+        "description": "City associated with Manasseh's towns"
+      }
+    ],
+    "people": [
+      "Ephraim",
+      "Manasseh",
+      "Daughters of Zelophehad",
+      "Joshua",
+      "Canaanites"
+    ],
+    "places": [
+      "Ephraim's territory",
+      "Manasseh's territory",
+      "Shechem",
+      "Tappuah",
+      "Megiddo",
+      "Beth-shean"
+    ],
+    "movement": [
+      "Ephraim's boundaries are described",
+      "Manasseh's clans receive allotments",
+      "Daughters of Zelophehad receive inheritance",
+      "Remaining Canaanite towns are noted",
+      "Joseph tribes complain of limited land",
+      "Joshua tells them to clear forested hill country"
+    ],
+    "movementDetails": {
+      "startingPoint": "Joseph tribes' allotment boundaries",
+      "destination": "Expanded settlement through forest clearing",
+      "route": [
+        "Ephraim's boundaries are described",
+        "Manasseh's clans receive allotments",
+        "Daughters of Zelophehad receive inheritance",
+        "Remaining Canaanite towns are noted",
+        "Joseph tribes complain of limited land",
+        "Joshua tells them to clear forested hill country"
+      ],
+      "majorStops": [
+        "Ephraim",
+        "Manasseh",
+        "Shechem region",
+        "forest hill country",
+        "valley towns"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 16 and 17 describe the inheritance of Ephraim and Manasseh, the tribes descended from Joseph. Boundary lines are given, and Manasseh's clans are listed. The daughters of Zelophehad receive inheritance among their father's brothers, continuing the case first raised before Moses. The chapters also note Canaanites remaining in certain towns. When the Joseph tribes complain that their allotment is too small, Joshua tells them to clear the forested hill country. The scene is one of boundaries, clan inheritance, remaining populations, and the work of settlement.",
+    "crossReferences": [
+      "Numbers 27:1-11",
+      "Numbers 36:1-12",
+      "Joshua 15:1-63",
+      "Joshua 16:1-17:18",
+      "Joshua 18:1-10",
+      "Judges 1:27-29"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 27:1-11",
+        "Numbers 36:1-12",
+        "Joshua 15:1-63"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 16:1-17:18"
+      ],
+      "laterReferences": [
+        "Joshua 18:1-10",
+        "Judges 1:27-29"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joseph tribes",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-13-judah-inheritance",
+      "nextStory": "joshua-15-shiloh-and-remaining-allotments"
+    },
+    "source": {
+      "id": "joshua-14-ephraim-and-manasseh",
+      "reference": "Joshua 16-17",
+      "storyTitle": "The Inheritance of Ephraim and Manasseh",
+      "eventType": [
+        "Land Allocation",
+        "Boundary List",
+        "Inheritance Case",
+        "Tribal Complaint"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joseph tribes",
+        "approximateAge": null,
+        "currentLocation": "Central Canaan",
+        "modernRegion": "West Bank / central hill country region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "Ephraim",
+          "Manasseh",
+          "daughters of Zelophehad",
+          "Joshua"
+        ],
+        "sceneScale": "Tribal Land Allotment",
+        "timeAnchor": "After Judah's inheritance; before Shiloh allotments",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Ephraim",
+          "role": "Joseph tribe receiving central inheritance",
+          "relationships": []
+        },
+        {
+          "name": "Manasseh",
+          "role": "Joseph tribe receiving inheritance west and east of Jordan",
+          "relationships": []
+        },
+        {
+          "name": "Daughters of Zelophehad",
+          "role": "Receive inheritance among Manasseh according to earlier ruling",
+          "relationships": []
+        },
+        {
+          "name": "Joshua",
+          "role": "Responds to Joseph tribes' complaint about land",
+          "relationships": []
+        },
+        {
+          "name": "Canaanites",
+          "role": "Remain in some towns and are later put to forced labor according to the text",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Ephraim's territory",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Central hill country allotment"
+        },
+        {
+          "ancientName": "Manasseh's territory",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Central/northern hill country allotment"
+        },
+        {
+          "ancientName": "Shechem",
+          "modernRegion": "West Bank / Shechem-Nablus region",
+          "description": "Key central hill country area"
+        },
+        {
+          "ancientName": "Tappuah",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Boundary location in the allotment"
+        },
+        {
+          "ancientName": "Megiddo",
+          "modernRegion": "Northern Israel / Jezreel region",
+          "description": "City associated with Manasseh's towns"
+        },
+        {
+          "ancientName": "Beth-shean",
+          "modernRegion": "Northern Jordan Valley / Israel",
+          "description": "City associated with Manasseh's towns"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Joseph tribes' allotment boundaries",
+        "destination": "Expanded settlement through forest clearing",
+        "route": [
+          "Ephraim's boundaries are described",
+          "Manasseh's clans receive allotments",
+          "Daughters of Zelophehad receive inheritance",
+          "Remaining Canaanite towns are noted",
+          "Joseph tribes complain of limited land",
+          "Joshua tells them to clear forested hill country"
+        ],
+        "majorStops": [
+          "Ephraim",
+          "Manasseh",
+          "Shechem region",
+          "forest hill country",
+          "valley towns"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Judah's southern inheritance was described.",
+        "whatIsHappeningNow": "Ephraim and Manasseh receive central inheritances, Zelophehad's daughters receive land, and the Joseph tribes raise a complaint about territory.",
+        "whatHappensAfter": "The Tent of Meeting is set up at Shiloh, and the remaining land is surveyed and allotted.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "The Inheritance of Ephraim and Manasseh ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This defines the inheritance of the Joseph tribes in central Canaan.",
+          "It continues the daughters of Zelophehad inheritance case from Numbers and Joshua's land section.",
+          "It shows that land allotment still involves unresolved settlement challenges.",
+          "It introduces the issue of forested hill country and Canaanite chariots."
+        ],
+        "geographicContext": [
+          "Ephraim and Manasseh occupy central hill country regions, with some access toward valleys and strategic towns.",
+          "Shechem and surrounding highlands become important central locations.",
+          "Valley towns with chariots represent a different challenge from forested hill country settlement."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Inheritance is distributed by clans and families, not only by tribe names.",
+          "Women with a legal inheritance claim receive land among their father's brothers.",
+          "Forested hill country requires clearing for settlement.",
+          "Iron chariots are associated with stronger control in valley regions."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This establishes the central tribal geography of Ephraim and Manasseh.",
+        "It carries forward the Zelophehad inheritance ruling into actual land distribution.",
+        "It shows that receiving land and fully occupying land are not the same thing in Joshua.",
+        "It leads into the remaining allotments handled from Shiloh."
+      ],
+      "stepIntoTheStory": [
+        "The land record moves north from Judah into the central hill country. Ephraim and Manasseh, the Joseph tribes, receive their allotments.",
+        "The daughters of Zelophehad appear again, now not as a legal theory but as recipients of land among Manasseh's clans.",
+        "The Joseph tribes complain that their land is not enough. Joshua points them toward the forested hill country, turning inheritance into the physical work of clearing and settling."
+      ],
+      "documentaryObservations": [
+        "Boundary lines for Ephraim and Manasseh.",
+        "Clan-based inheritance among Manasseh.",
+        "Daughters of Zelophehad receiving land.",
+        "Canaanites remaining in certain towns.",
+        "Valley towns associated with chariots of iron.",
+        "Forested hill country named as expandable land.",
+        "Joshua responding to tribal complaint.",
+        "The difference between allotted land and occupied land."
+      ],
+      "audioScript": "Joshua 16 and 17 describe the inheritance of Ephraim and Manasseh, the tribes descended from Joseph. Boundary lines are given, and Manasseh's clans are listed. The daughters of Zelophehad receive inheritance among their father's brothers, continuing the case first raised before Moses. The chapters also note Canaanites remaining in certain towns. When the Joseph tribes complain that their allotment is too small, Joshua tells them to clear the forested hill country. The scene is one of boundaries, clan inheritance, remaining populations, and the work of settlement.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 27:1-11",
+          "Numbers 36:1-12",
+          "Joshua 15:1-63"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 16:1-17:18"
+        ],
+        "laterReferences": [
+          "Joshua 18:1-10",
+          "Judges 1:27-29"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joseph tribes",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-13-judah-inheritance",
+        "nextStory": "joshua-15-shiloh-and-remaining-allotments"
+      },
+      "search": {
+        "people": [
+          "Ephraim",
+          "Manasseh",
+          "Daughters of Zelophehad",
+          "Joshua",
+          "Canaanites"
+        ],
+        "places": [
+          "Ephraim's territory",
+          "Manasseh's territory",
+          "Shechem",
+          "Tappuah",
+          "Megiddo",
+          "Beth-shean"
+        ],
+        "events": [
+          "Ephraim inheritance",
+          "Manasseh inheritance",
+          "daughters of Zelophehad",
+          "Joseph tribes complaint"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 16-17",
+          "Joseph tribes allotment",
+          "Ephraim and Manasseh"
+        ]
+      },
+      "realitySummary": "The Inheritance of Ephraim and Manasseh. Ephraim and Manasseh receive central inheritances, Zelophehad's daughters receive land, and the Joseph tribes raise a complaint about territory."
+    }
+  },
+  {
+    "id": "joshua-15-shiloh-and-remaining-allotments",
+    "sourceFile": "joshua-15-shiloh-and-remaining-allotments.json",
+    "searchTerms": [
+      "Joshua",
+      "Israelite congregation",
+      "Surveyors",
+      "Seven remaining tribes",
+      "Shiloh",
+      "Canaan",
+      "Benjamin's territory",
+      "Simeon's territory",
+      "Zebulun, Issachar, Asher, Naphtali, Dan",
+      "Timnath-serah",
+      "Shiloh Tent of Meeting",
+      "remaining tribal allotments",
+      "land survey",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 18-19",
+      "Shiloh allotments",
+      "seven tribes receive land",
+      "Assembly",
+      "Survey",
+      "Land Allocation",
+      "Tribal Settlement",
+      "The Tent of Meeting at Shiloh and the Remaining Tribal Allotments",
+      "The Tent of Meeting at Shiloh and the Remaining Tribal Allotments. The congregation sets up the Tent of Meeting at Shiloh, surveyors divide the remaining land into written portions, and the remaining tribes receive allotments by lot."
+    ],
+    "title": "The Tent of Meeting at Shiloh and the Remaining Tribal Allotments",
+    "reference": "Joshua 18-19",
+    "kicker": "Study",
+    "eventType": [
+      "Assembly",
+      "Survey",
+      "Land Allocation",
+      "Tribal Settlement"
+    ],
+    "summary": "The Tent of Meeting at Shiloh and the Remaining Tribal Allotments. The congregation sets up the Tent of Meeting at Shiloh, surveyors divide the remaining land into written portions, and the remaining tribes receive allotments by lot.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Shiloh"
+      },
+      {
+        "label": "Modern Region",
+        "value": "West Bank / central hill country region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Land Survey and Allotment"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Joseph tribes' allotments; before cities of refuge"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "The Tent of Meeting at Shiloh and the Remaining Tribal Allotments"
+    ],
+    "currentStory": "The Tent of Meeting at Shiloh and the Remaining Tribal Allotments",
+    "stepIntoStory": "The whole congregation gathers at Shiloh. The Tent of Meeting is set up there, giving the land allotment process a central location.\n\nJoshua sends surveyors through the land. They walk the territory, describe it by cities, and write it in seven portions.\n\nBack at Shiloh, lots are cast, and the remaining tribes receive their inheritances. The chapter ends with Joshua himself receiving a city in Ephraim's hill country.",
+    "notice": [
+      "The congregation assembled at Shiloh.",
+      "The Tent of Meeting set up in the land.",
+      "Seven tribes still awaiting inheritance.",
+      "Surveyors sent in groups of three men per tribe.",
+      "Land described in writing by cities.",
+      "Lots cast before Yahweh at Shiloh.",
+      "Benjamin receiving land between Judah and Joseph.",
+      "Multiple northern and southern tribal allotments listed.",
+      "Joshua receiving Timnath-serah."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Ephraim and Manasseh received their inheritances, and the Joseph tribes raised a complaint about territory."
+      },
+      {
+        "label": "Now",
+        "value": "The congregation sets up the Tent of Meeting at Shiloh, surveyors divide the remaining land into written portions, and the remaining tribes receive allotments by lot."
+      },
+      {
+        "label": "Next",
+        "value": "Cities of refuge are appointed."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This makes Shiloh the central assembly and sanctuary location in Joshua's settlement section."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It organizes the remaining tribal allotments after Judah and Joseph's tribes."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces written land survey as part of the allocation process."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It closes the main tribal inheritance distribution."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Shiloh is in the central hill country and becomes a major gathering place for Israel in this period."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The surveyors move through the land and write descriptions by cities, showing administrative geography."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The allotments stretch across varied terrain: hill country, valleys, coastal approaches, and northern regions."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Setting up the Tent of Meeting marks a shift from mobile war camp to central assembly site."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Surveying land requires travel, writing, city identification, and division into portions."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Casting lots at Shiloh places the allotment decision in a public assembly setting."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the central administrative moment of the land distribution section.",
+      "It explains how the remaining seven tribes receive land.",
+      "It establishes Shiloh as a major sanctuary and assembly location.",
+      "It completes the move from conquest campaigns to tribal settlement."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Directs the survey and casts lots for remaining tribes",
+        "relationships": []
+      },
+      {
+        "name": "Israelite congregation",
+        "role": "Assembles at Shiloh",
+        "relationships": []
+      },
+      {
+        "name": "Surveyors",
+        "role": "Go through the land and write descriptions by cities in seven portions",
+        "relationships": []
+      },
+      {
+        "name": "Seven remaining tribes",
+        "role": "Receive inheritances by lot",
+        "relationships": []
+      },
+      {
+        "name": "Joshua",
+        "role": "Receives Timnath-serah as his own inheritance after tribal allotments",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Shiloh",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Location where the Tent of Meeting is set up"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Land being surveyed and divided"
+      },
+      {
+        "ancientName": "Benjamin's territory",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Allotment between Judah and Joseph"
+      },
+      {
+        "ancientName": "Simeon's territory",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Inheritance within Judah's region"
+      },
+      {
+        "ancientName": "Zebulun, Issachar, Asher, Naphtali, Dan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Tribes receiving allotments"
+      },
+      {
+        "ancientName": "Timnath-serah",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "City given to Joshua in Ephraim's hill country"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Israelite congregation",
+      "Surveyors",
+      "Seven remaining tribes",
+      "Joshua"
+    ],
+    "places": [
+      "Shiloh",
+      "Canaan",
+      "Benjamin's territory",
+      "Simeon's territory",
+      "Zebulun, Issachar, Asher, Naphtali, Dan",
+      "Timnath-serah"
+    ],
+    "movement": [
+      "The congregation assembles at Shiloh",
+      "The Tent of Meeting is set up there",
+      "Joshua challenges the remaining tribes to take possession",
+      "Three men from each tribe survey the land",
+      "The land is written in seven portions",
+      "Joshua casts lots at Shiloh",
+      "Remaining tribes receive inheritances",
+      "Joshua receives Timnath-serah"
+    ],
+    "movementDetails": {
+      "startingPoint": "Shiloh assembly",
+      "destination": "Remaining tribal allotments",
+      "route": [
+        "The congregation assembles at Shiloh",
+        "The Tent of Meeting is set up there",
+        "Joshua challenges the remaining tribes to take possession",
+        "Three men from each tribe survey the land",
+        "The land is written in seven portions",
+        "Joshua casts lots at Shiloh",
+        "Remaining tribes receive inheritances",
+        "Joshua receives Timnath-serah"
+      ],
+      "majorStops": [
+        "Shiloh",
+        "surveyed land",
+        "Benjamin",
+        "Simeon",
+        "Zebulun",
+        "Issachar",
+        "Asher",
+        "Naphtali",
+        "Dan",
+        "Timnath-serah"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 18 and 19 center on Shiloh. The congregation gathers there, and the Tent of Meeting is set up in the land. Seven tribes still have not received their inheritance, so Joshua sends surveyors through the land. They describe it in writing by cities and divide it into seven portions. Back at Shiloh, Joshua casts lots, and the remaining tribes receive their allotments: Benjamin, Simeon, Zebulun, Issachar, Asher, Naphtali, and Dan. The section ends with Joshua receiving Timnath-serah in the hill country of Ephraim.",
+    "crossReferences": [
+      "Joshua 16:1-17:18",
+      "Joshua 18:1-19:51",
+      "Joshua 20:1-9",
+      "Judges 18:1-31",
+      "1 Samuel 1:3"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 16:1-17:18"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 18:1-19:51"
+      ],
+      "laterReferences": [
+        "Joshua 20:1-9",
+        "Judges 18:1-31",
+        "1 Samuel 1:3"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-14-ephraim-and-manasseh",
+      "nextStory": null
+    },
+    "source": {
+      "id": "joshua-15-shiloh-and-remaining-allotments",
+      "reference": "Joshua 18-19",
+      "storyTitle": "The Tent of Meeting at Shiloh and the Remaining Tribal Allotments",
+      "eventType": [
+        "Assembly",
+        "Survey",
+        "Land Allocation",
+        "Tribal Settlement"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Shiloh",
+        "modernRegion": "West Bank / central hill country region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "Israelite congregation",
+          "surveyors",
+          "remaining seven tribes"
+        ],
+        "sceneScale": "National Land Survey and Allotment",
+        "timeAnchor": "After Joseph tribes' allotments; before cities of refuge",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Directs the survey and casts lots for remaining tribes",
+          "relationships": []
+        },
+        {
+          "name": "Israelite congregation",
+          "role": "Assembles at Shiloh",
+          "relationships": []
+        },
+        {
+          "name": "Surveyors",
+          "role": "Go through the land and write descriptions by cities in seven portions",
+          "relationships": []
+        },
+        {
+          "name": "Seven remaining tribes",
+          "role": "Receive inheritances by lot",
+          "relationships": []
+        },
+        {
+          "name": "Joshua",
+          "role": "Receives Timnath-serah as his own inheritance after tribal allotments",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Shiloh",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Location where the Tent of Meeting is set up"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Land being surveyed and divided"
+        },
+        {
+          "ancientName": "Benjamin's territory",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Allotment between Judah and Joseph"
+        },
+        {
+          "ancientName": "Simeon's territory",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Inheritance within Judah's region"
+        },
+        {
+          "ancientName": "Zebulun, Issachar, Asher, Naphtali, Dan",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Tribes receiving allotments"
+        },
+        {
+          "ancientName": "Timnath-serah",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "City given to Joshua in Ephraim's hill country"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Shiloh assembly",
+        "destination": "Remaining tribal allotments",
+        "route": [
+          "The congregation assembles at Shiloh",
+          "The Tent of Meeting is set up there",
+          "Joshua challenges the remaining tribes to take possession",
+          "Three men from each tribe survey the land",
+          "The land is written in seven portions",
+          "Joshua casts lots at Shiloh",
+          "Remaining tribes receive inheritances",
+          "Joshua receives Timnath-serah"
+        ],
+        "majorStops": [
+          "Shiloh",
+          "surveyed land",
+          "Benjamin",
+          "Simeon",
+          "Zebulun",
+          "Issachar",
+          "Asher",
+          "Naphtali",
+          "Dan",
+          "Timnath-serah"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Ephraim and Manasseh received their inheritances, and the Joseph tribes raised a complaint about territory.",
+        "whatIsHappeningNow": "The congregation sets up the Tent of Meeting at Shiloh, surveyors divide the remaining land into written portions, and the remaining tribes receive allotments by lot.",
+        "whatHappensAfter": "Cities of refuge are appointed.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "The Tent of Meeting at Shiloh and the Remaining Tribal Allotments ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This makes Shiloh the central assembly and sanctuary location in Joshua's settlement section.",
+          "It organizes the remaining tribal allotments after Judah and Joseph's tribes.",
+          "It introduces written land survey as part of the allocation process.",
+          "It closes the main tribal inheritance distribution."
+        ],
+        "geographicContext": [
+          "Shiloh is in the central hill country and becomes a major gathering place for Israel in this period.",
+          "The surveyors move through the land and write descriptions by cities, showing administrative geography.",
+          "The allotments stretch across varied terrain: hill country, valleys, coastal approaches, and northern regions."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Setting up the Tent of Meeting marks a shift from mobile war camp to central assembly site.",
+          "Surveying land requires travel, writing, city identification, and division into portions.",
+          "Casting lots at Shiloh places the allotment decision in a public assembly setting."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the central administrative moment of the land distribution section.",
+        "It explains how the remaining seven tribes receive land.",
+        "It establishes Shiloh as a major sanctuary and assembly location.",
+        "It completes the move from conquest campaigns to tribal settlement."
+      ],
+      "stepIntoTheStory": [
+        "The whole congregation gathers at Shiloh. The Tent of Meeting is set up there, giving the land allotment process a central location.",
+        "Joshua sends surveyors through the land. They walk the territory, describe it by cities, and write it in seven portions.",
+        "Back at Shiloh, lots are cast, and the remaining tribes receive their inheritances. The chapter ends with Joshua himself receiving a city in Ephraim's hill country."
+      ],
+      "documentaryObservations": [
+        "The congregation assembled at Shiloh.",
+        "The Tent of Meeting set up in the land.",
+        "Seven tribes still awaiting inheritance.",
+        "Surveyors sent in groups of three men per tribe.",
+        "Land described in writing by cities.",
+        "Lots cast before Yahweh at Shiloh.",
+        "Benjamin receiving land between Judah and Joseph.",
+        "Multiple northern and southern tribal allotments listed.",
+        "Joshua receiving Timnath-serah."
+      ],
+      "audioScript": "Joshua 18 and 19 center on Shiloh. The congregation gathers there, and the Tent of Meeting is set up in the land. Seven tribes still have not received their inheritance, so Joshua sends surveyors through the land. They describe it in writing by cities and divide it into seven portions. Back at Shiloh, Joshua casts lots, and the remaining tribes receive their allotments: Benjamin, Simeon, Zebulun, Issachar, Asher, Naphtali, and Dan. The section ends with Joshua receiving Timnath-serah in the hill country of Ephraim.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 16:1-17:18"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 18:1-19:51"
+        ],
+        "laterReferences": [
+          "Joshua 20:1-9",
+          "Judges 18:1-31",
+          "1 Samuel 1:3"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-14-ephraim-and-manasseh",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Israelite congregation",
+          "Surveyors",
+          "Seven remaining tribes",
+          "Joshua"
+        ],
+        "places": [
+          "Shiloh",
+          "Canaan",
+          "Benjamin's territory",
+          "Simeon's territory",
+          "Zebulun, Issachar, Asher, Naphtali, Dan",
+          "Timnath-serah"
+        ],
+        "events": [
+          "Shiloh Tent of Meeting",
+          "remaining tribal allotments",
+          "land survey",
+          "Timnath-serah"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 18-19",
+          "Shiloh allotments",
+          "seven tribes receive land"
+        ]
+      },
+      "realitySummary": "The Tent of Meeting at Shiloh and the Remaining Tribal Allotments. The congregation sets up the Tent of Meeting at Shiloh, surveyors divide the remaining land into written portions, and the remaining tribes receive allotments by lot."
+    }
   }
 ]
