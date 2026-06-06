@@ -1,0 +1,122 @@
+[
+  {
+    "id": "haran",
+    "name": "Haran",
+    "region": "Upper Mesopotamia",
+    "modernContext": "Near Harran in southeastern Turkey, close to the modern Turkey-Syria border.",
+    "mapPosition": { "x": 72, "y": 22 },
+    "references": ["Genesis 11:31", "Genesis 12:4", "Acts 7:2-4"],
+    "description": "A city where Abram lived before entering Canaan.",
+    "otherAppearances": ["Genesis 27:43", "Genesis 28:10"]
+  },
+  {
+    "id": "shechem",
+    "name": "Shechem",
+    "region": "Central hill country",
+    "modernContext": "Usually associated with the area of modern Nablus in the West Bank.",
+    "mapPosition": { "x": 42, "y": 57 },
+    "references": ["Genesis 12:6", "Genesis 33:18", "Joshua 24:1"],
+    "description": "A city in the central hill country of Canaan.",
+    "otherAppearances": ["Genesis 34:2", "Judges 9:1"]
+  },
+  {
+    "id": "bethel",
+    "name": "Bethel",
+    "region": "Central Canaan",
+    "modernContext": "Often associated with the area near modern Beitin in the central West Bank.",
+    "mapPosition": { "x": 48, "y": 66 },
+    "references": ["Genesis 12:8", "Genesis 28:19", "1 Kings 12:29"],
+    "description": "A site west of Ai where Abram pitched his tent.",
+    "otherAppearances": ["Genesis 35:1", "Amos 7:13"]
+  },
+  {
+    "id": "ai",
+    "name": "Ai",
+    "region": "Central Canaan",
+    "modernContext": "Commonly associated with sites east of Bethel in the central West Bank region.",
+    "mapPosition": { "x": 56, "y": 66 },
+    "references": ["Genesis 12:8", "Joshua 7:2", "Joshua 8:1"],
+    "description": "A place east of Bethel in the hill country.",
+    "otherAppearances": ["Joshua 8:28"]
+  },
+  {
+    "id": "horeb",
+    "name": "Horeb",
+    "region": "Sinai region",
+    "modernContext": "Associated with the Sinai / northwest Arabia discussion in the Exodus geography tradition.",
+    "mapPosition": { "x": 52, "y": 69 },
+    "references": ["Exodus 3:1", "Deuteronomy 1:6"],
+    "description": "The mountain region connected with Moses in Exodus 3.",
+    "otherAppearances": ["1 Kings 19:8"]
+  },
+  {
+    "id": "midian",
+    "name": "Midian",
+    "region": "Northwest Arabia",
+    "modernContext": "Generally connected with northwest Arabia, east of the Gulf of Aqaba.",
+    "mapPosition": { "x": 65, "y": 76 },
+    "references": ["Exodus 2:15", "Exodus 3:1"],
+    "description": "The region where Moses lives before returning to Egypt.",
+    "otherAppearances": ["Numbers 31:3"]
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "region": "Nile Valley",
+    "modernContext": "The Nile Valley in modern Egypt.",
+    "mapPosition": { "x": 25, "y": 78 },
+    "references": ["Exodus 1:1", "Exodus 3:10"],
+    "description": "The land where Israel is living at the beginning of Exodus.",
+    "otherAppearances": ["Genesis 12:10"]
+  },
+  {
+    "id": "galilee",
+    "name": "Galilee",
+    "region": "Northern Israel",
+    "modernContext": "Northern Israel around the Sea of Galilee.",
+    "mapPosition": { "x": 46, "y": 39 },
+    "references": ["Matthew 4:12", "Matthew 4:23"],
+    "description": "Northern region connected with much of Jesus' public ministry.",
+    "otherAppearances": ["Mark 1:14"]
+  },
+  {
+    "id": "capernaum",
+    "name": "Capernaum",
+    "region": "Sea of Galilee",
+    "modernContext": "On the northwest shore of the Sea of Galilee in modern Israel.",
+    "mapPosition": { "x": 51, "y": 36 },
+    "references": ["Matthew 4:13", "Luke 4:31"],
+    "description": "A town by the Sea of Galilee.",
+    "otherAppearances": ["John 6:17"]
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "region": "Jordan River",
+    "modernContext": "The Jordan River valley between modern Israel, the West Bank, and Jordan.",
+    "mapPosition": { "x": 53, "y": 51 },
+    "references": ["Matthew 3:13", "Matthew 4:15"],
+    "description": "River valley associated with several Gospel scenes.",
+    "otherAppearances": ["Joshua 3:17"]
+  },
+  {
+    "id": "jerusalem",
+    "name": "Jerusalem",
+    "region": "Judea",
+    "modernContext": "Jerusalem in the central hill country.",
+    "mapPosition": { "x": 48, "y": 63 },
+    "references": ["Acts 8:1", "Acts 9:2"],
+    "description": "The city from which Saul begins his journey toward Damascus.",
+    "otherAppearances": ["2 Samuel 5:6", "Luke 24:52"]
+  },
+  {
+    "id": "damascus",
+    "name": "Damascus",
+    "region": "Syria",
+    "modernContext": "Damascus, the capital city of modern Syria.",
+    "mapPosition": { "x": 62, "y": 29 },
+    "references": ["Acts 9:2", "Acts 9:10"],
+    "description": "A Syrian city connected with Saul and Ananias in Acts 9.",
+    "otherAppearances": ["2 Kings 8:7"]
+  }
+]

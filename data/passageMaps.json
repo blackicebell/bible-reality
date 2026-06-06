@@ -1,0 +1,78 @@
+[
+  {
+    "id": "patriarchs",
+    "passageId": "genesis-12-1-9",
+    "passage": "Genesis 12:1-9",
+    "title": "Abram Travels from Haran to Canaan",
+    "mapAsset": "patriarchs.png",
+    "category": "Patriarchs",
+    "modernContext": {
+      "summary": "Today this route starts near Harran in southeastern Turkey and moves into the central hill country around the modern West Bank / Israel region.",
+      "locator": "Southeastern Turkey to the central West Bank / Israel region",
+      "regions": [
+        { "label": "modern Turkey", "x": 73, "y": 15 },
+        { "label": "Syria / Levant", "x": 67, "y": 36 },
+        { "label": "Israel / West Bank", "x": 31, "y": 82 }
+      ]
+    },
+    "places": ["haran", "shechem", "bethel", "ai"],
+    "route": ["haran", "shechem", "bethel"]
+  },
+  {
+    "id": "exodus",
+    "passageId": "exodus-3",
+    "passage": "Exodus 3",
+    "title": "Moses Near Horeb",
+    "mapAsset": "exodus.png",
+    "category": "Exodus",
+    "modernContext": {
+      "summary": "Today this context sits around northeast Africa and northwest Arabia, with Egypt, the Sinai region, and parts of modern Saudi Arabia in view.",
+      "locator": "Egypt, Sinai, and northwest Arabia",
+      "regions": [
+        { "label": "modern Egypt", "x": 25, "y": 45 },
+        { "label": "Sinai region", "x": 48, "y": 68 },
+        { "label": "northwest Arabia", "x": 70, "y": 78 }
+      ]
+    },
+    "places": ["midian", "horeb", "egypt"],
+    "route": ["midian", "horeb"]
+  },
+  {
+    "id": "ministry",
+    "passageId": "matthew-4",
+    "passage": "Matthew 4",
+    "title": "Galilee and the Beginning of Ministry",
+    "mapAsset": "ministry.png",
+    "category": "Yahshua's Ministry",
+    "modernContext": {
+      "summary": "Today these places are around northern Israel, the Jordan River valley, and the Sea of Galilee region.",
+      "locator": "Northern Israel and the Jordan River valley",
+      "regions": [
+        { "label": "northern Israel", "x": 45, "y": 30 },
+        { "label": "Jordan valley", "x": 60, "y": 52 },
+        { "label": "Sea of Galilee", "x": 54, "y": 35 }
+      ]
+    },
+    "places": ["jordan", "galilee", "capernaum"],
+    "route": ["jordan", "galilee", "capernaum"]
+  },
+  {
+    "id": "paul-journeys",
+    "passageId": "acts-9",
+    "passage": "Acts 9",
+    "title": "Saul Travels Toward Damascus",
+    "mapAsset": "paul-journeys.png",
+    "category": "Acts & Paul's Journeys",
+    "modernContext": {
+      "summary": "Today this route connects the Jerusalem area with Damascus in Syria.",
+      "locator": "Jerusalem area to Damascus, Syria",
+      "regions": [
+        { "label": "Jerusalem area", "x": 45, "y": 65 },
+        { "label": "modern Syria", "x": 62, "y": 25 },
+        { "label": "Damascus", "x": 67, "y": 32 }
+      ]
+    },
+    "places": ["jerusalem", "damascus"],
+    "route": ["jerusalem", "damascus"]
+  }
+]

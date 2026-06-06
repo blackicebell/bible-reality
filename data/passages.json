@@ -1,0 +1,54 @@
+[
+  {
+    "id": "genesis-12-1-9",
+    "reference": "Genesis 12:1-9",
+    "title": "Abram Travels to Canaan",
+    "book": "Genesis",
+    "eraId": "patriarchs",
+    "mainFigure": "Abram",
+    "primaryRegion": "Canaan",
+    "timelinePosition": "After Babel, before Isaac",
+    "places": ["haran", "shechem", "bethel", "ai"],
+    "people": ["abram", "sarai", "lot"],
+    "text": "The LORD said to Abram, \"Go from your country, your people and your father's household to the land I will show you.\" Abram went, as the LORD had told him, and Lot went with him. Abram traveled through the land as far as the site of the great tree of Moreh at Shechem. From there he went on toward the hills east of Bethel and pitched his tent, with Bethel on the west and Ai on the east."
+  },
+  {
+    "id": "exodus-3",
+    "reference": "Exodus 3",
+    "title": "Moses at Horeb",
+    "book": "Exodus",
+    "eraId": "exodus",
+    "mainFigure": "Moses",
+    "primaryRegion": "Midian",
+    "timelinePosition": "Before the departure from Egypt",
+    "places": ["horeb", "midian", "egypt"],
+    "people": ["moses"],
+    "text": "Moses was keeping the flock of Jethro near Horeb when the angel of the LORD appeared to him in a flame of fire from within a bush."
+  },
+  {
+    "id": "matthew-4",
+    "reference": "Matthew 4",
+    "title": "Yahshua Begins His Public Ministry",
+    "book": "Matthew",
+    "eraId": "yahshua-ministry",
+    "mainFigure": "Jesus",
+    "primaryRegion": "Galilee",
+    "timelinePosition": "After the baptism of Jesus",
+    "places": ["galilee", "capernaum", "jordan"],
+    "people": ["jesus", "peter", "andrew"],
+    "text": "Jesus was led by the Spirit into the wilderness. Later he withdrew to Galilee and lived in Capernaum by the sea."
+  },
+  {
+    "id": "acts-9",
+    "reference": "Acts 9",
+    "title": "Saul Travels to Damascus",
+    "book": "Acts",
+    "eraId": "early-assembly",
+    "mainFigure": "Saul",
+    "primaryRegion": "Syria",
+    "timelinePosition": "After the early Jerusalem assembly grows",
+    "places": ["jerusalem", "damascus"],
+    "people": ["saul", "ananias"],
+    "text": "Saul went to the high priest and asked for letters to the synagogues in Damascus. As he neared Damascus, a light from heaven flashed around him."
+  }
+]

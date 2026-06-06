@@ -1,0 +1,58 @@
+{
+  "genesis-12-1-9": {
+    "whereAmI": {
+      "book": "Genesis",
+      "era": "Patriarchs",
+      "mainFigure": "Abram",
+      "primaryRegion": "Canaan",
+      "timelinePosition": "After Babel, before Isaac",
+      "places": ["Haran", "Shechem", "Bethel", "Ai"]
+    },
+    "before": "Terah's family leaves Ur and settles in Haran.",
+    "during": "Abram leaves Haran and travels into Canaan, stopping near Shechem and then between Bethel and Ai.",
+    "after": "Abram continues south and later goes toward Egypt during a famine.",
+    "movement": "A family migration becomes the opening movement of Abram's journey in Canaan."
+  },
+  "exodus-3": {
+    "whereAmI": {
+      "book": "Exodus",
+      "era": "Exodus",
+      "mainFigure": "Moses",
+      "primaryRegion": "Midian",
+      "timelinePosition": "Before Moses returns to Egypt",
+      "places": ["Horeb", "Midian", "Egypt"]
+    },
+    "before": "Moses lives in Midian after leaving Egypt.",
+    "during": "Moses encounters the burning bush near Horeb.",
+    "after": "Moses returns to Egypt and speaks to the elders of Israel.",
+    "movement": "The narrative moves from Moses' life in Midian toward the confrontation in Egypt."
+  },
+  "matthew-4": {
+    "whereAmI": {
+      "book": "Matthew",
+      "era": "Yahshua's Ministry",
+      "mainFigure": "Jesus",
+      "primaryRegion": "Galilee",
+      "timelinePosition": "After the baptism, before the Sermon on the Mount",
+      "places": ["Wilderness", "Galilee", "Capernaum"]
+    },
+    "before": "Jesus is baptized by John at the Jordan.",
+    "during": "Jesus is tested in the wilderness, then begins public activity in Galilee.",
+    "after": "Crowds gather and the teaching section that follows begins.",
+    "movement": "The scene moves from wilderness testing to public activity around Galilee."
+  },
+  "acts-9": {
+    "whereAmI": {
+      "book": "Acts",
+      "era": "Early Assembly / Acts",
+      "mainFigure": "Saul",
+      "primaryRegion": "Syria",
+      "timelinePosition": "After Stephen's death, before Saul's missionary journeys",
+      "places": ["Jerusalem", "Damascus"]
+    },
+    "before": "Saul is introduced as opposing the early assembly.",
+    "during": "Saul travels toward Damascus and is later visited by Ananias.",
+    "after": "Saul begins speaking in Damascus and later goes to Jerusalem.",
+    "movement": "The account shifts Saul from Jerusalem opposition to activity in Damascus."
+  }
+}

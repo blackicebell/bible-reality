@@ -1,0 +1,47 @@
+[
+  {
+    "id": "abram",
+    "name": "Abram",
+    "facts": ["Son of Terah", "Husband of Sarai", "Later called Abraham", "Appears in Genesis 11-25"]
+  },
+  {
+    "id": "sarai",
+    "name": "Sarai",
+    "facts": ["Wife of Abram", "Later called Sarah", "Appears in Genesis 11-23"]
+  },
+  {
+    "id": "lot",
+    "name": "Lot",
+    "facts": ["Son of Haran", "Nephew of Abram", "Travels with Abram from Haran"]
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "facts": ["Lives in Midian before returning to Egypt", "Connected with Horeb and the Exodus account"]
+  },
+  {
+    "id": "jesus",
+    "name": "Jesus",
+    "facts": ["Central figure in the Gospel accounts", "Travels through Galilee and Judea"]
+  },
+  {
+    "id": "peter",
+    "name": "Peter",
+    "facts": ["Fisherman from Galilee", "Brother of Andrew"]
+  },
+  {
+    "id": "andrew",
+    "name": "Andrew",
+    "facts": ["Brother of Peter", "Called near the Sea of Galilee"]
+  },
+  {
+    "id": "saul",
+    "name": "Saul",
+    "facts": ["Travels from Jerusalem toward Damascus", "Later known as Paul"]
+  },
+  {
+    "id": "ananias",
+    "name": "Ananias",
+    "facts": ["Disciple in Damascus", "Appears in Acts 9"]
+  }
+]

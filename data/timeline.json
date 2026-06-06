@@ -1,0 +1,17 @@
+[
+  { "id": "creation", "label": "Creation", "range": "Beginnings", "summary": "Opening scenes of Genesis.", "keyPeople": ["Adam", "Eve"], "places": ["Eden"], "relatedPassages": ["Genesis 1-2"] },
+  { "id": "flood", "label": "Flood", "range": "Primeval history", "summary": "Noah and the flood account.", "keyPeople": ["Noah"], "places": ["Ark", "Ararat"], "relatedPassages": ["Genesis 6-9"] },
+  { "id": "babel", "label": "Babel", "range": "Primeval history", "summary": "The city and tower account before Abram's narrative.", "keyPeople": [], "places": ["Babel"], "relatedPassages": ["Genesis 11"] },
+  { "id": "patriarchs", "label": "Patriarchs", "range": "Genesis 12-50", "summary": "Abram, Isaac, Jacob, and Joseph narratives.", "keyPeople": ["Abram", "Sarai", "Isaac", "Jacob"], "places": ["Haran", "Canaan", "Egypt"], "relatedPassages": ["Genesis 12:1-9", "Genesis 15", "Genesis 17"] },
+  { "id": "exodus", "label": "Exodus", "range": "Exodus 1-15", "summary": "Moses and Israel's departure from Egypt.", "keyPeople": ["Moses", "Aaron"], "places": ["Egypt", "Horeb"], "relatedPassages": ["Exodus 3", "Exodus 12"] },
+  { "id": "wilderness", "label": "Wilderness", "range": "Exodus-Numbers", "summary": "Israel's wilderness journey.", "keyPeople": ["Moses", "Aaron", "Miriam"], "places": ["Sinai", "Kadesh"], "relatedPassages": ["Numbers 14"] },
+  { "id": "conquest", "label": "Conquest", "range": "Joshua", "summary": "Joshua and the entrance into Canaan.", "keyPeople": ["Joshua"], "places": ["Jericho", "Ai"], "relatedPassages": ["Joshua 6", "Joshua 8"] },
+  { "id": "judges", "label": "Judges", "range": "Judges-Ruth", "summary": "Tribal leadership before the monarchy.", "keyPeople": ["Deborah", "Gideon", "Samson"], "places": ["Shiloh"], "relatedPassages": ["Judges 2"] },
+  { "id": "united-kingdom", "label": "United Kingdom", "range": "Saul-David-Solomon", "summary": "The kingdom under Saul, David, and Solomon.", "keyPeople": ["Saul", "David", "Solomon"], "places": ["Jerusalem"], "relatedPassages": ["2 Samuel 5"] },
+  { "id": "divided-kingdom", "label": "Divided Kingdom", "range": "Kings", "summary": "Israel and Judah as separate kingdoms.", "keyPeople": ["Rehoboam", "Jeroboam"], "places": ["Samaria", "Jerusalem"], "relatedPassages": ["1 Kings 12"] },
+  { "id": "exile", "label": "Exile", "range": "Assyria and Babylon", "summary": "Assyrian and Babylonian exile settings.", "keyPeople": ["Daniel", "Ezekiel"], "places": ["Babylon"], "relatedPassages": ["2 Kings 25"] },
+  { "id": "return", "label": "Return", "range": "Ezra-Nehemiah", "summary": "Return from exile and rebuilding in Jerusalem.", "keyPeople": ["Ezra", "Nehemiah"], "places": ["Jerusalem"], "relatedPassages": ["Nehemiah 2"] },
+  { "id": "second-temple", "label": "Second Temple", "range": "Intertestamental setting", "summary": "Historical setting leading into the Gospel period.", "keyPeople": [], "places": ["Judea"], "relatedPassages": ["Luke 2"] },
+  { "id": "yahshua-ministry", "label": "Yahshua's Ministry", "range": "Gospels", "summary": "Gospel accounts around Galilee, Judea, and Jerusalem.", "keyPeople": ["Jesus", "Peter", "Andrew"], "places": ["Galilee", "Capernaum", "Jerusalem"], "relatedPassages": ["Matthew 4"] },
+  { "id": "early-assembly", "label": "Early Assembly / Acts", "range": "Acts", "summary": "The early assembly in Jerusalem and beyond.", "keyPeople": ["Peter", "Saul", "Ananias"], "places": ["Jerusalem", "Damascus"], "relatedPassages": ["Acts 9"] }
+]
