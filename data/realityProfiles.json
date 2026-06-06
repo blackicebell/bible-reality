@@ -56015,5 +56015,1949 @@
       },
       "realitySummary": "Assembly, Camp Cleanliness, Slaves, Vows, Wages, and Field Access. Moses gives instructions concerning assembly boundaries, military camp cleanliness, escaped slaves, vows, interest, and eating from a neighbor's vineyard or field."
     }
+  },
+  {
+    "id": "deuteronomy-24-marriage-poor-justice",
+    "sourceFile": "deuteronomy-24-marriage-poor-justice.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "marriage certificate",
+      "pledges",
+      "hired worker wages",
+      "gleaning",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Marriage, Pledges, Wages, Justice for the Vulnerable, and Gleaning",
+      "Speech",
+      "Social Law",
+      "Economic Justice",
+      "Household Law",
+      "Deuteronomy 24:1-22",
+      "Marriage, Pledges, Wages, Justice for the Vulnerable, and Gleaning. Moses gives instructions concerning divorce, newly married men, pledges, kidnapping, skin disease, hired workers, justice for vulnerable people, and gleaning."
+    ],
+    "title": "Marriage, Pledges, Wages, Justice for the Vulnerable, and Gleaning",
+    "reference": "Deuteronomy 24:1-22",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Social Law",
+      "Economic Justice",
+      "Household Law"
+    ],
+    "summary": "Marriage, Pledges, Wages, Justice for the Vulnerable, and Gleaning. Moses gives instructions concerning divorce, newly married men, pledges, kidnapping, skin disease, hired workers, justice for vulnerable people, and gleaning.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Marriage, Pledges, Wages, Justice for the Vulnerable, and Gleaning",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Marriage, Pledges, Wages, Justice for the Vulnerable, and Gleaning",
+    "stepIntoStory": "The chapter moves through households, work sites, courts, and harvest fields.\n\nA hired worker waits for wages before sunset. A poor person gives a pledge, but the lender must not enter the house to seize it.\n\nThe final scenes are agricultural: forgotten sheaves, olive branches not beaten twice, and grapes left for others.",
+    "notice": [
+      "Marriage certificate mentioned.",
+      "Newly married man exempt from duty for one year.",
+      "Millstone prohibited as pledge.",
+      "Pledge taken outside the house, not by entering.",
+      "Worker paid before sunset.",
+      "Sojourner, orphan, and widow protected.",
+      "Forgotten sheaf left in field.",
+      "Olive tree not beaten over again.",
+      "Vineyard grapes left behind for vulnerable people."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses gave instructions about assembly, camp cleanliness, vows, wages, and field access."
+      },
+      {
+        "label": "Now",
+        "value": "Moses gives instructions concerning divorce, newly married men, pledges, kidnapping, skin disease, hired workers, justice for vulnerable people, and gleaning."
+      },
+      {
+        "label": "Next",
+        "value": "Moses continues with legal limits, levirate duty, honest weights, and Amalek remembrance."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This chapter gives some of the clearest social and economic scenes in Deuteronomy.",
+      "It focuses on vulnerable people: workers, sojourners, orphans, and widows.",
+      "It connects law to households, fields, olive trees, vineyards, and daily wages."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 24 brings instruction into social and economic life. Moses speaks about marriage certificates, pledges, hired workers, kidnapping, skin disease instructions, and justice for the sojourner, orphan, and widow. The scenes are concrete: a poor person's cloak held as pledge, a worker waiting for wages before sunset, a field with a forgotten sheaf, an olive tree not beaten a second time, and grapes left in the vineyard. The chapter prepares Israel for daily justice in towns and farms.",
+    "crossReferences": [
+      "Deuteronomy 24:1-22"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 24:1-22"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-23-assembly-camp-vows",
+      "nextStory": "deuteronomy-25-justice-family-commerce"
+    },
+    "source": {
+      "id": "deuteronomy-24-marriage-poor-justice",
+      "reference": "Deuteronomy 24:1-22",
+      "storyTitle": "Marriage, Pledges, Wages, Justice for the Vulnerable, and Gleaning",
+      "eventType": [
+        "Speech",
+        "Social Law",
+        "Economic Justice",
+        "Household Law"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses gave instructions about assembly, camp cleanliness, vows, wages, and field access.",
+        "whatIsHappeningNow": "Moses gives instructions concerning divorce, newly married men, pledges, kidnapping, skin disease, hired workers, justice for vulnerable people, and gleaning.",
+        "whatHappensAfter": "Moses continues with legal limits, levirate duty, honest weights, and Amalek remembrance.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Marriage, Pledges, Wages, Justice for the Vulnerable, and Gleaning ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This chapter gives some of the clearest social and economic scenes in Deuteronomy.",
+        "It focuses on vulnerable people: workers, sojourners, orphans, and widows.",
+        "It connects law to households, fields, olive trees, vineyards, and daily wages."
+      ],
+      "stepIntoTheStory": [
+        "The chapter moves through households, work sites, courts, and harvest fields.",
+        "A hired worker waits for wages before sunset. A poor person gives a pledge, but the lender must not enter the house to seize it.",
+        "The final scenes are agricultural: forgotten sheaves, olive branches not beaten twice, and grapes left for others."
+      ],
+      "documentaryObservations": [
+        "Marriage certificate mentioned.",
+        "Newly married man exempt from duty for one year.",
+        "Millstone prohibited as pledge.",
+        "Pledge taken outside the house, not by entering.",
+        "Worker paid before sunset.",
+        "Sojourner, orphan, and widow protected.",
+        "Forgotten sheaf left in field.",
+        "Olive tree not beaten over again.",
+        "Vineyard grapes left behind for vulnerable people."
+      ],
+      "audioScript": "Deuteronomy 24 brings instruction into social and economic life. Moses speaks about marriage certificates, pledges, hired workers, kidnapping, skin disease instructions, and justice for the sojourner, orphan, and widow. The scenes are concrete: a poor person's cloak held as pledge, a worker waiting for wages before sunset, a field with a forgotten sheaf, an olive tree not beaten a second time, and grapes left in the vineyard. The chapter prepares Israel for daily justice in towns and farms.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 24:1-22"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-23-assembly-camp-vows",
+        "nextStory": "deuteronomy-25-justice-family-commerce"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ],
+        "events": [
+          "marriage certificate",
+          "pledges",
+          "hired worker wages",
+          "gleaning"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Marriage, Pledges, Wages, Justice for the Vulnerable, and Gleaning"
+        ]
+      },
+      "realitySummary": "Marriage, Pledges, Wages, Justice for the Vulnerable, and Gleaning. Moses gives instructions concerning divorce, newly married men, pledges, kidnapping, skin disease, hired workers, justice for vulnerable people, and gleaning."
+    }
+  },
+  {
+    "id": "deuteronomy-25-justice-family-commerce",
+    "sourceFile": "deuteronomy-25-justice-family-commerce.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "legal limits",
+      "levirate duty",
+      "honest weights",
+      "Amalek",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Legal Limits, Levirate Duty, Honest Weights, and Amalek Remembrance",
+      "Speech",
+      "Legal Instruction",
+      "Family Duty",
+      "Commerce Instruction",
+      "Memory",
+      "Deuteronomy 25:1-19",
+      "Legal Limits, Levirate Duty, Honest Weights, and Amalek Remembrance. Moses gives instructions concerning court punishment limits, oxen, levirate duty, honest weights, and remembering Amalek."
+    ],
+    "title": "Legal Limits, Levirate Duty, Honest Weights, and Amalek Remembrance",
+    "reference": "Deuteronomy 25:1-19",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Legal Instruction",
+      "Family Duty",
+      "Commerce Instruction",
+      "Memory"
+    ],
+    "summary": "Legal Limits, Levirate Duty, Honest Weights, and Amalek Remembrance. Moses gives instructions concerning court punishment limits, oxen, levirate duty, honest weights, and remembering Amalek.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Legal Limits, Levirate Duty, Honest Weights, and Amalek Remembrance",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Legal Limits, Levirate Duty, Honest Weights, and Amalek Remembrance",
+    "stepIntoStory": "The chapter opens in court, where judges settle a dispute and punishment is limited.\n\nIt then moves to a threshing floor where an ox treads grain, then into a family inheritance scene involving a brother's widow and a sandal ceremony.\n\nThe final images are commercial weights in a bag and the memory of Amalek attacking the weak behind Israel.",
+    "notice": [
+      "Judges deciding a dispute.",
+      "Forty-lash limit stated.",
+      "Ox treading grain.",
+      "Brother's widow in a levirate case.",
+      "Sandal removed in public ceremony.",
+      "Elders at the gate implied.",
+      "Weights and measures inspected.",
+      "Unequal weights in a bag.",
+      "Amalek attacking stragglers in the wilderness."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses gave instructions for marriage, pledges, wages, vulnerable people, and gleaning."
+      },
+      {
+        "label": "Now",
+        "value": "Moses gives instructions concerning court punishment limits, oxen, levirate duty, honest weights, and remembering Amalek."
+      },
+      {
+        "label": "Next",
+        "value": "Moses continues with firstfruits, third-year tithe, and covenant affirmation."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This chapter connects courts, households, commerce, and national memory.",
+      "It includes visible legal and market practices: lashes, oxen, sandals, scales, and weights.",
+      "It closes with Amalek remembered from the wilderness journey."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 25 moves through several public settings. In court, judges settle disputes and punishment is limited. At the threshing floor, an ox treads grain. In family law, a widow without a son brings a levirate case before elders, and a sandal ceremony marks refusal. The chapter then turns to honest weights and measures, the tools of trade. It closes by recalling Amalek's attack on the weary and weak during the wilderness journey, a memory Israel is to carry into the land.",
+    "crossReferences": [
+      "Deuteronomy 25:1-19"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 25:1-19"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-24-marriage-poor-justice",
+      "nextStory": "deuteronomy-26-firstfruits-and-tithes"
+    },
+    "source": {
+      "id": "deuteronomy-25-justice-family-commerce",
+      "reference": "Deuteronomy 25:1-19",
+      "storyTitle": "Legal Limits, Levirate Duty, Honest Weights, and Amalek Remembrance",
+      "eventType": [
+        "Speech",
+        "Legal Instruction",
+        "Family Duty",
+        "Commerce Instruction",
+        "Memory"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses gave instructions for marriage, pledges, wages, vulnerable people, and gleaning.",
+        "whatIsHappeningNow": "Moses gives instructions concerning court punishment limits, oxen, levirate duty, honest weights, and remembering Amalek.",
+        "whatHappensAfter": "Moses continues with firstfruits, third-year tithe, and covenant affirmation.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Legal Limits, Levirate Duty, Honest Weights, and Amalek Remembrance ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This chapter connects courts, households, commerce, and national memory.",
+        "It includes visible legal and market practices: lashes, oxen, sandals, scales, and weights.",
+        "It closes with Amalek remembered from the wilderness journey."
+      ],
+      "stepIntoTheStory": [
+        "The chapter opens in court, where judges settle a dispute and punishment is limited.",
+        "It then moves to a threshing floor where an ox treads grain, then into a family inheritance scene involving a brother's widow and a sandal ceremony.",
+        "The final images are commercial weights in a bag and the memory of Amalek attacking the weak behind Israel."
+      ],
+      "documentaryObservations": [
+        "Judges deciding a dispute.",
+        "Forty-lash limit stated.",
+        "Ox treading grain.",
+        "Brother's widow in a levirate case.",
+        "Sandal removed in public ceremony.",
+        "Elders at the gate implied.",
+        "Weights and measures inspected.",
+        "Unequal weights in a bag.",
+        "Amalek attacking stragglers in the wilderness."
+      ],
+      "audioScript": "Deuteronomy 25 moves through several public settings. In court, judges settle disputes and punishment is limited. At the threshing floor, an ox treads grain. In family law, a widow without a son brings a levirate case before elders, and a sandal ceremony marks refusal. The chapter then turns to honest weights and measures, the tools of trade. It closes by recalling Amalek's attack on the weary and weak during the wilderness journey, a memory Israel is to carry into the land.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 25:1-19"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-24-marriage-poor-justice",
+        "nextStory": "deuteronomy-26-firstfruits-and-tithes"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ],
+        "events": [
+          "legal limits",
+          "levirate duty",
+          "honest weights",
+          "Amalek"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Legal Limits, Levirate Duty, Honest Weights, and Amalek Remembrance"
+        ]
+      },
+      "realitySummary": "Legal Limits, Levirate Duty, Honest Weights, and Amalek Remembrance. Moses gives instructions concerning court punishment limits, oxen, levirate duty, honest weights, and remembering Amalek."
+    }
+  },
+  {
+    "id": "deuteronomy-26-firstfruits-and-tithes",
+    "sourceFile": "deuteronomy-26-firstfruits-and-tithes.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "firstfruits",
+      "third-year tithe",
+      "basket before priest",
+      "covenant affirmation",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Firstfruits, Third-Year Tithe, and Covenant Affirmation",
+      "Speech",
+      "Offering Instruction",
+      "Confession",
+      "Covenant Affirmation",
+      "Deuteronomy 26:1-19",
+      "Firstfruits, Third-Year Tithe, and Covenant Affirmation. Moses instructs Israel about bringing firstfruits, reciting the ancestral and Exodus confession, giving the third-year tithe, and affirming covenant identity."
+    ],
+    "title": "Firstfruits, Third-Year Tithe, and Covenant Affirmation",
+    "reference": "Deuteronomy 26:1-19",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Offering Instruction",
+      "Confession",
+      "Covenant Affirmation"
+    ],
+    "summary": "Firstfruits, Third-Year Tithe, and Covenant Affirmation. Moses instructs Israel about bringing firstfruits, reciting the ancestral and Exodus confession, giving the third-year tithe, and affirming covenant identity.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Firstfruits, Third-Year Tithe, and Covenant Affirmation",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Firstfruits, Third-Year Tithe, and Covenant Affirmation",
+    "stepIntoStory": "The scene looks ahead to a farmer entering the land, harvesting first produce, placing it in a basket, and bringing it to the priest at the chosen place.\n\nThe spoken declaration compresses Israel's story: ancestor, Egypt, oppression, Exodus, land, and produce.\n\nThe third-year tithe scene brings Levites, sojourners, orphans, and widows into local town life.",
+    "notice": [
+      "Firstfruits gathered from the land.",
+      "A basket carried to the priest.",
+      "Priest placing basket before the altar.",
+      "A spoken historical confession recited.",
+      "Egypt and Exodus remembered in worship.",
+      "Produce from the land displayed before Yahweh.",
+      "Third-year tithe stored within towns.",
+      "Levite, sojourner, orphan, and widow eating."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses gave instructions about courts, family duty, honest weights, and Amalek remembrance."
+      },
+      {
+        "label": "Now",
+        "value": "Moses instructs Israel about bringing firstfruits, reciting the ancestral and Exodus confession, giving the third-year tithe, and affirming covenant identity."
+      },
+      {
+        "label": "Next",
+        "value": "Moses gives instructions for stones, altar on Mount Ebal, and public curses."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This chapter connects harvest, memory, and worship in the land.",
+      "It includes one of Deuteronomy's most concrete future sanctuary scenes.",
+      "It closes the central law section before the covenant ceremony instructions of Deuteronomy 27."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 26 pictures Israel after settlement in the land. A person gathers firstfruits, places them in a basket, and brings them to the priest at the place Yahweh chooses. The offering is accompanied by a spoken memory: the ancestor, Egypt, oppression, Exodus, and arrival in the land. The chapter also describes the third-year tithe stored in towns for Levites, sojourners, orphans, and widows. It closes with covenant affirmation, preparing for the public ceremony instructions that follow.",
+    "crossReferences": [
+      "Deuteronomy 26:1-19"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 26:1-19"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-25-justice-family-commerce",
+      "nextStory": "deuteronomy-27-altar-and-curses"
+    },
+    "source": {
+      "id": "deuteronomy-26-firstfruits-and-tithes",
+      "reference": "Deuteronomy 26:1-19",
+      "storyTitle": "Firstfruits, Third-Year Tithe, and Covenant Affirmation",
+      "eventType": [
+        "Speech",
+        "Offering Instruction",
+        "Confession",
+        "Covenant Affirmation"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses gave instructions about courts, family duty, honest weights, and Amalek remembrance.",
+        "whatIsHappeningNow": "Moses instructs Israel about bringing firstfruits, reciting the ancestral and Exodus confession, giving the third-year tithe, and affirming covenant identity.",
+        "whatHappensAfter": "Moses gives instructions for stones, altar on Mount Ebal, and public curses.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Firstfruits, Third-Year Tithe, and Covenant Affirmation ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This chapter connects harvest, memory, and worship in the land.",
+        "It includes one of Deuteronomy's most concrete future sanctuary scenes.",
+        "It closes the central law section before the covenant ceremony instructions of Deuteronomy 27."
+      ],
+      "stepIntoTheStory": [
+        "The scene looks ahead to a farmer entering the land, harvesting first produce, placing it in a basket, and bringing it to the priest at the chosen place.",
+        "The spoken declaration compresses Israel's story: ancestor, Egypt, oppression, Exodus, land, and produce.",
+        "The third-year tithe scene brings Levites, sojourners, orphans, and widows into local town life."
+      ],
+      "documentaryObservations": [
+        "Firstfruits gathered from the land.",
+        "A basket carried to the priest.",
+        "Priest placing basket before the altar.",
+        "A spoken historical confession recited.",
+        "Egypt and Exodus remembered in worship.",
+        "Produce from the land displayed before Yahweh.",
+        "Third-year tithe stored within towns.",
+        "Levite, sojourner, orphan, and widow eating."
+      ],
+      "audioScript": "Deuteronomy 26 pictures Israel after settlement in the land. A person gathers firstfruits, places them in a basket, and brings them to the priest at the place Yahweh chooses. The offering is accompanied by a spoken memory: the ancestor, Egypt, oppression, Exodus, and arrival in the land. The chapter also describes the third-year tithe stored in towns for Levites, sojourners, orphans, and widows. It closes with covenant affirmation, preparing for the public ceremony instructions that follow.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 26:1-19"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-25-justice-family-commerce",
+        "nextStory": "deuteronomy-27-altar-and-curses"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ],
+        "events": [
+          "firstfruits",
+          "third-year tithe",
+          "basket before priest",
+          "covenant affirmation"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Firstfruits, Third-Year Tithe, and Covenant Affirmation"
+        ]
+      },
+      "realitySummary": "Firstfruits, Third-Year Tithe, and Covenant Affirmation. Moses instructs Israel about bringing firstfruits, reciting the ancestral and Exodus confession, giving the third-year tithe, and affirming covenant identity."
+    }
+  },
+  {
+    "id": "deuteronomy-27-altar-and-curses",
+    "sourceFile": "deuteronomy-27-altar-and-curses.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Mount Ebal",
+      "Mount Gerizim",
+      "public curses",
+      "plastered stones",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Stones, Altar on Mount Ebal, and Public Curses",
+      "Instruction",
+      "Public Ceremony",
+      "Altar Construction",
+      "Curses",
+      "Deuteronomy 27:1-26",
+      "Stones, Altar on Mount Ebal, and Public Curses. Moses and the elders command Israel to set up plastered stones, write the law, build an altar on Mount Ebal, and hear public curses."
+    ],
+    "title": "Stones, Altar on Mount Ebal, and Public Curses",
+    "reference": "Deuteronomy 27:1-26",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction",
+      "Public Ceremony",
+      "Altar Construction",
+      "Curses"
+    ],
+    "summary": "Stones, Altar on Mount Ebal, and Public Curses. Moses and the elders command Israel to set up plastered stones, write the law, build an altar on Mount Ebal, and hear public curses.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Stones, Altar on Mount Ebal, and Public Curses",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Stones, Altar on Mount Ebal, and Public Curses",
+    "stepIntoStory": "The people are still in Moab, but Moses describes a future scene west of the Jordan. Large stones are set up and plastered, with the words of the law written on them.\n\nAn altar of uncut stones is built on Mount Ebal, and offerings are made there.\n\nTribes stand on Gerizim and Ebal, while Levites speak curses to all the people.",
+    "notice": [
+      "Large stones set up after crossing the Jordan.",
+      "Stones plastered with lime.",
+      "Words of the law written clearly.",
+      "Altar of uncut stones built on Mount Ebal.",
+      "Burnt offerings and peace offerings made.",
+      "Tribes positioned on Gerizim and Ebal.",
+      "Levites speaking loudly to all Israel.",
+      "People answering Amen after each curse."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses gave instructions about firstfruits, tithe, and covenant affirmation."
+      },
+      {
+        "label": "Now",
+        "value": "Moses and the elders command Israel to set up plastered stones, write the law, build an altar on Mount Ebal, and hear public curses."
+      },
+      {
+        "label": "Next",
+        "value": "Moses gives the extended blessings and curses in Deuteronomy 28."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This prepares a visible ceremony after Israel crosses the Jordan.",
+      "It names Mount Ebal and Mount Gerizim as covenant ceremony locations.",
+      "It turns instruction into public writing, altar construction, sacrifice, and spoken response."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 27 looks ahead to a ceremony after Israel crosses the Jordan. Moses and the elders command the people to set up large stones, plaster them, and write the words of the law on them. An altar of uncut stones is to be built on Mount Ebal, where offerings will be made. The tribes are divided between Mount Gerizim and Mount Ebal, and the Levites speak public curses with the people answering Amen. The scene is visual, public, and geographical.",
+    "crossReferences": [
+      "Deuteronomy 27:1-26"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 27:1-26"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-26-firstfruits-and-tithes",
+      "nextStory": "deuteronomy-28-blessings-and-curses"
+    },
+    "source": {
+      "id": "deuteronomy-27-altar-and-curses",
+      "reference": "Deuteronomy 27:1-26",
+      "storyTitle": "Stones, Altar on Mount Ebal, and Public Curses",
+      "eventType": [
+        "Instruction",
+        "Public Ceremony",
+        "Altar Construction",
+        "Curses"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses gave instructions about firstfruits, tithe, and covenant affirmation.",
+        "whatIsHappeningNow": "Moses and the elders command Israel to set up plastered stones, write the law, build an altar on Mount Ebal, and hear public curses.",
+        "whatHappensAfter": "Moses gives the extended blessings and curses in Deuteronomy 28.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Stones, Altar on Mount Ebal, and Public Curses ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This prepares a visible ceremony after Israel crosses the Jordan.",
+        "It names Mount Ebal and Mount Gerizim as covenant ceremony locations.",
+        "It turns instruction into public writing, altar construction, sacrifice, and spoken response."
+      ],
+      "stepIntoTheStory": [
+        "The people are still in Moab, but Moses describes a future scene west of the Jordan. Large stones are set up and plastered, with the words of the law written on them.",
+        "An altar of uncut stones is built on Mount Ebal, and offerings are made there.",
+        "Tribes stand on Gerizim and Ebal, while Levites speak curses to all the people."
+      ],
+      "documentaryObservations": [
+        "Large stones set up after crossing the Jordan.",
+        "Stones plastered with lime.",
+        "Words of the law written clearly.",
+        "Altar of uncut stones built on Mount Ebal.",
+        "Burnt offerings and peace offerings made.",
+        "Tribes positioned on Gerizim and Ebal.",
+        "Levites speaking loudly to all Israel.",
+        "People answering Amen after each curse."
+      ],
+      "audioScript": "Deuteronomy 27 looks ahead to a ceremony after Israel crosses the Jordan. Moses and the elders command the people to set up large stones, plaster them, and write the words of the law on them. An altar of uncut stones is to be built on Mount Ebal, where offerings will be made. The tribes are divided between Mount Gerizim and Mount Ebal, and the Levites speak public curses with the people answering Amen. The scene is visual, public, and geographical.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 27:1-26"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-26-firstfruits-and-tithes",
+        "nextStory": "deuteronomy-28-blessings-and-curses"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ],
+        "events": [
+          "Mount Ebal",
+          "Mount Gerizim",
+          "public curses",
+          "plastered stones"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Stones, Altar on Mount Ebal, and Public Curses"
+        ]
+      },
+      "realitySummary": "Stones, Altar on Mount Ebal, and Public Curses. Moses and the elders command Israel to set up plastered stones, write the law, build an altar on Mount Ebal, and hear public curses."
+    }
+  },
+  {
+    "id": "deuteronomy-28-blessings-and-curses",
+    "sourceFile": "deuteronomy-28-blessings-and-curses.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "blessings and curses",
+      "covenant consequences",
+      "siege exile",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Extended Blessings and Curses",
+      "Speech",
+      "Blessing",
+      "Curse",
+      "Covenant Warning",
+      "Deuteronomy 28:1-68",
+      "Extended Blessings and Curses. Moses gives an extended list of blessings for obedience and curses for disobedience, using city, field, body, crop, livestock, weather, war, siege, exile, and return-to-Egypt imagery."
+    ],
+    "title": "Extended Blessings and Curses",
+    "reference": "Deuteronomy 28:1-68",
+    "kicker": "Study",
+    "eventType": [
+      "Speech",
+      "Blessing",
+      "Curse",
+      "Covenant Warning"
+    ],
+    "summary": "Extended Blessings and Curses. Moses gives an extended list of blessings for obedience and curses for disobedience, using city, field, body, crop, livestock, weather, war, siege, exile, and return-to-Egypt imagery.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Extended Blessings and Curses",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Extended Blessings and Curses",
+    "stepIntoStory": "The speech paints two opposite futures. Blessing appears in city, field, offspring, livestock, basket, kneading bowl, rain, and victory.\n\nThe curses reverse the same world: disease, drought, defeat, siege, hunger, scattering, and return toward Egypt by ship.\n\nThe people hear these scenes before entering the land, while still standing east of the Jordan.",
+    "notice": [
+      "City and field named repeatedly.",
+      "Basket and kneading bowl included.",
+      "Herds and flocks affected.",
+      "Rain and sky described.",
+      "Enemies attacking and Israel fleeing.",
+      "Disease and bodily affliction named.",
+      "Siege against city gates imagined.",
+      "Parents and children caught in siege conditions.",
+      "Scattering among nations.",
+      "Ships returning toward Egypt."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses gave instructions for stones, altar, and public curses on Mount Ebal and Gerizim."
+      },
+      {
+        "label": "Now",
+        "value": "Moses gives an extended list of blessings for obedience and curses for disobedience, using city, field, body, crop, livestock, weather, war, siege, exile, and return-to-Egypt imagery."
+      },
+      {
+        "label": "Next",
+        "value": "Moses introduces covenant renewal in Moab."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is Deuteronomy's largest covenant consequence section.",
+      "It expands the shorter public curse ceremony into a full national future horizon.",
+      "It gives concrete images of agriculture, city life, disease, siege, scattering, and exile."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 28 gives the fullest blessing and curse speech in the book. The blessings describe ordinary life going well: city, field, children, crops, livestock, basket, kneading bowl, rain, and security from enemies. The curses use the same world in reverse: disease, drought, defeat, siege, hunger, scattering, and loss of land. The imagery is concrete and severe. Israel is still outside Canaan, but Moses places before them the possible futures of life in the land, from abundance to exile.",
+    "crossReferences": [
+      "Deuteronomy 28:1-68"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 28:1-68"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-27-altar-and-curses",
+      "nextStory": null
+    },
+    "source": {
+      "id": "deuteronomy-28-blessings-and-curses",
+      "reference": "Deuteronomy 28:1-68",
+      "storyTitle": "Extended Blessings and Curses",
+      "eventType": [
+        "Speech",
+        "Blessing",
+        "Curse",
+        "Covenant Warning"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses gave instructions for stones, altar, and public curses on Mount Ebal and Gerizim.",
+        "whatIsHappeningNow": "Moses gives an extended list of blessings for obedience and curses for disobedience, using city, field, body, crop, livestock, weather, war, siege, exile, and return-to-Egypt imagery.",
+        "whatHappensAfter": "Moses introduces covenant renewal in Moab.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Extended Blessings and Curses ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is Deuteronomy's largest covenant consequence section.",
+        "It expands the shorter public curse ceremony into a full national future horizon.",
+        "It gives concrete images of agriculture, city life, disease, siege, scattering, and exile."
+      ],
+      "stepIntoTheStory": [
+        "The speech paints two opposite futures. Blessing appears in city, field, offspring, livestock, basket, kneading bowl, rain, and victory.",
+        "The curses reverse the same world: disease, drought, defeat, siege, hunger, scattering, and return toward Egypt by ship.",
+        "The people hear these scenes before entering the land, while still standing east of the Jordan."
+      ],
+      "documentaryObservations": [
+        "City and field named repeatedly.",
+        "Basket and kneading bowl included.",
+        "Herds and flocks affected.",
+        "Rain and sky described.",
+        "Enemies attacking and Israel fleeing.",
+        "Disease and bodily affliction named.",
+        "Siege against city gates imagined.",
+        "Parents and children caught in siege conditions.",
+        "Scattering among nations.",
+        "Ships returning toward Egypt."
+      ],
+      "audioScript": "Deuteronomy 28 gives the fullest blessing and curse speech in the book. The blessings describe ordinary life going well: city, field, children, crops, livestock, basket, kneading bowl, rain, and security from enemies. The curses use the same world in reverse: disease, drought, defeat, siege, hunger, scattering, and loss of land. The imagery is concrete and severe. Israel is still outside Canaan, but Moses places before them the possible futures of life in the land, from abundance to exile.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 28:1-68"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-27-altar-and-curses",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ],
+        "events": [
+          "blessings and curses",
+          "covenant consequences",
+          "siege exile"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Extended Blessings and Curses"
+        ]
+      },
+      "realitySummary": "Extended Blessings and Curses. Moses gives an extended list of blessings for obedience and curses for disobedience, using city, field, body, crop, livestock, weather, war, siege, exile, and return-to-Egypt imagery."
+    }
   }
 ]
