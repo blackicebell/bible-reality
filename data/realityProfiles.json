@@ -60771,5 +60771,2142 @@
       },
       "realitySummary": "Moses Views the Land, Dies in Moab, and Joshua Succeeds Him. Moses ascends Nebo, sees the land from Gilead to the western sea and the Negev, dies in Moab, is buried, Israel mourns, and Joshua is filled with wisdom."
     }
+  },
+  {
+    "id": "joshua-01-joshua-commissioned",
+    "sourceFile": "joshua-01-joshua-commissioned.json",
+    "searchTerms": [
+      "Joshua",
+      "Moses",
+      "Yahweh",
+      "Officers of the people",
+      "Reubenites, Gadites, and half-tribe of Manasseh",
+      "Jordan River",
+      "Wilderness",
+      "Lebanon",
+      "Euphrates River",
+      "Great Sea",
+      "Joshua commissioned",
+      "Moses dies",
+      "cross the Jordan",
+      "eastern tribes armed",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 1",
+      "Joshua son of Nun commissioned",
+      "Israel prepares to cross Jordan",
+      "Leadership Transition",
+      "Instruction Received",
+      "Preparation",
+      "Military Mobilization",
+      "Joshua Is Commissioned After Moses' Death",
+      "Joshua Is Commissioned After Moses' Death. Joshua is commanded to lead Israel across the Jordan, officers prepare the camp, and the eastern tribes agree to cross armed with the rest of Israel."
+    ],
+    "title": "Joshua Is Commissioned After Moses' Death",
+    "reference": "Joshua 1",
+    "kicker": "Study",
+    "eventType": [
+      "Leadership Transition",
+      "Instruction Received",
+      "Preparation",
+      "Military Mobilization"
+    ],
+    "summary": "Joshua Is Commissioned After Moses' Death. Joshua is commanded to lead Israel across the Jordan, officers prepare the camp, and the eastern tribes agree to cross armed with the rest of Israel.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Shittim / east side of the Jordan"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Transjordan region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Leadership Transition"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Moses' death; before crossing the Jordan; before Jericho"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "Joshua Is Commissioned After Moses' Death"
+    ],
+    "currentStory": "Joshua Is Commissioned After Moses' Death",
+    "stepIntoStory": "Moses is gone, and the camp east of the Jordan now looks to Joshua. The river is not a distant idea; it is the boundary in front of them.\n\nOfficers move through the camp with practical instructions. People prepare provisions because the crossing is near, not theoretical.\n\nThe eastern tribes are also addressed. Their families and livestock have land east of the Jordan, but their fighting men must cross with the rest of Israel until the other tribes receive rest.",
+    "notice": [
+      "A large Israelite camp east of the Jordan.",
+      "Joshua standing as the new leader after Moses.",
+      "Officers moving through the camp.",
+      "Families preparing provisions for travel.",
+      "The Jordan River ahead as the crossing boundary.",
+      "Fighting men from Reuben, Gad, and half-Manasseh preparing to cross armed.",
+      "Canaan visible as the immediate destination.",
+      "The memory of Moses' death still framing the scene."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Deuteronomy ended with Moses viewing the land from Mount Nebo, dying in Moab, and Joshua being filled with wisdom."
+      },
+      {
+        "label": "Now",
+        "value": "Joshua is commanded to lead Israel across the Jordan, officers prepare the camp, and the eastern tribes agree to cross armed with the rest of Israel."
+      },
+      {
+        "label": "Next",
+        "value": "Joshua sends two spies from Shittim to view Jericho."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the first leadership scene after Moses' death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It shifts the narrative from Moses' final speeches to Joshua's active leadership."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The chapter prepares Israel for movement from the wilderness side of the Jordan into Canaan."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Israel is camped east of the Jordan, opposite the land they are about to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Jordan River is the immediate geographic barrier between the camp and Canaan."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The land description stretches the reader's view from the wilderness and Lebanon to the Euphrates and the Great Sea."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The camp needs officers to communicate instructions across a large population."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Provision preparation shows the people expect imminent movement."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The eastern tribes have families and livestock east of the Jordan, but their fighting men must cross with the rest of Israel."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This opens the book of Joshua with leadership transfer after Moses.",
+      "It establishes Joshua as the leader who will bring Israel across the Jordan.",
+      "It reactivates the promise of land in a concrete crossing moment.",
+      "It connects the eastern tribes' earlier agreement in Numbers 32 to the present campaign."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "New leader of Israel after Moses' death",
+        "relationships": [
+          "Son of Nun",
+          "assistant of Moses"
+        ]
+      },
+      {
+        "name": "Moses",
+        "role": "Previous leader whose death forms the immediate background",
+        "relationships": []
+      },
+      {
+        "name": "Yahweh",
+        "role": "Speaks to Joshua and gives instructions",
+        "relationships": []
+      },
+      {
+        "name": "Officers of the people",
+        "role": "Pass through the camp to prepare the people",
+        "relationships": []
+      },
+      {
+        "name": "Reubenites, Gadites, and half-tribe of Manasseh",
+        "role": "Eastern tribes reminded to cross armed before the other tribes",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+        "description": "River boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Wilderness",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Region behind Israel after the wilderness journey"
+      },
+      {
+        "ancientName": "Lebanon",
+        "modernRegion": "Lebanon / northern border region",
+        "description": "Northern extent named in the land description"
+      },
+      {
+        "ancientName": "Euphrates River",
+        "modernRegion": "Syria/Iraq region",
+        "description": "Distant northern/eastern boundary named in the promise formula"
+      },
+      {
+        "ancientName": "Great Sea",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Mediterranean Sea named as western boundary"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Moses",
+      "Yahweh",
+      "Officers of the people",
+      "Reubenites, Gadites, and half-tribe of Manasseh"
+    ],
+    "places": [
+      "Jordan River",
+      "Wilderness",
+      "Lebanon",
+      "Euphrates River",
+      "Great Sea"
+    ],
+    "movement": [
+      "Yahweh speaks to Joshua after Moses' death",
+      "Joshua receives the command to cross the Jordan",
+      "Officers pass through the camp",
+      "The people prepare provisions",
+      "Eastern tribes are reminded to cross armed before their brothers"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp east of the Jordan",
+      "destination": "Canaan west of the Jordan",
+      "route": [
+        "Yahweh speaks to Joshua after Moses' death",
+        "Joshua receives the command to cross the Jordan",
+        "Officers pass through the camp",
+        "The people prepare provisions",
+        "Eastern tribes are reminded to cross armed before their brothers"
+      ],
+      "majorStops": [
+        "East side of Jordan",
+        "Israelite camp",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 1 begins after the death of Moses. Israel is camped east of the Jordan, and the next movement is no longer through wilderness but across the river into Canaan. Yahweh speaks to Joshua and commands him to lead the people across. Officers pass through the camp, telling the people to prepare provisions. The eastern tribes are reminded of their agreement: their families and livestock remain east of the Jordan, but their fighting men must cross armed before their brothers. The chapter is a transition scene: Moses is gone, Joshua leads, and the river lies ahead.",
+    "crossReferences": [
+      "Deuteronomy 31:1-8",
+      "Deuteronomy 34:1-12",
+      "Numbers 32:1-42",
+      "Joshua 1:1-18",
+      "Joshua 2:1",
+      "Joshua 3:1",
+      "Hebrews 4:8"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Deuteronomy 31:1-8",
+        "Deuteronomy 34:1-12",
+        "Numbers 32:1-42"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 1:1-18"
+      ],
+      "laterReferences": [
+        "Joshua 2:1",
+        "Joshua 3:1"
+      ],
+      "newTestamentReferences": [
+        "Hebrews 4:8"
+      ]
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "deuteronomy-35-moses-dies",
+      "nextStory": "joshua-02-spies-and-rahab"
+    },
+    "source": {
+      "id": "joshua-01-joshua-commissioned",
+      "reference": "Joshua 1",
+      "storyTitle": "Joshua Is Commissioned After Moses' Death",
+      "eventType": [
+        "Leadership Transition",
+        "Instruction Received",
+        "Preparation",
+        "Military Mobilization"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Shittim / east side of the Jordan",
+        "modernRegion": "Jordan / Transjordan region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "Israelites",
+          "officers",
+          "Reubenites",
+          "Gadites",
+          "half-tribe of Manasseh"
+        ],
+        "sceneScale": "National Leadership Transition",
+        "timeAnchor": "After Moses' death; before crossing the Jordan; before Jericho",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "New leader of Israel after Moses' death",
+          "relationships": [
+            "Son of Nun",
+            "assistant of Moses"
+          ]
+        },
+        {
+          "name": "Moses",
+          "role": "Previous leader whose death forms the immediate background",
+          "relationships": []
+        },
+        {
+          "name": "Yahweh",
+          "role": "Speaks to Joshua and gives instructions",
+          "relationships": []
+        },
+        {
+          "name": "Officers of the people",
+          "role": "Pass through the camp to prepare the people",
+          "relationships": []
+        },
+        {
+          "name": "Reubenites, Gadites, and half-tribe of Manasseh",
+          "role": "Eastern tribes reminded to cross armed before the other tribes",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+          "description": "River boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Wilderness",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Region behind Israel after the wilderness journey"
+        },
+        {
+          "ancientName": "Lebanon",
+          "modernRegion": "Lebanon / northern border region",
+          "description": "Northern extent named in the land description"
+        },
+        {
+          "ancientName": "Euphrates River",
+          "modernRegion": "Syria/Iraq region",
+          "description": "Distant northern/eastern boundary named in the promise formula"
+        },
+        {
+          "ancientName": "Great Sea",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Mediterranean Sea named as western boundary"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp east of the Jordan",
+        "destination": "Canaan west of the Jordan",
+        "route": [
+          "Yahweh speaks to Joshua after Moses' death",
+          "Joshua receives the command to cross the Jordan",
+          "Officers pass through the camp",
+          "The people prepare provisions",
+          "Eastern tribes are reminded to cross armed before their brothers"
+        ],
+        "majorStops": [
+          "East side of Jordan",
+          "Israelite camp",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Deuteronomy ended with Moses viewing the land from Mount Nebo, dying in Moab, and Joshua being filled with wisdom.",
+        "whatIsHappeningNow": "Joshua is commanded to lead Israel across the Jordan, officers prepare the camp, and the eastern tribes agree to cross armed with the rest of Israel.",
+        "whatHappensAfter": "Joshua sends two spies from Shittim to view Jericho.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "Joshua Is Commissioned After Moses' Death ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This is the first leadership scene after Moses' death.",
+          "It shifts the narrative from Moses' final speeches to Joshua's active leadership.",
+          "The chapter prepares Israel for movement from the wilderness side of the Jordan into Canaan."
+        ],
+        "geographicContext": [
+          "Israel is camped east of the Jordan, opposite the land they are about to enter.",
+          "The Jordan River is the immediate geographic barrier between the camp and Canaan.",
+          "The land description stretches the reader's view from the wilderness and Lebanon to the Euphrates and the Great Sea."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "The camp needs officers to communicate instructions across a large population.",
+          "Provision preparation shows the people expect imminent movement.",
+          "The eastern tribes have families and livestock east of the Jordan, but their fighting men must cross with the rest of Israel."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This opens the book of Joshua with leadership transfer after Moses.",
+        "It establishes Joshua as the leader who will bring Israel across the Jordan.",
+        "It reactivates the promise of land in a concrete crossing moment.",
+        "It connects the eastern tribes' earlier agreement in Numbers 32 to the present campaign."
+      ],
+      "stepIntoTheStory": [
+        "Moses is gone, and the camp east of the Jordan now looks to Joshua. The river is not a distant idea; it is the boundary in front of them.",
+        "Officers move through the camp with practical instructions. People prepare provisions because the crossing is near, not theoretical.",
+        "The eastern tribes are also addressed. Their families and livestock have land east of the Jordan, but their fighting men must cross with the rest of Israel until the other tribes receive rest."
+      ],
+      "documentaryObservations": [
+        "A large Israelite camp east of the Jordan.",
+        "Joshua standing as the new leader after Moses.",
+        "Officers moving through the camp.",
+        "Families preparing provisions for travel.",
+        "The Jordan River ahead as the crossing boundary.",
+        "Fighting men from Reuben, Gad, and half-Manasseh preparing to cross armed.",
+        "Canaan visible as the immediate destination.",
+        "The memory of Moses' death still framing the scene."
+      ],
+      "audioScript": "Joshua 1 begins after the death of Moses. Israel is camped east of the Jordan, and the next movement is no longer through wilderness but across the river into Canaan. Yahweh speaks to Joshua and commands him to lead the people across. Officers pass through the camp, telling the people to prepare provisions. The eastern tribes are reminded of their agreement: their families and livestock remain east of the Jordan, but their fighting men must cross armed before their brothers. The chapter is a transition scene: Moses is gone, Joshua leads, and the river lies ahead.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Deuteronomy 31:1-8",
+          "Deuteronomy 34:1-12",
+          "Numbers 32:1-42"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 1:1-18"
+        ],
+        "laterReferences": [
+          "Joshua 2:1",
+          "Joshua 3:1"
+        ],
+        "newTestamentReferences": [
+          "Hebrews 4:8"
+        ]
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "deuteronomy-35-moses-dies",
+        "nextStory": "joshua-02-spies-and-rahab"
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Moses",
+          "Yahweh",
+          "Officers of the people",
+          "Reubenites, Gadites, and half-tribe of Manasseh"
+        ],
+        "places": [
+          "Jordan River",
+          "Wilderness",
+          "Lebanon",
+          "Euphrates River",
+          "Great Sea"
+        ],
+        "events": [
+          "Joshua commissioned",
+          "Moses dies",
+          "cross the Jordan",
+          "eastern tribes armed"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 1",
+          "Joshua son of Nun commissioned",
+          "Israel prepares to cross Jordan"
+        ]
+      },
+      "realitySummary": "Joshua Is Commissioned After Moses' Death. Joshua is commanded to lead Israel across the Jordan, officers prepare the camp, and the eastern tribes agree to cross armed with the rest of Israel."
+    }
+  },
+  {
+    "id": "joshua-02-spies-and-rahab",
+    "sourceFile": "joshua-02-spies-and-rahab.json",
+    "searchTerms": [
+      "Joshua",
+      "Two spies",
+      "Rahab",
+      "King of Jericho",
+      "Rahab's family",
+      "Shittim",
+      "Jericho",
+      "Rahab's house",
+      "City gate",
+      "Hill country",
+      "spies in Jericho",
+      "Rahab hides spies",
+      "scarlet cord",
+      "Jericho gate",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 2",
+      "Rahab and the spies",
+      "spies at Jericho",
+      "Reconnaissance",
+      "Espionage",
+      "Rescue Promise",
+      "City Encounter",
+      "The Spies Enter Jericho and Rahab Hides Them",
+      "The Spies Enter Jericho and Rahab Hides Them. Two spies enter Jericho, Rahab hides them, receives a promise for her household, and helps them escape through the wall."
+    ],
+    "title": "The Spies Enter Jericho and Rahab Hides Them",
+    "reference": "Joshua 2",
+    "kicker": "Study",
+    "eventType": [
+      "Reconnaissance",
+      "Espionage",
+      "Rescue Promise",
+      "City Encounter"
+    ],
+    "summary": "The Spies Enter Jericho and Rahab Hides Them. Two spies enter Jericho, Rahab hides them, receives a promise for her household, and helps them escape through the wall.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Shittim and Jericho"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan River Valley / Israel-Jordan border region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Covert City Reconnaissance"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "Before crossing the Jordan; before Jericho falls"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "The Spies Enter Jericho and Rahab Hides Them"
+    ],
+    "currentStory": "The Spies Enter Jericho and Rahab Hides Them",
+    "stepIntoStory": "The scene begins at Shittim, east of the Jordan, where Joshua sends two men ahead quietly. Their path leads across the frontier into Jericho.\n\nInside the city, the spies enter Rahab's house. When the king's men come looking, the city becomes dangerous: gates, messengers, rooftops, and pursuit routes all matter.\n\nRahab hides the men under flax laid out on the roof. Later, they descend by rope through a window in the wall and disappear into the hill country for three days before returning to Joshua.",
+    "notice": [
+      "Two spies leaving Shittim secretly.",
+      "Jericho as a walled city near the Jordan Valley.",
+      "City gate shut at night.",
+      "Rahab's house connected to the city wall.",
+      "Flax stalks spread out on a flat roof.",
+      "Royal messengers searching for the spies.",
+      "A rope lowered through a window.",
+      "The spies hiding in the hill country for three days.",
+      "A scarlet cord tied in the window as a household marker.",
+      "The spies returning to Joshua with a report."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Joshua was commissioned, the camp prepared provisions, and Israel was preparing to cross the Jordan."
+      },
+      {
+        "label": "Now",
+        "value": "Two spies enter Jericho, Rahab hides them, receives a promise for her household, and helps them escape through the wall."
+      },
+      {
+        "label": "Next",
+        "value": "Israel moves from Shittim to the Jordan and prepares for the river crossing."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the first direct Canaanite city scene in Joshua."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces Jericho before the national crossing and siege."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Rahab and her household become linked to the later fall of Jericho."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The spies' report strengthens the narrative movement toward crossing."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Jericho lies west of the Jordan in the lower Jordan Valley, near the route Israel will take into the land."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The story moves from Israel's camp at Shittim into an enemy city with walls, gates, rooftops, and royal surveillance."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The spies hide in the nearby hill country before returning east to Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Ancient cities had controlled gates that were shut at night."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Flat rooftops could be used for drying agricultural materials such as flax."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A house in or on the wall provides a physical escape route through a window."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Reconnaissance required secrecy, local shelter, and timed movement around gate closures."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This introduces Jericho as Israel's first major city obstacle west of the Jordan.",
+      "It places Rahab inside the narrative before Jericho falls.",
+      "It gives Joshua a report from inside the land before the crossing.",
+      "It creates continuity between reconnaissance, rescue promise, and the later preservation of Rahab's household."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Sends two spies secretly from Shittim",
+        "relationships": []
+      },
+      {
+        "name": "Two spies",
+        "role": "Enter Jericho and stay at Rahab's house",
+        "relationships": []
+      },
+      {
+        "name": "Rahab",
+        "role": "Woman in Jericho who hides the spies and makes a protection agreement",
+        "relationships": []
+      },
+      {
+        "name": "King of Jericho",
+        "role": "Searches for the spies after hearing they entered the city",
+        "relationships": []
+      },
+      {
+        "name": "Rahab's family",
+        "role": "Household promised protection if gathered in her house",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Shittim",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Israelite camp east of the Jordan before the crossing"
+      },
+      {
+        "ancientName": "Jericho",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Walled city west of the Jordan near the crossing route"
+      },
+      {
+        "ancientName": "Rahab's house",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "House located in or on the city wall according to the narrative"
+      },
+      {
+        "ancientName": "City gate",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Controlled entry and exit point closed at night"
+      },
+      {
+        "ancientName": "Hill country",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Area where the spies hide for three days before returning"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Two spies",
+      "Rahab",
+      "King of Jericho",
+      "Rahab's family"
+    ],
+    "places": [
+      "Shittim",
+      "Jericho",
+      "Rahab's house",
+      "City gate",
+      "Hill country"
+    ],
+    "movement": [
+      "Joshua sends two spies secretly from Shittim",
+      "The spies enter Jericho and come to Rahab's house",
+      "The king's men search for them",
+      "Rahab hides the men on the roof under flax stalks",
+      "The spies escape through the window by rope",
+      "They hide in the hill country three days",
+      "They return across the Jordan to Joshua"
+    ],
+    "movementDetails": {
+      "startingPoint": "Shittim east of the Jordan",
+      "destination": "Jericho and return to Joshua",
+      "route": [
+        "Joshua sends two spies secretly from Shittim",
+        "The spies enter Jericho and come to Rahab's house",
+        "The king's men search for them",
+        "Rahab hides the men on the roof under flax stalks",
+        "The spies escape through the window by rope",
+        "They hide in the hill country three days",
+        "They return across the Jordan to Joshua"
+      ],
+      "majorStops": [
+        "Shittim",
+        "Jericho",
+        "Rahab's roof",
+        "city wall window",
+        "hill country",
+        "Joshua's camp"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 2 shifts from the Israelite camp to the city of Jericho. Joshua sends two spies from Shittim, and they enter the city quietly. They come to the house of Rahab, whose house is connected to the city wall. When the king of Jericho hears that men from Israel have entered, he sends to Rahab, but she hides the spies under flax stalks on the roof. After the gate is shut and the searchers leave, she helps the men escape by rope through the window. They hide in the hill country for three days, then return to Joshua with their report.",
+    "crossReferences": [
+      "Joshua 1:10-18",
+      "Numbers 25:1",
+      "Numbers 33:49",
+      "Joshua 2:1-24",
+      "Joshua 6:22-25",
+      "Hebrews 11:31",
+      "James 2:25",
+      "Matthew 1:5"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 1:10-18",
+        "Numbers 25:1",
+        "Numbers 33:49"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 2:1-24"
+      ],
+      "laterReferences": [
+        "Joshua 6:22-25"
+      ],
+      "newTestamentReferences": [
+        "Hebrews 11:31",
+        "James 2:25",
+        "Matthew 1:5"
+      ]
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-01-joshua-commissioned",
+      "nextStory": "joshua-03-crossing-the-jordan"
+    },
+    "source": {
+      "id": "joshua-02-spies-and-rahab",
+      "reference": "Joshua 2",
+      "storyTitle": "The Spies Enter Jericho and Rahab Hides Them",
+      "eventType": [
+        "Reconnaissance",
+        "Espionage",
+        "Rescue Promise",
+        "City Encounter"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Shittim and Jericho",
+        "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "two spies",
+          "Rahab",
+          "king of Jericho"
+        ],
+        "sceneScale": "Covert City Reconnaissance",
+        "timeAnchor": "Before crossing the Jordan; before Jericho falls",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Sends two spies secretly from Shittim",
+          "relationships": []
+        },
+        {
+          "name": "Two spies",
+          "role": "Enter Jericho and stay at Rahab's house",
+          "relationships": []
+        },
+        {
+          "name": "Rahab",
+          "role": "Woman in Jericho who hides the spies and makes a protection agreement",
+          "relationships": []
+        },
+        {
+          "name": "King of Jericho",
+          "role": "Searches for the spies after hearing they entered the city",
+          "relationships": []
+        },
+        {
+          "name": "Rahab's family",
+          "role": "Household promised protection if gathered in her house",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Shittim",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Israelite camp east of the Jordan before the crossing"
+        },
+        {
+          "ancientName": "Jericho",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Walled city west of the Jordan near the crossing route"
+        },
+        {
+          "ancientName": "Rahab's house",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "House located in or on the city wall according to the narrative"
+        },
+        {
+          "ancientName": "City gate",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Controlled entry and exit point closed at night"
+        },
+        {
+          "ancientName": "Hill country",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Area where the spies hide for three days before returning"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Shittim east of the Jordan",
+        "destination": "Jericho and return to Joshua",
+        "route": [
+          "Joshua sends two spies secretly from Shittim",
+          "The spies enter Jericho and come to Rahab's house",
+          "The king's men search for them",
+          "Rahab hides the men on the roof under flax stalks",
+          "The spies escape through the window by rope",
+          "They hide in the hill country three days",
+          "They return across the Jordan to Joshua"
+        ],
+        "majorStops": [
+          "Shittim",
+          "Jericho",
+          "Rahab's roof",
+          "city wall window",
+          "hill country",
+          "Joshua's camp"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Joshua was commissioned, the camp prepared provisions, and Israel was preparing to cross the Jordan.",
+        "whatIsHappeningNow": "Two spies enter Jericho, Rahab hides them, receives a promise for her household, and helps them escape through the wall.",
+        "whatHappensAfter": "Israel moves from Shittim to the Jordan and prepares for the river crossing.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "The Spies Enter Jericho and Rahab Hides Them ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This is the first direct Canaanite city scene in Joshua.",
+          "It introduces Jericho before the national crossing and siege.",
+          "Rahab and her household become linked to the later fall of Jericho.",
+          "The spies' report strengthens the narrative movement toward crossing."
+        ],
+        "geographicContext": [
+          "Jericho lies west of the Jordan in the lower Jordan Valley, near the route Israel will take into the land.",
+          "The story moves from Israel's camp at Shittim into an enemy city with walls, gates, rooftops, and royal surveillance.",
+          "The spies hide in the nearby hill country before returning east to Joshua."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Ancient cities had controlled gates that were shut at night.",
+          "Flat rooftops could be used for drying agricultural materials such as flax.",
+          "A house in or on the wall provides a physical escape route through a window.",
+          "Reconnaissance required secrecy, local shelter, and timed movement around gate closures."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This introduces Jericho as Israel's first major city obstacle west of the Jordan.",
+        "It places Rahab inside the narrative before Jericho falls.",
+        "It gives Joshua a report from inside the land before the crossing.",
+        "It creates continuity between reconnaissance, rescue promise, and the later preservation of Rahab's household."
+      ],
+      "stepIntoTheStory": [
+        "The scene begins at Shittim, east of the Jordan, where Joshua sends two men ahead quietly. Their path leads across the frontier into Jericho.",
+        "Inside the city, the spies enter Rahab's house. When the king's men come looking, the city becomes dangerous: gates, messengers, rooftops, and pursuit routes all matter.",
+        "Rahab hides the men under flax laid out on the roof. Later, they descend by rope through a window in the wall and disappear into the hill country for three days before returning to Joshua."
+      ],
+      "documentaryObservations": [
+        "Two spies leaving Shittim secretly.",
+        "Jericho as a walled city near the Jordan Valley.",
+        "City gate shut at night.",
+        "Rahab's house connected to the city wall.",
+        "Flax stalks spread out on a flat roof.",
+        "Royal messengers searching for the spies.",
+        "A rope lowered through a window.",
+        "The spies hiding in the hill country for three days.",
+        "A scarlet cord tied in the window as a household marker.",
+        "The spies returning to Joshua with a report."
+      ],
+      "audioScript": "Joshua 2 shifts from the Israelite camp to the city of Jericho. Joshua sends two spies from Shittim, and they enter the city quietly. They come to the house of Rahab, whose house is connected to the city wall. When the king of Jericho hears that men from Israel have entered, he sends to Rahab, but she hides the spies under flax stalks on the roof. After the gate is shut and the searchers leave, she helps the men escape by rope through the window. They hide in the hill country for three days, then return to Joshua with their report.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 1:10-18",
+          "Numbers 25:1",
+          "Numbers 33:49"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 2:1-24"
+        ],
+        "laterReferences": [
+          "Joshua 6:22-25"
+        ],
+        "newTestamentReferences": [
+          "Hebrews 11:31",
+          "James 2:25",
+          "Matthew 1:5"
+        ]
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-01-joshua-commissioned",
+        "nextStory": "joshua-03-crossing-the-jordan"
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Two spies",
+          "Rahab",
+          "King of Jericho",
+          "Rahab's family"
+        ],
+        "places": [
+          "Shittim",
+          "Jericho",
+          "Rahab's house",
+          "City gate",
+          "Hill country"
+        ],
+        "events": [
+          "spies in Jericho",
+          "Rahab hides spies",
+          "scarlet cord",
+          "Jericho gate"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 2",
+          "Rahab and the spies",
+          "spies at Jericho"
+        ]
+      },
+      "realitySummary": "The Spies Enter Jericho and Rahab Hides Them. Two spies enter Jericho, Rahab hides them, receives a promise for her household, and helps them escape through the wall."
+    }
+  },
+  {
+    "id": "joshua-03-crossing-the-jordan",
+    "sourceFile": "joshua-03-crossing-the-jordan.json",
+    "searchTerms": [
+      "Joshua",
+      "Priests",
+      "Israelites",
+      "Twelve men from the tribes",
+      "Yahweh",
+      "Shittim",
+      "Jordan River",
+      "Adam",
+      "Jericho",
+      "Gilgal",
+      "Jordan crossing",
+      "Ark in Jordan",
+      "memorial stones",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 3-4",
+      "Israel crosses Jordan",
+      "twelve stones at Gilgal",
+      "Journey",
+      "River Crossing",
+      "Priestly Procession",
+      "Memorial",
+      "Israel Crosses the Jordan and Sets Up Memorial Stones",
+      "Israel Crosses the Jordan and Sets Up Memorial Stones. Israel follows the Ark, crosses the Jordan on dry ground, and sets up twelve memorial stones at Gilgal."
+    ],
+    "title": "Israel Crosses the Jordan and Sets Up Memorial Stones",
+    "reference": "Joshua 3-4",
+    "kicker": "Study",
+    "eventType": [
+      "Journey",
+      "River Crossing",
+      "Priestly Procession",
+      "Memorial"
+    ],
+    "summary": "Israel Crosses the Jordan and Sets Up Memorial Stones. Israel follows the Ark, crosses the Jordan on dry ground, and sets up twelve memorial stones at Gilgal.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Jordan River crossing near Jericho"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan River Valley / Israel-Jordan border region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National River Crossing"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the spies return; before camp at Gilgal and Passover"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "Israel Crosses the Jordan and Sets Up Memorial Stones"
+    ],
+    "currentStory": "Israel Crosses the Jordan and Sets Up Memorial Stones",
+    "stepIntoStory": "The camp leaves Shittim and moves to the Jordan. The river is at flood stage, so the crossing is not a casual ford.\n\nThe priests carrying the Ark step into the water first. They stand in the riverbed while the people cross, turning the movement of a nation into a visible procession.\n\nTwelve men carry stones from the riverbed. At Gilgal, the stones become a memorial, a physical object future children can point to and ask about.",
+    "notice": [
+      "The camp moving from Shittim to the Jordan.",
+      "The Ark carried ahead of the people.",
+      "A commanded distance between the people and the Ark.",
+      "The Jordan overflowing its banks at harvest time.",
+      "Priests standing in the riverbed with the Ark.",
+      "A dry crossing path through the riverbed.",
+      "Twelve tribal representatives carrying stones.",
+      "Memorial stones set up at Gilgal.",
+      "The Jordan waters returning after the priests exit.",
+      "Jericho nearby on the western side."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "The two spies returned from Jericho and reported that the inhabitants of the land were afraid."
+      },
+      {
+        "label": "Now",
+        "value": "Israel follows the Ark, crosses the Jordan on dry ground, and sets up twelve memorial stones at Gilgal."
+      },
+      {
+        "label": "Next",
+        "value": "Israel is circumcised at Gilgal, keeps Passover in Canaan, and the manna stops."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is Israel's actual entry into Canaan under Joshua."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It publicly establishes Joshua's leadership after Moses."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It transforms the Jordan from barrier to crossed boundary."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The memorial stones create a physical teaching marker for future generations."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Jordan is the immediate landscape feature, and the crossing occurs when the river is described as overflowing its banks during harvest time."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Jericho is nearby on the western side, making the crossing strategically important."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Gilgal becomes Israel's first major camp west of the Jordan in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A large national crossing requires ordered movement by tribes and clear distance from the Ark."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests carry the Ark and stand in the riverbed while the people cross."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Twelve stones become a physical memorial that children can later ask about."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The crossing combines travel logistics, priestly action, and memory-making."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This moves Israel from the wilderness side of the Jordan into Canaan.",
+      "It parallels earlier water-crossing memories from the Exodus story without turning into interpretation.",
+      "It introduces Gilgal as Israel's first major camp in the land.",
+      "It explains the origin of the memorial stones connected to the Jordan crossing."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Leads Israel through the Jordan crossing",
+        "relationships": []
+      },
+      {
+        "name": "Priests",
+        "role": "Carry the Ark into the Jordan and stand in the riverbed",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Cross the Jordan on dry ground",
+        "relationships": []
+      },
+      {
+        "name": "Twelve men from the tribes",
+        "role": "Carry stones from the Jordan as a memorial",
+        "relationships": []
+      },
+      {
+        "name": "Yahweh",
+        "role": "Exalts Joshua in the sight of Israel through the crossing event",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Shittim",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Camp location before moving to the Jordan"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+        "description": "River crossed by Israel while at flood stage"
+      },
+      {
+        "ancientName": "Adam",
+        "modernRegion": "Jordan Valley; exact site debated",
+        "description": "Place near where the waters are described as standing in a heap"
+      },
+      {
+        "ancientName": "Jericho",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "City near the crossing destination"
+      },
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Camp location where memorial stones are set up"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Priests",
+      "Israelites",
+      "Twelve men from the tribes",
+      "Yahweh"
+    ],
+    "places": [
+      "Shittim",
+      "Jordan River",
+      "Adam",
+      "Jericho",
+      "Gilgal"
+    ],
+    "movement": [
+      "Israel leaves Shittim and camps at the Jordan",
+      "Officers instruct the people to follow the Ark at a distance",
+      "Priests carrying the Ark step into the Jordan",
+      "The waters are cut off and stand in a heap",
+      "Israel crosses on dry ground",
+      "Twelve stones are taken from the riverbed",
+      "The priests come up from the Jordan",
+      "The waters return",
+      "The stones are set up at Gilgal"
+    ],
+    "movementDetails": {
+      "startingPoint": "Shittim east of the Jordan",
+      "destination": "Gilgal west of the Jordan near Jericho",
+      "route": [
+        "Israel leaves Shittim and camps at the Jordan",
+        "Officers instruct the people to follow the Ark at a distance",
+        "Priests carrying the Ark step into the Jordan",
+        "The waters are cut off and stand in a heap",
+        "Israel crosses on dry ground",
+        "Twelve stones are taken from the riverbed",
+        "The priests come up from the Jordan",
+        "The waters return",
+        "The stones are set up at Gilgal"
+      ],
+      "majorStops": [
+        "Shittim",
+        "Jordan River bank",
+        "riverbed",
+        "west side of Jordan",
+        "Gilgal"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 3 and 4 record the crossing of the Jordan. Israel leaves Shittim and comes to the river. The Ark goes ahead, carried by priests, and the people follow at a distance. The Jordan is overflowing its banks at harvest time. When the priests' feet reach the water, the waters are cut off, and the priests stand in the riverbed while Israel crosses on dry ground. Twelve men, one from each tribe, take stones from the Jordan. At Gilgal, Joshua sets them up as a memorial. The crossing places Israel inside Canaan for the first time in the book.",
+    "crossReferences": [
+      "Joshua 2:22-24",
+      "Exodus 14:21-31",
+      "Joshua 3:1-4:24",
+      "Joshua 5:1-12",
+      "Psalm 114:3-5"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 2:22-24",
+        "Exodus 14:21-31"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 3:1-4:24"
+      ],
+      "laterReferences": [
+        "Joshua 5:1-12",
+        "Psalm 114:3-5"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-02-spies-and-rahab",
+      "nextStory": "joshua-04-circumcision-passover-and-commander"
+    },
+    "source": {
+      "id": "joshua-03-crossing-the-jordan",
+      "reference": "Joshua 3-4",
+      "storyTitle": "Israel Crosses the Jordan and Sets Up Memorial Stones",
+      "eventType": [
+        "Journey",
+        "River Crossing",
+        "Priestly Procession",
+        "Memorial"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Jordan River crossing near Jericho",
+        "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "priests",
+          "Ark of the Covenant",
+          "twelve tribal men",
+          "Israelites"
+        ],
+        "sceneScale": "National River Crossing",
+        "timeAnchor": "After the spies return; before camp at Gilgal and Passover",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Leads Israel through the Jordan crossing",
+          "relationships": []
+        },
+        {
+          "name": "Priests",
+          "role": "Carry the Ark into the Jordan and stand in the riverbed",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Cross the Jordan on dry ground",
+          "relationships": []
+        },
+        {
+          "name": "Twelve men from the tribes",
+          "role": "Carry stones from the Jordan as a memorial",
+          "relationships": []
+        },
+        {
+          "name": "Yahweh",
+          "role": "Exalts Joshua in the sight of Israel through the crossing event",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Shittim",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Camp location before moving to the Jordan"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+          "description": "River crossed by Israel while at flood stage"
+        },
+        {
+          "ancientName": "Adam",
+          "modernRegion": "Jordan Valley; exact site debated",
+          "description": "Place near where the waters are described as standing in a heap"
+        },
+        {
+          "ancientName": "Jericho",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "City near the crossing destination"
+        },
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Camp location where memorial stones are set up"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Shittim east of the Jordan",
+        "destination": "Gilgal west of the Jordan near Jericho",
+        "route": [
+          "Israel leaves Shittim and camps at the Jordan",
+          "Officers instruct the people to follow the Ark at a distance",
+          "Priests carrying the Ark step into the Jordan",
+          "The waters are cut off and stand in a heap",
+          "Israel crosses on dry ground",
+          "Twelve stones are taken from the riverbed",
+          "The priests come up from the Jordan",
+          "The waters return",
+          "The stones are set up at Gilgal"
+        ],
+        "majorStops": [
+          "Shittim",
+          "Jordan River bank",
+          "riverbed",
+          "west side of Jordan",
+          "Gilgal"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "The two spies returned from Jericho and reported that the inhabitants of the land were afraid.",
+        "whatIsHappeningNow": "Israel follows the Ark, crosses the Jordan on dry ground, and sets up twelve memorial stones at Gilgal.",
+        "whatHappensAfter": "Israel is circumcised at Gilgal, keeps Passover in Canaan, and the manna stops.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "Israel Crosses the Jordan and Sets Up Memorial Stones ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This is Israel's actual entry into Canaan under Joshua.",
+          "It publicly establishes Joshua's leadership after Moses.",
+          "It transforms the Jordan from barrier to crossed boundary.",
+          "The memorial stones create a physical teaching marker for future generations."
+        ],
+        "geographicContext": [
+          "The Jordan is the immediate landscape feature, and the crossing occurs when the river is described as overflowing its banks during harvest time.",
+          "Jericho is nearby on the western side, making the crossing strategically important.",
+          "Gilgal becomes Israel's first major camp west of the Jordan in Joshua."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "A large national crossing requires ordered movement by tribes and clear distance from the Ark.",
+          "Priests carry the Ark and stand in the riverbed while the people cross.",
+          "Twelve stones become a physical memorial that children can later ask about.",
+          "The crossing combines travel logistics, priestly action, and memory-making."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This moves Israel from the wilderness side of the Jordan into Canaan.",
+        "It parallels earlier water-crossing memories from the Exodus story without turning into interpretation.",
+        "It introduces Gilgal as Israel's first major camp in the land.",
+        "It explains the origin of the memorial stones connected to the Jordan crossing."
+      ],
+      "stepIntoTheStory": [
+        "The camp leaves Shittim and moves to the Jordan. The river is at flood stage, so the crossing is not a casual ford.",
+        "The priests carrying the Ark step into the water first. They stand in the riverbed while the people cross, turning the movement of a nation into a visible procession.",
+        "Twelve men carry stones from the riverbed. At Gilgal, the stones become a memorial, a physical object future children can point to and ask about."
+      ],
+      "documentaryObservations": [
+        "The camp moving from Shittim to the Jordan.",
+        "The Ark carried ahead of the people.",
+        "A commanded distance between the people and the Ark.",
+        "The Jordan overflowing its banks at harvest time.",
+        "Priests standing in the riverbed with the Ark.",
+        "A dry crossing path through the riverbed.",
+        "Twelve tribal representatives carrying stones.",
+        "Memorial stones set up at Gilgal.",
+        "The Jordan waters returning after the priests exit.",
+        "Jericho nearby on the western side."
+      ],
+      "audioScript": "Joshua 3 and 4 record the crossing of the Jordan. Israel leaves Shittim and comes to the river. The Ark goes ahead, carried by priests, and the people follow at a distance. The Jordan is overflowing its banks at harvest time. When the priests' feet reach the water, the waters are cut off, and the priests stand in the riverbed while Israel crosses on dry ground. Twelve men, one from each tribe, take stones from the Jordan. At Gilgal, Joshua sets them up as a memorial. The crossing places Israel inside Canaan for the first time in the book.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 2:22-24",
+          "Exodus 14:21-31"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 3:1-4:24"
+        ],
+        "laterReferences": [
+          "Joshua 5:1-12",
+          "Psalm 114:3-5"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-02-spies-and-rahab",
+        "nextStory": "joshua-04-circumcision-passover-and-commander"
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Priests",
+          "Israelites",
+          "Twelve men from the tribes",
+          "Yahweh"
+        ],
+        "places": [
+          "Shittim",
+          "Jordan River",
+          "Adam",
+          "Jericho",
+          "Gilgal"
+        ],
+        "events": [
+          "Jordan crossing",
+          "Ark in Jordan",
+          "memorial stones",
+          "Gilgal"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 3-4",
+          "Israel crosses Jordan",
+          "twelve stones at Gilgal"
+        ]
+      },
+      "realitySummary": "Israel Crosses the Jordan and Sets Up Memorial Stones. Israel follows the Ark, crosses the Jordan on dry ground, and sets up twelve memorial stones at Gilgal."
+    }
+  },
+  {
+    "id": "joshua-04-circumcision-passover-and-commander",
+    "sourceFile": "joshua-04-circumcision-passover-and-commander.json",
+    "searchTerms": [
+      "Joshua",
+      "Israelite men born in the wilderness",
+      "Israelites",
+      "Commander of Yahweh's army",
+      "Gilgal",
+      "Jordan River",
+      "Jericho",
+      "Canaan",
+      "Gilgal circumcision",
+      "Passover in Canaan",
+      "manna stops",
+      "commander of Yahweh's army",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 5",
+      "circumcision at Gilgal",
+      "first Passover in Canaan",
+      "Camp Event",
+      "Covenant Sign",
+      "Passover",
+      "Food Transition",
+      "Encounter",
+      "Circumcision, Passover, Manna Stops, and Joshua Meets the Commander",
+      "Circumcision, Passover, Manna Stops, and Joshua Meets the Commander. Israel is circumcised at Gilgal, keeps Passover in Canaan, eats the produce of the land, the manna stops, and Joshua meets the commander near Jericho."
+    ],
+    "title": "Circumcision, Passover, Manna Stops, and Joshua Meets the Commander",
+    "reference": "Joshua 5",
+    "kicker": "Study",
+    "eventType": [
+      "Camp Event",
+      "Covenant Sign",
+      "Passover",
+      "Food Transition",
+      "Encounter"
+    ],
+    "summary": "Circumcision, Passover, Manna Stops, and Joshua Meets the Commander. Israel is circumcised at Gilgal, keeps Passover in Canaan, eats the produce of the land, the manna stops, and Joshua meets the commander near Jericho.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Gilgal near Jericho"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Camp Transition"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After crossing the Jordan; before Jericho falls"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "Circumcision, Passover, Manna Stops, and Joshua Meets the Commander"
+    ],
+    "currentStory": "Circumcision, Passover, Manna Stops, and Joshua Meets the Commander",
+    "stepIntoStory": "After the river crossing, Israel does not rush straight into battle. The camp remains at Gilgal, west of the Jordan.\n\nThe wilderness-born males are circumcised, and the camp waits while they heal. Then Israel keeps Passover on the plains of Jericho.\n\nThe next day, the food changes. The people eat produce from the land, and the manna stops. Near Jericho, Joshua sees a man standing with a drawn sword, introducing the next stage of the narrative.",
+    "notice": [
+      "Israel camped at Gilgal west of the Jordan.",
+      "Stone knives used for circumcision.",
+      "The camp waiting during recovery.",
+      "Passover kept on the plains of Jericho.",
+      "Unleavened cakes and parched grain from the land eaten.",
+      "Manna stopping after the people eat Canaan's produce.",
+      "Jericho nearby as the next fortified target.",
+      "Joshua near Jericho seeing a drawn sword.",
+      "Joshua removing his sandals in the encounter scene."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Israel crossed the Jordan on dry ground and set up memorial stones at Gilgal."
+      },
+      {
+        "label": "Now",
+        "value": "Israel is circumcised at Gilgal, keeps Passover in Canaan, eats the produce of the land, the manna stops, and Joshua meets the commander near Jericho."
+      },
+      {
+        "label": "Next",
+        "value": "Jericho is shut up, and Israel receives instructions for the city's fall."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the first major camp transition after entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It marks the wilderness-born generation with circumcision before the campaign begins."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It records the first Passover in the land in Joshua."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It marks the food transition from manna to produce of Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It positions Joshua near Jericho before the first city battle."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Gilgal lies west of the Jordan near Jericho and becomes Israel's first camp after crossing."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The plains of Jericho provide the immediate setting for Passover and eating produce from the land."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Jericho stands nearby as the next visible objective."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The camp pauses after the crossing rather than immediately attacking Jericho."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Circumcision of a large male population requires recovery time in camp."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Passover is kept in the land using the calendar established earlier."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Eating produce marks a change from wilderness food supply to local agriculture."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This completes the transition from wilderness movement to life inside Canaan.",
+      "It explains why the manna stops after Israel eats the land's produce.",
+      "It places Gilgal as a key base camp for the early Joshua narratives.",
+      "It sets the scene for Jericho by placing Joshua near the city."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Oversees circumcision at Gilgal and encounters the commander near Jericho",
+        "relationships": []
+      },
+      {
+        "name": "Israelite men born in the wilderness",
+        "role": "Circumcised after the Jordan crossing",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Keep Passover and eat produce of the land",
+        "relationships": []
+      },
+      {
+        "name": "Commander of Yahweh's army",
+        "role": "Appears to Joshua near Jericho with drawn sword",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Camp west of the Jordan where circumcision and Passover occur"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+        "description": "River just crossed by Israel"
+      },
+      {
+        "ancientName": "Jericho",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Nearby fortified city that will be attacked next"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Land whose produce Israel begins eating"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Israelite men born in the wilderness",
+      "Israelites",
+      "Commander of Yahweh's army"
+    ],
+    "places": [
+      "Gilgal",
+      "Jordan River",
+      "Jericho",
+      "Canaan"
+    ],
+    "movement": [
+      "Kings west of the Jordan hear about the crossing",
+      "Joshua circumcises the wilderness-born males at Gilgal",
+      "Israel remains in camp until healed",
+      "Israel keeps Passover on the plains of Jericho",
+      "They eat produce of the land",
+      "Manna stops",
+      "Joshua approaches Jericho and encounters the commander"
+    ],
+    "movementDetails": {
+      "startingPoint": "Gilgal camp west of the Jordan",
+      "destination": "Near Jericho",
+      "route": [
+        "Kings west of the Jordan hear about the crossing",
+        "Joshua circumcises the wilderness-born males at Gilgal",
+        "Israel remains in camp until healed",
+        "Israel keeps Passover on the plains of Jericho",
+        "They eat produce of the land",
+        "Manna stops",
+        "Joshua approaches Jericho and encounters the commander"
+      ],
+      "majorStops": [
+        "Gilgal",
+        "plains of Jericho",
+        "near Jericho"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 5 takes place after Israel has crossed the Jordan and camped at Gilgal. The men born during the wilderness journey are circumcised, and the camp remains in place while they heal. Israel then keeps Passover on the plains of Jericho. The next day, the people eat produce from the land: unleavened cakes and parched grain. After that, the manna stops. The chapter ends near Jericho, where Joshua sees a man standing with a drawn sword. This scene stands between the Jordan crossing and the fall of Jericho.",
+    "crossReferences": [
+      "Joshua 3:1-4:24",
+      "Exodus 12:1-51",
+      "Numbers 9:1-14",
+      "Joshua 5:1-15",
+      "Joshua 6:1-27"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 3:1-4:24",
+        "Exodus 12:1-51",
+        "Numbers 9:1-14"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 5:1-15"
+      ],
+      "laterReferences": [
+        "Joshua 6:1-27"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-03-crossing-the-jordan",
+      "nextStory": null
+    },
+    "source": {
+      "id": "joshua-04-circumcision-passover-and-commander",
+      "reference": "Joshua 5",
+      "storyTitle": "Circumcision, Passover, Manna Stops, and Joshua Meets the Commander",
+      "eventType": [
+        "Camp Event",
+        "Covenant Sign",
+        "Passover",
+        "Food Transition",
+        "Encounter"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Gilgal near Jericho",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "Israelites",
+          "new wilderness generation",
+          "Commander of Yahweh's army"
+        ],
+        "sceneScale": "National Camp Transition",
+        "timeAnchor": "After crossing the Jordan; before Jericho falls",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Oversees circumcision at Gilgal and encounters the commander near Jericho",
+          "relationships": []
+        },
+        {
+          "name": "Israelite men born in the wilderness",
+          "role": "Circumcised after the Jordan crossing",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Keep Passover and eat produce of the land",
+          "relationships": []
+        },
+        {
+          "name": "Commander of Yahweh's army",
+          "role": "Appears to Joshua near Jericho with drawn sword",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Camp west of the Jordan where circumcision and Passover occur"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+          "description": "River just crossed by Israel"
+        },
+        {
+          "ancientName": "Jericho",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Nearby fortified city that will be attacked next"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Land whose produce Israel begins eating"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Gilgal camp west of the Jordan",
+        "destination": "Near Jericho",
+        "route": [
+          "Kings west of the Jordan hear about the crossing",
+          "Joshua circumcises the wilderness-born males at Gilgal",
+          "Israel remains in camp until healed",
+          "Israel keeps Passover on the plains of Jericho",
+          "They eat produce of the land",
+          "Manna stops",
+          "Joshua approaches Jericho and encounters the commander"
+        ],
+        "majorStops": [
+          "Gilgal",
+          "plains of Jericho",
+          "near Jericho"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Israel crossed the Jordan on dry ground and set up memorial stones at Gilgal.",
+        "whatIsHappeningNow": "Israel is circumcised at Gilgal, keeps Passover in Canaan, eats the produce of the land, the manna stops, and Joshua meets the commander near Jericho.",
+        "whatHappensAfter": "Jericho is shut up, and Israel receives instructions for the city's fall.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "Circumcision, Passover, Manna Stops, and Joshua Meets the Commander ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This is the first major camp transition after entering Canaan.",
+          "It marks the wilderness-born generation with circumcision before the campaign begins.",
+          "It records the first Passover in the land in Joshua.",
+          "It marks the food transition from manna to produce of Canaan.",
+          "It positions Joshua near Jericho before the first city battle."
+        ],
+        "geographicContext": [
+          "Gilgal lies west of the Jordan near Jericho and becomes Israel's first camp after crossing.",
+          "The plains of Jericho provide the immediate setting for Passover and eating produce from the land.",
+          "Jericho stands nearby as the next visible objective."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "The camp pauses after the crossing rather than immediately attacking Jericho.",
+          "Circumcision of a large male population requires recovery time in camp.",
+          "Passover is kept in the land using the calendar established earlier.",
+          "Eating produce marks a change from wilderness food supply to local agriculture."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This completes the transition from wilderness movement to life inside Canaan.",
+        "It explains why the manna stops after Israel eats the land's produce.",
+        "It places Gilgal as a key base camp for the early Joshua narratives.",
+        "It sets the scene for Jericho by placing Joshua near the city."
+      ],
+      "stepIntoTheStory": [
+        "After the river crossing, Israel does not rush straight into battle. The camp remains at Gilgal, west of the Jordan.",
+        "The wilderness-born males are circumcised, and the camp waits while they heal. Then Israel keeps Passover on the plains of Jericho.",
+        "The next day, the food changes. The people eat produce from the land, and the manna stops. Near Jericho, Joshua sees a man standing with a drawn sword, introducing the next stage of the narrative."
+      ],
+      "documentaryObservations": [
+        "Israel camped at Gilgal west of the Jordan.",
+        "Stone knives used for circumcision.",
+        "The camp waiting during recovery.",
+        "Passover kept on the plains of Jericho.",
+        "Unleavened cakes and parched grain from the land eaten.",
+        "Manna stopping after the people eat Canaan's produce.",
+        "Jericho nearby as the next fortified target.",
+        "Joshua near Jericho seeing a drawn sword.",
+        "Joshua removing his sandals in the encounter scene."
+      ],
+      "audioScript": "Joshua 5 takes place after Israel has crossed the Jordan and camped at Gilgal. The men born during the wilderness journey are circumcised, and the camp remains in place while they heal. Israel then keeps Passover on the plains of Jericho. The next day, the people eat produce from the land: unleavened cakes and parched grain. After that, the manna stops. The chapter ends near Jericho, where Joshua sees a man standing with a drawn sword. This scene stands between the Jordan crossing and the fall of Jericho.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 3:1-4:24",
+          "Exodus 12:1-51",
+          "Numbers 9:1-14"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 5:1-15"
+        ],
+        "laterReferences": [
+          "Joshua 6:1-27"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-03-crossing-the-jordan",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Israelite men born in the wilderness",
+          "Israelites",
+          "Commander of Yahweh's army"
+        ],
+        "places": [
+          "Gilgal",
+          "Jordan River",
+          "Jericho",
+          "Canaan"
+        ],
+        "events": [
+          "Gilgal circumcision",
+          "Passover in Canaan",
+          "manna stops",
+          "commander of Yahweh's army"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 5",
+          "circumcision at Gilgal",
+          "first Passover in Canaan"
+        ]
+      },
+      "realitySummary": "Circumcision, Passover, Manna Stops, and Joshua Meets the Commander. Israel is circumcised at Gilgal, keeps Passover in Canaan, eats the produce of the land, the manna stops, and Joshua meets the commander near Jericho."
+    }
   }
 ]
