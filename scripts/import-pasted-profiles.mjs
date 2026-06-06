@@ -18,6 +18,7 @@ function readProfileInputs(sourcePath) {
   if (stat.isDirectory()) {
     return fs.readdirSync(resolved)
       .filter((fileName) => fileName.endsWith(".json"))
+      .filter((fileName) => !fileName.toLowerCase().endsWith("_manifest.json"))
       .sort()
       .map((fileName) => ({
         fileName,

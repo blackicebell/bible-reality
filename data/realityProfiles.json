@@ -21804,5 +21804,2703 @@
       },
       "realitySummary": "The Tabernacle Is Built and Filled."
     }
+  },
+  {
+    "id": "leviticus-01-burnt-offering",
+    "sourceFile": "leviticus-01-burnt-offering.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Aaron's sons",
+      "Tent of Meeting",
+      "Entrance of the Tent of Meeting",
+      "Altar",
+      "Tabernacle",
+      "altar",
+      "Sinai",
+      "burnt offering",
+      "offering instructions",
+      "altar sacrifice",
+      "Wilderness",
+      "olah",
+      "whole burnt offering",
+      "Leviticus burnt offering",
+      "Instruction Received",
+      "Worship Activity",
+      "Offering",
+      "Instructions for the Burnt Offering",
+      "Leviticus 1",
+      "Leviticus 1 gives instructions for burnt offerings at the newly completed Tabernacle. Israelites bring animals or birds to the entrance, and Aaron's sons perform the altar duties."
+    ],
+    "title": "Instructions for the Burnt Offering",
+    "reference": "Leviticus 1",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Worship Activity",
+      "Offering"
+    ],
+    "summary": "Leviticus 1 gives instructions for burnt offerings at the newly completed Tabernacle. Israelites bring animals or birds to the entrance, and Aaron's sons perform the altar duties.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Tent of Meeting at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Tabernacle Worship Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Exodus; after Tabernacle is set up; before Israel leaves Sinai; before Kingdom; before Temple"
+      }
+    ],
+    "situation": "Offerings are described using domesticated animals from herd or flock, or birds.",
+    "storyPosition": [
+      "Exodus from Egypt",
+      "Sinai Covenant",
+      "Tabernacle Built",
+      "Burnt Offering Instructions",
+      "Grain Offering",
+      "Peace Offering",
+      "Priestly Ordination"
+    ],
+    "currentStory": "Burnt Offering Instructions",
+    "stepIntoStory": "The scene begins with the completed Tabernacle standing inside Israel's wilderness camp. The cloud has covered it at the end of Exodus, and now the voice to Moses comes from the Tent of Meeting.\n\nA person bringing a burnt offering would move from the camp toward the entrance of the sanctuary with an animal from the herd or flock. The altar stands in the courtyard, and Aaron's sons serve there.\n\nThe activity is physical and visible: animals are brought forward, hands are laid on the animal's head, blood is handled at the altar, wood is arranged on the fire, and the offering is placed on the altar.",
+    "notice": [
+      "The Tabernacle standing in the center of the camp.",
+      "An Israelite bringing livestock toward the entrance.",
+      "Cattle, sheep, goats, or birds used as offerings.",
+      "Aaron's sons working at the altar.",
+      "Blood applied around the altar.",
+      "Wood arranged on the fire.",
+      "Animal parts placed on the altar.",
+      "The offering smoke rising from the courtyard."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Exodus ended with the Tabernacle completed, set up, and covered by the cloud."
+      },
+      {
+        "label": "Now",
+        "value": "Yahweh calls to Moses from the Tent of Meeting and gives instructions for burnt offerings from cattle, sheep, goats, turtledoves, or pigeons."
+      },
+      {
+        "label": "Next",
+        "value": "Instructions continue with the grain offering in Leviticus 2."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Leviticus begins after the Tabernacle has been completed and filled with the cloud in Exodus 40."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is still camped at Sinai."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Aaron and his sons have been designated for priestly service, but their ordination is narrated in Leviticus 8."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "There is no permanent Temple; worship activity is centered on the portable Tabernacle."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting is the wilderness camp at Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Tabernacle stands within the Israelite camp as a portable sanctuary."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The offering activity takes place at the entrance and altar area of the Tent of Meeting."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Offerings are described using domesticated animals from herd or flock, or birds."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Cattle, sheep, goats, turtledoves, and pigeons were part of the ordinary animal world of the ancient Near East."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests handled blood, altar fire, wood, and arranged animal parts during the ritual process."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The instructions assume a camp where people can bring animals from their own possessions to the sanctuary area."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the first instruction block after the Tabernacle is completed.",
+      "It begins the Leviticus section with altar activity at the Tent of Meeting.",
+      "It introduces how Israelites bring offerings to the newly established sanctuary.",
+      "It places Aaron's sons in active priestly roles before the ordination narrative is told."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Speaks to Moses from the Tent of Meeting",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates offering instructions",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "People who may bring offerings from herd or flock",
+        "relationships": []
+      },
+      {
+        "name": "Aaron's sons",
+        "role": "Priests who handle blood, fire, wood, and altar activity",
+        "relationships": [
+          "Sons of Aaron"
+        ]
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Portable sanctuary set up at the end of Exodus"
+      },
+      {
+        "ancientName": "Entrance of the Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Location where the animal is brought"
+      },
+      {
+        "ancientName": "Altar",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place where the burnt offering is arranged and burned"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Aaron's sons"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Entrance of the Tent of Meeting",
+      "Altar"
+    ],
+    "movement": [
+      "An Israelite brings an animal from the herd or flock",
+      "The animal is brought to the entrance of the Tent of Meeting",
+      "The animal is slaughtered before Yahweh",
+      "Aaron's sons present the blood and arrange the offering on the altar"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp",
+      "destination": "Entrance of the Tent of Meeting",
+      "route": [
+        "An Israelite brings an animal from the herd or flock",
+        "The animal is brought to the entrance of the Tent of Meeting",
+        "The animal is slaughtered before Yahweh",
+        "Aaron's sons present the blood and arrange the offering on the altar"
+      ],
+      "majorStops": [
+        "Israelite camp",
+        "Entrance of Tent of Meeting",
+        "Altar"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus begins at the Tent of Meeting after the Tabernacle has been completed. Israel is still camped at Sinai, and the sanctuary now stands at the center of camp life. Yahweh calls to Moses and gives instructions for burnt offerings. A person bringing an offering comes from the camp with an animal from the herd or flock, or with birds if that is the offering brought. The animal is presented at the entrance, and Aaron's sons handle the blood, wood, fire, and altar arrangement. The scene is centered on the newly established Tabernacle courtyard and the visible activity of sacrifice at the altar.",
+    "crossReferences": [
+      "Exodus 40:1-38",
+      "Leviticus 1:1-17",
+      "Leviticus 6:8-13",
+      "Numbers 28:1-8"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Exodus 40:1-38"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 1:1-17"
+      ],
+      "laterReferences": [
+        "Leviticus 6:8-13",
+        "Numbers 28:1-8"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Tabernacle Worship Instructions",
+      "previousStory": "exodus-35-40-tabernacle-built",
+      "nextStory": "leviticus-02-grain-offering"
+    },
+    "source": {
+      "id": "leviticus-01-burnt-offering",
+      "reference": "Leviticus 1",
+      "storyTitle": "Instructions for the Burnt Offering",
+      "eventType": [
+        "Instruction Received",
+        "Worship Activity",
+        "Offering"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Tent of Meeting at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Aaron's sons",
+          "Israelites"
+        ],
+        "sceneScale": "Tabernacle Worship Instruction",
+        "timeAnchor": "After Exodus; after Tabernacle is set up; before Israel leaves Sinai; before Kingdom; before Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Speaks to Moses from the Tent of Meeting",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates offering instructions",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "People who may bring offerings from herd or flock",
+          "relationships": []
+        },
+        {
+          "name": "Aaron's sons",
+          "role": "Priests who handle blood, fire, wood, and altar activity",
+          "relationships": [
+            "Sons of Aaron"
+          ]
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Portable sanctuary set up at the end of Exodus"
+        },
+        {
+          "ancientName": "Entrance of the Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Location where the animal is brought"
+        },
+        {
+          "ancientName": "Altar",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place where the burnt offering is arranged and burned"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp",
+        "destination": "Entrance of the Tent of Meeting",
+        "route": [
+          "An Israelite brings an animal from the herd or flock",
+          "The animal is brought to the entrance of the Tent of Meeting",
+          "The animal is slaughtered before Yahweh",
+          "Aaron's sons present the blood and arrange the offering on the altar"
+        ],
+        "majorStops": [
+          "Israelite camp",
+          "Entrance of Tent of Meeting",
+          "Altar"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Exodus ended with the Tabernacle completed, set up, and covered by the cloud.",
+        "whatIsHappeningNow": "Yahweh calls to Moses from the Tent of Meeting and gives instructions for burnt offerings from cattle, sheep, goats, turtledoves, or pigeons.",
+        "whatHappensAfter": "Instructions continue with the grain offering in Leviticus 2.",
+        "storyPositionStrip": [
+          "Exodus from Egypt",
+          "Sinai Covenant",
+          "Tabernacle Built",
+          "Burnt Offering Instructions ← YOU ARE HERE",
+          "Grain Offering",
+          "Peace Offering",
+          "Priestly Ordination"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Leviticus begins after the Tabernacle has been completed and filled with the cloud in Exodus 40.",
+          "Israel is still camped at Sinai.",
+          "Aaron and his sons have been designated for priestly service, but their ordination is narrated in Leviticus 8.",
+          "There is no permanent Temple; worship activity is centered on the portable Tabernacle."
+        ],
+        "geographicContext": [
+          "The setting is the wilderness camp at Sinai.",
+          "The Tabernacle stands within the Israelite camp as a portable sanctuary.",
+          "The offering activity takes place at the entrance and altar area of the Tent of Meeting."
+        ],
+        "dailyLifeContext": [
+          "Offerings are described using domesticated animals from herd or flock, or birds.",
+          "Cattle, sheep, goats, turtledoves, and pigeons were part of the ordinary animal world of the ancient Near East.",
+          "Priests handled blood, altar fire, wood, and arranged animal parts during the ritual process.",
+          "The instructions assume a camp where people can bring animals from their own possessions to the sanctuary area."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the first instruction block after the Tabernacle is completed.",
+        "It begins the Leviticus section with altar activity at the Tent of Meeting.",
+        "It introduces how Israelites bring offerings to the newly established sanctuary.",
+        "It places Aaron's sons in active priestly roles before the ordination narrative is told."
+      ],
+      "stepIntoTheStory": [
+        "The scene begins with the completed Tabernacle standing inside Israel's wilderness camp. The cloud has covered it at the end of Exodus, and now the voice to Moses comes from the Tent of Meeting.",
+        "A person bringing a burnt offering would move from the camp toward the entrance of the sanctuary with an animal from the herd or flock. The altar stands in the courtyard, and Aaron's sons serve there.",
+        "The activity is physical and visible: animals are brought forward, hands are laid on the animal's head, blood is handled at the altar, wood is arranged on the fire, and the offering is placed on the altar."
+      ],
+      "documentaryObservations": [
+        "The Tabernacle standing in the center of the camp.",
+        "An Israelite bringing livestock toward the entrance.",
+        "Cattle, sheep, goats, or birds used as offerings.",
+        "Aaron's sons working at the altar.",
+        "Blood applied around the altar.",
+        "Wood arranged on the fire.",
+        "Animal parts placed on the altar.",
+        "The offering smoke rising from the courtyard."
+      ],
+      "audioScript": "Leviticus begins at the Tent of Meeting after the Tabernacle has been completed. Israel is still camped at Sinai, and the sanctuary now stands at the center of camp life. Yahweh calls to Moses and gives instructions for burnt offerings. A person bringing an offering comes from the camp with an animal from the herd or flock, or with birds if that is the offering brought. The animal is presented at the entrance, and Aaron's sons handle the blood, wood, fire, and altar arrangement. The scene is centered on the newly established Tabernacle courtyard and the visible activity of sacrifice at the altar.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Exodus 40:1-38"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 1:1-17"
+        ],
+        "laterReferences": [
+          "Leviticus 6:8-13",
+          "Numbers 28:1-8"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Tabernacle Worship Instructions",
+        "previousStory": "exodus-35-40-tabernacle-built",
+        "nextStory": "leviticus-02-grain-offering"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron's sons",
+          "Israelites"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "Tabernacle",
+          "altar",
+          "Sinai"
+        ],
+        "events": [
+          "burnt offering",
+          "offering instructions",
+          "altar sacrifice"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "olah",
+          "whole burnt offering",
+          "Leviticus burnt offering"
+        ]
+      },
+      "realitySummary": "Leviticus 1 gives instructions for burnt offerings at the newly completed Tabernacle. Israelites bring animals or birds to the entrance, and Aaron's sons perform the altar duties."
+    }
+  },
+  {
+    "id": "leviticus-02-grain-offering",
+    "sourceFile": "leviticus-02-grain-offering.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Aaron's sons",
+      "Tent of Meeting",
+      "Altar",
+      "Tabernacle",
+      "altar",
+      "Sinai",
+      "grain offering",
+      "memorial portion",
+      "fine flour offering",
+      "Wilderness",
+      "minchah",
+      "meal offering",
+      "Leviticus grain offering",
+      "Instruction Received",
+      "Worship Activity",
+      "Offering",
+      "Instructions for the Grain Offering",
+      "Leviticus 2",
+      "Leviticus 2 gives instructions for grain offerings made with flour, oil, frankincense, baked items, salt, and firstfruits, with a memorial portion burned on the altar and the rest kept for the priests."
+    ],
+    "title": "Instructions for the Grain Offering",
+    "reference": "Leviticus 2",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Worship Activity",
+      "Offering"
+    ],
+    "summary": "Leviticus 2 gives instructions for grain offerings made with flour, oil, frankincense, baked items, salt, and firstfruits, with a memorial portion burned on the altar and the rest kept for the priests.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Tent of Meeting at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Tabernacle Worship Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Tabernacle is set up; after burnt offering instructions; before Israel leaves Sinai; before Temple"
+      }
+    ],
+    "situation": "Fine flour, oil, frankincense, salt, ovens, griddles, and pans reflect ordinary food preparation materials and methods.",
+    "storyPosition": [
+      "Tabernacle Built",
+      "Burnt Offering",
+      "Grain Offering",
+      "Peace Offering",
+      "Sin Offering",
+      "Guilt Offering"
+    ],
+    "currentStory": "Grain Offering",
+    "stepIntoStory": "The scene is quieter than the animal offering of Leviticus 1. Instead of livestock being brought forward, a person brings prepared grain, flour, oil, and incense materials.\n\nThe offering may come as fine flour, baked cakes, wafers, or grain prepared on a griddle or in a pan. These are objects from daily food preparation brought into the Tabernacle setting.\n\nAaron's sons receive the offering, remove a memorial portion, and burn it on the altar. The remaining portion is kept for the priests.",
+    "notice": [
+      "Fine flour in a vessel.",
+      "Oil poured onto grain or baked items.",
+      "Frankincense placed with the offering.",
+      "Baked cakes or wafers prepared before arrival.",
+      "A priest taking a memorial portion.",
+      "Salt included with the offering.",
+      "The altar fire receiving the memorial portion.",
+      "Remaining grain portion set aside for Aaron's sons."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 1 gave instructions for burnt offerings from herd, flock, or birds."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given for grain offerings using fine flour, oil, frankincense, baked items, firstfruits, salt, and restrictions concerning leaven and honey."
+      },
+      {
+        "label": "Next",
+        "value": "Instructions continue with the peace offering in Leviticus 3."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This instruction follows the burnt offering section."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The setting remains the Tent of Meeting at Sinai."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Aaron's sons are presented as priests who receive and handle offerings."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle, not the later Temple, is the worship location."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Israel is still in the wilderness camp at Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The offering activity occurs at the altar in the Tabernacle courtyard."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The food materials named are brought into the sanctuary area from Israelite households."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Fine flour, oil, frankincense, salt, ovens, griddles, and pans reflect ordinary food preparation materials and methods."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Grain offerings use processed agricultural products rather than animals."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Baked items could be prepared before being brought to the priest."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Salt is specifically required with the offerings."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This expands Leviticus from animal offerings to food-based offerings.",
+      "It shows that Tabernacle offerings include prepared grain, oil, incense, and salt.",
+      "It introduces the portion kept for Aaron and his sons.",
+      "It continues the structured offering instructions that open Leviticus."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions concerning grain offerings",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates the instructions",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "People who may bring grain offerings",
+        "relationships": []
+      },
+      {
+        "name": "Aaron's sons",
+        "role": "Priests who handle the memorial portion and remaining portion",
+        "relationships": [
+          "Sons of Aaron"
+        ]
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary setting for the instructions"
+      },
+      {
+        "ancientName": "Altar",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place where the memorial portion is burned"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Aaron's sons"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Altar"
+    ],
+    "movement": [
+      "A person prepares a grain offering",
+      "The offering is brought to Aaron's sons",
+      "A memorial portion is taken",
+      "The memorial portion is burned on the altar",
+      "The remaining portion belongs to Aaron and his sons"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp",
+      "destination": "Altar at the Tabernacle",
+      "route": [
+        "A person prepares a grain offering",
+        "The offering is brought to Aaron's sons",
+        "A memorial portion is taken",
+        "The memorial portion is burned on the altar",
+        "The remaining portion belongs to Aaron and his sons"
+      ],
+      "majorStops": [
+        "Israelite camp",
+        "Tent of Meeting",
+        "Altar"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 2 shifts from animals to grain. The setting remains the Tent of Meeting at Sinai, but the objects in view are now fine flour, oil, frankincense, baked cakes, wafers, salt, and firstfruits. A person brings the grain offering to Aaron's sons. The priest takes a memorial portion and burns it on the altar, while the rest belongs to Aaron and his sons. The scene connects ordinary food preparation with Tabernacle worship activity, using materials that could be held, mixed, baked, salted, and brought into the sanctuary courtyard.",
+    "crossReferences": [
+      "Leviticus 1:1-17",
+      "Leviticus 2:1-16",
+      "Leviticus 6:14-23",
+      "Numbers 15:1-16"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 1:1-17"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 2:1-16"
+      ],
+      "laterReferences": [
+        "Leviticus 6:14-23",
+        "Numbers 15:1-16"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Tabernacle Worship Instructions",
+      "previousStory": "leviticus-01-burnt-offering",
+      "nextStory": "leviticus-03-peace-offering"
+    },
+    "source": {
+      "id": "leviticus-02-grain-offering",
+      "reference": "Leviticus 2",
+      "storyTitle": "Instructions for the Grain Offering",
+      "eventType": [
+        "Instruction Received",
+        "Worship Activity",
+        "Offering"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Tent of Meeting at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Aaron's sons",
+          "Israelites"
+        ],
+        "sceneScale": "Tabernacle Worship Instruction",
+        "timeAnchor": "After Tabernacle is set up; after burnt offering instructions; before Israel leaves Sinai; before Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions concerning grain offerings",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates the instructions",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "People who may bring grain offerings",
+          "relationships": []
+        },
+        {
+          "name": "Aaron's sons",
+          "role": "Priests who handle the memorial portion and remaining portion",
+          "relationships": [
+            "Sons of Aaron"
+          ]
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary setting for the instructions"
+        },
+        {
+          "ancientName": "Altar",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place where the memorial portion is burned"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp",
+        "destination": "Altar at the Tabernacle",
+        "route": [
+          "A person prepares a grain offering",
+          "The offering is brought to Aaron's sons",
+          "A memorial portion is taken",
+          "The memorial portion is burned on the altar",
+          "The remaining portion belongs to Aaron and his sons"
+        ],
+        "majorStops": [
+          "Israelite camp",
+          "Tent of Meeting",
+          "Altar"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 1 gave instructions for burnt offerings from herd, flock, or birds.",
+        "whatIsHappeningNow": "Instructions are given for grain offerings using fine flour, oil, frankincense, baked items, firstfruits, salt, and restrictions concerning leaven and honey.",
+        "whatHappensAfter": "Instructions continue with the peace offering in Leviticus 3.",
+        "storyPositionStrip": [
+          "Tabernacle Built",
+          "Burnt Offering",
+          "Grain Offering ← YOU ARE HERE",
+          "Peace Offering",
+          "Sin Offering",
+          "Guilt Offering"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This instruction follows the burnt offering section.",
+          "The setting remains the Tent of Meeting at Sinai.",
+          "Aaron's sons are presented as priests who receive and handle offerings.",
+          "The Tabernacle, not the later Temple, is the worship location."
+        ],
+        "geographicContext": [
+          "Israel is still in the wilderness camp at Sinai.",
+          "The offering activity occurs at the altar in the Tabernacle courtyard.",
+          "The food materials named are brought into the sanctuary area from Israelite households."
+        ],
+        "dailyLifeContext": [
+          "Fine flour, oil, frankincense, salt, ovens, griddles, and pans reflect ordinary food preparation materials and methods.",
+          "Grain offerings use processed agricultural products rather than animals.",
+          "Baked items could be prepared before being brought to the priest.",
+          "Salt is specifically required with the offerings."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This expands Leviticus from animal offerings to food-based offerings.",
+        "It shows that Tabernacle offerings include prepared grain, oil, incense, and salt.",
+        "It introduces the portion kept for Aaron and his sons.",
+        "It continues the structured offering instructions that open Leviticus."
+      ],
+      "stepIntoTheStory": [
+        "The scene is quieter than the animal offering of Leviticus 1. Instead of livestock being brought forward, a person brings prepared grain, flour, oil, and incense materials.",
+        "The offering may come as fine flour, baked cakes, wafers, or grain prepared on a griddle or in a pan. These are objects from daily food preparation brought into the Tabernacle setting.",
+        "Aaron's sons receive the offering, remove a memorial portion, and burn it on the altar. The remaining portion is kept for the priests."
+      ],
+      "documentaryObservations": [
+        "Fine flour in a vessel.",
+        "Oil poured onto grain or baked items.",
+        "Frankincense placed with the offering.",
+        "Baked cakes or wafers prepared before arrival.",
+        "A priest taking a memorial portion.",
+        "Salt included with the offering.",
+        "The altar fire receiving the memorial portion.",
+        "Remaining grain portion set aside for Aaron's sons."
+      ],
+      "audioScript": "Leviticus 2 shifts from animals to grain. The setting remains the Tent of Meeting at Sinai, but the objects in view are now fine flour, oil, frankincense, baked cakes, wafers, salt, and firstfruits. A person brings the grain offering to Aaron's sons. The priest takes a memorial portion and burns it on the altar, while the rest belongs to Aaron and his sons. The scene connects ordinary food preparation with Tabernacle worship activity, using materials that could be held, mixed, baked, salted, and brought into the sanctuary courtyard.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 1:1-17"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 2:1-16"
+        ],
+        "laterReferences": [
+          "Leviticus 6:14-23",
+          "Numbers 15:1-16"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Tabernacle Worship Instructions",
+        "previousStory": "leviticus-01-burnt-offering",
+        "nextStory": "leviticus-03-peace-offering"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron's sons",
+          "Israelites"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "Tabernacle",
+          "altar",
+          "Sinai"
+        ],
+        "events": [
+          "grain offering",
+          "memorial portion",
+          "fine flour offering"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "minchah",
+          "meal offering",
+          "Leviticus grain offering"
+        ]
+      },
+      "realitySummary": "Leviticus 2 gives instructions for grain offerings made with flour, oil, frankincense, baked items, salt, and firstfruits, with a memorial portion burned on the altar and the rest kept for the priests."
+    }
+  },
+  {
+    "id": "leviticus-03-peace-offering",
+    "sourceFile": "leviticus-03-peace-offering.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Aaron's sons",
+      "Tent of Meeting",
+      "Altar",
+      "Tabernacle",
+      "altar",
+      "Sinai",
+      "peace offering",
+      "blood on altar",
+      "fat portions",
+      "Wilderness",
+      "well-being offering",
+      "fellowship offering",
+      "shelamim",
+      "Instruction Received",
+      "Worship Activity",
+      "Offering",
+      "Instructions for the Peace Offering",
+      "Leviticus 3",
+      "Leviticus 3 gives instructions for peace offerings from cattle, sheep, or goats, with blood applied to the altar and selected fat portions burned."
+    ],
+    "title": "Instructions for the Peace Offering",
+    "reference": "Leviticus 3",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Worship Activity",
+      "Offering"
+    ],
+    "summary": "Leviticus 3 gives instructions for peace offerings from cattle, sheep, or goats, with blood applied to the altar and selected fat portions burned.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Tent of Meeting at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Tabernacle Worship Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After burnt and grain offering instructions; before priestly ordination; before Temple"
+      }
+    ],
+    "situation": "Cattle, sheep, and goats were common herd and flock animals.",
+    "storyPosition": [
+      "Tabernacle Built",
+      "Burnt Offering",
+      "Grain Offering",
+      "Peace Offering",
+      "Sin Offering",
+      "Guilt Offering"
+    ],
+    "currentStory": "Peace Offering",
+    "stepIntoStory": "An Israelite approaches the sanctuary area with an animal from the herd or flock. The movement is from ordinary camp life toward the entrance of the Tent of Meeting.\n\nThe scene is centered on the animal, the altar, and the priests. The worshiper lays a hand on the animal, it is slaughtered, and Aaron's sons handle the blood.\n\nOnly selected portions are burned on the altar. The visual focus is on blood around the altar and fat portions placed over the fire.",
+    "notice": [
+      "A person leading cattle, sheep, or goats toward the Tabernacle.",
+      "The animal presented at the entrance.",
+      "A hand placed on the animal's head.",
+      "Aaron's sons sprinkling blood on the altar.",
+      "Specific fat portions removed.",
+      "Fat burned on the altar fire.",
+      "Priests working in the courtyard.",
+      "The altar as the center of the action."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 1-2 gave instructions for burnt offerings and grain offerings."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given for peace offerings from cattle, sheep, or goats, including handling of blood and fat portions."
+      },
+      {
+        "label": "Next",
+        "value": "Instructions continue with sin offerings in Leviticus 4."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the third major offering instruction in Leviticus."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The setting remains the Tent of Meeting at Sinai."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Aaron's sons continue to appear as the priests handling altar duties."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel has not yet left Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The offering occurs in the Tabernacle courtyard within Israel's camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The animals come from domestic herds and flocks kept by the people."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The altar remains the central physical location for the ritual action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Cattle, sheep, and goats were common herd and flock animals."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The instructions distinguish animal types and specific inner fat portions."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Blood is handled by priests and applied to the altar."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The passage specifically prohibits eating fat and blood."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This completes the first sequence of voluntary offering types in Leviticus.",
+      "It introduces the peace offering category at the Tabernacle altar.",
+      "It gives repeated procedures for cattle, sheep, and goats.",
+      "It states the restriction concerning fat and blood."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions concerning peace offerings",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates the instructions",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "People who may bring peace offerings",
+        "relationships": []
+      },
+      {
+        "name": "Aaron's sons",
+        "role": "Priests who sprinkle blood and burn portions on the altar",
+        "relationships": [
+          "Sons of Aaron"
+        ]
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Portable sanctuary setting"
+      },
+      {
+        "ancientName": "Altar",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place where portions are burned"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Aaron's sons"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Altar"
+    ],
+    "movement": [
+      "A person brings an animal from herd or flock",
+      "The animal is presented at the entrance",
+      "The animal is slaughtered",
+      "Aaron's sons apply blood to the altar",
+      "Selected fat portions are burned on the altar"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp",
+      "destination": "Entrance of the Tent of Meeting",
+      "route": [
+        "A person brings an animal from herd or flock",
+        "The animal is presented at the entrance",
+        "The animal is slaughtered",
+        "Aaron's sons apply blood to the altar",
+        "Selected fat portions are burned on the altar"
+      ],
+      "majorStops": [
+        "Israelite camp",
+        "Entrance of Tent of Meeting",
+        "Altar"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 3 gives instructions for the peace offering. The scene again takes place at the Tent of Meeting. A person brings an animal from the herd or flock to the entrance of the sanctuary. The animal is presented, slaughtered, and Aaron's sons handle the blood at the altar. Specific fat portions are removed and burned on the altar fire. The instructions are repeated for cattle, sheep, and goats. The chapter ends with a clear restriction: fat and blood are not to be eaten.",
+    "crossReferences": [
+      "Leviticus 1:1-17",
+      "Leviticus 2:1-16",
+      "Leviticus 3:1-17",
+      "Leviticus 7:11-36",
+      "Leviticus 17:10-14"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 1:1-17",
+        "Leviticus 2:1-16"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 3:1-17"
+      ],
+      "laterReferences": [
+        "Leviticus 7:11-36",
+        "Leviticus 17:10-14"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Tabernacle Worship Instructions",
+      "previousStory": "leviticus-02-grain-offering",
+      "nextStory": "leviticus-04-sin-offering"
+    },
+    "source": {
+      "id": "leviticus-03-peace-offering",
+      "reference": "Leviticus 3",
+      "storyTitle": "Instructions for the Peace Offering",
+      "eventType": [
+        "Instruction Received",
+        "Worship Activity",
+        "Offering"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Tent of Meeting at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Aaron's sons",
+          "Israelites"
+        ],
+        "sceneScale": "Tabernacle Worship Instruction",
+        "timeAnchor": "After burnt and grain offering instructions; before priestly ordination; before Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions concerning peace offerings",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates the instructions",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "People who may bring peace offerings",
+          "relationships": []
+        },
+        {
+          "name": "Aaron's sons",
+          "role": "Priests who sprinkle blood and burn portions on the altar",
+          "relationships": [
+            "Sons of Aaron"
+          ]
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Portable sanctuary setting"
+        },
+        {
+          "ancientName": "Altar",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place where portions are burned"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp",
+        "destination": "Entrance of the Tent of Meeting",
+        "route": [
+          "A person brings an animal from herd or flock",
+          "The animal is presented at the entrance",
+          "The animal is slaughtered",
+          "Aaron's sons apply blood to the altar",
+          "Selected fat portions are burned on the altar"
+        ],
+        "majorStops": [
+          "Israelite camp",
+          "Entrance of Tent of Meeting",
+          "Altar"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 1-2 gave instructions for burnt offerings and grain offerings.",
+        "whatIsHappeningNow": "Instructions are given for peace offerings from cattle, sheep, or goats, including handling of blood and fat portions.",
+        "whatHappensAfter": "Instructions continue with sin offerings in Leviticus 4.",
+        "storyPositionStrip": [
+          "Tabernacle Built",
+          "Burnt Offering",
+          "Grain Offering",
+          "Peace Offering ← YOU ARE HERE",
+          "Sin Offering",
+          "Guilt Offering"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This is the third major offering instruction in Leviticus.",
+          "The setting remains the Tent of Meeting at Sinai.",
+          "Aaron's sons continue to appear as the priests handling altar duties.",
+          "Israel has not yet left Sinai."
+        ],
+        "geographicContext": [
+          "The offering occurs in the Tabernacle courtyard within Israel's camp.",
+          "The animals come from domestic herds and flocks kept by the people.",
+          "The altar remains the central physical location for the ritual action."
+        ],
+        "dailyLifeContext": [
+          "Cattle, sheep, and goats were common herd and flock animals.",
+          "The instructions distinguish animal types and specific inner fat portions.",
+          "Blood is handled by priests and applied to the altar.",
+          "The passage specifically prohibits eating fat and blood."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This completes the first sequence of voluntary offering types in Leviticus.",
+        "It introduces the peace offering category at the Tabernacle altar.",
+        "It gives repeated procedures for cattle, sheep, and goats.",
+        "It states the restriction concerning fat and blood."
+      ],
+      "stepIntoTheStory": [
+        "An Israelite approaches the sanctuary area with an animal from the herd or flock. The movement is from ordinary camp life toward the entrance of the Tent of Meeting.",
+        "The scene is centered on the animal, the altar, and the priests. The worshiper lays a hand on the animal, it is slaughtered, and Aaron's sons handle the blood.",
+        "Only selected portions are burned on the altar. The visual focus is on blood around the altar and fat portions placed over the fire."
+      ],
+      "documentaryObservations": [
+        "A person leading cattle, sheep, or goats toward the Tabernacle.",
+        "The animal presented at the entrance.",
+        "A hand placed on the animal's head.",
+        "Aaron's sons sprinkling blood on the altar.",
+        "Specific fat portions removed.",
+        "Fat burned on the altar fire.",
+        "Priests working in the courtyard.",
+        "The altar as the center of the action."
+      ],
+      "audioScript": "Leviticus 3 gives instructions for the peace offering. The scene again takes place at the Tent of Meeting. A person brings an animal from the herd or flock to the entrance of the sanctuary. The animal is presented, slaughtered, and Aaron's sons handle the blood at the altar. Specific fat portions are removed and burned on the altar fire. The instructions are repeated for cattle, sheep, and goats. The chapter ends with a clear restriction: fat and blood are not to be eaten.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 1:1-17",
+          "Leviticus 2:1-16"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 3:1-17"
+        ],
+        "laterReferences": [
+          "Leviticus 7:11-36",
+          "Leviticus 17:10-14"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Tabernacle Worship Instructions",
+        "previousStory": "leviticus-02-grain-offering",
+        "nextStory": "leviticus-04-sin-offering"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron's sons",
+          "Israelites"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "Tabernacle",
+          "altar",
+          "Sinai"
+        ],
+        "events": [
+          "peace offering",
+          "blood on altar",
+          "fat portions"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "well-being offering",
+          "fellowship offering",
+          "shelamim"
+        ]
+      },
+      "realitySummary": "Leviticus 3 gives instructions for peace offerings from cattle, sheep, or goats, with blood applied to the altar and selected fat portions burned."
+    }
+  },
+  {
+    "id": "leviticus-04-sin-offering",
+    "sourceFile": "leviticus-04-sin-offering.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Anointed priest",
+      "Congregation of Israel",
+      "Leader",
+      "Common person",
+      "Tent of Meeting",
+      "Altar of incense / veil area",
+      "Altar of burnt offering",
+      "Clean place outside the camp",
+      "anointed priest",
+      "congregation",
+      "leader",
+      "common person",
+      "altar",
+      "outside the camp",
+      "Sinai",
+      "sin offering",
+      "unintentional sin",
+      "blood on altar horns",
+      "Wilderness",
+      "purification offering",
+      "chatta't",
+      "Leviticus sin offering",
+      "Instruction Received",
+      "Worship Activity",
+      "Offering",
+      "Purification",
+      "Instructions for the Sin Offering",
+      "Leviticus 4:1-5:13",
+      "Leviticus 4:1-5:13 gives sin offering instructions for priests, the congregation, leaders, common persons, and those bringing smaller substitute offerings."
+    ],
+    "title": "Instructions for the Sin Offering",
+    "reference": "Leviticus 4:1-5:13",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Worship Activity",
+      "Offering",
+      "Purification"
+    ],
+    "summary": "Leviticus 4:1-5:13 gives sin offering instructions for priests, the congregation, leaders, common persons, and those bringing smaller substitute offerings.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Tent of Meeting at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Tabernacle Purification Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After peace offering instructions; before guilt offering instructions; before priestly ordination; before Temple"
+      }
+    ],
+    "situation": "The offerings vary by person and circumstance, including bull, goat, lamb, birds, or fine flour.",
+    "storyPosition": [
+      "Burnt Offering",
+      "Grain Offering",
+      "Peace Offering",
+      "Sin Offering",
+      "Guilt Offering",
+      "Priestly Procedures"
+    ],
+    "currentStory": "Sin Offering",
+    "stepIntoStory": "The scene changes depending on who brings the offering. A priest, a leader, a common person, or the congregation may be involved, and each case affects what animal is brought and where the blood is handled.\n\nA bull or goat may be led toward the Tabernacle, while a poorer person may bring birds or fine flour. The instructions make the sanctuary courtyard a place where different households and social positions appear before the priests.\n\nSome actions happen at the altar in the courtyard. Other actions move closer to the sanctuary interior, and certain remains are carried outside the camp to a clean place.",
+    "notice": [
+      "A bull, goat, lamb, birds, or flour brought as offering.",
+      "Different people approaching according to different cases.",
+      "The priest dipping a finger in blood.",
+      "Blood placed on altar horns.",
+      "Blood poured at the base of the altar.",
+      "Fat portions burned on the altar.",
+      "Animal remains carried outside the camp.",
+      "A clean place outside the camp used for disposal.",
+      "The sanctuary zones shaping the ritual movement."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 1-3 gave instructions for burnt, grain, and peace offerings."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given for sin offerings involving the priest, congregation, leader, common person, and cases where lesser offerings are permitted."
+      },
+      {
+        "label": "Next",
+        "value": "Instructions continue with guilt offerings in Leviticus 5:14-6:7."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The instructions continue the opening offering system of Leviticus."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Different social positions are named: priest, congregation, leader, and common person."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle has inner and outer zones that affect how blood is handled."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel remains at Sinai before priestly ordination in Leviticus 8."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the Tabernacle in the wilderness camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Some remains are taken outside the camp to a clean place."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The passage moves between sanctuary interior, courtyard altar, and camp boundary."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The offerings vary by person and circumstance, including bull, goat, lamb, birds, or fine flour."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The instructions account for people with fewer resources."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Handling blood, fat, ashes, and remains required priestly work."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The camp has defined sacred and non-sacred zones."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This introduces the sin offering category in Leviticus.",
+      "It shows that offerings vary depending on whether the priest, congregation, leader, or common person is involved.",
+      "It explains movement between the altar, the sanctuary interior, and outside the camp.",
+      "It gives offering options for people unable to bring larger animals."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions concerning sin offerings",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates the instructions",
+        "relationships": []
+      },
+      {
+        "name": "Anointed priest",
+        "role": "Brings offering when he sins and handles blood inside the sanctuary",
+        "relationships": []
+      },
+      {
+        "name": "Congregation of Israel",
+        "role": "Brings offering when the community sins unintentionally",
+        "relationships": []
+      },
+      {
+        "name": "Leader",
+        "role": "Brings offering when a leader sins unintentionally",
+        "relationships": []
+      },
+      {
+        "name": "Common person",
+        "role": "Brings offering when an individual sins unintentionally",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary where blood may be brought"
+      },
+      {
+        "ancientName": "Altar of incense / veil area",
+        "modernRegion": "Inside sanctuary area",
+        "description": "Location connected to priestly and community sin offering blood rites"
+      },
+      {
+        "ancientName": "Altar of burnt offering",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Altar where blood and fat portions are handled"
+      },
+      {
+        "ancientName": "Clean place outside the camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where remains of some offerings are taken"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Anointed priest",
+      "Congregation of Israel",
+      "Leader",
+      "Common person"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Altar of incense / veil area",
+      "Altar of burnt offering",
+      "Clean place outside the camp"
+    ],
+    "movement": [
+      "A person or group becomes aware of unintentional sin",
+      "The required animal or substitute offering is brought",
+      "The priest handles blood according to the case",
+      "Fat portions are burned on the altar",
+      "Certain remains are taken outside the camp"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp",
+      "destination": "Tent of Meeting and altar",
+      "route": [
+        "A person or group becomes aware of unintentional sin",
+        "The required animal or substitute offering is brought",
+        "The priest handles blood according to the case",
+        "Fat portions are burned on the altar",
+        "Certain remains are taken outside the camp"
+      ],
+      "majorStops": [
+        "Israelite camp",
+        "Tent of Meeting",
+        "Altar",
+        "Outside the camp"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 4 through 5:13 gives instructions for sin offerings. The setting remains the Tabernacle, but the cases now vary by person and situation. The anointed priest, the whole congregation, a leader, or a common person may bring an offering. The animal also varies: bull, goat, lamb, birds, or, in some cases, fine flour. The action moves through the sanctuary space. Blood may be handled near the veil, placed on altar horns, or poured at the base of the altar. Some remains are taken outside the camp. The passage shows the Tabernacle as an organized place with priests, offerings, altar work, and camp boundaries.",
+    "crossReferences": [
+      "Leviticus 1:1-3:17",
+      "Leviticus 4:1-5:13",
+      "Leviticus 6:24-30",
+      "Leviticus 16:1-34"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 1:1-3:17"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 4:1-5:13"
+      ],
+      "laterReferences": [
+        "Leviticus 6:24-30",
+        "Leviticus 16:1-34"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Tabernacle Worship Instructions",
+      "previousStory": "leviticus-03-peace-offering",
+      "nextStory": "leviticus-05-guilt-offering"
+    },
+    "source": {
+      "id": "leviticus-04-sin-offering",
+      "reference": "Leviticus 4:1-5:13",
+      "storyTitle": "Instructions for the Sin Offering",
+      "eventType": [
+        "Instruction Received",
+        "Worship Activity",
+        "Offering",
+        "Purification"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Tent of Meeting at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Aaron's sons",
+          "anointed priest",
+          "leaders",
+          "Israelites"
+        ],
+        "sceneScale": "Tabernacle Purification Instruction",
+        "timeAnchor": "After peace offering instructions; before guilt offering instructions; before priestly ordination; before Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions concerning sin offerings",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates the instructions",
+          "relationships": []
+        },
+        {
+          "name": "Anointed priest",
+          "role": "Brings offering when he sins and handles blood inside the sanctuary",
+          "relationships": []
+        },
+        {
+          "name": "Congregation of Israel",
+          "role": "Brings offering when the community sins unintentionally",
+          "relationships": []
+        },
+        {
+          "name": "Leader",
+          "role": "Brings offering when a leader sins unintentionally",
+          "relationships": []
+        },
+        {
+          "name": "Common person",
+          "role": "Brings offering when an individual sins unintentionally",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary where blood may be brought"
+        },
+        {
+          "ancientName": "Altar of incense / veil area",
+          "modernRegion": "Inside sanctuary area",
+          "description": "Location connected to priestly and community sin offering blood rites"
+        },
+        {
+          "ancientName": "Altar of burnt offering",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Altar where blood and fat portions are handled"
+        },
+        {
+          "ancientName": "Clean place outside the camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where remains of some offerings are taken"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp",
+        "destination": "Tent of Meeting and altar",
+        "route": [
+          "A person or group becomes aware of unintentional sin",
+          "The required animal or substitute offering is brought",
+          "The priest handles blood according to the case",
+          "Fat portions are burned on the altar",
+          "Certain remains are taken outside the camp"
+        ],
+        "majorStops": [
+          "Israelite camp",
+          "Tent of Meeting",
+          "Altar",
+          "Outside the camp"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 1-3 gave instructions for burnt, grain, and peace offerings.",
+        "whatIsHappeningNow": "Instructions are given for sin offerings involving the priest, congregation, leader, common person, and cases where lesser offerings are permitted.",
+        "whatHappensAfter": "Instructions continue with guilt offerings in Leviticus 5:14-6:7.",
+        "storyPositionStrip": [
+          "Burnt Offering",
+          "Grain Offering",
+          "Peace Offering",
+          "Sin Offering ← YOU ARE HERE",
+          "Guilt Offering",
+          "Priestly Procedures"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "The instructions continue the opening offering system of Leviticus.",
+          "Different social positions are named: priest, congregation, leader, and common person.",
+          "The Tabernacle has inner and outer zones that affect how blood is handled.",
+          "Israel remains at Sinai before priestly ordination in Leviticus 8."
+        ],
+        "geographicContext": [
+          "The main setting is the Tabernacle in the wilderness camp.",
+          "Some remains are taken outside the camp to a clean place.",
+          "The passage moves between sanctuary interior, courtyard altar, and camp boundary."
+        ],
+        "dailyLifeContext": [
+          "The offerings vary by person and circumstance, including bull, goat, lamb, birds, or fine flour.",
+          "The instructions account for people with fewer resources.",
+          "Handling blood, fat, ashes, and remains required priestly work.",
+          "The camp has defined sacred and non-sacred zones."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This introduces the sin offering category in Leviticus.",
+        "It shows that offerings vary depending on whether the priest, congregation, leader, or common person is involved.",
+        "It explains movement between the altar, the sanctuary interior, and outside the camp.",
+        "It gives offering options for people unable to bring larger animals."
+      ],
+      "stepIntoTheStory": [
+        "The scene changes depending on who brings the offering. A priest, a leader, a common person, or the congregation may be involved, and each case affects what animal is brought and where the blood is handled.",
+        "A bull or goat may be led toward the Tabernacle, while a poorer person may bring birds or fine flour. The instructions make the sanctuary courtyard a place where different households and social positions appear before the priests.",
+        "Some actions happen at the altar in the courtyard. Other actions move closer to the sanctuary interior, and certain remains are carried outside the camp to a clean place."
+      ],
+      "documentaryObservations": [
+        "A bull, goat, lamb, birds, or flour brought as offering.",
+        "Different people approaching according to different cases.",
+        "The priest dipping a finger in blood.",
+        "Blood placed on altar horns.",
+        "Blood poured at the base of the altar.",
+        "Fat portions burned on the altar.",
+        "Animal remains carried outside the camp.",
+        "A clean place outside the camp used for disposal.",
+        "The sanctuary zones shaping the ritual movement."
+      ],
+      "audioScript": "Leviticus 4 through 5:13 gives instructions for sin offerings. The setting remains the Tabernacle, but the cases now vary by person and situation. The anointed priest, the whole congregation, a leader, or a common person may bring an offering. The animal also varies: bull, goat, lamb, birds, or, in some cases, fine flour. The action moves through the sanctuary space. Blood may be handled near the veil, placed on altar horns, or poured at the base of the altar. Some remains are taken outside the camp. The passage shows the Tabernacle as an organized place with priests, offerings, altar work, and camp boundaries.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 1:1-3:17"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 4:1-5:13"
+        ],
+        "laterReferences": [
+          "Leviticus 6:24-30",
+          "Leviticus 16:1-34"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Tabernacle Worship Instructions",
+        "previousStory": "leviticus-03-peace-offering",
+        "nextStory": "leviticus-05-guilt-offering"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "anointed priest",
+          "congregation",
+          "leader",
+          "common person"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "altar",
+          "outside the camp",
+          "Sinai"
+        ],
+        "events": [
+          "sin offering",
+          "unintentional sin",
+          "blood on altar horns"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "purification offering",
+          "chatta't",
+          "Leviticus sin offering"
+        ]
+      },
+      "realitySummary": "Leviticus 4:1-5:13 gives sin offering instructions for priests, the congregation, leaders, common persons, and those bringing smaller substitute offerings."
+    }
+  },
+  {
+    "id": "leviticus-05-guilt-offering",
+    "sourceFile": "leviticus-05-guilt-offering.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelite offender",
+      "Priest",
+      "Tent of Meeting",
+      "Altar",
+      "Israelite camp",
+      "priest",
+      "altar",
+      "Sinai",
+      "guilt offering",
+      "restitution",
+      "added fifth",
+      "ram offering",
+      "Wilderness",
+      "reparation offering",
+      "asham",
+      "Leviticus guilt offering",
+      "Instruction Received",
+      "Worship Activity",
+      "Offering",
+      "Restitution",
+      "Instructions for the Guilt Offering",
+      "Leviticus 5:14-6:7",
+      "Leviticus 5:14-6:7 gives guilt offering instructions involving wrongdoing, restitution, an added fifth, and a ram brought to the priest."
+    ],
+    "title": "Instructions for the Guilt Offering",
+    "reference": "Leviticus 5:14-6:7",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Worship Activity",
+      "Offering",
+      "Restitution"
+    ],
+    "summary": "Leviticus 5:14-6:7 gives guilt offering instructions involving wrongdoing, restitution, an added fifth, and a ram brought to the priest.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Tent of Meeting at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Tabernacle Restitution Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After sin offering instructions; before priestly procedures; before Israel leaves Sinai; before Temple"
+      }
+    ],
+    "situation": "Restitution involves repayment plus an added fifth.",
+    "storyPosition": [
+      "Burnt Offering",
+      "Grain Offering",
+      "Peace Offering",
+      "Sin Offering",
+      "Guilt Offering",
+      "Priestly Procedures"
+    ],
+    "currentStory": "Guilt Offering",
+    "stepIntoStory": "The scene begins in ordinary camp life, where property, trust, lost items, deposits, or wrongful gain may be involved. The issue is not only brought to the sanctuary; it also requires repayment.\n\nA person who is liable brings a ram for the guilt offering. Where another person has been wronged, restitution is made, with an added fifth.\n\nThe movement connects two spaces: the social life of the camp and the altar area of the Tabernacle.",
+    "notice": [
+      "A person bringing a ram to the sanctuary.",
+      "Restitution being calculated and returned.",
+      "An added fifth included in repayment.",
+      "Property disputes in camp life.",
+      "Lost items or deposits named in legal situations.",
+      "A priest handling the guilt offering.",
+      "The altar receiving the offering.",
+      "Wrongdoing addressed through both repayment and offering."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Instructions were given for sin offerings involving different people and circumstances."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given for guilt offerings involving holy things, uncertain wrongdoing, deceit, robbery, oppression, lost property, false oath, restitution, and an added fifth."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus continues with priestly procedures for the offerings."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This section continues the opening offering instructions."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The guilt offering includes both sanctuary action and restitution."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The passage names wrongs involving holy things and wrongs involving another person."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Priests serve at the altar while restitution occurs in the community."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main offering location is the Tabernacle at Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Some cases arise within the daily life of the camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The offering movement links ordinary camp disputes to the sanctuary."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Restitution involves repayment plus an added fifth."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Named wrongs include deception, robbery, oppression, lost property, and false oaths."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A ram is specified for the guilt offering."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The instructions assume property, deposits, pledges, and neighbor relationships within the camp."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This introduces the guilt offering category.",
+      "It connects offering procedures with restitution for wrongdoing.",
+      "It shows that some offenses involve both sanctuary responsibility and repayment to another person.",
+      "It prepares for the priestly handling procedures in the next section."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions concerning guilt offerings",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates the instructions",
+        "relationships": []
+      },
+      {
+        "name": "Israelite offender",
+        "role": "Person who brings a ram and makes restitution",
+        "relationships": []
+      },
+      {
+        "name": "Priest",
+        "role": "Makes atonement with the ram of the guilt offering",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary setting connected to offering"
+      },
+      {
+        "ancientName": "Altar",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place where priestly offering activity occurs"
+      },
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Community setting where wrongdoing and restitution are addressed"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelite offender",
+      "Priest"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Altar",
+      "Israelite camp"
+    ],
+    "movement": [
+      "A person becomes liable for wrongdoing",
+      "Restitution is made with an added fifth where required",
+      "A ram is brought as a guilt offering",
+      "The priest performs the offering"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp",
+      "destination": "Tent of Meeting",
+      "route": [
+        "A person becomes liable for wrongdoing",
+        "Restitution is made with an added fifth where required",
+        "A ram is brought as a guilt offering",
+        "The priest performs the offering"
+      ],
+      "majorStops": [
+        "Israelite camp",
+        "Tent of Meeting",
+        "Altar"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 5:14 through 6:7 gives instructions for the guilt offering. The scene reaches beyond the altar into the daily life of the camp. Wrongdoing may involve holy things, deception, robbery, oppression, a deposit, lost property, or a false oath. The person who is liable brings a ram as a guilt offering. In cases involving another person, restitution must be made, and an added fifth is included. The passage connects ordinary community life with the Tabernacle, moving from property and repayment to priestly action at the altar.",
+    "crossReferences": [
+      "Leviticus 4:1-5:13",
+      "Leviticus 5:14-6:7",
+      "Leviticus 7:1-10",
+      "Numbers 5:5-10"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 4:1-5:13"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 5:14-6:7"
+      ],
+      "laterReferences": [
+        "Leviticus 7:1-10",
+        "Numbers 5:5-10"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Tabernacle Worship Instructions",
+      "previousStory": "leviticus-04-sin-offering",
+      "nextStory": "leviticus-06-priestly-offering-procedures"
+    },
+    "source": {
+      "id": "leviticus-05-guilt-offering",
+      "reference": "Leviticus 5:14-6:7",
+      "storyTitle": "Instructions for the Guilt Offering",
+      "eventType": [
+        "Instruction Received",
+        "Worship Activity",
+        "Offering",
+        "Restitution"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Tent of Meeting at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Priests",
+          "Israelites"
+        ],
+        "sceneScale": "Tabernacle Restitution Instruction",
+        "timeAnchor": "After sin offering instructions; before priestly procedures; before Israel leaves Sinai; before Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions concerning guilt offerings",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates the instructions",
+          "relationships": []
+        },
+        {
+          "name": "Israelite offender",
+          "role": "Person who brings a ram and makes restitution",
+          "relationships": []
+        },
+        {
+          "name": "Priest",
+          "role": "Makes atonement with the ram of the guilt offering",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary setting connected to offering"
+        },
+        {
+          "ancientName": "Altar",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place where priestly offering activity occurs"
+        },
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Community setting where wrongdoing and restitution are addressed"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp",
+        "destination": "Tent of Meeting",
+        "route": [
+          "A person becomes liable for wrongdoing",
+          "Restitution is made with an added fifth where required",
+          "A ram is brought as a guilt offering",
+          "The priest performs the offering"
+        ],
+        "majorStops": [
+          "Israelite camp",
+          "Tent of Meeting",
+          "Altar"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Instructions were given for sin offerings involving different people and circumstances.",
+        "whatIsHappeningNow": "Instructions are given for guilt offerings involving holy things, uncertain wrongdoing, deceit, robbery, oppression, lost property, false oath, restitution, and an added fifth.",
+        "whatHappensAfter": "Leviticus continues with priestly procedures for the offerings.",
+        "storyPositionStrip": [
+          "Burnt Offering",
+          "Grain Offering",
+          "Peace Offering",
+          "Sin Offering",
+          "Guilt Offering ← YOU ARE HERE",
+          "Priestly Procedures"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This section continues the opening offering instructions.",
+          "The guilt offering includes both sanctuary action and restitution.",
+          "The passage names wrongs involving holy things and wrongs involving another person.",
+          "Priests serve at the altar while restitution occurs in the community."
+        ],
+        "geographicContext": [
+          "The main offering location is the Tabernacle at Sinai.",
+          "Some cases arise within the daily life of the camp.",
+          "The offering movement links ordinary camp disputes to the sanctuary."
+        ],
+        "dailyLifeContext": [
+          "Restitution involves repayment plus an added fifth.",
+          "Named wrongs include deception, robbery, oppression, lost property, and false oaths.",
+          "A ram is specified for the guilt offering.",
+          "The instructions assume property, deposits, pledges, and neighbor relationships within the camp."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This introduces the guilt offering category.",
+        "It connects offering procedures with restitution for wrongdoing.",
+        "It shows that some offenses involve both sanctuary responsibility and repayment to another person.",
+        "It prepares for the priestly handling procedures in the next section."
+      ],
+      "stepIntoTheStory": [
+        "The scene begins in ordinary camp life, where property, trust, lost items, deposits, or wrongful gain may be involved. The issue is not only brought to the sanctuary; it also requires repayment.",
+        "A person who is liable brings a ram for the guilt offering. Where another person has been wronged, restitution is made, with an added fifth.",
+        "The movement connects two spaces: the social life of the camp and the altar area of the Tabernacle."
+      ],
+      "documentaryObservations": [
+        "A person bringing a ram to the sanctuary.",
+        "Restitution being calculated and returned.",
+        "An added fifth included in repayment.",
+        "Property disputes in camp life.",
+        "Lost items or deposits named in legal situations.",
+        "A priest handling the guilt offering.",
+        "The altar receiving the offering.",
+        "Wrongdoing addressed through both repayment and offering."
+      ],
+      "audioScript": "Leviticus 5:14 through 6:7 gives instructions for the guilt offering. The scene reaches beyond the altar into the daily life of the camp. Wrongdoing may involve holy things, deception, robbery, oppression, a deposit, lost property, or a false oath. The person who is liable brings a ram as a guilt offering. In cases involving another person, restitution must be made, and an added fifth is included. The passage connects ordinary community life with the Tabernacle, moving from property and repayment to priestly action at the altar.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 4:1-5:13"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 5:14-6:7"
+        ],
+        "laterReferences": [
+          "Leviticus 7:1-10",
+          "Numbers 5:5-10"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Tabernacle Worship Instructions",
+        "previousStory": "leviticus-04-sin-offering",
+        "nextStory": "leviticus-06-priestly-offering-procedures"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "priest",
+          "Israelite offender"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "altar",
+          "Israelite camp",
+          "Sinai"
+        ],
+        "events": [
+          "guilt offering",
+          "restitution",
+          "added fifth",
+          "ram offering"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "reparation offering",
+          "asham",
+          "Leviticus guilt offering"
+        ]
+      },
+      "realitySummary": "Leviticus 5:14-6:7 gives guilt offering instructions involving wrongdoing, restitution, an added fifth, and a ram brought to the priest."
+    }
+  },
+  {
+    "id": "leviticus-06-priestly-offering-procedures",
+    "sourceFile": "leviticus-06-priestly-offering-procedures.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Aaron's sons",
+      "Israelites",
+      "Tent of Meeting",
+      "Altar",
+      "Holy place",
+      "Courtyard",
+      "priests",
+      "Tabernacle",
+      "altar",
+      "courtyard",
+      "outside the camp",
+      "priestly offering procedures",
+      "altar fire",
+      "ashes removed",
+      "priestly portions",
+      "Wilderness",
+      "Sinai",
+      "law of the burnt offering",
+      "law of the grain offering",
+      "law of the sin offering",
+      "law of the guilt offering",
+      "law of the peace offering",
+      "Instruction Received",
+      "Priestly Procedure",
+      "Worship Activity",
+      "Priestly Procedures for the Offerings",
+      "Leviticus 6:8-7:38",
+      "Leviticus 6:8-7:38 gives priestly procedures for the offerings, including altar fire, ash removal, priestly portions, holy food, and restrictions on fat and blood."
+    ],
+    "title": "Priestly Procedures for the Offerings",
+    "reference": "Leviticus 6:8-7:38",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Priestly Procedure",
+      "Worship Activity"
+    ],
+    "summary": "Leviticus 6:8-7:38 gives priestly procedures for the offerings, including altar fire, ash removal, priestly portions, holy food, and restrictions on fat and blood.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Aaron and his sons"
+      },
+      {
+        "label": "Location",
+        "value": "Tent of Meeting at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Priestly Service Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After offering categories are introduced; before Aaron's ordination; before Israel leaves Sinai; before Temple"
+      }
+    ],
+    "situation": "The altar fire is to be kept burning.",
+    "storyPosition": [
+      "Offering Categories",
+      "Priestly Procedures",
+      "Aaron and Sons Ordained",
+      "First Priestly Service",
+      "Nadab and Abihu"
+    ],
+    "currentStory": "Priestly Procedures",
+    "stepIntoStory": "The focus now shifts behind the scenes of the offerings. The priests are not only receiving animals and grain; they are maintaining fire, removing ashes, handling portions, and managing what may be eaten.\n\nA nearby observer would see repeated movement around the altar: fire tended, ashes gathered, garments changed, portions lifted or burned, and priestly food kept in designated areas.\n\nThe Tabernacle courtyard is no longer only a place where offerings arrive. It is a working ritual space requiring daily labor, order, and priestly responsibility.",
+    "notice": [
+      "A fire kept burning continually on the altar.",
+      "Priests wearing linen garments for altar service.",
+      "Ashes gathered from the altar.",
+      "A priest changing garments before carrying ashes outside the camp.",
+      "Grain offering portions handled by priests.",
+      "Meat from offerings assigned to priests.",
+      "Breast and thigh portions identified in peace offerings.",
+      "Fat and blood restrictions repeated.",
+      "Priestly food eaten in designated holy areas.",
+      "The altar area functioning as an active work site."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus introduced burnt, grain, peace, sin, and guilt offerings."
+      },
+      {
+        "label": "Now",
+        "value": "Priestly procedures are given for maintaining altar fire, removing ashes, handling priestly portions, and administering offerings."
+      },
+      {
+        "label": "Next",
+        "value": "Aaron and his sons are ordained in Leviticus 8."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This section shifts from instructions to the offerer toward instructions for the priests."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Aaron and his sons are named as the priestly family."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The ordination of Aaron and his sons has not yet been narrated."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle remains the active worship center at Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The procedures occur within the Tabernacle courtyard and sanctuary areas."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Ash removal involves movement from the altar to a clean place outside the camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Priestly food portions are associated with holy areas."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The altar fire is to be kept burning."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests wear linen garments for altar duties and change garments when carrying ashes outside the camp."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Offerings create assigned food portions for priests."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Fat and blood restrictions are repeated as standing instructions."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This section explains how priests maintain and administer the offering system.",
+      "It turns earlier offering categories into daily priestly procedures.",
+      "It prepares directly for the ordination of Aaron and his sons.",
+      "It gives visible details of altar maintenance, ash removal, portions, and priestly food."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives priestly procedures to Moses",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates instructions to Aaron and his sons",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Head of priestly family",
+        "relationships": [
+          "Father of Aaron's sons"
+        ]
+      },
+      {
+        "name": "Aaron's sons",
+        "role": "Priests responsible for altar and offering procedures",
+        "relationships": [
+          "Sons of Aaron"
+        ]
+      },
+      {
+        "name": "Israelites",
+        "role": "People whose offerings are handled by the priests",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary setting"
+      },
+      {
+        "ancientName": "Altar",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place of burnt offering and altar fire"
+      },
+      {
+        "ancientName": "Holy place",
+        "modernRegion": "Tabernacle area",
+        "description": "Area connected to priestly portions"
+      },
+      {
+        "ancientName": "Courtyard",
+        "modernRegion": "Tabernacle enclosure",
+        "description": "Area where offerings are handled"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Aaron's sons",
+      "Israelites"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Altar",
+      "Holy place",
+      "Courtyard"
+    ],
+    "movement": [
+      "Priests tend the burnt offering fire",
+      "Ashes are removed from the altar",
+      "Grain offering portions are handled",
+      "Sin and guilt offerings are handled",
+      "Peace offering portions are assigned",
+      "Restrictions concerning fat and blood are repeated"
+    ],
+    "movementDetails": {
+      "startingPoint": "Altar and sanctuary area",
+      "destination": "Priestly service areas",
+      "route": [
+        "Priests tend the burnt offering fire",
+        "Ashes are removed from the altar",
+        "Grain offering portions are handled",
+        "Sin and guilt offerings are handled",
+        "Peace offering portions are assigned",
+        "Restrictions concerning fat and blood are repeated"
+      ],
+      "majorStops": [
+        "Altar",
+        "Courtyard",
+        "Holy place",
+        "Outside the camp"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 6:8 through 7:38 shifts attention to the priests. The offering categories have already been introduced; now the instructions explain how Aaron and his sons are to handle them. The altar fire must keep burning. Ashes are gathered and carried outside the camp. Grain offerings, sin offerings, guilt offerings, and peace offerings each have priestly procedures and portions. The scene is the Tabernacle courtyard as a working space, with fire, ashes, garments, food portions, blood restrictions, and repeated priestly movement around the altar.",
+    "crossReferences": [
+      "Leviticus 1:1-6:7",
+      "Leviticus 6:8-7:38",
+      "Leviticus 8:1-36",
+      "Numbers 18:8-20"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 1:1-6:7"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 6:8-7:38"
+      ],
+      "laterReferences": [
+        "Leviticus 8:1-36",
+        "Numbers 18:8-20"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Aaron and his sons",
+      "arc": "Priestly Service at the Tabernacle",
+      "previousStory": "leviticus-05-guilt-offering",
+      "nextStory": null
+    },
+    "source": {
+      "id": "leviticus-06-priestly-offering-procedures",
+      "reference": "Leviticus 6:8-7:38",
+      "storyTitle": "Priestly Procedures for the Offerings",
+      "eventType": [
+        "Instruction Received",
+        "Priestly Procedure",
+        "Worship Activity"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Aaron and his sons",
+        "approximateAge": null,
+        "currentLocation": "Tent of Meeting at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Israelites"
+        ],
+        "sceneScale": "Priestly Service Instruction",
+        "timeAnchor": "After offering categories are introduced; before Aaron's ordination; before Israel leaves Sinai; before Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives priestly procedures to Moses",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates instructions to Aaron and his sons",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Head of priestly family",
+          "relationships": [
+            "Father of Aaron's sons"
+          ]
+        },
+        {
+          "name": "Aaron's sons",
+          "role": "Priests responsible for altar and offering procedures",
+          "relationships": [
+            "Sons of Aaron"
+          ]
+        },
+        {
+          "name": "Israelites",
+          "role": "People whose offerings are handled by the priests",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary setting"
+        },
+        {
+          "ancientName": "Altar",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place of burnt offering and altar fire"
+        },
+        {
+          "ancientName": "Holy place",
+          "modernRegion": "Tabernacle area",
+          "description": "Area connected to priestly portions"
+        },
+        {
+          "ancientName": "Courtyard",
+          "modernRegion": "Tabernacle enclosure",
+          "description": "Area where offerings are handled"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Altar and sanctuary area",
+        "destination": "Priestly service areas",
+        "route": [
+          "Priests tend the burnt offering fire",
+          "Ashes are removed from the altar",
+          "Grain offering portions are handled",
+          "Sin and guilt offerings are handled",
+          "Peace offering portions are assigned",
+          "Restrictions concerning fat and blood are repeated"
+        ],
+        "majorStops": [
+          "Altar",
+          "Courtyard",
+          "Holy place",
+          "Outside the camp"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus introduced burnt, grain, peace, sin, and guilt offerings.",
+        "whatIsHappeningNow": "Priestly procedures are given for maintaining altar fire, removing ashes, handling priestly portions, and administering offerings.",
+        "whatHappensAfter": "Aaron and his sons are ordained in Leviticus 8.",
+        "storyPositionStrip": [
+          "Offering Categories",
+          "Priestly Procedures ← YOU ARE HERE",
+          "Aaron and Sons Ordained",
+          "First Priestly Service",
+          "Nadab and Abihu"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This section shifts from instructions to the offerer toward instructions for the priests.",
+          "Aaron and his sons are named as the priestly family.",
+          "The ordination of Aaron and his sons has not yet been narrated.",
+          "The Tabernacle remains the active worship center at Sinai."
+        ],
+        "geographicContext": [
+          "The procedures occur within the Tabernacle courtyard and sanctuary areas.",
+          "Ash removal involves movement from the altar to a clean place outside the camp.",
+          "Priestly food portions are associated with holy areas."
+        ],
+        "dailyLifeContext": [
+          "The altar fire is to be kept burning.",
+          "Priests wear linen garments for altar duties and change garments when carrying ashes outside the camp.",
+          "Offerings create assigned food portions for priests.",
+          "Fat and blood restrictions are repeated as standing instructions."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This section explains how priests maintain and administer the offering system.",
+        "It turns earlier offering categories into daily priestly procedures.",
+        "It prepares directly for the ordination of Aaron and his sons.",
+        "It gives visible details of altar maintenance, ash removal, portions, and priestly food."
+      ],
+      "stepIntoTheStory": [
+        "The focus now shifts behind the scenes of the offerings. The priests are not only receiving animals and grain; they are maintaining fire, removing ashes, handling portions, and managing what may be eaten.",
+        "A nearby observer would see repeated movement around the altar: fire tended, ashes gathered, garments changed, portions lifted or burned, and priestly food kept in designated areas.",
+        "The Tabernacle courtyard is no longer only a place where offerings arrive. It is a working ritual space requiring daily labor, order, and priestly responsibility."
+      ],
+      "documentaryObservations": [
+        "A fire kept burning continually on the altar.",
+        "Priests wearing linen garments for altar service.",
+        "Ashes gathered from the altar.",
+        "A priest changing garments before carrying ashes outside the camp.",
+        "Grain offering portions handled by priests.",
+        "Meat from offerings assigned to priests.",
+        "Breast and thigh portions identified in peace offerings.",
+        "Fat and blood restrictions repeated.",
+        "Priestly food eaten in designated holy areas.",
+        "The altar area functioning as an active work site."
+      ],
+      "audioScript": "Leviticus 6:8 through 7:38 shifts attention to the priests. The offering categories have already been introduced; now the instructions explain how Aaron and his sons are to handle them. The altar fire must keep burning. Ashes are gathered and carried outside the camp. Grain offerings, sin offerings, guilt offerings, and peace offerings each have priestly procedures and portions. The scene is the Tabernacle courtyard as a working space, with fire, ashes, garments, food portions, blood restrictions, and repeated priestly movement around the altar.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 1:1-6:7"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 6:8-7:38"
+        ],
+        "laterReferences": [
+          "Leviticus 8:1-36",
+          "Numbers 18:8-20"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Aaron and his sons",
+        "arc": "Priestly Service at the Tabernacle",
+        "previousStory": "leviticus-05-guilt-offering",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron",
+          "Aaron's sons",
+          "priests",
+          "Israelites"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "Tabernacle",
+          "altar",
+          "courtyard",
+          "outside the camp"
+        ],
+        "events": [
+          "priestly offering procedures",
+          "altar fire",
+          "ashes removed",
+          "priestly portions"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "law of the burnt offering",
+          "law of the grain offering",
+          "law of the sin offering",
+          "law of the guilt offering",
+          "law of the peace offering"
+        ]
+      },
+      "realitySummary": "Leviticus 6:8-7:38 gives priestly procedures for the offerings, including altar fire, ash removal, priestly portions, holy food, and restrictions on fat and blood."
+    }
   }
 ]
