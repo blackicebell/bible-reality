@@ -59547,5 +59547,1229 @@
       },
       "realitySummary": "The Song of Moses. Moses speaks the song in the hearing of Israel, then tells the people to set their hearts on all the words and teach them to their children."
     }
+  },
+  {
+    "id": "deuteronomy-33-moses-views-land",
+    "sourceFile": "deuteronomy-33-moses-views-land.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Mount Nebo / Abarim",
+      "Mount Nebo",
+      "Abarim",
+      "Moses sees land",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Moses Is Told to Ascend Mount Nebo and View the Land",
+      "Instruction Received",
+      "Mountain Ascent",
+      "Death Announcement",
+      "Deuteronomy 32:48-52",
+      "Moses Is Told to Ascend Mount Nebo and View the Land. Moses is told to ascend Mount Nebo in the Abarim range, view Canaan, and die there because he will not enter the land."
+    ],
+    "title": "Moses Is Told to Ascend Mount Nebo and View the Land",
+    "reference": "Deuteronomy 32:48-52",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Mountain Ascent",
+      "Death Announcement"
+    ],
+    "summary": "Moses Is Told to Ascend Mount Nebo and View the Land. Moses is told to ascend Mount Nebo in the Abarim range, view Canaan, and die there because he will not enter the land.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Age",
+        "value": "About 120 years old"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Moses Is Told to Ascend Mount Nebo and View the Land",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Moses Is Told to Ascend Mount Nebo and View the Land",
+    "stepIntoStory": "The scene narrows from national song to a single mountain instruction. Moses is told to go up Mount Nebo in the Abarim range.\n\nThe land of Canaan is visible from the mountain, but it remains across the boundary Moses will not cross.\n\nThe instruction prepares the reader for Moses' blessing of the tribes and final death scene.",
+    "notice": [
+      "Mount Nebo named.",
+      "Abarim range identified.",
+      "Canaan described as visible from the mountain.",
+      "Moses told he will die on the mountain.",
+      "Aaron's death at Mount Hor recalled as parallel.",
+      "The land seen but not entered."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses spoke the Song and instructed Israel to teach the words to their children."
+      },
+      {
+        "label": "Now",
+        "value": "Moses is told to ascend Mount Nebo in the Abarim range, view Canaan, and die there because he will not enter the land."
+      },
+      {
+        "label": "Next",
+        "value": "Moses blesses the tribes before his death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This gives the direct command leading to Moses' final ascent.",
+      "It names Mount Nebo and the Abarim range as the viewing location.",
+      "It restates that Moses will see the land but not enter it."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      },
+      {
+        "ancientName": "Mount Nebo / Abarim",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Mountain range from which Moses is told to view the land"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Mount Nebo / Abarim"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "After the Song of Moses, the narrative turns directly to Moses' final path. He is told to ascend Mount Nebo, in the Abarim range, opposite Jericho. From there he will see the land of Canaan, but he will not enter it. The command recalls Aaron's death on Mount Hor and places Moses' death in the same wilderness transition. The scene is simple and geographical: a mountain, a view of the land, and the boundary Moses will not cross.",
+    "crossReferences": [
+      "Deuteronomy 32:48-52"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 32:48-52"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-32-song-of-moses",
+      "nextStory": "deuteronomy-34-moses-blesses-tribes"
+    },
+    "source": {
+      "id": "deuteronomy-33-moses-views-land",
+      "reference": "Deuteronomy 32:48-52",
+      "storyTitle": "Moses Is Told to Ascend Mount Nebo and View the Land",
+      "eventType": [
+        "Instruction Received",
+        "Mountain Ascent",
+        "Death Announcement"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": "About 120 years old",
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        },
+        {
+          "ancientName": "Mount Nebo / Abarim",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Mountain range from which Moses is told to view the land"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses spoke the Song and instructed Israel to teach the words to their children.",
+        "whatIsHappeningNow": "Moses is told to ascend Mount Nebo in the Abarim range, view Canaan, and die there because he will not enter the land.",
+        "whatHappensAfter": "Moses blesses the tribes before his death.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Moses Is Told to Ascend Mount Nebo and View the Land ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This gives the direct command leading to Moses' final ascent.",
+        "It names Mount Nebo and the Abarim range as the viewing location.",
+        "It restates that Moses will see the land but not enter it."
+      ],
+      "stepIntoTheStory": [
+        "The scene narrows from national song to a single mountain instruction. Moses is told to go up Mount Nebo in the Abarim range.",
+        "The land of Canaan is visible from the mountain, but it remains across the boundary Moses will not cross.",
+        "The instruction prepares the reader for Moses' blessing of the tribes and final death scene."
+      ],
+      "documentaryObservations": [
+        "Mount Nebo named.",
+        "Abarim range identified.",
+        "Canaan described as visible from the mountain.",
+        "Moses told he will die on the mountain.",
+        "Aaron's death at Mount Hor recalled as parallel.",
+        "The land seen but not entered."
+      ],
+      "audioScript": "After the Song of Moses, the narrative turns directly to Moses' final path. He is told to ascend Mount Nebo, in the Abarim range, opposite Jericho. From there he will see the land of Canaan, but he will not enter it. The command recalls Aaron's death on Mount Hor and places Moses' death in the same wilderness transition. The scene is simple and geographical: a mountain, a view of the land, and the boundary Moses will not cross.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 32:48-52"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-32-song-of-moses",
+        "nextStory": "deuteronomy-34-moses-blesses-tribes"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan",
+          "Mount Nebo / Abarim"
+        ],
+        "events": [
+          "Mount Nebo",
+          "Abarim",
+          "Moses sees land"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Moses Is Told to Ascend Mount Nebo and View the Land"
+        ]
+      },
+      "realitySummary": "Moses Is Told to Ascend Mount Nebo and View the Land. Moses is told to ascend Mount Nebo in the Abarim range, view Canaan, and die there because he will not enter the land."
+    }
+  },
+  {
+    "id": "deuteronomy-34-moses-blesses-tribes",
+    "sourceFile": "deuteronomy-34-moses-blesses-tribes.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Moses blessing tribes",
+      "Deuteronomy 33",
+      "final blessing",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Moses Blesses the Tribes",
+      "Blessing",
+      "Speech",
+      "Tribal Address",
+      "Deuteronomy 33:1-29",
+      "Moses Blesses the Tribes. Moses blesses the tribes of Israel before his death."
+    ],
+    "title": "Moses Blesses the Tribes",
+    "reference": "Deuteronomy 33:1-29",
+    "kicker": "Study",
+    "eventType": [
+      "Blessing",
+      "Speech",
+      "Tribal Address"
+    ],
+    "summary": "Moses Blesses the Tribes. Moses blesses the tribes of Israel before his death.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Age",
+        "value": "About 120 years old"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Moses Blesses the Tribes",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Moses Blesses the Tribes",
+    "stepIntoStory": "The scene is a final address over Israel's tribes. Moses, described as the man of Elohim, speaks blessing before his death.\n\nThe tribes are named one after another, each receiving words in the final assembly setting.\n\nThe nation remains east of the Jordan, still not yet across, hearing its tribes named before the final transition to Joshua.",
+    "notice": [
+      "Moses speaking before death.",
+      "Tribes named in sequence.",
+      "Reuben, Judah, Levi, Benjamin, Joseph, Zebulun, Issachar, Gad, Dan, Naphtali, and Asher addressed.",
+      "Tribal identities emphasized before land entry.",
+      "Mountain, sea, and land imagery used.",
+      "Israel addressed as a whole at the close."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses was told to ascend Mount Nebo and view the land before death."
+      },
+      {
+        "label": "Now",
+        "value": "Moses blesses the tribes of Israel before his death."
+      },
+      {
+        "label": "Next",
+        "value": "Moses ascends Nebo, views the land, dies in Moab, and Joshua succeeds him."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is Moses' final tribal blessing before death.",
+      "It addresses Israel tribe by tribe near the end of the Torah.",
+      "It functions as a final spoken act before the death narrative."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 33 records Moses' final blessing over the tribes. The people are still east of the Jordan, and Moses speaks before his death. The blessing moves tribe by tribe, naming Reuben, Judah, Levi, Benjamin, Joseph, Zebulun, Issachar, Gad, Dan, Naphtali, and Asher. The scene is solemn and public, but still grounded in Israel's situation: tribes gathered before entry into the land, hearing final words from the leader who brought them through the wilderness but will not cross the Jordan with them.",
+    "crossReferences": [
+      "Deuteronomy 33:1-29"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 33:1-29"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-33-moses-views-land",
+      "nextStory": "deuteronomy-35-moses-dies"
+    },
+    "source": {
+      "id": "deuteronomy-34-moses-blesses-tribes",
+      "reference": "Deuteronomy 33:1-29",
+      "storyTitle": "Moses Blesses the Tribes",
+      "eventType": [
+        "Blessing",
+        "Speech",
+        "Tribal Address"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": "About 120 years old",
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses was told to ascend Mount Nebo and view the land before death.",
+        "whatIsHappeningNow": "Moses blesses the tribes of Israel before his death.",
+        "whatHappensAfter": "Moses ascends Nebo, views the land, dies in Moab, and Joshua succeeds him.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Moses Blesses the Tribes ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is Moses' final tribal blessing before death.",
+        "It addresses Israel tribe by tribe near the end of the Torah.",
+        "It functions as a final spoken act before the death narrative."
+      ],
+      "stepIntoTheStory": [
+        "The scene is a final address over Israel's tribes. Moses, described as the man of Elohim, speaks blessing before his death.",
+        "The tribes are named one after another, each receiving words in the final assembly setting.",
+        "The nation remains east of the Jordan, still not yet across, hearing its tribes named before the final transition to Joshua."
+      ],
+      "documentaryObservations": [
+        "Moses speaking before death.",
+        "Tribes named in sequence.",
+        "Reuben, Judah, Levi, Benjamin, Joseph, Zebulun, Issachar, Gad, Dan, Naphtali, and Asher addressed.",
+        "Tribal identities emphasized before land entry.",
+        "Mountain, sea, and land imagery used.",
+        "Israel addressed as a whole at the close."
+      ],
+      "audioScript": "Deuteronomy 33 records Moses' final blessing over the tribes. The people are still east of the Jordan, and Moses speaks before his death. The blessing moves tribe by tribe, naming Reuben, Judah, Levi, Benjamin, Joseph, Zebulun, Issachar, Gad, Dan, Naphtali, and Asher. The scene is solemn and public, but still grounded in Israel's situation: tribes gathered before entry into the land, hearing final words from the leader who brought them through the wilderness but will not cross the Jordan with them.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 33:1-29"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-33-moses-views-land",
+        "nextStory": "deuteronomy-35-moses-dies"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ],
+        "events": [
+          "Moses blessing tribes",
+          "Deuteronomy 33",
+          "final blessing"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Moses Blesses the Tribes"
+        ]
+      },
+      "realitySummary": "Moses Blesses the Tribes. Moses blesses the tribes of Israel before his death."
+    }
+  },
+  {
+    "id": "deuteronomy-35-moses-dies",
+    "sourceFile": "deuteronomy-35-moses-dies.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Joshua",
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Mount Nebo / Pisgah",
+      "Jericho Valley",
+      "Gilead",
+      "Moses dies",
+      "Mount Nebo",
+      "Joshua succeeds",
+      "Moses views land",
+      "Wilderness",
+      "Moab",
+      "Before Canaan entry",
+      "Moses Views the Land, Dies in Moab, and Joshua Succeeds Him",
+      "Mountain Ascent",
+      "Death",
+      "Burial",
+      "Leadership Transition",
+      "Deuteronomy 34:1-12",
+      "Moses Views the Land, Dies in Moab, and Joshua Succeeds Him. Moses ascends Nebo, sees the land from Gilead to the western sea and the Negev, dies in Moab, is buried, Israel mourns, and Joshua is filled with wisdom."
+    ],
+    "title": "Moses Views the Land, Dies in Moab, and Joshua Succeeds Him",
+    "reference": "Deuteronomy 34:1-12",
+    "kicker": "Study",
+    "eventType": [
+      "Mountain Ascent",
+      "Death",
+      "Burial",
+      "Leadership Transition"
+    ],
+    "summary": "Moses Views the Land, Dies in Moab, and Joshua Succeeds Him. Moses ascends Nebo, sees the land from Gilead to the western sea and the Negev, dies in Moab, is buried, Israel mourns, and Joshua is filled with wisdom.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Age",
+        "value": "About 120 years old"
+      },
+      {
+        "label": "Location",
+        "value": "Plains of Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Dead Sea eastern region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Address"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple"
+      }
+    ],
+    "situation": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+    "storyPosition": [
+      "Exodus",
+      "Sinai",
+      "Wilderness Journey",
+      "Plains of Moab",
+      "Moses Views the Land, Dies in Moab, and Joshua Succeeds Him",
+      "Jordan Crossing",
+      "Canaan"
+    ],
+    "currentStory": "Moses Views the Land, Dies in Moab, and Joshua Succeeds Him",
+    "stepIntoStory": "The final scene is geographical and elevated. Moses climbs from the plains of Moab to Mount Nebo, to the top of Pisgah opposite Jericho.\n\nFrom there he is shown the land in multiple directions: Gilead, Dan, Naphtali, Ephraim, Manasseh, Judah, the western sea, the Negev, and the valley of Jericho.\n\nMoses dies in Moab. Israel mourns thirty days, and Joshua stands as the recognized successor.",
+    "notice": [
+      "Moses climbing Mount Nebo.",
+      "Pisgah opposite Jericho named.",
+      "The land shown in broad panorama.",
+      "Gilead, Dan, Naphtali, Ephraim, Manasseh, Judah, western sea, Negev, and Jericho valley named.",
+      "Moses dies in Moab.",
+      "Burial place not known.",
+      "Israel mourns thirty days.",
+      "Joshua filled with wisdom."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Moses blessed the tribes before his death."
+      },
+      {
+        "label": "Now",
+        "value": "Moses ascends Nebo, sees the land from Gilead to the western sea and the Negev, dies in Moab, is buried, Israel mourns, and Joshua is filled with wisdom."
+      },
+      {
+        "label": "Next",
+        "value": "Joshua opens with Israel preparing to cross the Jordan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Deuteronomy takes place after the Exodus and wilderness journey."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is camped east of the Jordan before entering Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Moses is addressing the generation that will enter the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua's leadership transition is approaching near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The main setting is the plains of Moab east of the Jordan, opposite Jericho."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan lies west of the Jordan and is the land Israel is preparing to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public instruction would be heard by a large assembled nation near the Jordan."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This closes Deuteronomy and the Torah narrative centered on Moses.",
+      "It completes the theme that Moses sees the land but does not enter it.",
+      "It publicly transitions leadership to Joshua before the Jordan crossing."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Speaks to Israel in the plains of Moab",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear Moses' final instructions before entering Canaan",
+        "relationships": []
+      },
+      {
+        "name": "Joshua",
+        "role": "Successor to Moses and future leader into Canaan",
+        "relationships": [
+          "Son of Nun"
+        ]
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Boundary Israel is preparing to cross"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land Israel is preparing to enter"
+      },
+      {
+        "ancientName": "Mount Nebo / Pisgah",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Mountain where Moses views the land"
+      },
+      {
+        "ancientName": "Jericho Valley",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Region visible from Pisgah"
+      },
+      {
+        "ancientName": "Gilead",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Region shown to Moses"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites",
+      "Joshua"
+    ],
+    "places": [
+      "Plains of Moab",
+      "Jordan River",
+      "Canaan",
+      "Mount Nebo / Pisgah",
+      "Jericho Valley",
+      "Gilead"
+    ],
+    "movement": [
+      "Moses speaks east of the Jordan",
+      "The unit reviews earlier events or prepares future land life",
+      "Israel remains poised to cross the Jordan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Plains of Moab",
+      "destination": "Canaan / future life in the land",
+      "route": [
+        "Moses speaks east of the Jordan",
+        "The unit reviews earlier events or prepares future land life",
+        "Israel remains poised to cross the Jordan"
+      ],
+      "majorStops": [
+        "Plains of Moab",
+        "Jordan River",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Deuteronomy 34 ends the book and the life of Moses. Moses climbs from the plains of Moab to Mount Nebo, to the top of Pisgah opposite Jericho. From there he sees the land: Gilead, Dan, Naphtali, Ephraim, Manasseh, Judah, the western sea, the Negev, and the valley of Jericho. Moses dies in Moab and is buried, but the place of his burial is not known. Israel mourns him thirty days. Joshua son of Nun is filled with wisdom, and the people listen to him. The story now stands ready for the Jordan crossing.",
+    "crossReferences": [
+      "Deuteronomy 34:1-12"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [],
+      "directlyRelatedEvents": [
+        "Deuteronomy 34:1-12"
+      ],
+      "laterReferences": [],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Moses' Final Addresses in Moab",
+      "previousStory": "deuteronomy-34-moses-blesses-tribes",
+      "nextStory": null
+    },
+    "source": {
+      "id": "deuteronomy-35-moses-dies",
+      "reference": "Deuteronomy 34:1-12",
+      "storyTitle": "Moses Views the Land, Dies in Moab, and Joshua Succeeds Him",
+      "eventType": [
+        "Mountain Ascent",
+        "Death",
+        "Burial",
+        "Leadership Transition"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": "About 120 years old",
+        "currentLocation": "Plains of Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Address",
+        "timeAnchor": "After the wilderness journey; before crossing the Jordan; before the kingdom and Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Speaks to Israel in the plains of Moab",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear Moses' final instructions before entering Canaan",
+          "relationships": []
+        },
+        {
+          "name": "Joshua",
+          "role": "Successor to Moses and future leader into Canaan",
+          "relationships": [
+            "Son of Nun"
+          ]
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Plains of Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Main Deuteronomy speech setting east of the Jordan opposite Jericho"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Boundary Israel is preparing to cross"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land Israel is preparing to enter"
+        },
+        {
+          "ancientName": "Mount Nebo / Pisgah",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Mountain where Moses views the land"
+        },
+        {
+          "ancientName": "Jericho Valley",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Region visible from Pisgah"
+        },
+        {
+          "ancientName": "Gilead",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Region shown to Moses"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Plains of Moab",
+        "destination": "Canaan / future life in the land",
+        "route": [
+          "Moses speaks east of the Jordan",
+          "The unit reviews earlier events or prepares future land life",
+          "Israel remains poised to cross the Jordan"
+        ],
+        "majorStops": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Moses blessed the tribes before his death.",
+        "whatIsHappeningNow": "Moses ascends Nebo, sees the land from Gilead to the western sea and the Negev, dies in Moab, is buried, Israel mourns, and Joshua is filled with wisdom.",
+        "whatHappensAfter": "Joshua opens with Israel preparing to cross the Jordan.",
+        "storyPositionStrip": [
+          "Exodus",
+          "Sinai",
+          "Wilderness Journey",
+          "Plains of Moab",
+          "Moses Views the Land, Dies in Moab, and Joshua Succeeds Him ← YOU ARE HERE",
+          "Jordan Crossing",
+          "Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Deuteronomy takes place after the Exodus and wilderness journey.",
+          "Israel is camped east of the Jordan before entering Canaan.",
+          "Moses is addressing the generation that will enter the land.",
+          "Joshua's leadership transition is approaching near the end of the book.",
+          "The monarchy and Jerusalem Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The main setting is the plains of Moab east of the Jordan, opposite Jericho.",
+          "Canaan lies west of the Jordan and is the land Israel is preparing to enter.",
+          "Many speeches review earlier wilderness locations such as Horeb, Kadesh-barnea, Edom, Moab, Ammon, and Transjordan."
+        ],
+        "dailyLifeContext": [
+          "The people are still organized as a wilderness camp with tribes, elders, priests, Levites, families, livestock, and tents.",
+          "The speeches prepare Israel for settled life involving cities, fields, vineyards, courts, gates, households, offerings, and inheritance land.",
+          "Public instruction would be heard by a large assembled nation near the Jordan."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This closes Deuteronomy and the Torah narrative centered on Moses.",
+        "It completes the theme that Moses sees the land but does not enter it.",
+        "It publicly transitions leadership to Joshua before the Jordan crossing."
+      ],
+      "stepIntoTheStory": [
+        "The final scene is geographical and elevated. Moses climbs from the plains of Moab to Mount Nebo, to the top of Pisgah opposite Jericho.",
+        "From there he is shown the land in multiple directions: Gilead, Dan, Naphtali, Ephraim, Manasseh, Judah, the western sea, the Negev, and the valley of Jericho.",
+        "Moses dies in Moab. Israel mourns thirty days, and Joshua stands as the recognized successor."
+      ],
+      "documentaryObservations": [
+        "Moses climbing Mount Nebo.",
+        "Pisgah opposite Jericho named.",
+        "The land shown in broad panorama.",
+        "Gilead, Dan, Naphtali, Ephraim, Manasseh, Judah, western sea, Negev, and Jericho valley named.",
+        "Moses dies in Moab.",
+        "Burial place not known.",
+        "Israel mourns thirty days.",
+        "Joshua filled with wisdom."
+      ],
+      "audioScript": "Deuteronomy 34 ends the book and the life of Moses. Moses climbs from the plains of Moab to Mount Nebo, to the top of Pisgah opposite Jericho. From there he sees the land: Gilead, Dan, Naphtali, Ephraim, Manasseh, Judah, the western sea, the Negev, and the valley of Jericho. Moses dies in Moab and is buried, but the place of his burial is not known. Israel mourns him thirty days. Joshua son of Nun is filled with wisdom, and the people listen to him. The story now stands ready for the Jordan crossing.",
+      "crossReferences": {
+        "earlierBackground": [],
+        "directlyRelatedEvents": [
+          "Deuteronomy 34:1-12"
+        ],
+        "laterReferences": [],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Moses' Final Addresses in Moab",
+        "previousStory": "deuteronomy-34-moses-blesses-tribes",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites",
+          "Joshua"
+        ],
+        "places": [
+          "Plains of Moab",
+          "Jordan River",
+          "Canaan",
+          "Mount Nebo / Pisgah",
+          "Jericho Valley",
+          "Gilead"
+        ],
+        "events": [
+          "Moses dies",
+          "Mount Nebo",
+          "Joshua succeeds",
+          "Moses views land"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Moab",
+          "Before Canaan entry"
+        ],
+        "alternateNames": [
+          "Moses Views the Land, Dies in Moab, and Joshua Succeeds Him"
+        ]
+      },
+      "realitySummary": "Moses Views the Land, Dies in Moab, and Joshua Succeeds Him. Moses ascends Nebo, sees the land from Gilead to the western sea and the Negev, dies in Moab, is buried, Israel mourns, and Joshua is filled with wisdom."
+    }
   }
 ]
