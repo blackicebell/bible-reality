@@ -114,6 +114,25 @@ function mapIdFor(raw) {
 }
 
 function normalize(raw, sourceFile) {
+  const requiredSourceFields = [
+    "people",
+    "places",
+    "movementJourney",
+    "storyPosition",
+    "realityContext",
+    "stepIntoTheStory",
+    "documentaryObservations",
+    "crossReferences"
+  ];
+  const missingSourceFields = requiredSourceFields.filter((field) => !(field in raw));
+
+  if (missingSourceFields.length) {
+    throw new Error(
+      `${sourceFile} is missing required profile fields: ${missingSourceFields.join(", ")}. ` +
+      "This looks like a placeholder/manifest stub, not a complete Biblical Reality profile."
+    );
+  }
+
   const strip = (raw.storyPosition?.storyPositionStrip || []).map(cleanMarker);
   const currentStory = strip.find((item, index) => raw.storyPosition?.storyPositionStrip?.[index]?.includes("YOU ARE HERE"))
     || cleanMarker(raw.storyTitle)
