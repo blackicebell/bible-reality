@@ -70461,5 +70461,1044 @@
       },
       "realitySummary": "The Eastern Tribes Return and Build an Altar by the Jordan. Joshua releases the eastern tribes, they build a large altar near the Jordan, the western tribes investigate, and the altar is explained as a witness rather than a rival altar."
     }
+  },
+  {
+    "id": "joshua-19-joshua-farewell",
+    "sourceFile": "joshua-19-joshua-farewell.json",
+    "searchTerms": [
+      "Joshua",
+      "Elders of Israel",
+      "Heads, judges, and officers",
+      "Israelites",
+      "Canaan",
+      "Jordan River",
+      "Remaining nations",
+      "Joshua farewell",
+      "elders heads judges officers",
+      "remaining nations warning",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 23",
+      "Joshua final speech",
+      "Joshua's farewell",
+      "Farewell Address",
+      "Leadership Speech",
+      "Warning",
+      "Historical Review",
+      "Joshua's Farewell Address to Israel's Leaders",
+      "Joshua's Farewell Address to Israel's Leaders. Joshua, now old, summons Israel's leaders and gives a farewell warning about holding fast, remaining nations, and life in the land."
+    ],
+    "title": "Joshua's Farewell Address to Israel's Leaders",
+    "reference": "Joshua 23",
+    "kicker": "Study",
+    "eventType": [
+      "Farewell Address",
+      "Leadership Speech",
+      "Warning",
+      "Historical Review"
+    ],
+    "summary": "Joshua's Farewell Address to Israel's Leaders. Joshua, now old, summons Israel's leaders and gives a farewell warning about holding fast, remaining nations, and life in the land.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite assembly in the land"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Leadership Farewell"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After rest from surrounding enemies; before Shechem covenant renewal"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "Joshua's Farewell Address to Israel's Leaders"
+    ],
+    "currentStory": "Joshua's Farewell Address to Israel's Leaders",
+    "stepIntoStory": "Joshua is old, and the battles and allotments are behind him. The leaders of Israel gather to hear him speak.\n\nHe does not give a new battle plan. Instead, he points to the land, the remaining nations, and the future of Israel's settlement.\n\nThe scene is quieter than Jericho or the Jordan crossing, but it is still public and serious: elders, heads, judges, and officers listening to the man who led them into the land.",
+    "notice": [
+      "Joshua described as old and advanced in years.",
+      "Elders, heads, judges, and officers summoned.",
+      "Israel no longer depicted as crossing but dwelling in the land.",
+      "Remaining nations still present in the landscape.",
+      "Land inheritance assumed as already distributed.",
+      "Warnings about intermarriage and attachment to surrounding nations.",
+      "A leadership assembly before Joshua's death."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "The eastern tribes' altar crisis was resolved, preserving tribal unity."
+      },
+      {
+        "label": "Now",
+        "value": "Joshua, now old, summons Israel's leaders and gives a farewell warning about holding fast, remaining nations, and life in the land."
+      },
+      {
+        "label": "Next",
+        "value": "Joshua gathers all the tribes at Shechem for covenant renewal."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is Joshua's first farewell speech near the end of the book."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It moves from land distribution to long-term life in the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It addresses leaders rather than narrating a battle or allotment."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It prepares for the fuller covenant renewal at Shechem in Joshua 24."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting is no longer a moving camp or battlefield but Israel settled across tribal territories."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Remaining nations are still part of the political and social landscape."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The land itself is the central stage of the warning."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Leadership assemblies involve elders, heads, judges, and officers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The speech assumes Israel has cities, inheritances, neighbors, and long-term settlement concerns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "An old leader's address functions as public continuity before his death."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This transitions Joshua from military and land distributor to aging covenant speaker.",
+      "It frames the future problem of Israel living among remaining nations.",
+      "It connects possession of land with the warnings that close the book.",
+      "It sets up the final assembly at Shechem."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Old leader giving a farewell address",
+        "relationships": []
+      },
+      {
+        "name": "Elders of Israel",
+        "role": "Leaders summoned by Joshua",
+        "relationships": []
+      },
+      {
+        "name": "Heads, judges, and officers",
+        "role": "Leadership groups addressed in the farewell",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Nation represented by its leaders",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Land where Israel now dwells according to the narrative"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+        "description": "Boundary crossed earlier under Joshua"
+      },
+      {
+        "ancientName": "Remaining nations",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Peoples still present among or near Israel's inheritances"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Elders of Israel",
+      "Heads, judges, and officers",
+      "Israelites"
+    ],
+    "places": [
+      "Canaan",
+      "Jordan River",
+      "Remaining nations"
+    ],
+    "movement": [
+      "Joshua grows old",
+      "He summons Israel's leaders",
+      "He reviews what Yahweh has done against the nations",
+      "He warns them about remaining nations",
+      "He warns that covenant violation will affect their future in the land"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israel living in allotted land",
+      "destination": "Final covenant warning before Joshua's death",
+      "route": [
+        "Joshua grows old",
+        "He summons Israel's leaders",
+        "He reviews what Yahweh has done against the nations",
+        "He warns them about remaining nations",
+        "He warns that covenant violation will affect their future in the land"
+      ],
+      "majorStops": [
+        "Israelite settlement areas",
+        "leadership assembly",
+        "remaining nations"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 23 is a farewell address. Joshua is old, and Israel has received rest from surrounding enemies according to the narrative frame. He summons the elders, heads, judges, and officers of Israel. The scene is no longer a river crossing, siege, or land survey. It is a leadership assembly inside the land. Joshua reminds them of what has happened and warns them about the remaining nations among them. The speech prepares the reader for the final covenant assembly at Shechem.",
+    "crossReferences": [
+      "Joshua 22:1-34",
+      "Joshua 23:1-16",
+      "Joshua 24:1-33",
+      "Judges 2:6-10"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 22:1-34"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 23:1-16"
+      ],
+      "laterReferences": [
+        "Joshua 24:1-33",
+        "Judges 2:6-10"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-18-eastern-tribes-altar",
+      "nextStory": "joshua-20-covenant-renewal-shechem"
+    },
+    "source": {
+      "id": "joshua-19-joshua-farewell",
+      "reference": "Joshua 23",
+      "storyTitle": "Joshua's Farewell Address to Israel's Leaders",
+      "eventType": [
+        "Farewell Address",
+        "Leadership Speech",
+        "Warning",
+        "Historical Review"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Israelite assembly in the land",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "elders",
+          "heads",
+          "judges",
+          "officers"
+        ],
+        "sceneScale": "National Leadership Farewell",
+        "timeAnchor": "After rest from surrounding enemies; before Shechem covenant renewal",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Old leader giving a farewell address",
+          "relationships": []
+        },
+        {
+          "name": "Elders of Israel",
+          "role": "Leaders summoned by Joshua",
+          "relationships": []
+        },
+        {
+          "name": "Heads, judges, and officers",
+          "role": "Leadership groups addressed in the farewell",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Nation represented by its leaders",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Land where Israel now dwells according to the narrative"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+          "description": "Boundary crossed earlier under Joshua"
+        },
+        {
+          "ancientName": "Remaining nations",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Peoples still present among or near Israel's inheritances"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israel living in allotted land",
+        "destination": "Final covenant warning before Joshua's death",
+        "route": [
+          "Joshua grows old",
+          "He summons Israel's leaders",
+          "He reviews what Yahweh has done against the nations",
+          "He warns them about remaining nations",
+          "He warns that covenant violation will affect their future in the land"
+        ],
+        "majorStops": [
+          "Israelite settlement areas",
+          "leadership assembly",
+          "remaining nations"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "The eastern tribes' altar crisis was resolved, preserving tribal unity.",
+        "whatIsHappeningNow": "Joshua, now old, summons Israel's leaders and gives a farewell warning about holding fast, remaining nations, and life in the land.",
+        "whatHappensAfter": "Joshua gathers all the tribes at Shechem for covenant renewal.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "Joshua's Farewell Address to Israel's Leaders ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This is Joshua's first farewell speech near the end of the book.",
+          "It moves from land distribution to long-term life in the land.",
+          "It addresses leaders rather than narrating a battle or allotment.",
+          "It prepares for the fuller covenant renewal at Shechem in Joshua 24."
+        ],
+        "geographicContext": [
+          "The setting is no longer a moving camp or battlefield but Israel settled across tribal territories.",
+          "Remaining nations are still part of the political and social landscape.",
+          "The land itself is the central stage of the warning."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Leadership assemblies involve elders, heads, judges, and officers.",
+          "The speech assumes Israel has cities, inheritances, neighbors, and long-term settlement concerns.",
+          "An old leader's address functions as public continuity before his death."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This transitions Joshua from military and land distributor to aging covenant speaker.",
+        "It frames the future problem of Israel living among remaining nations.",
+        "It connects possession of land with the warnings that close the book.",
+        "It sets up the final assembly at Shechem."
+      ],
+      "stepIntoTheStory": [
+        "Joshua is old, and the battles and allotments are behind him. The leaders of Israel gather to hear him speak.",
+        "He does not give a new battle plan. Instead, he points to the land, the remaining nations, and the future of Israel's settlement.",
+        "The scene is quieter than Jericho or the Jordan crossing, but it is still public and serious: elders, heads, judges, and officers listening to the man who led them into the land."
+      ],
+      "documentaryObservations": [
+        "Joshua described as old and advanced in years.",
+        "Elders, heads, judges, and officers summoned.",
+        "Israel no longer depicted as crossing but dwelling in the land.",
+        "Remaining nations still present in the landscape.",
+        "Land inheritance assumed as already distributed.",
+        "Warnings about intermarriage and attachment to surrounding nations.",
+        "A leadership assembly before Joshua's death."
+      ],
+      "audioScript": "Joshua 23 is a farewell address. Joshua is old, and Israel has received rest from surrounding enemies according to the narrative frame. He summons the elders, heads, judges, and officers of Israel. The scene is no longer a river crossing, siege, or land survey. It is a leadership assembly inside the land. Joshua reminds them of what has happened and warns them about the remaining nations among them. The speech prepares the reader for the final covenant assembly at Shechem.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 22:1-34"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 23:1-16"
+        ],
+        "laterReferences": [
+          "Joshua 24:1-33",
+          "Judges 2:6-10"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-18-eastern-tribes-altar",
+        "nextStory": "joshua-20-covenant-renewal-shechem"
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Elders of Israel",
+          "Heads, judges, and officers",
+          "Israelites"
+        ],
+        "places": [
+          "Canaan",
+          "Jordan River",
+          "Remaining nations"
+        ],
+        "events": [
+          "Joshua farewell",
+          "elders heads judges officers",
+          "remaining nations warning"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 23",
+          "Joshua final speech",
+          "Joshua's farewell"
+        ]
+      },
+      "realitySummary": "Joshua's Farewell Address to Israel's Leaders. Joshua, now old, summons Israel's leaders and gives a farewell warning about holding fast, remaining nations, and life in the land."
+    }
+  },
+  {
+    "id": "joshua-20-covenant-renewal-shechem",
+    "sourceFile": "joshua-20-covenant-renewal-shechem.json",
+    "searchTerms": [
+      "Joshua",
+      "Tribes of Israel",
+      "Elders, heads, judges, and officers",
+      "Joseph",
+      "Eleazar",
+      "Shechem",
+      "Oak at the sanctuary of Yahweh",
+      "Timnath-serah",
+      "Mount Ephraim",
+      "Egypt",
+      "Jordan River",
+      "covenant renewal at Shechem",
+      "Joshua dies",
+      "witness stone",
+      "Joseph bones buried",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 24",
+      "Shechem covenant renewal",
+      "death of Joshua",
+      "Assembly",
+      "Covenant Renewal",
+      "Historical Review",
+      "Witness Stone",
+      "Death",
+      "Covenant Renewal at Shechem and the Death of Joshua",
+      "Covenant Renewal at Shechem and the Death of Joshua. Joshua gathers Israel at Shechem, reviews the nation's history, renews the covenant, sets up a witness stone, dies, and the chapter records burials of Joshua, Joseph's bones, and Eleazar."
+    ],
+    "title": "Covenant Renewal at Shechem and the Death of Joshua",
+    "reference": "Joshua 24",
+    "kicker": "Study",
+    "eventType": [
+      "Assembly",
+      "Covenant Renewal",
+      "Historical Review",
+      "Witness Stone",
+      "Death"
+    ],
+    "summary": "Covenant Renewal at Shechem and the Death of Joshua. Joshua gathers Israel at Shechem, reviews the nation's history, renews the covenant, sets up a witness stone, dies, and the chapter records burials of Joshua, Joseph's bones, and Eleazar.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Shechem"
+      },
+      {
+        "label": "Modern Region",
+        "value": "West Bank / Shechem-Nablus region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Covenant Renewal and Leadership Closure"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Joshua's farewell; end of Joshua; before Judges"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "Covenant Renewal at Shechem and the Death of Joshua"
+    ],
+    "currentStory": "Covenant Renewal at Shechem and the Death of Joshua",
+    "stepIntoStory": "All the tribes gather at Shechem. The scene is public and national: elders, heads, judges, officers, and the people are present.\n\nJoshua's speech stretches across Israel's whole story: ancestors, Egypt, wilderness, Jordan, Jericho, and the land where they now live.\n\nA large stone is set up under the oak as a witness. The book closes with death and burial notices: Joshua at Timnath-serah, Joseph's bones at Shechem, and Eleazar in the hill country of Ephraim.",
+    "notice": [
+      "All tribes gathered at Shechem.",
+      "Elders, heads, judges, and officers present.",
+      "Historical review from ancestors to Canaan.",
+      "Egypt, Jordan, and Jericho remembered in the speech.",
+      "A covenant written in the Book of the Law.",
+      "A large stone set up under an oak.",
+      "The stone described as witness.",
+      "Joshua buried at Timnath-serah.",
+      "Joseph's bones buried at Shechem.",
+      "Eleazar's death and burial noted."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Joshua gave a farewell warning to Israel's leaders in Joshua 23."
+      },
+      {
+        "label": "Now",
+        "value": "Joshua gathers Israel at Shechem, reviews the nation's history, renews the covenant, sets up a witness stone, dies, and the chapter records burials of Joshua, Joseph's bones, and Eleazar."
+      },
+      {
+        "label": "Next",
+        "value": "Judges begins by describing events after Joshua and the next generation."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the final covenant assembly in the book of Joshua."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It reviews the story from the ancestors to life in Canaan in one speech."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It closes Joshua's leadership with a covenant document and witness stone."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It links Joshua's death, Joseph's burial, and Eleazar's death as ending markers for the era."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Shechem is in the central hill country and has earlier ancestral associations in Genesis."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The oak and stone provide a visible covenant marker in the local landscape."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Timnath-serah in the hill country of Ephraim is Joshua's burial location."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public covenant renewal includes assembly, speech, response, written record, and physical witness marker."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Large stones could serve as durable memorial objects in public sacred or civic spaces."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Burial notices anchor the end of the narrative in specific family and tribal places."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This closes the book of Joshua.",
+      "It gives Joshua's final historical review and covenant renewal scene.",
+      "It sets up the transition to Judges by describing the generation that served during Joshua's lifetime.",
+      "It completes the movement from Moses' death to Joshua's death."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Gathers Israel at Shechem, reviews history, renews covenant, and dies",
+        "relationships": []
+      },
+      {
+        "name": "Tribes of Israel",
+        "role": "Gather at Shechem for covenant renewal",
+        "relationships": []
+      },
+      {
+        "name": "Elders, heads, judges, and officers",
+        "role": "Leaders present at the assembly",
+        "relationships": []
+      },
+      {
+        "name": "Joseph",
+        "role": "His bones are buried at Shechem according to the chapter",
+        "relationships": []
+      },
+      {
+        "name": "Eleazar",
+        "role": "Priest whose death is noted near the end",
+        "relationships": [
+          "Son of Aaron"
+        ]
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Shechem",
+        "modernRegion": "West Bank / Shechem-Nablus region",
+        "description": "Central hill country city where the covenant renewal occurs"
+      },
+      {
+        "ancientName": "Oak at the sanctuary of Yahweh",
+        "modernRegion": "West Bank / Shechem-Nablus region",
+        "description": "Location where Joshua sets up a large witness stone"
+      },
+      {
+        "ancientName": "Timnath-serah",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Joshua's inheritance where he is buried"
+      },
+      {
+        "ancientName": "Mount Ephraim",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Region of Joshua's burial"
+      },
+      {
+        "ancientName": "Egypt",
+        "modernRegion": "Egypt",
+        "description": "Land reviewed in Joshua's historical speech"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+        "description": "Crossing reviewed in the historical speech"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Tribes of Israel",
+      "Elders, heads, judges, and officers",
+      "Joseph",
+      "Eleazar"
+    ],
+    "places": [
+      "Shechem",
+      "Oak at the sanctuary of Yahweh",
+      "Timnath-serah",
+      "Mount Ephraim",
+      "Egypt",
+      "Jordan River"
+    ],
+    "movement": [
+      "Joshua gathers all tribes at Shechem",
+      "He reviews Israel's history from the ancestors through Egypt, wilderness, and Canaan",
+      "The people respond to the covenant address",
+      "Joshua makes a covenant and writes words in the Book of the Law",
+      "A large stone is set up under the oak as witness",
+      "Joshua dies and is buried at Timnath-serah",
+      "Joseph's bones are buried at Shechem",
+      "Eleazar dies and is buried"
+    ],
+    "movementDetails": {
+      "startingPoint": "All tribes gathered at Shechem",
+      "destination": "Covenant renewal and burial notices",
+      "route": [
+        "Joshua gathers all tribes at Shechem",
+        "He reviews Israel's history from the ancestors through Egypt, wilderness, and Canaan",
+        "The people respond to the covenant address",
+        "Joshua makes a covenant and writes words in the Book of the Law",
+        "A large stone is set up under the oak as witness",
+        "Joshua dies and is buried at Timnath-serah",
+        "Joseph's bones are buried at Shechem",
+        "Eleazar dies and is buried"
+      ],
+      "majorStops": [
+        "Shechem",
+        "oak by sanctuary",
+        "Timnath-serah",
+        "Joseph's burial plot",
+        "Eleazar's burial place"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 24 closes the book at Shechem. Joshua gathers all the tribes, along with elders, heads, judges, and officers. He reviews Israel's history from the ancestors through Egypt, the wilderness, the Jordan crossing, Jericho, and the land now occupied. The people respond, and Joshua makes a covenant with them. He writes the words in the Book of the Law and sets up a large stone under the oak as a witness. The book ends with burials: Joshua at Timnath-serah, Joseph's bones at Shechem, and Eleazar in the hill country of Ephraim.",
+    "crossReferences": [
+      "Genesis 12:6-7",
+      "Genesis 33:18-20",
+      "Genesis 50:24-26",
+      "Joshua 23:1-16",
+      "Joshua 24:1-33",
+      "Judges 2:6-10",
+      "Acts 7:15-16"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Genesis 12:6-7",
+        "Genesis 33:18-20",
+        "Genesis 50:24-26",
+        "Joshua 23:1-16"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 24:1-33"
+      ],
+      "laterReferences": [
+        "Judges 2:6-10"
+      ],
+      "newTestamentReferences": [
+        "Acts 7:15-16"
+      ]
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-19-joshua-farewell",
+      "nextStory": null
+    },
+    "source": {
+      "id": "joshua-20-covenant-renewal-shechem",
+      "reference": "Joshua 24",
+      "storyTitle": "Covenant Renewal at Shechem and the Death of Joshua",
+      "eventType": [
+        "Assembly",
+        "Covenant Renewal",
+        "Historical Review",
+        "Witness Stone",
+        "Death"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Shechem",
+        "modernRegion": "West Bank / Shechem-Nablus region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "tribes of Israel",
+          "elders",
+          "heads",
+          "judges",
+          "officers",
+          "Eleazar"
+        ],
+        "sceneScale": "National Covenant Renewal and Leadership Closure",
+        "timeAnchor": "After Joshua's farewell; end of Joshua; before Judges",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Gathers Israel at Shechem, reviews history, renews covenant, and dies",
+          "relationships": []
+        },
+        {
+          "name": "Tribes of Israel",
+          "role": "Gather at Shechem for covenant renewal",
+          "relationships": []
+        },
+        {
+          "name": "Elders, heads, judges, and officers",
+          "role": "Leaders present at the assembly",
+          "relationships": []
+        },
+        {
+          "name": "Joseph",
+          "role": "His bones are buried at Shechem according to the chapter",
+          "relationships": []
+        },
+        {
+          "name": "Eleazar",
+          "role": "Priest whose death is noted near the end",
+          "relationships": [
+            "Son of Aaron"
+          ]
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Shechem",
+          "modernRegion": "West Bank / Shechem-Nablus region",
+          "description": "Central hill country city where the covenant renewal occurs"
+        },
+        {
+          "ancientName": "Oak at the sanctuary of Yahweh",
+          "modernRegion": "West Bank / Shechem-Nablus region",
+          "description": "Location where Joshua sets up a large witness stone"
+        },
+        {
+          "ancientName": "Timnath-serah",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Joshua's inheritance where he is buried"
+        },
+        {
+          "ancientName": "Mount Ephraim",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Region of Joshua's burial"
+        },
+        {
+          "ancientName": "Egypt",
+          "modernRegion": "Egypt",
+          "description": "Land reviewed in Joshua's historical speech"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Jordan River Valley / Israel-Jordan border region",
+          "description": "Crossing reviewed in the historical speech"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "All tribes gathered at Shechem",
+        "destination": "Covenant renewal and burial notices",
+        "route": [
+          "Joshua gathers all tribes at Shechem",
+          "He reviews Israel's history from the ancestors through Egypt, wilderness, and Canaan",
+          "The people respond to the covenant address",
+          "Joshua makes a covenant and writes words in the Book of the Law",
+          "A large stone is set up under the oak as witness",
+          "Joshua dies and is buried at Timnath-serah",
+          "Joseph's bones are buried at Shechem",
+          "Eleazar dies and is buried"
+        ],
+        "majorStops": [
+          "Shechem",
+          "oak by sanctuary",
+          "Timnath-serah",
+          "Joseph's burial plot",
+          "Eleazar's burial place"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Joshua gave a farewell warning to Israel's leaders in Joshua 23.",
+        "whatIsHappeningNow": "Joshua gathers Israel at Shechem, reviews the nation's history, renews the covenant, sets up a witness stone, dies, and the chapter records burials of Joshua, Joseph's bones, and Eleazar.",
+        "whatHappensAfter": "Judges begins by describing events after Joshua and the next generation.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "Covenant Renewal at Shechem and the Death of Joshua ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This is the final covenant assembly in the book of Joshua.",
+          "It reviews the story from the ancestors to life in Canaan in one speech.",
+          "It closes Joshua's leadership with a covenant document and witness stone.",
+          "It links Joshua's death, Joseph's burial, and Eleazar's death as ending markers for the era."
+        ],
+        "geographicContext": [
+          "Shechem is in the central hill country and has earlier ancestral associations in Genesis.",
+          "The oak and stone provide a visible covenant marker in the local landscape.",
+          "Timnath-serah in the hill country of Ephraim is Joshua's burial location."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Public covenant renewal includes assembly, speech, response, written record, and physical witness marker.",
+          "Large stones could serve as durable memorial objects in public sacred or civic spaces.",
+          "Burial notices anchor the end of the narrative in specific family and tribal places."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This closes the book of Joshua.",
+        "It gives Joshua's final historical review and covenant renewal scene.",
+        "It sets up the transition to Judges by describing the generation that served during Joshua's lifetime.",
+        "It completes the movement from Moses' death to Joshua's death."
+      ],
+      "stepIntoTheStory": [
+        "All the tribes gather at Shechem. The scene is public and national: elders, heads, judges, officers, and the people are present.",
+        "Joshua's speech stretches across Israel's whole story: ancestors, Egypt, wilderness, Jordan, Jericho, and the land where they now live.",
+        "A large stone is set up under the oak as a witness. The book closes with death and burial notices: Joshua at Timnath-serah, Joseph's bones at Shechem, and Eleazar in the hill country of Ephraim."
+      ],
+      "documentaryObservations": [
+        "All tribes gathered at Shechem.",
+        "Elders, heads, judges, and officers present.",
+        "Historical review from ancestors to Canaan.",
+        "Egypt, Jordan, and Jericho remembered in the speech.",
+        "A covenant written in the Book of the Law.",
+        "A large stone set up under an oak.",
+        "The stone described as witness.",
+        "Joshua buried at Timnath-serah.",
+        "Joseph's bones buried at Shechem.",
+        "Eleazar's death and burial noted."
+      ],
+      "audioScript": "Joshua 24 closes the book at Shechem. Joshua gathers all the tribes, along with elders, heads, judges, and officers. He reviews Israel's history from the ancestors through Egypt, the wilderness, the Jordan crossing, Jericho, and the land now occupied. The people respond, and Joshua makes a covenant with them. He writes the words in the Book of the Law and sets up a large stone under the oak as a witness. The book ends with burials: Joshua at Timnath-serah, Joseph's bones at Shechem, and Eleazar in the hill country of Ephraim.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Genesis 12:6-7",
+          "Genesis 33:18-20",
+          "Genesis 50:24-26",
+          "Joshua 23:1-16"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 24:1-33"
+        ],
+        "laterReferences": [
+          "Judges 2:6-10"
+        ],
+        "newTestamentReferences": [
+          "Acts 7:15-16"
+        ]
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-19-joshua-farewell",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Tribes of Israel",
+          "Elders, heads, judges, and officers",
+          "Joseph",
+          "Eleazar"
+        ],
+        "places": [
+          "Shechem",
+          "Oak at the sanctuary of Yahweh",
+          "Timnath-serah",
+          "Mount Ephraim",
+          "Egypt",
+          "Jordan River"
+        ],
+        "events": [
+          "covenant renewal at Shechem",
+          "Joshua dies",
+          "witness stone",
+          "Joseph bones buried"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 24",
+          "Shechem covenant renewal",
+          "death of Joshua"
+        ]
+      },
+      "realitySummary": "Covenant Renewal at Shechem and the Death of Joshua. Joshua gathers Israel at Shechem, reviews the nation's history, renews the covenant, sets up a witness stone, dies, and the chapter records burials of Joshua, Joseph's bones, and Eleazar."
+    }
   }
 ]
