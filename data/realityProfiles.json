@@ -37898,5 +37898,3635 @@
       },
       "realitySummary": "Numbers 10 gives instructions for silver trumpets and records Israel's departure from Sinai as the cloud lifts and the tribes set out in ordered divisions toward Paran."
     }
+  },
+  {
+    "id": "numbers-09-complaints-and-quail",
+    "sourceFile": "numbers-09-complaints-and-quail.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Seventy elders",
+      "Joshua",
+      "Eldad and Medad",
+      "Yahweh",
+      "Taberah",
+      "Kibroth-hattaavah",
+      "Israelite camp",
+      "complaints",
+      "quail",
+      "seventy elders",
+      "wilderness craving",
+      "Wilderness",
+      "Complaint",
+      "Judgment",
+      "Instruction Received",
+      "Provision",
+      "Leadership Appointment",
+      "Complaints, Elders, and Quail in the Wilderness",
+      "Numbers 11",
+      "Complaints, Elders, and Quail in the Wilderness."
+    ],
+    "title": "Complaints, Elders, and Quail in the Wilderness",
+    "reference": "Numbers 11",
+    "kicker": "Study",
+    "eventType": [
+      "Complaint",
+      "Judgment",
+      "Instruction Received",
+      "Provision",
+      "Leadership Appointment"
+    ],
+    "summary": "Complaints, Elders, and Quail in the Wilderness.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Wilderness camp after leaving Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai / wilderness region; exact locations debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Wilderness Encampment"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After departure from Sinai; before Miriam and Aaron oppose Moses; before spies enter Canaan"
+      }
+    ],
+    "situation": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+    "storyPosition": [
+      "Departure from Sinai",
+      "Complaints and Quail",
+      "Miriam and Aaron",
+      "Spies in Canaan",
+      "Forty-Year Judgment"
+    ],
+    "currentStory": "Complaints and Quail",
+    "stepIntoStory": "The organized camp that left Sinai is now in the open wilderness. Complaints rise among the people, and fire burns at the edge of the camp.\n\nMoses stands under the pressure of leading a large population. Seventy elders are gathered near the Tent of Meeting, making leadership visible in the camp.\n\nQuail come around the camp in great numbers. People gather them across the surrounding area, and the place becomes associated with craving.",
+    "notice": [
+      "A large wilderness camp no longer at Sinai.",
+      "Fire burning at the edge of the camp.",
+      "People gathering near Moses with complaints.",
+      "Seventy elders assembled at the Tent of Meeting.",
+      "Eldad and Medad prophesying in the camp.",
+      "Quail spread around the camp.",
+      "People gathering quail across a wide area.",
+      "Manna remembered as the daily food.",
+      "The place named Kibroth-hattaavah."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 10 recorded Israel leaving Sinai in ordered divisions after the cloud lifted."
+      },
+      {
+        "label": "Now",
+        "value": "The people complain, fire burns at the edge of camp, Moses receives help through seventy elders, and quail are provided after the people crave meat."
+      },
+      {
+        "label": "Next",
+        "value": "Miriam and Aaron speak against Moses at Hazeroth."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is in the wilderness after leaving Egypt."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle remains central to camp organization."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The nation has not yet entered Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The kingdom and Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting alternates between wilderness camp locations, desert routes, and border regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Water sources, camp boundaries, and travel routes shape the visible scenes."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Large-scale travel requires ordered movement, supplies, and camp discipline."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests and Levites remain active around the Tent of Meeting."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This begins the wilderness complaint cycle after Sinai.",
+      "It introduces the seventy elders who share Moses' leadership burden.",
+      "It names Taberah and Kibroth-hattaavah as event locations.",
+      "It shows the camp's transition from organized departure to wilderness strain."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Leads Israel and brings the burden of the people before Yahweh",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Complain in the wilderness and crave meat",
+        "relationships": []
+      },
+      {
+        "name": "Seventy elders",
+        "role": "Appointed to share leadership burden",
+        "relationships": []
+      },
+      {
+        "name": "Joshua",
+        "role": "Moses' assistant who responds to Eldad and Medad",
+        "relationships": []
+      },
+      {
+        "name": "Eldad and Medad",
+        "role": "Men who prophesy in the camp",
+        "relationships": []
+      },
+      {
+        "name": "Yahweh",
+        "role": "Responds to complaints and gives instructions",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Taberah",
+        "modernRegion": "Sinai / wilderness region; exact locations debated",
+        "description": "Place named after fire burned among the people"
+      },
+      {
+        "ancientName": "Kibroth-hattaavah",
+        "modernRegion": "Sinai / wilderness region; exact locations debated",
+        "description": "Place named after the craving episode"
+      },
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai / wilderness region; exact locations debated",
+        "description": "Large wilderness encampment after leaving Sinai"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites",
+      "Seventy elders",
+      "Joshua",
+      "Eldad and Medad",
+      "Yahweh"
+    ],
+    "places": [
+      "Taberah",
+      "Kibroth-hattaavah",
+      "Israelite camp"
+    ],
+    "movement": [
+      "The people complain",
+      "Fire burns at the edge of the camp",
+      "The people crave meat",
+      "Seventy elders gather at the Tent",
+      "Quail come around the camp",
+      "The people later travel to Hazeroth"
+    ],
+    "movementDetails": {
+      "startingPoint": "Camp after Sinai departure",
+      "destination": "Kibroth-hattaavah, then Hazeroth",
+      "route": [
+        "The people complain",
+        "Fire burns at the edge of the camp",
+        "The people crave meat",
+        "Seventy elders gather at the Tent",
+        "Quail come around the camp",
+        "The people later travel to Hazeroth"
+      ],
+      "majorStops": [
+        "Taberah",
+        "Tent of Meeting",
+        "Kibroth-hattaavah",
+        "Hazeroth"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "After leaving Sinai, Israel's ordered camp begins to experience wilderness strain. The people complain, and fire burns at the edge of the camp. Then the craving for meat spreads through the people. Moses speaks about the burden of leading such a large nation, and seventy elders are gathered to share responsibility. The scene shifts from leadership at the Tent of Meeting to quail spread around the camp. People gather them in large quantities. The place becomes known as Kibroth-hattaavah, tied to the craving that marked this stage of the journey.",
+    "crossReferences": [
+      "numbers-08-silver-trumpets-and-departure",
+      "Numbers 11",
+      "numbers-10-miriam-and-aaron-opposition"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "numbers-08-silver-trumpets-and-departure"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 11"
+      ],
+      "laterReferences": [
+        "numbers-10-miriam-and-aaron-opposition"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Wilderness Journey",
+      "previousStory": "numbers-08-silver-trumpets-and-departure",
+      "nextStory": "numbers-10-miriam-and-aaron-opposition"
+    },
+    "source": {
+      "id": "numbers-09-complaints-and-quail",
+      "reference": "Numbers 11",
+      "storyTitle": "Complaints, Elders, and Quail in the Wilderness",
+      "eventType": [
+        "Complaint",
+        "Judgment",
+        "Instruction Received",
+        "Provision",
+        "Leadership Appointment"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Wilderness camp after leaving Sinai",
+        "modernRegion": "Sinai / wilderness region; exact locations debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites",
+          "seventy elders",
+          "Joshua",
+          "quail"
+        ],
+        "sceneScale": "National Wilderness Encampment",
+        "timeAnchor": "After departure from Sinai; before Miriam and Aaron oppose Moses; before spies enter Canaan",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Leads Israel and brings the burden of the people before Yahweh",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Complain in the wilderness and crave meat",
+          "relationships": []
+        },
+        {
+          "name": "Seventy elders",
+          "role": "Appointed to share leadership burden",
+          "relationships": []
+        },
+        {
+          "name": "Joshua",
+          "role": "Moses' assistant who responds to Eldad and Medad",
+          "relationships": []
+        },
+        {
+          "name": "Eldad and Medad",
+          "role": "Men who prophesy in the camp",
+          "relationships": []
+        },
+        {
+          "name": "Yahweh",
+          "role": "Responds to complaints and gives instructions",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Taberah",
+          "modernRegion": "Sinai / wilderness region; exact locations debated",
+          "description": "Place named after fire burned among the people"
+        },
+        {
+          "ancientName": "Kibroth-hattaavah",
+          "modernRegion": "Sinai / wilderness region; exact locations debated",
+          "description": "Place named after the craving episode"
+        },
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai / wilderness region; exact locations debated",
+          "description": "Large wilderness encampment after leaving Sinai"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Camp after Sinai departure",
+        "destination": "Kibroth-hattaavah, then Hazeroth",
+        "route": [
+          "The people complain",
+          "Fire burns at the edge of the camp",
+          "The people crave meat",
+          "Seventy elders gather at the Tent",
+          "Quail come around the camp",
+          "The people later travel to Hazeroth"
+        ],
+        "majorStops": [
+          "Taberah",
+          "Tent of Meeting",
+          "Kibroth-hattaavah",
+          "Hazeroth"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 10 recorded Israel leaving Sinai in ordered divisions after the cloud lifted.",
+        "whatIsHappeningNow": "The people complain, fire burns at the edge of camp, Moses receives help through seventy elders, and quail are provided after the people crave meat.",
+        "whatHappensAfter": "Miriam and Aaron speak against Moses at Hazeroth.",
+        "storyPositionStrip": [
+          "Departure from Sinai",
+          "Complaints and Quail ← YOU ARE HERE",
+          "Miriam and Aaron",
+          "Spies in Canaan",
+          "Forty-Year Judgment"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Israel is in the wilderness after leaving Egypt.",
+          "The Tabernacle remains central to camp organization.",
+          "The nation has not yet entered Canaan.",
+          "The kingdom and Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The setting alternates between wilderness camp locations, desert routes, and border regions.",
+          "Water sources, camp boundaries, and travel routes shape the visible scenes.",
+          "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+        ],
+        "dailyLifeContext": [
+          "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+          "Large-scale travel requires ordered movement, supplies, and camp discipline.",
+          "Priests and Levites remain active around the Tent of Meeting."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This begins the wilderness complaint cycle after Sinai.",
+        "It introduces the seventy elders who share Moses' leadership burden.",
+        "It names Taberah and Kibroth-hattaavah as event locations.",
+        "It shows the camp's transition from organized departure to wilderness strain."
+      ],
+      "stepIntoTheStory": [
+        "The organized camp that left Sinai is now in the open wilderness. Complaints rise among the people, and fire burns at the edge of the camp.",
+        "Moses stands under the pressure of leading a large population. Seventy elders are gathered near the Tent of Meeting, making leadership visible in the camp.",
+        "Quail come around the camp in great numbers. People gather them across the surrounding area, and the place becomes associated with craving."
+      ],
+      "documentaryObservations": [
+        "A large wilderness camp no longer at Sinai.",
+        "Fire burning at the edge of the camp.",
+        "People gathering near Moses with complaints.",
+        "Seventy elders assembled at the Tent of Meeting.",
+        "Eldad and Medad prophesying in the camp.",
+        "Quail spread around the camp.",
+        "People gathering quail across a wide area.",
+        "Manna remembered as the daily food.",
+        "The place named Kibroth-hattaavah."
+      ],
+      "audioScript": "After leaving Sinai, Israel's ordered camp begins to experience wilderness strain. The people complain, and fire burns at the edge of the camp. Then the craving for meat spreads through the people. Moses speaks about the burden of leading such a large nation, and seventy elders are gathered to share responsibility. The scene shifts from leadership at the Tent of Meeting to quail spread around the camp. People gather them in large quantities. The place becomes known as Kibroth-hattaavah, tied to the craving that marked this stage of the journey.",
+      "crossReferences": {
+        "earlierBackground": [
+          "numbers-08-silver-trumpets-and-departure"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 11"
+        ],
+        "laterReferences": [
+          "numbers-10-miriam-and-aaron-opposition"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Wilderness Journey",
+        "previousStory": "numbers-08-silver-trumpets-and-departure",
+        "nextStory": "numbers-10-miriam-and-aaron-opposition"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites",
+          "Seventy elders",
+          "Joshua",
+          "Eldad and Medad",
+          "Yahweh"
+        ],
+        "places": [
+          "Taberah",
+          "Kibroth-hattaavah",
+          "Israelite camp"
+        ],
+        "events": [
+          "complaints",
+          "quail",
+          "seventy elders",
+          "wilderness craving"
+        ],
+        "timelineEra": [
+          "Wilderness"
+        ],
+        "alternateNames": [
+          "complaints",
+          "quail",
+          "seventy elders",
+          "wilderness craving"
+        ]
+      },
+      "realitySummary": "Complaints, Elders, and Quail in the Wilderness."
+    }
+  },
+  {
+    "id": "numbers-10-miriam-and-aaron-opposition",
+    "sourceFile": "numbers-10-miriam-and-aaron-opposition.json",
+    "searchTerms": [
+      "Moses",
+      "Miriam",
+      "Aaron",
+      "Yahweh",
+      "Israelites",
+      "Hazeroth",
+      "Tent of Meeting",
+      "Outside the camp",
+      "Miriam and Aaron oppose Moses",
+      "Miriam skin disease",
+      "seven days outside camp",
+      "Wilderness",
+      "Family Conflict",
+      "Leadership Conflict",
+      "Judgment",
+      "Healing",
+      "Miriam and Aaron Speak Against Moses",
+      "Numbers 12",
+      "Miriam and Aaron Speak Against Moses."
+    ],
+    "title": "Miriam and Aaron Speak Against Moses",
+    "reference": "Numbers 12",
+    "kicker": "Study",
+    "eventType": [
+      "Family Conflict",
+      "Leadership Conflict",
+      "Judgment",
+      "Healing"
+    ],
+    "summary": "Miriam and Aaron Speak Against Moses.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Hazeroth"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai / wilderness region; exact locations debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Leadership and Family Conflict"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After complaints and quail; before spies enter Canaan"
+      }
+    ],
+    "situation": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+    "storyPosition": [
+      "Complaints and Quail",
+      "Miriam and Aaron",
+      "Spies Sent",
+      "Israel Refuses",
+      "Wilderness Judgment"
+    ],
+    "currentStory": "Miriam and Aaron",
+    "stepIntoStory": "The setting is the camp at Hazeroth. The conflict begins within Moses' family, but it quickly becomes a public leadership matter.\n\nMoses, Aaron, and Miriam are called to the Tent of Meeting. The cloud descends, and the conversation shifts from family complaint to sanctuary setting.\n\nMiriam is placed outside the camp for seven days. The entire camp waits and does not move until she is brought back in.",
+    "notice": [
+      "The Israelite camp at Hazeroth.",
+      "Moses, Aaron, and Miriam called to the Tent of Meeting.",
+      "The cloud descending at the Tent entrance.",
+      "Miriam visibly affected by a skin condition.",
+      "Aaron speaking to Moses after seeing Miriam.",
+      "Miriam shut outside the camp.",
+      "The whole camp waiting seven days.",
+      "The camp departing afterward for Paran."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 11 recorded complaints, quail, and the appointment of seventy elders."
+      },
+      {
+        "label": "Now",
+        "value": "Miriam and Aaron speak against Moses, Yahweh summons them, Miriam is struck with a skin condition and remains outside the camp seven days."
+      },
+      {
+        "label": "Next",
+        "value": "Israel travels to the wilderness of Paran, where spies are sent into Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is in the wilderness after leaving Egypt."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle remains central to camp organization."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The nation has not yet entered Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The kingdom and Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting alternates between wilderness camp locations, desert routes, and border regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Water sources, camp boundaries, and travel routes shape the visible scenes."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Large-scale travel requires ordered movement, supplies, and camp discipline."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests and Levites remain active around the Tent of Meeting."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a major challenge to Moses' leadership from within his family.",
+      "It explains a seven-day delay in Israel's journey.",
+      "It moves the narrative from Hazeroth to Paran before the spy episode."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Leader of Israel and brother of Miriam and Aaron",
+        "relationships": []
+      },
+      {
+        "name": "Miriam",
+        "role": "Sister of Moses and Aaron who speaks against Moses",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Brother of Moses and Miriam who joins the complaint",
+        "relationships": []
+      },
+      {
+        "name": "Yahweh",
+        "role": "Calls Moses, Aaron, and Miriam to the Tent of Meeting",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Remain in camp while Miriam is shut outside",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Hazeroth",
+        "modernRegion": "Sinai / wilderness region; exact locations debated",
+        "description": "Camp location where the conflict occurs"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai / wilderness region; exact locations debated",
+        "description": "Place where Moses, Aaron, and Miriam are called"
+      },
+      {
+        "ancientName": "Outside the camp",
+        "modernRegion": "Sinai / wilderness region; exact locations debated",
+        "description": "Place where Miriam is shut for seven days"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Miriam",
+      "Aaron",
+      "Yahweh",
+      "Israelites"
+    ],
+    "places": [
+      "Hazeroth",
+      "Tent of Meeting",
+      "Outside the camp"
+    ],
+    "movement": [
+      "Miriam and Aaron speak against Moses",
+      "The three are called to the Tent of Meeting",
+      "Miriam is shut outside the camp seven days",
+      "The people do not journey until she is brought in again",
+      "Israel departs from Hazeroth to Paran"
+    ],
+    "movementDetails": {
+      "startingPoint": "Hazeroth",
+      "destination": "Wilderness of Paran",
+      "route": [
+        "Miriam and Aaron speak against Moses",
+        "The three are called to the Tent of Meeting",
+        "Miriam is shut outside the camp seven days",
+        "The people do not journey until she is brought in again",
+        "Israel departs from Hazeroth to Paran"
+      ],
+      "majorStops": [
+        "Hazeroth",
+        "Tent of Meeting",
+        "outside the camp",
+        "Wilderness of Paran"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "At Hazeroth, the conflict comes from inside Moses' own family. Miriam and Aaron speak against him, and the three are called to the Tent of Meeting. The cloud descends at the entrance, turning a family dispute into a public sanctuary scene. When the cloud lifts, Miriam is visibly affected by a skin condition. Aaron appeals to Moses, and Moses cries out for her healing. Miriam is shut outside the camp for seven days. Israel does not travel until she is brought back in. Only then does the camp move toward the wilderness of Paran.",
+    "crossReferences": [
+      "numbers-09-complaints-and-quail",
+      "Numbers 12",
+      "numbers-11-spies-in-canaan"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "numbers-09-complaints-and-quail"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 12"
+      ],
+      "laterReferences": [
+        "numbers-11-spies-in-canaan"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Wilderness Journey",
+      "previousStory": "numbers-09-complaints-and-quail",
+      "nextStory": "numbers-11-spies-in-canaan"
+    },
+    "source": {
+      "id": "numbers-10-miriam-and-aaron-opposition",
+      "reference": "Numbers 12",
+      "storyTitle": "Miriam and Aaron Speak Against Moses",
+      "eventType": [
+        "Family Conflict",
+        "Leadership Conflict",
+        "Judgment",
+        "Healing"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Hazeroth",
+        "modernRegion": "Sinai / wilderness region; exact locations debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Miriam",
+          "Aaron",
+          "Israelites"
+        ],
+        "sceneScale": "Leadership and Family Conflict",
+        "timeAnchor": "After complaints and quail; before spies enter Canaan",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Leader of Israel and brother of Miriam and Aaron",
+          "relationships": []
+        },
+        {
+          "name": "Miriam",
+          "role": "Sister of Moses and Aaron who speaks against Moses",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Brother of Moses and Miriam who joins the complaint",
+          "relationships": []
+        },
+        {
+          "name": "Yahweh",
+          "role": "Calls Moses, Aaron, and Miriam to the Tent of Meeting",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Remain in camp while Miriam is shut outside",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Hazeroth",
+          "modernRegion": "Sinai / wilderness region; exact locations debated",
+          "description": "Camp location where the conflict occurs"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai / wilderness region; exact locations debated",
+          "description": "Place where Moses, Aaron, and Miriam are called"
+        },
+        {
+          "ancientName": "Outside the camp",
+          "modernRegion": "Sinai / wilderness region; exact locations debated",
+          "description": "Place where Miriam is shut for seven days"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Hazeroth",
+        "destination": "Wilderness of Paran",
+        "route": [
+          "Miriam and Aaron speak against Moses",
+          "The three are called to the Tent of Meeting",
+          "Miriam is shut outside the camp seven days",
+          "The people do not journey until she is brought in again",
+          "Israel departs from Hazeroth to Paran"
+        ],
+        "majorStops": [
+          "Hazeroth",
+          "Tent of Meeting",
+          "outside the camp",
+          "Wilderness of Paran"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 11 recorded complaints, quail, and the appointment of seventy elders.",
+        "whatIsHappeningNow": "Miriam and Aaron speak against Moses, Yahweh summons them, Miriam is struck with a skin condition and remains outside the camp seven days.",
+        "whatHappensAfter": "Israel travels to the wilderness of Paran, where spies are sent into Canaan.",
+        "storyPositionStrip": [
+          "Complaints and Quail",
+          "Miriam and Aaron ← YOU ARE HERE",
+          "Spies Sent",
+          "Israel Refuses",
+          "Wilderness Judgment"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Israel is in the wilderness after leaving Egypt.",
+          "The Tabernacle remains central to camp organization.",
+          "The nation has not yet entered Canaan.",
+          "The kingdom and Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The setting alternates between wilderness camp locations, desert routes, and border regions.",
+          "Water sources, camp boundaries, and travel routes shape the visible scenes.",
+          "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+        ],
+        "dailyLifeContext": [
+          "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+          "Large-scale travel requires ordered movement, supplies, and camp discipline.",
+          "Priests and Levites remain active around the Tent of Meeting."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a major challenge to Moses' leadership from within his family.",
+        "It explains a seven-day delay in Israel's journey.",
+        "It moves the narrative from Hazeroth to Paran before the spy episode."
+      ],
+      "stepIntoTheStory": [
+        "The setting is the camp at Hazeroth. The conflict begins within Moses' family, but it quickly becomes a public leadership matter.",
+        "Moses, Aaron, and Miriam are called to the Tent of Meeting. The cloud descends, and the conversation shifts from family complaint to sanctuary setting.",
+        "Miriam is placed outside the camp for seven days. The entire camp waits and does not move until she is brought back in."
+      ],
+      "documentaryObservations": [
+        "The Israelite camp at Hazeroth.",
+        "Moses, Aaron, and Miriam called to the Tent of Meeting.",
+        "The cloud descending at the Tent entrance.",
+        "Miriam visibly affected by a skin condition.",
+        "Aaron speaking to Moses after seeing Miriam.",
+        "Miriam shut outside the camp.",
+        "The whole camp waiting seven days.",
+        "The camp departing afterward for Paran."
+      ],
+      "audioScript": "At Hazeroth, the conflict comes from inside Moses' own family. Miriam and Aaron speak against him, and the three are called to the Tent of Meeting. The cloud descends at the entrance, turning a family dispute into a public sanctuary scene. When the cloud lifts, Miriam is visibly affected by a skin condition. Aaron appeals to Moses, and Moses cries out for her healing. Miriam is shut outside the camp for seven days. Israel does not travel until she is brought back in. Only then does the camp move toward the wilderness of Paran.",
+      "crossReferences": {
+        "earlierBackground": [
+          "numbers-09-complaints-and-quail"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 12"
+        ],
+        "laterReferences": [
+          "numbers-11-spies-in-canaan"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Wilderness Journey",
+        "previousStory": "numbers-09-complaints-and-quail",
+        "nextStory": "numbers-11-spies-in-canaan"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Miriam",
+          "Aaron",
+          "Yahweh",
+          "Israelites"
+        ],
+        "places": [
+          "Hazeroth",
+          "Tent of Meeting",
+          "Outside the camp"
+        ],
+        "events": [
+          "Miriam and Aaron oppose Moses",
+          "Miriam skin disease",
+          "seven days outside camp"
+        ],
+        "timelineEra": [
+          "Wilderness"
+        ],
+        "alternateNames": [
+          "Miriam and Aaron oppose Moses",
+          "Miriam skin disease",
+          "seven days outside camp"
+        ]
+      },
+      "realitySummary": "Miriam and Aaron Speak Against Moses."
+    }
+  },
+  {
+    "id": "numbers-11-spies-in-canaan",
+    "sourceFile": "numbers-11-spies-in-canaan.json",
+    "searchTerms": [
+      "Moses",
+      "Twelve spies",
+      "Caleb",
+      "Joshua",
+      "Israelites",
+      "Anakim",
+      "Amalekites, Hittites, Jebusites, Amorites, Canaanites",
+      "Wilderness of Paran",
+      "Kadesh",
+      "Canaan",
+      "Hebron",
+      "Valley of Eshcol",
+      "Hormah",
+      "twelve spies",
+      "spy report",
+      "Israel refuses Canaan",
+      "forty years judgment",
+      "Wilderness",
+      "Reconnaissance",
+      "Report",
+      "Rebellion",
+      "Judgment",
+      "Attempted Invasion",
+      "The Twelve Spies Enter Canaan and Israel Refuses to Go Up",
+      "Numbers 13-14",
+      "The Twelve Spies Enter Canaan and Israel Refuses to Go Up."
+    ],
+    "title": "The Twelve Spies Enter Canaan and Israel Refuses to Go Up",
+    "reference": "Numbers 13-14",
+    "kicker": "Study",
+    "eventType": [
+      "Reconnaissance",
+      "Report",
+      "Rebellion",
+      "Judgment",
+      "Attempted Invasion"
+    ],
+    "summary": "The Twelve Spies Enter Canaan and Israel Refuses to Go Up.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Wilderness of Paran / Kadesh"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Southern Israel / Sinai-Negev region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Crisis"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Hazeroth; before forty years of wilderness wandering"
+      }
+    ],
+    "situation": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+    "storyPosition": [
+      "Departure from Sinai",
+      "Complaints",
+      "Miriam and Aaron",
+      "Spies in Canaan",
+      "Forty Years",
+      "Korah",
+      "Meribah"
+    ],
+    "currentStory": "Spies in Canaan",
+    "stepIntoStory": "The spies leave the camp and move north from the wilderness into Canaan. They pass through the Negev and reach the hill country near Hebron.\n\nThey return carrying visible evidence from the land: grapes, pomegranates, and figs. The cluster from Eshcol is large enough to be carried on a pole between two men.\n\nThe report creates a national crisis in the camp. The people gather, react through the night, and refuse to go up. The next day, some try to enter the hill country anyway and are defeated.",
+    "notice": [
+      "Twelve tribal representatives leaving the camp.",
+      "The Negev landscape on the route north.",
+      "Fortified cities reported in Canaan.",
+      "Hebron named as a major location.",
+      "A large grape cluster carried on a pole.",
+      "Pomegranates and figs brought back.",
+      "The congregation gathered to hear the report.",
+      "Caleb and Joshua standing against the majority report.",
+      "People weeping through the night.",
+      "A failed attempt to go into the hill country."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Miriam was shut outside the camp at Hazeroth, then Israel moved to the wilderness of Paran."
+      },
+      {
+        "label": "Now",
+        "value": "Twelve spies scout Canaan for forty days, return with fruit and a report, Israel refuses to enter, and judgment is announced for the generation counted in the census."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 15 gives instructions after the judgment, and later narratives continue through wilderness events."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is in the wilderness after leaving Egypt."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle remains central to camp organization."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The nation has not yet entered Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The kingdom and Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting alternates between wilderness camp locations, desert routes, and border regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Water sources, camp boundaries, and travel routes shape the visible scenes."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Large-scale travel requires ordered movement, supplies, and camp discipline."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests and Levites remain active around the Tent of Meeting."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This explains why Israel does not enter Canaan immediately after leaving Sinai.",
+      "It establishes the forty-year wilderness period.",
+      "It introduces Caleb and Joshua as the two spies who will survive to enter the land.",
+      "It shifts Numbers from preparation to judgment and delay."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Sends the spies and speaks to Israel",
+        "relationships": []
+      },
+      {
+        "name": "Twelve spies",
+        "role": "Represent tribal leaders sent to scout Canaan",
+        "relationships": []
+      },
+      {
+        "name": "Caleb",
+        "role": "Spy from Judah who gives a different report",
+        "relationships": []
+      },
+      {
+        "name": "Joshua",
+        "role": "Spy from Ephraim, son of Nun",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear the report and refuse to go up",
+        "relationships": []
+      },
+      {
+        "name": "Anakim",
+        "role": "People reported in the land",
+        "relationships": []
+      },
+      {
+        "name": "Amalekites, Hittites, Jebusites, Amorites, Canaanites",
+        "role": "Peoples identified in the land",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Wilderness of Paran",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Starting area for sending spies"
+      },
+      {
+        "ancientName": "Kadesh",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Camp location connected to the crisis"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories / Jordan region",
+        "description": "Land scouted by the spies"
+      },
+      {
+        "ancientName": "Hebron",
+        "modernRegion": "West Bank / southern hill country",
+        "description": "Place visited by the spies"
+      },
+      {
+        "ancientName": "Valley of Eshcol",
+        "modernRegion": "Near Hebron; exact location debated",
+        "description": "Place where the cluster of grapes is taken"
+      },
+      {
+        "ancientName": "Hormah",
+        "modernRegion": "Negev region; exact site debated",
+        "description": "Place connected to Israel's failed attempt afterward"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Twelve spies",
+      "Caleb",
+      "Joshua",
+      "Israelites",
+      "Anakim",
+      "Amalekites, Hittites, Jebusites, Amorites, Canaanites"
+    ],
+    "places": [
+      "Wilderness of Paran",
+      "Kadesh",
+      "Canaan",
+      "Hebron",
+      "Valley of Eshcol",
+      "Hormah"
+    ],
+    "movement": [
+      "Spies are sent from Paran",
+      "They go through the Negev",
+      "They reach Hebron",
+      "They cut fruit from Eshcol",
+      "They return after forty days",
+      "Israel refuses to go up",
+      "Some attempt to go toward the hill country and are defeated"
+    ],
+    "movementDetails": {
+      "startingPoint": "Wilderness of Paran",
+      "destination": "Canaan and return to Kadesh",
+      "route": [
+        "Spies are sent from Paran",
+        "They go through the Negev",
+        "They reach Hebron",
+        "They cut fruit from Eshcol",
+        "They return after forty days",
+        "Israel refuses to go up",
+        "Some attempt to go toward the hill country and are defeated"
+      ],
+      "majorStops": [
+        "Paran",
+        "Negev",
+        "Hebron",
+        "Eshcol",
+        "Kadesh",
+        "Hormah"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "From the wilderness of Paran, Moses sends twelve men into Canaan. They move through the Negev and into the hill country, reaching Hebron and the Valley of Eshcol. After forty days, they return carrying fruit from the land, including a cluster of grapes carried on a pole between two men. The report is delivered before Moses, Aaron, and the whole congregation. The camp reacts through the night and refuses to go up. Judgment is announced: the counted generation will not enter the land. When some try to advance anyway, they are defeated near Hormah.",
+    "crossReferences": [
+      "numbers-10-miriam-and-aaron-opposition",
+      "Numbers 13-14",
+      "numbers-12-wilderness-judgment"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "numbers-10-miriam-and-aaron-opposition"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 13-14"
+      ],
+      "laterReferences": [
+        "numbers-12-wilderness-judgment"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Wilderness Journey",
+      "previousStory": "numbers-10-miriam-and-aaron-opposition",
+      "nextStory": "numbers-12-wilderness-judgment"
+    },
+    "source": {
+      "id": "numbers-11-spies-in-canaan",
+      "reference": "Numbers 13-14",
+      "storyTitle": "The Twelve Spies Enter Canaan and Israel Refuses to Go Up",
+      "eventType": [
+        "Reconnaissance",
+        "Report",
+        "Rebellion",
+        "Judgment",
+        "Attempted Invasion"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Wilderness of Paran / Kadesh",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "twelve spies",
+          "Caleb",
+          "Joshua",
+          "Israelites"
+        ],
+        "sceneScale": "National Crisis",
+        "timeAnchor": "After Hazeroth; before forty years of wilderness wandering",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Sends the spies and speaks to Israel",
+          "relationships": []
+        },
+        {
+          "name": "Twelve spies",
+          "role": "Represent tribal leaders sent to scout Canaan",
+          "relationships": []
+        },
+        {
+          "name": "Caleb",
+          "role": "Spy from Judah who gives a different report",
+          "relationships": []
+        },
+        {
+          "name": "Joshua",
+          "role": "Spy from Ephraim, son of Nun",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear the report and refuse to go up",
+          "relationships": []
+        },
+        {
+          "name": "Anakim",
+          "role": "People reported in the land",
+          "relationships": []
+        },
+        {
+          "name": "Amalekites, Hittites, Jebusites, Amorites, Canaanites",
+          "role": "Peoples identified in the land",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Wilderness of Paran",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Starting area for sending spies"
+        },
+        {
+          "ancientName": "Kadesh",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Camp location connected to the crisis"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories / Jordan region",
+          "description": "Land scouted by the spies"
+        },
+        {
+          "ancientName": "Hebron",
+          "modernRegion": "West Bank / southern hill country",
+          "description": "Place visited by the spies"
+        },
+        {
+          "ancientName": "Valley of Eshcol",
+          "modernRegion": "Near Hebron; exact location debated",
+          "description": "Place where the cluster of grapes is taken"
+        },
+        {
+          "ancientName": "Hormah",
+          "modernRegion": "Negev region; exact site debated",
+          "description": "Place connected to Israel's failed attempt afterward"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Wilderness of Paran",
+        "destination": "Canaan and return to Kadesh",
+        "route": [
+          "Spies are sent from Paran",
+          "They go through the Negev",
+          "They reach Hebron",
+          "They cut fruit from Eshcol",
+          "They return after forty days",
+          "Israel refuses to go up",
+          "Some attempt to go toward the hill country and are defeated"
+        ],
+        "majorStops": [
+          "Paran",
+          "Negev",
+          "Hebron",
+          "Eshcol",
+          "Kadesh",
+          "Hormah"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Miriam was shut outside the camp at Hazeroth, then Israel moved to the wilderness of Paran.",
+        "whatIsHappeningNow": "Twelve spies scout Canaan for forty days, return with fruit and a report, Israel refuses to enter, and judgment is announced for the generation counted in the census.",
+        "whatHappensAfter": "Numbers 15 gives instructions after the judgment, and later narratives continue through wilderness events.",
+        "storyPositionStrip": [
+          "Departure from Sinai",
+          "Complaints",
+          "Miriam and Aaron",
+          "Spies in Canaan ← YOU ARE HERE",
+          "Forty Years",
+          "Korah",
+          "Meribah"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Israel is in the wilderness after leaving Egypt.",
+          "The Tabernacle remains central to camp organization.",
+          "The nation has not yet entered Canaan.",
+          "The kingdom and Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The setting alternates between wilderness camp locations, desert routes, and border regions.",
+          "Water sources, camp boundaries, and travel routes shape the visible scenes.",
+          "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+        ],
+        "dailyLifeContext": [
+          "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+          "Large-scale travel requires ordered movement, supplies, and camp discipline.",
+          "Priests and Levites remain active around the Tent of Meeting."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This explains why Israel does not enter Canaan immediately after leaving Sinai.",
+        "It establishes the forty-year wilderness period.",
+        "It introduces Caleb and Joshua as the two spies who will survive to enter the land.",
+        "It shifts Numbers from preparation to judgment and delay."
+      ],
+      "stepIntoTheStory": [
+        "The spies leave the camp and move north from the wilderness into Canaan. They pass through the Negev and reach the hill country near Hebron.",
+        "They return carrying visible evidence from the land: grapes, pomegranates, and figs. The cluster from Eshcol is large enough to be carried on a pole between two men.",
+        "The report creates a national crisis in the camp. The people gather, react through the night, and refuse to go up. The next day, some try to enter the hill country anyway and are defeated."
+      ],
+      "documentaryObservations": [
+        "Twelve tribal representatives leaving the camp.",
+        "The Negev landscape on the route north.",
+        "Fortified cities reported in Canaan.",
+        "Hebron named as a major location.",
+        "A large grape cluster carried on a pole.",
+        "Pomegranates and figs brought back.",
+        "The congregation gathered to hear the report.",
+        "Caleb and Joshua standing against the majority report.",
+        "People weeping through the night.",
+        "A failed attempt to go into the hill country."
+      ],
+      "audioScript": "From the wilderness of Paran, Moses sends twelve men into Canaan. They move through the Negev and into the hill country, reaching Hebron and the Valley of Eshcol. After forty days, they return carrying fruit from the land, including a cluster of grapes carried on a pole between two men. The report is delivered before Moses, Aaron, and the whole congregation. The camp reacts through the night and refuses to go up. Judgment is announced: the counted generation will not enter the land. When some try to advance anyway, they are defeated near Hormah.",
+      "crossReferences": {
+        "earlierBackground": [
+          "numbers-10-miriam-and-aaron-opposition"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 13-14"
+        ],
+        "laterReferences": [
+          "numbers-12-wilderness-judgment"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Wilderness Journey",
+        "previousStory": "numbers-10-miriam-and-aaron-opposition",
+        "nextStory": "numbers-12-wilderness-judgment"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Twelve spies",
+          "Caleb",
+          "Joshua",
+          "Israelites",
+          "Anakim",
+          "Amalekites, Hittites, Jebusites, Amorites, Canaanites"
+        ],
+        "places": [
+          "Wilderness of Paran",
+          "Kadesh",
+          "Canaan",
+          "Hebron",
+          "Valley of Eshcol",
+          "Hormah"
+        ],
+        "events": [
+          "twelve spies",
+          "spy report",
+          "Israel refuses Canaan",
+          "forty years judgment"
+        ],
+        "timelineEra": [
+          "Wilderness"
+        ],
+        "alternateNames": [
+          "twelve spies",
+          "spy report",
+          "Israel refuses Canaan",
+          "forty years judgment"
+        ]
+      },
+      "realitySummary": "The Twelve Spies Enter Canaan and Israel Refuses to Go Up."
+    }
+  },
+  {
+    "id": "numbers-12-wilderness-judgment",
+    "sourceFile": "numbers-12-wilderness-judgment.json",
+    "searchTerms": [
+      "Moses",
+      "Israelites",
+      "Sojourner",
+      "Man gathering sticks",
+      "Wilderness",
+      "Camp",
+      "Future land",
+      "Numbers 15",
+      "tassels",
+      "Sabbath breaker",
+      "offerings after judgment",
+      "Instruction Received",
+      "Offering Instruction",
+      "Judgment Case",
+      "Instructions After the Wilderness Judgment",
+      "Instructions After the Wilderness Judgment."
+    ],
+    "title": "Instructions After the Wilderness Judgment",
+    "reference": "Numbers 15",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Offering Instruction",
+      "Judgment Case"
+    ],
+    "summary": "Instructions After the Wilderness Judgment.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Wilderness after Kadesh"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Southern Israel / Sinai-Negev region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Community Instruction After Judgment"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the spy rebellion; before Korah's rebellion"
+      }
+    ],
+    "situation": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+    "storyPosition": [
+      "Complaints",
+      "Spies",
+      "Wilderness Judgment",
+      "Korah",
+      "Meribah"
+    ],
+    "currentStory": "Instructions After the Wilderness Judgment",
+    "stepIntoStory": "The camp remains in the wilderness after the national refusal. The instructions look ahead to offerings that will be brought when Israel enters the land.\n\nA man is found gathering sticks on the Sabbath and is brought into custody. The camp waits for the decision before the judgment is carried out outside the camp.\n\nThe final instruction concerns tassels on garments, a visible feature that Israelites would wear in daily life.",
+    "notice": [
+      "Instruction given after a national judgment.",
+      "Future grain and drink offerings described.",
+      "A man gathering sticks in the camp.",
+      "Custody while a decision is awaited.",
+      "Movement outside the camp for judgment.",
+      "Garments with tassels on their corners.",
+      "Blue cord attached to tassels.",
+      "Sojourners included in offering instructions."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 14 announced the forty-year judgment after Israel refused to enter Canaan."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given concerning offerings, unintentional sin, high-handed sin, a Sabbath violation case, and tassels on garments."
+      },
+      {
+        "label": "Next",
+        "value": "Korah and others rebel against Moses and Aaron."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is in the wilderness after leaving Egypt."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle remains central to camp organization."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The nation has not yet entered Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The kingdom and Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting alternates between wilderness camp locations, desert routes, and border regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Water sources, camp boundaries, and travel routes shape the visible scenes."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Large-scale travel requires ordered movement, supplies, and camp discipline."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests and Levites remain active around the Tent of Meeting."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This chapter follows the spy judgment with instructions for future life in the land.",
+      "It shows that the future land remains in view despite the wilderness judgment.",
+      "It includes a concrete legal case inside the camp.",
+      "It introduces tassels as a visible garment marker."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Receives instructions after the Kadesh judgment",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Recipients of offering and command instructions",
+        "relationships": []
+      },
+      {
+        "name": "Sojourner",
+        "role": "Included in offering instructions",
+        "relationships": []
+      },
+      {
+        "name": "Man gathering sticks",
+        "role": "Found gathering sticks on the Sabbath and placed in custody",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Wilderness",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Setting after the refusal to enter Canaan"
+      },
+      {
+        "ancientName": "Camp",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Place where the Sabbath case occurs"
+      },
+      {
+        "ancientName": "Future land",
+        "modernRegion": "Canaan",
+        "description": "Land anticipated in offering instructions"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Israelites",
+      "Sojourner",
+      "Man gathering sticks"
+    ],
+    "places": [
+      "Wilderness",
+      "Camp",
+      "Future land"
+    ],
+    "movement": [
+      "Instructions are given after the judgment",
+      "A Sabbath case occurs in the camp",
+      "The man is held in custody",
+      "Judgment is carried out outside the camp",
+      "Tassels are instructed for garments"
+    ],
+    "movementDetails": {
+      "startingPoint": "Wilderness camp",
+      "destination": "Future life in the land",
+      "route": [
+        "Instructions are given after the judgment",
+        "A Sabbath case occurs in the camp",
+        "The man is held in custody",
+        "Judgment is carried out outside the camp",
+        "Tassels are instructed for garments"
+      ],
+      "majorStops": [
+        "Camp",
+        "custody",
+        "outside camp",
+        "future land"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "After the refusal at Kadesh, Numbers 15 looks ahead. Even though the counted generation will not enter Canaan, instructions are given for offerings in the land. The chapter also includes a Sabbath case: a man is found gathering sticks, placed in custody, and judged outside the camp. The final scene becomes visual and ordinary: Israelites are instructed to make tassels on the corners of their garments with a blue cord. The chapter keeps future land, camp order, and daily visible practice together.",
+    "crossReferences": [
+      "numbers-11-spies-in-canaan",
+      "Numbers 15",
+      "numbers-13-korah-rebellion"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "numbers-11-spies-in-canaan"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 15"
+      ],
+      "laterReferences": [
+        "numbers-13-korah-rebellion"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Wilderness Journey",
+      "previousStory": "numbers-11-spies-in-canaan",
+      "nextStory": "numbers-13-korah-rebellion"
+    },
+    "source": {
+      "id": "numbers-12-wilderness-judgment",
+      "reference": "Numbers 15",
+      "storyTitle": "Instructions After the Wilderness Judgment",
+      "eventType": [
+        "Instruction Received",
+        "Offering Instruction",
+        "Judgment Case"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Wilderness after Kadesh",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites",
+          "man gathering sticks"
+        ],
+        "sceneScale": "Community Instruction After Judgment",
+        "timeAnchor": "After the spy rebellion; before Korah's rebellion",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Receives instructions after the Kadesh judgment",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Recipients of offering and command instructions",
+          "relationships": []
+        },
+        {
+          "name": "Sojourner",
+          "role": "Included in offering instructions",
+          "relationships": []
+        },
+        {
+          "name": "Man gathering sticks",
+          "role": "Found gathering sticks on the Sabbath and placed in custody",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Wilderness",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Setting after the refusal to enter Canaan"
+        },
+        {
+          "ancientName": "Camp",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Place where the Sabbath case occurs"
+        },
+        {
+          "ancientName": "Future land",
+          "modernRegion": "Canaan",
+          "description": "Land anticipated in offering instructions"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Wilderness camp",
+        "destination": "Future life in the land",
+        "route": [
+          "Instructions are given after the judgment",
+          "A Sabbath case occurs in the camp",
+          "The man is held in custody",
+          "Judgment is carried out outside the camp",
+          "Tassels are instructed for garments"
+        ],
+        "majorStops": [
+          "Camp",
+          "custody",
+          "outside camp",
+          "future land"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 14 announced the forty-year judgment after Israel refused to enter Canaan.",
+        "whatIsHappeningNow": "Instructions are given concerning offerings, unintentional sin, high-handed sin, a Sabbath violation case, and tassels on garments.",
+        "whatHappensAfter": "Korah and others rebel against Moses and Aaron.",
+        "storyPositionStrip": [
+          "Complaints",
+          "Spies",
+          "Wilderness Judgment",
+          "Korah",
+          "Meribah"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Israel is in the wilderness after leaving Egypt.",
+          "The Tabernacle remains central to camp organization.",
+          "The nation has not yet entered Canaan.",
+          "The kingdom and Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The setting alternates between wilderness camp locations, desert routes, and border regions.",
+          "Water sources, camp boundaries, and travel routes shape the visible scenes.",
+          "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+        ],
+        "dailyLifeContext": [
+          "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+          "Large-scale travel requires ordered movement, supplies, and camp discipline.",
+          "Priests and Levites remain active around the Tent of Meeting."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This chapter follows the spy judgment with instructions for future life in the land.",
+        "It shows that the future land remains in view despite the wilderness judgment.",
+        "It includes a concrete legal case inside the camp.",
+        "It introduces tassels as a visible garment marker."
+      ],
+      "stepIntoTheStory": [
+        "The camp remains in the wilderness after the national refusal. The instructions look ahead to offerings that will be brought when Israel enters the land.",
+        "A man is found gathering sticks on the Sabbath and is brought into custody. The camp waits for the decision before the judgment is carried out outside the camp.",
+        "The final instruction concerns tassels on garments, a visible feature that Israelites would wear in daily life."
+      ],
+      "documentaryObservations": [
+        "Instruction given after a national judgment.",
+        "Future grain and drink offerings described.",
+        "A man gathering sticks in the camp.",
+        "Custody while a decision is awaited.",
+        "Movement outside the camp for judgment.",
+        "Garments with tassels on their corners.",
+        "Blue cord attached to tassels.",
+        "Sojourners included in offering instructions."
+      ],
+      "audioScript": "After the refusal at Kadesh, Numbers 15 looks ahead. Even though the counted generation will not enter Canaan, instructions are given for offerings in the land. The chapter also includes a Sabbath case: a man is found gathering sticks, placed in custody, and judged outside the camp. The final scene becomes visual and ordinary: Israelites are instructed to make tassels on the corners of their garments with a blue cord. The chapter keeps future land, camp order, and daily visible practice together.",
+      "crossReferences": {
+        "earlierBackground": [
+          "numbers-11-spies-in-canaan"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 15"
+        ],
+        "laterReferences": [
+          "numbers-13-korah-rebellion"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Wilderness Journey",
+        "previousStory": "numbers-11-spies-in-canaan",
+        "nextStory": "numbers-13-korah-rebellion"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Israelites",
+          "Sojourner",
+          "Man gathering sticks"
+        ],
+        "places": [
+          "Wilderness",
+          "Camp",
+          "Future land"
+        ],
+        "events": [
+          "Numbers 15",
+          "tassels",
+          "Sabbath breaker",
+          "offerings after judgment"
+        ],
+        "timelineEra": [
+          "Wilderness"
+        ],
+        "alternateNames": [
+          "Numbers 15",
+          "tassels",
+          "Sabbath breaker",
+          "offerings after judgment"
+        ]
+      },
+      "realitySummary": "Instructions After the Wilderness Judgment."
+    }
+  },
+  {
+    "id": "numbers-13-korah-rebellion",
+    "sourceFile": "numbers-13-korah-rebellion.json",
+    "searchTerms": [
+      "Moses",
+      "Aaron",
+      "Korah",
+      "Dathan and Abiram",
+      "250 chiefs",
+      "Eleazar",
+      "Israelite camp",
+      "Tent of Meeting",
+      "Tents of Korah, Dathan, and Abiram",
+      "Korah rebellion",
+      "Aaron's staff buds",
+      "Wilderness",
+      "Rebellion",
+      "Judgment",
+      "Sign",
+      "Priestly Confirmation",
+      "Korah's Rebellion and Aaron's Staff",
+      "Numbers 16-17",
+      "Korah's Rebellion and Aaron's Staff."
+    ],
+    "title": "Korah's Rebellion and Aaron's Staff",
+    "reference": "Numbers 16-17",
+    "kicker": "Study",
+    "eventType": [
+      "Rebellion",
+      "Judgment",
+      "Sign",
+      "Priestly Confirmation"
+    ],
+    "summary": "Korah's Rebellion and Aaron's Staff.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Wilderness camp"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Southern Israel / Sinai-Negev region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Leadership Crisis"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After wilderness judgment instructions; before priestly provisions"
+      }
+    ],
+    "situation": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+    "storyPosition": [
+      "Complaints",
+      "Spies",
+      "Wilderness Judgment",
+      "Korah",
+      "Meribah"
+    ],
+    "currentStory": "Korah's Rebellion and Aaron's Staff",
+    "stepIntoStory": "The camp becomes divided by a leadership confrontation. Men gather with censers, and the Tent of Meeting becomes the center of the crisis.\n\nMoses tells the congregation to move away from the tents of the rebels. The ground opens under Dathan and Abiram, while fire consumes the men offering incense.\n\nThe next sign is quiet but visible: Aaron's staff, placed with the staffs of tribal leaders, buds, blossoms, and bears almonds.",
+    "notice": [
+      "Rebels gathered against Moses and Aaron.",
+      "250 men holding incense censers.",
+      "People moving away from rebel tents.",
+      "Families standing near tent entrances.",
+      "The ground opening beneath rebels.",
+      "Fire consuming men with censers.",
+      "Bronze censers hammered into altar covering.",
+      "Twelve staffs placed before the testimony.",
+      "Aaron's staff budding with blossoms and almonds."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 15 gave instructions after the Kadesh judgment."
+      },
+      {
+        "label": "Now",
+        "value": "Korah, Dathan, Abiram, and 250 chiefs challenge Moses and Aaron. Judgment falls, and Aaron's staff later buds as a sign."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 18 gives priestly and Levite provisions after Aaron's role is confirmed."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is in the wilderness after leaving Egypt."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle remains central to camp organization."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The nation has not yet entered Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The kingdom and Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting alternates between wilderness camp locations, desert routes, and border regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Water sources, camp boundaries, and travel routes shape the visible scenes."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Large-scale travel requires ordered movement, supplies, and camp discipline."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests and Levites remain active around the Tent of Meeting."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the largest leadership rebellion in Numbers after Kadesh.",
+      "It challenges both Moses' leadership and Aaron's priestly role.",
+      "Aaron's budding staff becomes a visible confirmation sign.",
+      "The censers become a covering for the altar."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Confronted by Korah and the rebels",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Priestly leader whose staff later buds",
+        "relationships": []
+      },
+      {
+        "name": "Korah",
+        "role": "Levite who joins the rebellion",
+        "relationships": []
+      },
+      {
+        "name": "Dathan and Abiram",
+        "role": "Reubenites who oppose Moses",
+        "relationships": []
+      },
+      {
+        "name": "250 chiefs",
+        "role": "Men offering incense in the confrontation",
+        "relationships": []
+      },
+      {
+        "name": "Eleazar",
+        "role": "Collects censers after the judgment",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Location of the rebellion"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Sanctuary where confrontation occurs"
+      },
+      {
+        "ancientName": "Tents of Korah, Dathan, and Abiram",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Locations people are told to move away from"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Aaron",
+      "Korah",
+      "Dathan and Abiram",
+      "250 chiefs",
+      "Eleazar"
+    ],
+    "places": [
+      "Israelite camp",
+      "Tent of Meeting",
+      "Tents of Korah, Dathan, and Abiram"
+    ],
+    "movement": [
+      "Korah and others assemble",
+      "Incense censers are brought",
+      "People move away from rebel tents",
+      "The ground opens under Dathan and Abiram",
+      "Fire consumes the 250 men",
+      "Aaron's staff later buds before the testimony"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp",
+      "destination": "Tent of Meeting and rebel tents",
+      "route": [
+        "Korah and others assemble",
+        "Incense censers are brought",
+        "People move away from rebel tents",
+        "The ground opens under Dathan and Abiram",
+        "Fire consumes the 250 men",
+        "Aaron's staff later buds before the testimony"
+      ],
+      "majorStops": [
+        "camp",
+        "Tent of Meeting",
+        "rebel tents",
+        "before the testimony"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Numbers 16 and 17 record a major camp crisis. Korah, Dathan, Abiram, and 250 chiefs challenge Moses and Aaron. The confrontation centers on incense censers and the Tent of Meeting. The people are told to move away from the tents of the rebels, and judgment follows in two visible ways: the ground opens, and fire consumes the men with censers. Afterward, staffs from the tribes are placed before the testimony. Aaron's staff buds, blossoms, and produces almonds, marking his priestly line in the camp.",
+    "crossReferences": [
+      "numbers-12-wilderness-judgment",
+      "Numbers 16-17",
+      "numbers-14-priestly-provisions"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "numbers-12-wilderness-judgment"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 16-17"
+      ],
+      "laterReferences": [
+        "numbers-14-priestly-provisions"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Wilderness Journey",
+      "previousStory": "numbers-12-wilderness-judgment",
+      "nextStory": "numbers-14-priestly-provisions"
+    },
+    "source": {
+      "id": "numbers-13-korah-rebellion",
+      "reference": "Numbers 16-17",
+      "storyTitle": "Korah's Rebellion and Aaron's Staff",
+      "eventType": [
+        "Rebellion",
+        "Judgment",
+        "Sign",
+        "Priestly Confirmation"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Wilderness camp",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Aaron",
+          "Korah",
+          "Dathan",
+          "Abiram",
+          "tribal leaders"
+        ],
+        "sceneScale": "National Leadership Crisis",
+        "timeAnchor": "After wilderness judgment instructions; before priestly provisions",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Confronted by Korah and the rebels",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Priestly leader whose staff later buds",
+          "relationships": []
+        },
+        {
+          "name": "Korah",
+          "role": "Levite who joins the rebellion",
+          "relationships": []
+        },
+        {
+          "name": "Dathan and Abiram",
+          "role": "Reubenites who oppose Moses",
+          "relationships": []
+        },
+        {
+          "name": "250 chiefs",
+          "role": "Men offering incense in the confrontation",
+          "relationships": []
+        },
+        {
+          "name": "Eleazar",
+          "role": "Collects censers after the judgment",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Location of the rebellion"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Sanctuary where confrontation occurs"
+        },
+        {
+          "ancientName": "Tents of Korah, Dathan, and Abiram",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Locations people are told to move away from"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp",
+        "destination": "Tent of Meeting and rebel tents",
+        "route": [
+          "Korah and others assemble",
+          "Incense censers are brought",
+          "People move away from rebel tents",
+          "The ground opens under Dathan and Abiram",
+          "Fire consumes the 250 men",
+          "Aaron's staff later buds before the testimony"
+        ],
+        "majorStops": [
+          "camp",
+          "Tent of Meeting",
+          "rebel tents",
+          "before the testimony"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 15 gave instructions after the Kadesh judgment.",
+        "whatIsHappeningNow": "Korah, Dathan, Abiram, and 250 chiefs challenge Moses and Aaron. Judgment falls, and Aaron's staff later buds as a sign.",
+        "whatHappensAfter": "Numbers 18 gives priestly and Levite provisions after Aaron's role is confirmed.",
+        "storyPositionStrip": [
+          "Complaints",
+          "Spies",
+          "Wilderness Judgment",
+          "Korah",
+          "Meribah"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Israel is in the wilderness after leaving Egypt.",
+          "The Tabernacle remains central to camp organization.",
+          "The nation has not yet entered Canaan.",
+          "The kingdom and Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The setting alternates between wilderness camp locations, desert routes, and border regions.",
+          "Water sources, camp boundaries, and travel routes shape the visible scenes.",
+          "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+        ],
+        "dailyLifeContext": [
+          "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+          "Large-scale travel requires ordered movement, supplies, and camp discipline.",
+          "Priests and Levites remain active around the Tent of Meeting."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the largest leadership rebellion in Numbers after Kadesh.",
+        "It challenges both Moses' leadership and Aaron's priestly role.",
+        "Aaron's budding staff becomes a visible confirmation sign.",
+        "The censers become a covering for the altar."
+      ],
+      "stepIntoTheStory": [
+        "The camp becomes divided by a leadership confrontation. Men gather with censers, and the Tent of Meeting becomes the center of the crisis.",
+        "Moses tells the congregation to move away from the tents of the rebels. The ground opens under Dathan and Abiram, while fire consumes the men offering incense.",
+        "The next sign is quiet but visible: Aaron's staff, placed with the staffs of tribal leaders, buds, blossoms, and bears almonds."
+      ],
+      "documentaryObservations": [
+        "Rebels gathered against Moses and Aaron.",
+        "250 men holding incense censers.",
+        "People moving away from rebel tents.",
+        "Families standing near tent entrances.",
+        "The ground opening beneath rebels.",
+        "Fire consuming men with censers.",
+        "Bronze censers hammered into altar covering.",
+        "Twelve staffs placed before the testimony.",
+        "Aaron's staff budding with blossoms and almonds."
+      ],
+      "audioScript": "Numbers 16 and 17 record a major camp crisis. Korah, Dathan, Abiram, and 250 chiefs challenge Moses and Aaron. The confrontation centers on incense censers and the Tent of Meeting. The people are told to move away from the tents of the rebels, and judgment follows in two visible ways: the ground opens, and fire consumes the men with censers. Afterward, staffs from the tribes are placed before the testimony. Aaron's staff buds, blossoms, and produces almonds, marking his priestly line in the camp.",
+      "crossReferences": {
+        "earlierBackground": [
+          "numbers-12-wilderness-judgment"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 16-17"
+        ],
+        "laterReferences": [
+          "numbers-14-priestly-provisions"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Wilderness Journey",
+        "previousStory": "numbers-12-wilderness-judgment",
+        "nextStory": "numbers-14-priestly-provisions"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Aaron",
+          "Korah",
+          "Dathan and Abiram",
+          "250 chiefs",
+          "Eleazar"
+        ],
+        "places": [
+          "Israelite camp",
+          "Tent of Meeting",
+          "Tents of Korah, Dathan, and Abiram"
+        ],
+        "events": [
+          "Korah rebellion",
+          "Aaron's staff buds",
+          "Dathan and Abiram"
+        ],
+        "timelineEra": [
+          "Wilderness"
+        ],
+        "alternateNames": [
+          "Korah rebellion",
+          "Aaron's staff buds",
+          "Dathan and Abiram"
+        ]
+      },
+      "realitySummary": "Korah's Rebellion and Aaron's Staff."
+    }
+  },
+  {
+    "id": "numbers-14-priestly-provisions",
+    "sourceFile": "numbers-14-priestly-provisions.json",
+    "searchTerms": [
+      "Aaron",
+      "Aaron's sons",
+      "Levites",
+      "Israelites",
+      "Tent of Meeting",
+      "Altar",
+      "Israelite camp",
+      "priestly portions",
+      "Levite tithes",
+      "Numbers 18",
+      "Wilderness",
+      "Instruction Received",
+      "Priestly Provision",
+      "Levite Duty",
+      "Priestly Support and Tithes",
+      "Priestly Support and Tithes."
+    ],
+    "title": "Priestly Support and Tithes",
+    "reference": "Numbers 18",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Priestly Provision",
+      "Levite Duty"
+    ],
+    "summary": "Priestly Support and Tithes.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Aaron"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Southern Israel / Sinai-Negev region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Priestly and Levite Organization"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Korah's rebellion; before red heifer instructions"
+      }
+    ],
+    "situation": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+    "storyPosition": [
+      "Complaints",
+      "Spies",
+      "Wilderness Judgment",
+      "Korah",
+      "Meribah"
+    ],
+    "currentStory": "Priestly Support and Tithes",
+    "stepIntoStory": "The scene is administrative rather than travel-based. Aaron receives instructions defining responsibility around the sanctuary.\n\nPriests guard altar and inner sanctuary duties. Levites assist with the Tent but do not perform priestly altar service.\n\nOfferings and tithes move from Israelite households toward priests and Levites, making camp support visible.",
+    "notice": [
+      "Priests guarding sanctuary duties.",
+      "Levites serving around the Tent of Meeting.",
+      "Israelites bringing contributions.",
+      "Grain, wine, oil, and firstfruits named as portions.",
+      "Firstborn animals distinguished.",
+      "Tithes given to Levites.",
+      "Levites giving a tithe from the tithe.",
+      "No land inheritance assigned to priests and Levites."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Korah's rebellion challenged Aaron's priestly role, and Aaron's staff budded."
+      },
+      {
+        "label": "Now",
+        "value": "Yahweh gives Aaron instructions about priestly responsibility, Levite service, holy portions, and tithes."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 19 gives instructions for the red heifer and purification water."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is in the wilderness after leaving Egypt."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle remains central to camp organization."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The nation has not yet entered Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The kingdom and Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting alternates between wilderness camp locations, desert routes, and border regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Water sources, camp boundaries, and travel routes shape the visible scenes."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Large-scale travel requires ordered movement, supplies, and camp discipline."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests and Levites remain active around the Tent of Meeting."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This follows the confirmation of Aaron's priestly role.",
+      "It defines how priests and Levites are supported.",
+      "It separates priestly duties from Levite assistance.",
+      "It explains tithes in the wilderness community."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Aaron",
+        "role": "Receives instructions concerning priestly responsibility and portions",
+        "relationships": []
+      },
+      {
+        "name": "Aaron's sons",
+        "role": "Serve with Aaron in priestly duties",
+        "relationships": []
+      },
+      {
+        "name": "Levites",
+        "role": "Assigned to assist the priests and receive tithes",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Bring holy contributions and tithes",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Center of priestly and Levite service"
+      },
+      {
+        "ancientName": "Altar",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Priestly service area"
+      },
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Community bringing contributions"
+      }
+    ],
+    "people": [
+      "Aaron",
+      "Aaron's sons",
+      "Levites",
+      "Israelites"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Altar",
+      "Israelite camp"
+    ],
+    "movement": [
+      "Priests guard sanctuary duties",
+      "Levites assist with Tent service",
+      "Israelites bring contributions",
+      "Levites receive tithes",
+      "Levites give a tithe from the tithe"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp",
+      "destination": "Tent of Meeting and priestly portions",
+      "route": [
+        "Priests guard sanctuary duties",
+        "Levites assist with Tent service",
+        "Israelites bring contributions",
+        "Levites receive tithes",
+        "Levites give a tithe from the tithe"
+      ],
+      "majorStops": [
+        "camp",
+        "Tent of Meeting",
+        "altar",
+        "Levite households"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "After Aaron's staff buds, Numbers 18 defines priestly and Levite responsibilities. Aaron and his sons are responsible for priestly service at the sanctuary and altar. The Levites assist them in the work of the Tent of Meeting. The chapter also explains support: holy contributions go to the priests, and tithes are given to the Levites. The Levites then give a tithe from the tithe. The scene shows how the sanctuary system is supported inside the wilderness camp.",
+    "crossReferences": [
+      "numbers-13-korah-rebellion",
+      "Numbers 18",
+      "numbers-15-red-heifer"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "numbers-13-korah-rebellion"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 18"
+      ],
+      "laterReferences": [
+        "numbers-15-red-heifer"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Aaron",
+      "arc": "Wilderness Journey",
+      "previousStory": "numbers-13-korah-rebellion",
+      "nextStory": "numbers-15-red-heifer"
+    },
+    "source": {
+      "id": "numbers-14-priestly-provisions",
+      "reference": "Numbers 18",
+      "storyTitle": "Priestly Support and Tithes",
+      "eventType": [
+        "Instruction Received",
+        "Priestly Provision",
+        "Levite Duty"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Aaron",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Levites",
+          "Israelites"
+        ],
+        "sceneScale": "Priestly and Levite Organization",
+        "timeAnchor": "After Korah's rebellion; before red heifer instructions",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Aaron",
+          "role": "Receives instructions concerning priestly responsibility and portions",
+          "relationships": []
+        },
+        {
+          "name": "Aaron's sons",
+          "role": "Serve with Aaron in priestly duties",
+          "relationships": []
+        },
+        {
+          "name": "Levites",
+          "role": "Assigned to assist the priests and receive tithes",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Bring holy contributions and tithes",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Center of priestly and Levite service"
+        },
+        {
+          "ancientName": "Altar",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Priestly service area"
+        },
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Community bringing contributions"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp",
+        "destination": "Tent of Meeting and priestly portions",
+        "route": [
+          "Priests guard sanctuary duties",
+          "Levites assist with Tent service",
+          "Israelites bring contributions",
+          "Levites receive tithes",
+          "Levites give a tithe from the tithe"
+        ],
+        "majorStops": [
+          "camp",
+          "Tent of Meeting",
+          "altar",
+          "Levite households"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Korah's rebellion challenged Aaron's priestly role, and Aaron's staff budded.",
+        "whatIsHappeningNow": "Yahweh gives Aaron instructions about priestly responsibility, Levite service, holy portions, and tithes.",
+        "whatHappensAfter": "Numbers 19 gives instructions for the red heifer and purification water.",
+        "storyPositionStrip": [
+          "Complaints",
+          "Spies",
+          "Wilderness Judgment",
+          "Korah",
+          "Meribah"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Israel is in the wilderness after leaving Egypt.",
+          "The Tabernacle remains central to camp organization.",
+          "The nation has not yet entered Canaan.",
+          "The kingdom and Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The setting alternates between wilderness camp locations, desert routes, and border regions.",
+          "Water sources, camp boundaries, and travel routes shape the visible scenes.",
+          "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+        ],
+        "dailyLifeContext": [
+          "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+          "Large-scale travel requires ordered movement, supplies, and camp discipline.",
+          "Priests and Levites remain active around the Tent of Meeting."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This follows the confirmation of Aaron's priestly role.",
+        "It defines how priests and Levites are supported.",
+        "It separates priestly duties from Levite assistance.",
+        "It explains tithes in the wilderness community."
+      ],
+      "stepIntoTheStory": [
+        "The scene is administrative rather than travel-based. Aaron receives instructions defining responsibility around the sanctuary.",
+        "Priests guard altar and inner sanctuary duties. Levites assist with the Tent but do not perform priestly altar service.",
+        "Offerings and tithes move from Israelite households toward priests and Levites, making camp support visible."
+      ],
+      "documentaryObservations": [
+        "Priests guarding sanctuary duties.",
+        "Levites serving around the Tent of Meeting.",
+        "Israelites bringing contributions.",
+        "Grain, wine, oil, and firstfruits named as portions.",
+        "Firstborn animals distinguished.",
+        "Tithes given to Levites.",
+        "Levites giving a tithe from the tithe.",
+        "No land inheritance assigned to priests and Levites."
+      ],
+      "audioScript": "After Aaron's staff buds, Numbers 18 defines priestly and Levite responsibilities. Aaron and his sons are responsible for priestly service at the sanctuary and altar. The Levites assist them in the work of the Tent of Meeting. The chapter also explains support: holy contributions go to the priests, and tithes are given to the Levites. The Levites then give a tithe from the tithe. The scene shows how the sanctuary system is supported inside the wilderness camp.",
+      "crossReferences": {
+        "earlierBackground": [
+          "numbers-13-korah-rebellion"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 18"
+        ],
+        "laterReferences": [
+          "numbers-15-red-heifer"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Aaron",
+        "arc": "Wilderness Journey",
+        "previousStory": "numbers-13-korah-rebellion",
+        "nextStory": "numbers-15-red-heifer"
+      },
+      "search": {
+        "people": [
+          "Aaron",
+          "Aaron's sons",
+          "Levites",
+          "Israelites"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "Altar",
+          "Israelite camp"
+        ],
+        "events": [
+          "priestly portions",
+          "Levite tithes",
+          "Numbers 18"
+        ],
+        "timelineEra": [
+          "Wilderness"
+        ],
+        "alternateNames": [
+          "priestly portions",
+          "Levite tithes",
+          "Numbers 18"
+        ]
+      },
+      "realitySummary": "Priestly Support and Tithes."
+    }
+  },
+  {
+    "id": "numbers-15-red-heifer",
+    "sourceFile": "numbers-15-red-heifer.json",
+    "searchTerms": [
+      "Moses",
+      "Aaron",
+      "Eleazar",
+      "Israelites",
+      "Clean man",
+      "Outside the camp",
+      "Israelite camp",
+      "Tent of Meeting",
+      "red heifer",
+      "purification water",
+      "corpse impurity",
+      "Wilderness",
+      "Instruction Received",
+      "Purification",
+      "Ritual Procedure",
+      "The Red Heifer and Purification Water",
+      "Numbers 19",
+      "The Red Heifer and Purification Water."
+    ],
+    "title": "The Red Heifer and Purification Water",
+    "reference": "Numbers 19",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Purification",
+      "Ritual Procedure"
+    ],
+    "summary": "The Red Heifer and Purification Water.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Eleazar"
+      },
+      {
+        "label": "Location",
+        "value": "Outside the camp"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Southern Israel / Sinai-Negev region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Camp Purification Procedure"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After priestly provisions; before Meribah and Aaron's death"
+      }
+    ],
+    "situation": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+    "storyPosition": [
+      "Complaints",
+      "Spies",
+      "Wilderness Judgment",
+      "Korah",
+      "Meribah"
+    ],
+    "currentStory": "The Red Heifer and Purification Water",
+    "stepIntoStory": "The scene moves outside the camp. A red heifer without defect is brought to Eleazar the priest and slaughtered away from the sanctuary area.\n\nEleazar sprinkles blood toward the front of the Tent of Meeting. The whole animal is burned with cedarwood, hyssop, and scarlet yarn.\n\nAshes are gathered and stored for purification water. The procedure is used when people come into contact with a dead body, bones, or a grave.",
+    "notice": [
+      "A red heifer brought outside the camp.",
+      "Eleazar the priest overseeing the procedure.",
+      "Blood sprinkled toward the Tent of Meeting.",
+      "The entire heifer burned outside the camp.",
+      "Cedarwood, hyssop, and scarlet yarn thrown into the fire.",
+      "Ashes gathered by a clean man.",
+      "Water mixed with ashes for purification.",
+      "People washing after corpse contact.",
+      "Tents and vessels affected by death impurity."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 18 defined priestly and Levite provisions."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given for the red heifer, its ashes, and purification water for those who come into contact with death."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 20 returns to narrative with Miriam's death, Meribah, Edom, and Aaron's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is in the wilderness after leaving Egypt."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle remains central to camp organization."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The nation has not yet entered Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The kingdom and Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting alternates between wilderness camp locations, desert routes, and border regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Water sources, camp boundaries, and travel routes shape the visible scenes."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Large-scale travel requires ordered movement, supplies, and camp discipline."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests and Levites remain active around the Tent of Meeting."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This gives a major purification procedure for corpse contact in the wilderness camp.",
+      "It places the ritual outside the camp while orienting it toward the Tent of Meeting.",
+      "It prepares for continued travel where death and corpse impurity remain practical realities."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Receives the instruction",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Receives the instruction with Moses",
+        "relationships": []
+      },
+      {
+        "name": "Eleazar",
+        "role": "Priest who oversees the red heifer procedure",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Provide the red heifer and use purification water",
+        "relationships": []
+      },
+      {
+        "name": "Clean man",
+        "role": "Gathers ashes and applies purification water",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Outside the camp",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Place where the red heifer is slaughtered and burned"
+      },
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Community affected by corpse impurity"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Sanctuary protected from impurity"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Aaron",
+      "Eleazar",
+      "Israelites",
+      "Clean man"
+    ],
+    "places": [
+      "Outside the camp",
+      "Israelite camp",
+      "Tent of Meeting"
+    ],
+    "movement": [
+      "A red heifer is brought to Eleazar",
+      "It is slaughtered outside the camp",
+      "Blood is sprinkled toward the Tent",
+      "The heifer is burned with cedarwood, hyssop, and scarlet yarn",
+      "Ashes are gathered and stored",
+      "Water is used for purification after corpse contact"
+    ],
+    "movementDetails": {
+      "startingPoint": "Camp",
+      "destination": "Outside camp and return through purification",
+      "route": [
+        "A red heifer is brought to Eleazar",
+        "It is slaughtered outside the camp",
+        "Blood is sprinkled toward the Tent",
+        "The heifer is burned with cedarwood, hyssop, and scarlet yarn",
+        "Ashes are gathered and stored",
+        "Water is used for purification after corpse contact"
+      ],
+      "majorStops": [
+        "camp",
+        "outside camp",
+        "ash storage",
+        "purification use"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Numbers 19 gives instructions for purification from contact with death. The red heifer is brought outside the camp, slaughtered under Eleazar's oversight, and burned completely. Cedarwood, hyssop, and scarlet yarn are added to the fire. The ashes are gathered and kept for purification water. The procedure reaches into ordinary camp life: tents, vessels, open fields, bones, graves, and bodies. It gives Israel a way to handle corpse impurity while the camp continues its journey.",
+    "crossReferences": [
+      "numbers-14-priestly-provisions",
+      "Numbers 19",
+      "numbers-16-meribah-and-edom"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "numbers-14-priestly-provisions"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 19"
+      ],
+      "laterReferences": [
+        "numbers-16-meribah-and-edom"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Eleazar",
+      "arc": "Wilderness Journey",
+      "previousStory": "numbers-14-priestly-provisions",
+      "nextStory": "numbers-16-meribah-and-edom"
+    },
+    "source": {
+      "id": "numbers-15-red-heifer",
+      "reference": "Numbers 19",
+      "storyTitle": "The Red Heifer and Purification Water",
+      "eventType": [
+        "Instruction Received",
+        "Purification",
+        "Ritual Procedure"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Eleazar",
+        "approximateAge": null,
+        "currentLocation": "Outside the camp",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Aaron",
+          "Israelites"
+        ],
+        "sceneScale": "Camp Purification Procedure",
+        "timeAnchor": "After priestly provisions; before Meribah and Aaron's death",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Receives the instruction",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Receives the instruction with Moses",
+          "relationships": []
+        },
+        {
+          "name": "Eleazar",
+          "role": "Priest who oversees the red heifer procedure",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Provide the red heifer and use purification water",
+          "relationships": []
+        },
+        {
+          "name": "Clean man",
+          "role": "Gathers ashes and applies purification water",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Outside the camp",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Place where the red heifer is slaughtered and burned"
+        },
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Community affected by corpse impurity"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Sanctuary protected from impurity"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Camp",
+        "destination": "Outside camp and return through purification",
+        "route": [
+          "A red heifer is brought to Eleazar",
+          "It is slaughtered outside the camp",
+          "Blood is sprinkled toward the Tent",
+          "The heifer is burned with cedarwood, hyssop, and scarlet yarn",
+          "Ashes are gathered and stored",
+          "Water is used for purification after corpse contact"
+        ],
+        "majorStops": [
+          "camp",
+          "outside camp",
+          "ash storage",
+          "purification use"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 18 defined priestly and Levite provisions.",
+        "whatIsHappeningNow": "Instructions are given for the red heifer, its ashes, and purification water for those who come into contact with death.",
+        "whatHappensAfter": "Numbers 20 returns to narrative with Miriam's death, Meribah, Edom, and Aaron's death.",
+        "storyPositionStrip": [
+          "Complaints",
+          "Spies",
+          "Wilderness Judgment",
+          "Korah",
+          "Meribah"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Israel is in the wilderness after leaving Egypt.",
+          "The Tabernacle remains central to camp organization.",
+          "The nation has not yet entered Canaan.",
+          "The kingdom and Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The setting alternates between wilderness camp locations, desert routes, and border regions.",
+          "Water sources, camp boundaries, and travel routes shape the visible scenes.",
+          "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+        ],
+        "dailyLifeContext": [
+          "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+          "Large-scale travel requires ordered movement, supplies, and camp discipline.",
+          "Priests and Levites remain active around the Tent of Meeting."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This gives a major purification procedure for corpse contact in the wilderness camp.",
+        "It places the ritual outside the camp while orienting it toward the Tent of Meeting.",
+        "It prepares for continued travel where death and corpse impurity remain practical realities."
+      ],
+      "stepIntoTheStory": [
+        "The scene moves outside the camp. A red heifer without defect is brought to Eleazar the priest and slaughtered away from the sanctuary area.",
+        "Eleazar sprinkles blood toward the front of the Tent of Meeting. The whole animal is burned with cedarwood, hyssop, and scarlet yarn.",
+        "Ashes are gathered and stored for purification water. The procedure is used when people come into contact with a dead body, bones, or a grave."
+      ],
+      "documentaryObservations": [
+        "A red heifer brought outside the camp.",
+        "Eleazar the priest overseeing the procedure.",
+        "Blood sprinkled toward the Tent of Meeting.",
+        "The entire heifer burned outside the camp.",
+        "Cedarwood, hyssop, and scarlet yarn thrown into the fire.",
+        "Ashes gathered by a clean man.",
+        "Water mixed with ashes for purification.",
+        "People washing after corpse contact.",
+        "Tents and vessels affected by death impurity."
+      ],
+      "audioScript": "Numbers 19 gives instructions for purification from contact with death. The red heifer is brought outside the camp, slaughtered under Eleazar's oversight, and burned completely. Cedarwood, hyssop, and scarlet yarn are added to the fire. The ashes are gathered and kept for purification water. The procedure reaches into ordinary camp life: tents, vessels, open fields, bones, graves, and bodies. It gives Israel a way to handle corpse impurity while the camp continues its journey.",
+      "crossReferences": {
+        "earlierBackground": [
+          "numbers-14-priestly-provisions"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 19"
+        ],
+        "laterReferences": [
+          "numbers-16-meribah-and-edom"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Eleazar",
+        "arc": "Wilderness Journey",
+        "previousStory": "numbers-14-priestly-provisions",
+        "nextStory": "numbers-16-meribah-and-edom"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Aaron",
+          "Eleazar",
+          "Israelites",
+          "Clean man"
+        ],
+        "places": [
+          "Outside the camp",
+          "Israelite camp",
+          "Tent of Meeting"
+        ],
+        "events": [
+          "red heifer",
+          "purification water",
+          "corpse impurity"
+        ],
+        "timelineEra": [
+          "Wilderness"
+        ],
+        "alternateNames": [
+          "red heifer",
+          "purification water",
+          "corpse impurity"
+        ]
+      },
+      "realitySummary": "The Red Heifer and Purification Water."
+    }
+  },
+  {
+    "id": "numbers-16-meribah-and-edom",
+    "sourceFile": "numbers-16-meribah-and-edom.json",
+    "searchTerms": [
+      "Moses",
+      "Aaron",
+      "Miriam",
+      "Eleazar",
+      "King of Edom",
+      "Israelites",
+      "Kadesh",
+      "Meribah",
+      "Edom",
+      "Mount Hor",
+      "Moses strikes rock",
+      "Miriam dies",
+      "Aaron dies",
+      "Edom refuses passage",
+      "Wilderness",
+      "Death",
+      "Water Crisis",
+      "Conflict",
+      "Travel",
+      "Leadership Transition",
+      "Meribah, Edom, and the Death of Aaron",
+      "Numbers 20",
+      "Meribah, Edom, and the Death of Aaron."
+    ],
+    "title": "Meribah, Edom, and the Death of Aaron",
+    "reference": "Numbers 20",
+    "kicker": "Study",
+    "eventType": [
+      "Death",
+      "Water Crisis",
+      "Conflict",
+      "Travel",
+      "Leadership Transition"
+    ],
+    "summary": "Meribah, Edom, and the Death of Aaron.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Kadesh, Edom border, Mount Hor"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Southern wilderness / Edom region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Wilderness Crisis"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After red heifer instructions; before victories east of Jordan"
+      }
+    ],
+    "situation": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+    "storyPosition": [
+      "Complaints",
+      "Spies",
+      "Wilderness Judgment",
+      "Korah",
+      "Meribah"
+    ],
+    "currentStory": "Meribah, Edom, and the Death of Aaron",
+    "stepIntoStory": "The chapter opens at Kadesh with death in the camp: Miriam dies and is buried there. The people then face a water crisis and gather against Moses and Aaron.\n\nAt Meribah, Moses strikes the rock and water comes out for the congregation and livestock. The scene is public, with people and animals needing water.\n\nIsrael then sends messengers to Edom, but Edom refuses passage and comes out with many people and a strong hand. The route turns, and Aaron dies on Mount Hor. Eleazar descends wearing Aaron's garments.",
+    "notice": [
+      "Miriam buried at Kadesh.",
+      "A waterless camp gathering against Moses and Aaron.",
+      "Moses holding the staff before the assembly.",
+      "Water coming from the rock.",
+      "Livestock drinking with the people.",
+      "Messengers sent to Edom.",
+      "Edom coming out with many people and force.",
+      "Israel turning away from Edom.",
+      "Aaron climbing Mount Hor with Moses and Eleazar.",
+      "Eleazar descending in Aaron's garments.",
+      "Israel mourning Aaron thirty days."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 19 gave red heifer purification instructions."
+      },
+      {
+        "label": "Now",
+        "value": "Miriam dies, Moses strikes the rock during the water crisis, Edom refuses passage, and Aaron dies on Mount Hor with Eleazar succeeding him."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 21 continues with conflict, the bronze serpent, and victories east of the Jordan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is in the wilderness after leaving Egypt."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle remains central to camp organization."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The nation has not yet entered Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The kingdom and Temple do not yet exist."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting alternates between wilderness camp locations, desert routes, and border regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Water sources, camp boundaries, and travel routes shape the visible scenes."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Large-scale travel requires ordered movement, supplies, and camp discipline."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests and Levites remain active around the Tent of Meeting."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This chapter records the deaths of Miriam and Aaron.",
+      "It explains why Moses and Aaron do not bring the assembly into the land.",
+      "It introduces Eleazar's succession to Aaron's priestly role.",
+      "It moves Israel from Kadesh toward Edom and Mount Hor."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Leads Israel, strikes the rock, and requests passage through Edom",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "With Moses at Meribah and later dies on Mount Hor",
+        "relationships": []
+      },
+      {
+        "name": "Miriam",
+        "role": "Dies and is buried at Kadesh",
+        "relationships": []
+      },
+      {
+        "name": "Eleazar",
+        "role": "Receives Aaron's garments and succeeds him",
+        "relationships": []
+      },
+      {
+        "name": "King of Edom",
+        "role": "Refuses Israel passage through his territory",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Complain about lack of water and mourn Aaron",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Kadesh",
+        "modernRegion": "Southern Israel / Sinai-Negev region",
+        "description": "Place of Miriam's death and Meribah water crisis"
+      },
+      {
+        "ancientName": "Meribah",
+        "modernRegion": "Kadesh area",
+        "description": "Place named because of the water dispute"
+      },
+      {
+        "ancientName": "Edom",
+        "modernRegion": "Southern Jordan region",
+        "description": "Territory Israel asks to pass through"
+      },
+      {
+        "ancientName": "Mount Hor",
+        "modernRegion": "Near Edom; exact site debated",
+        "description": "Place where Aaron dies"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Aaron",
+      "Miriam",
+      "Eleazar",
+      "King of Edom",
+      "Israelites"
+    ],
+    "places": [
+      "Kadesh",
+      "Meribah",
+      "Edom",
+      "Mount Hor"
+    ],
+    "movement": [
+      "Miriam dies at Kadesh",
+      "The people lack water",
+      "Moses strikes the rock at Meribah",
+      "Israel asks Edom for passage",
+      "Edom refuses",
+      "Israel turns away",
+      "Aaron, Moses, and Eleazar ascend Mount Hor",
+      "Aaron dies and Eleazar receives his garments"
+    ],
+    "movementDetails": {
+      "startingPoint": "Kadesh",
+      "destination": "Mount Hor by Edom",
+      "route": [
+        "Miriam dies at Kadesh",
+        "The people lack water",
+        "Moses strikes the rock at Meribah",
+        "Israel asks Edom for passage",
+        "Edom refuses",
+        "Israel turns away",
+        "Aaron, Moses, and Eleazar ascend Mount Hor",
+        "Aaron dies and Eleazar receives his garments"
+      ],
+      "majorStops": [
+        "Kadesh",
+        "Meribah",
+        "Edom border",
+        "Mount Hor"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Numbers 20 is a turning point in the wilderness story. Miriam dies and is buried at Kadesh. Soon after, the people gather against Moses and Aaron because there is no water. Moses strikes the rock, and water comes out for the congregation and their animals. Israel then asks Edom for passage, but Edom refuses and comes out in force, so Israel turns away. The chapter ends on Mount Hor. Aaron's garments are placed on Eleazar, Aaron dies there, and the whole congregation mourns him thirty days.",
+    "crossReferences": [
+      "numbers-15-red-heifer",
+      "Numbers 20",
+      "numbers-17-victories-east-of-jordan"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "numbers-15-red-heifer"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 20"
+      ],
+      "laterReferences": [
+        "numbers-17-victories-east-of-jordan"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Wilderness Journey",
+      "previousStory": "numbers-15-red-heifer",
+      "nextStory": null
+    },
+    "source": {
+      "id": "numbers-16-meribah-and-edom",
+      "reference": "Numbers 20",
+      "storyTitle": "Meribah, Edom, and the Death of Aaron",
+      "eventType": [
+        "Death",
+        "Water Crisis",
+        "Conflict",
+        "Travel",
+        "Leadership Transition"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Kadesh, Edom border, Mount Hor",
+        "modernRegion": "Southern wilderness / Edom region",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Miriam",
+          "Aaron",
+          "Eleazar",
+          "Israelites",
+          "king of Edom"
+        ],
+        "sceneScale": "National Wilderness Crisis",
+        "timeAnchor": "After red heifer instructions; before victories east of Jordan",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Leads Israel, strikes the rock, and requests passage through Edom",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "With Moses at Meribah and later dies on Mount Hor",
+          "relationships": []
+        },
+        {
+          "name": "Miriam",
+          "role": "Dies and is buried at Kadesh",
+          "relationships": []
+        },
+        {
+          "name": "Eleazar",
+          "role": "Receives Aaron's garments and succeeds him",
+          "relationships": []
+        },
+        {
+          "name": "King of Edom",
+          "role": "Refuses Israel passage through his territory",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Complain about lack of water and mourn Aaron",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Kadesh",
+          "modernRegion": "Southern Israel / Sinai-Negev region",
+          "description": "Place of Miriam's death and Meribah water crisis"
+        },
+        {
+          "ancientName": "Meribah",
+          "modernRegion": "Kadesh area",
+          "description": "Place named because of the water dispute"
+        },
+        {
+          "ancientName": "Edom",
+          "modernRegion": "Southern Jordan region",
+          "description": "Territory Israel asks to pass through"
+        },
+        {
+          "ancientName": "Mount Hor",
+          "modernRegion": "Near Edom; exact site debated",
+          "description": "Place where Aaron dies"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Kadesh",
+        "destination": "Mount Hor by Edom",
+        "route": [
+          "Miriam dies at Kadesh",
+          "The people lack water",
+          "Moses strikes the rock at Meribah",
+          "Israel asks Edom for passage",
+          "Edom refuses",
+          "Israel turns away",
+          "Aaron, Moses, and Eleazar ascend Mount Hor",
+          "Aaron dies and Eleazar receives his garments"
+        ],
+        "majorStops": [
+          "Kadesh",
+          "Meribah",
+          "Edom border",
+          "Mount Hor"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 19 gave red heifer purification instructions.",
+        "whatIsHappeningNow": "Miriam dies, Moses strikes the rock during the water crisis, Edom refuses passage, and Aaron dies on Mount Hor with Eleazar succeeding him.",
+        "whatHappensAfter": "Numbers 21 continues with conflict, the bronze serpent, and victories east of the Jordan.",
+        "storyPositionStrip": [
+          "Complaints",
+          "Spies",
+          "Wilderness Judgment",
+          "Korah",
+          "Meribah"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Israel is in the wilderness after leaving Egypt.",
+          "The Tabernacle remains central to camp organization.",
+          "The nation has not yet entered Canaan.",
+          "The kingdom and Temple do not yet exist."
+        ],
+        "geographicContext": [
+          "The setting alternates between wilderness camp locations, desert routes, and border regions.",
+          "Water sources, camp boundaries, and travel routes shape the visible scenes.",
+          "Many locations in this section are debated but belong to the wilderness journey south and east of Canaan."
+        ],
+        "dailyLifeContext": [
+          "Camp life involves tents, livestock, food needs, water needs, leadership structures, and public assemblies.",
+          "Large-scale travel requires ordered movement, supplies, and camp discipline.",
+          "Priests and Levites remain active around the Tent of Meeting."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This chapter records the deaths of Miriam and Aaron.",
+        "It explains why Moses and Aaron do not bring the assembly into the land.",
+        "It introduces Eleazar's succession to Aaron's priestly role.",
+        "It moves Israel from Kadesh toward Edom and Mount Hor."
+      ],
+      "stepIntoTheStory": [
+        "The chapter opens at Kadesh with death in the camp: Miriam dies and is buried there. The people then face a water crisis and gather against Moses and Aaron.",
+        "At Meribah, Moses strikes the rock and water comes out for the congregation and livestock. The scene is public, with people and animals needing water.",
+        "Israel then sends messengers to Edom, but Edom refuses passage and comes out with many people and a strong hand. The route turns, and Aaron dies on Mount Hor. Eleazar descends wearing Aaron's garments."
+      ],
+      "documentaryObservations": [
+        "Miriam buried at Kadesh.",
+        "A waterless camp gathering against Moses and Aaron.",
+        "Moses holding the staff before the assembly.",
+        "Water coming from the rock.",
+        "Livestock drinking with the people.",
+        "Messengers sent to Edom.",
+        "Edom coming out with many people and force.",
+        "Israel turning away from Edom.",
+        "Aaron climbing Mount Hor with Moses and Eleazar.",
+        "Eleazar descending in Aaron's garments.",
+        "Israel mourning Aaron thirty days."
+      ],
+      "audioScript": "Numbers 20 is a turning point in the wilderness story. Miriam dies and is buried at Kadesh. Soon after, the people gather against Moses and Aaron because there is no water. Moses strikes the rock, and water comes out for the congregation and their animals. Israel then asks Edom for passage, but Edom refuses and comes out in force, so Israel turns away. The chapter ends on Mount Hor. Aaron's garments are placed on Eleazar, Aaron dies there, and the whole congregation mourns him thirty days.",
+      "crossReferences": {
+        "earlierBackground": [
+          "numbers-15-red-heifer"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 20"
+        ],
+        "laterReferences": [
+          "numbers-17-victories-east-of-jordan"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Wilderness Journey",
+        "previousStory": "numbers-15-red-heifer",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Aaron",
+          "Miriam",
+          "Eleazar",
+          "King of Edom",
+          "Israelites"
+        ],
+        "places": [
+          "Kadesh",
+          "Meribah",
+          "Edom",
+          "Mount Hor"
+        ],
+        "events": [
+          "Meribah",
+          "Moses strikes rock",
+          "Miriam dies",
+          "Aaron dies",
+          "Edom refuses passage"
+        ],
+        "timelineEra": [
+          "Wilderness"
+        ],
+        "alternateNames": [
+          "Meribah",
+          "Moses strikes rock",
+          "Miriam dies",
+          "Aaron dies",
+          "Edom refuses passage"
+        ]
+      },
+      "realitySummary": "Meribah, Edom, and the Death of Aaron."
+    }
   }
 ]
