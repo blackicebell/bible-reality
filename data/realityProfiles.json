@@ -28286,5 +28286,2866 @@
       },
       "realitySummary": "Leviticus 15 gives instructions about bodily discharges, contact with beds, seats, vessels, washing, counting days, and offerings brought to the priest."
     }
+  },
+  {
+    "id": "leviticus-15-day-of-atonement",
+    "sourceFile": "leviticus-15-day-of-atonement.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Nadab and Abihu",
+      "Israelites",
+      "Tent of Meeting",
+      "Holy Place / inside the veil",
+      "Mercy seat",
+      "Altar",
+      "Wilderness",
+      "Nadab",
+      "Abihu",
+      "holy place",
+      "mercy seat",
+      "altar",
+      "wilderness",
+      "Day of Atonement",
+      "scapegoat",
+      "blood sprinkled",
+      "Aaron enters holy place",
+      "Sinai",
+      "Yom Kippur",
+      "atonement day",
+      "Leviticus 16",
+      "goat for Azazel",
+      "Instruction Received",
+      "Purification",
+      "Priestly Service",
+      "Annual Ritual",
+      "Instructions for the Day of Atonement",
+      "Leviticus 16 gives instructions for the annual Day of Atonement, including Aaron's restricted entry into the sanctuary, blood rites, altar purification, and the live goat sent into the wilderness."
+    ],
+    "title": "Instructions for the Day of Atonement",
+    "reference": "Leviticus 16",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Purification",
+      "Priestly Service",
+      "Annual Ritual"
+    ],
+    "summary": "Leviticus 16 gives instructions for the annual Day of Atonement, including Aaron's restricted entry into the sanctuary, blood rites, altar purification, and the live goat sent into the wilderness.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Aaron"
+      },
+      {
+        "label": "Location",
+        "value": "Tent of Meeting at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Sanctuary Purification"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Nadab and Abihu; after bodily discharge instructions; before holiness instructions; before Israel leaves Sinai"
+      }
+    ],
+    "situation": "The procedure uses linen garments, bathing, incense, blood, bulls, goats, and a ram.",
+    "storyPosition": [
+      "Nadab and Abihu",
+      "Purity Instructions",
+      "Day of Atonement",
+      "Blood and Slaughter Instructions",
+      "Holiness Instructions",
+      "Priestly Holiness"
+    ],
+    "currentStory": "Day of Atonement",
+    "stepIntoStory": "The scene begins with the memory of Nadab and Abihu's deaths still attached to the priestly setting. Aaron is not allowed to enter the inner sanctuary whenever he chooses.\n\nThe ritual movement is carefully staged. Aaron washes, changes into linen garments, brings animals forward, carries incense and blood inside the veil, and sprinkles blood near the ark.\n\nOutside the sanctuary, the live goat is presented before the people and then led away from the camp into the wilderness by a designated man.",
+    "notice": [
+      "Aaron washing before service.",
+      "Linen garments worn for the rite.",
+      "A bull, two goats, and rams brought forward.",
+      "Incense smoke filling the inner sanctuary space.",
+      "Blood carried inside the veil.",
+      "Blood sprinkled before the mercy seat.",
+      "Blood applied to the altar.",
+      "A live goat standing before the congregation.",
+      "A designated man leading the goat into the wilderness.",
+      "Garments changed and bodies washed before return."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 15 ended the purity instruction section concerning bodily discharges. Leviticus 16 returns to the earlier death of Nadab and Abihu."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given for Aaron's restricted entry into the sanctuary and for the annual Day of Atonement procedure involving offerings, blood, linen garments, incense, and the live goat."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 17 gives instructions about slaughter, blood, and eating."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The chapter is introduced after the death of Aaron's two sons."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It gives restricted procedures for entering the inner sanctuary space."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It establishes an annual rite for the sanctuary, priests, and congregation."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle is still the worship center; the later Jerusalem Temple does not exist yet."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting is the Israelite camp at Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The action moves from the courtyard into the inner sanctuary and then outside toward the wilderness."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The wilderness is part of the physical setting surrounding the camp."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The procedure uses linen garments, bathing, incense, blood, bulls, goats, and a ram."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A live goat is sent away by the hand of a designated man."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The person who releases the goat washes before returning to camp."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The day is marked as an annual observance with fasting/self-denial and no work."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This gives the annual sanctuary purification procedure in Leviticus.",
+      "It directly follows the earlier priestly deaths by regulating Aaron's entry into the holy place.",
+      "It connects priestly service, sanctuary space, the congregation, and the wilderness.",
+      "It becomes one of the central annual observances in the Leviticus structure."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses after the death of Aaron's two sons",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives instructions to speak to Aaron",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "High priestly figure who enters the holy place according to instruction",
+        "relationships": [
+          "Brother of Moses",
+          "father of Nadab, Abihu, Eleazar, and Ithamar"
+        ]
+      },
+      {
+        "name": "Nadab and Abihu",
+        "role": "Deaths referenced as immediate background",
+        "relationships": [
+          "Sons of Aaron"
+        ]
+      },
+      {
+        "name": "Israelites",
+        "role": "Congregation for whom the annual rite is performed",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Portable sanctuary in the Israelite camp"
+      },
+      {
+        "ancientName": "Holy Place / inside the veil",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Restricted sanctuary area entered only according to instruction"
+      },
+      {
+        "ancientName": "Mercy seat",
+        "modernRegion": "Inside the sanctuary",
+        "description": "Cover of the ark where blood is sprinkled"
+      },
+      {
+        "ancientName": "Altar",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place purified as part of the rite"
+      },
+      {
+        "ancientName": "Wilderness",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where the live goat is sent"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Nadab and Abihu",
+      "Israelites"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Holy Place / inside the veil",
+      "Mercy seat",
+      "Altar",
+      "Wilderness"
+    ],
+    "movement": [
+      "Aaron washes and puts on linen garments",
+      "Offerings are brought for Aaron and the people",
+      "Blood is taken inside the veil",
+      "Blood is sprinkled before the mercy seat",
+      "The altar is purified",
+      "One goat is sent away into the wilderness",
+      "Garments are changed and offerings are completed"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp and Tabernacle courtyard",
+      "destination": "Inside the veil and then wilderness",
+      "route": [
+        "Aaron washes and puts on linen garments",
+        "Offerings are brought for Aaron and the people",
+        "Blood is taken inside the veil",
+        "Blood is sprinkled before the mercy seat",
+        "The altar is purified",
+        "One goat is sent away into the wilderness",
+        "Garments are changed and offerings are completed"
+      ],
+      "majorStops": [
+        "Tabernacle courtyard",
+        "Inside the veil",
+        "Altar",
+        "Wilderness"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 16 returns to the priestly crisis created by the deaths of Nadab and Abihu. Aaron is given strict instructions for entering the holy place. The scene moves through the Tabernacle in stages: washing, linen garments, animals brought forward, incense carried inside the veil, and blood sprinkled near the ark. The altar is also purified. Then the focus shifts outside, where a live goat is sent away into the wilderness by a designated man. This chapter establishes an annual procedure involving the priest, the sanctuary, the congregation, and the camp itself.",
+    "crossReferences": [
+      "Leviticus 10:1-20",
+      "Leviticus 15:1-33",
+      "Leviticus 16:1-34",
+      "Leviticus 23:26-32",
+      "Numbers 29:7-11",
+      "Hebrews 9:1-12",
+      "Hebrews 10:1-4"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 10:1-20",
+        "Leviticus 15:1-33"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 16:1-34"
+      ],
+      "laterReferences": [
+        "Leviticus 23:26-32",
+        "Numbers 29:7-11"
+      ],
+      "newTestamentReferences": [
+        "Hebrews 9:1-12",
+        "Hebrews 10:1-4"
+      ]
+    },
+    "series": {
+      "character": "Aaron",
+      "arc": "Priestly Service at the Tabernacle",
+      "previousStory": "leviticus-14-bodily-discharges",
+      "nextStory": "leviticus-16-sacredness-of-blood"
+    },
+    "source": {
+      "id": "leviticus-15-day-of-atonement",
+      "reference": "Leviticus 16",
+      "storyTitle": "Instructions for the Day of Atonement",
+      "eventType": [
+        "Instruction Received",
+        "Purification",
+        "Priestly Service",
+        "Annual Ritual"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Aaron",
+        "approximateAge": null,
+        "currentLocation": "Tent of Meeting at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Israelites"
+        ],
+        "sceneScale": "National Sanctuary Purification",
+        "timeAnchor": "After Nadab and Abihu; after bodily discharge instructions; before holiness instructions; before Israel leaves Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses after the death of Aaron's two sons",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives instructions to speak to Aaron",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "High priestly figure who enters the holy place according to instruction",
+          "relationships": [
+            "Brother of Moses",
+            "father of Nadab, Abihu, Eleazar, and Ithamar"
+          ]
+        },
+        {
+          "name": "Nadab and Abihu",
+          "role": "Deaths referenced as immediate background",
+          "relationships": [
+            "Sons of Aaron"
+          ]
+        },
+        {
+          "name": "Israelites",
+          "role": "Congregation for whom the annual rite is performed",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Portable sanctuary in the Israelite camp"
+        },
+        {
+          "ancientName": "Holy Place / inside the veil",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Restricted sanctuary area entered only according to instruction"
+        },
+        {
+          "ancientName": "Mercy seat",
+          "modernRegion": "Inside the sanctuary",
+          "description": "Cover of the ark where blood is sprinkled"
+        },
+        {
+          "ancientName": "Altar",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place purified as part of the rite"
+        },
+        {
+          "ancientName": "Wilderness",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where the live goat is sent"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp and Tabernacle courtyard",
+        "destination": "Inside the veil and then wilderness",
+        "route": [
+          "Aaron washes and puts on linen garments",
+          "Offerings are brought for Aaron and the people",
+          "Blood is taken inside the veil",
+          "Blood is sprinkled before the mercy seat",
+          "The altar is purified",
+          "One goat is sent away into the wilderness",
+          "Garments are changed and offerings are completed"
+        ],
+        "majorStops": [
+          "Tabernacle courtyard",
+          "Inside the veil",
+          "Altar",
+          "Wilderness"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 15 ended the purity instruction section concerning bodily discharges. Leviticus 16 returns to the earlier death of Nadab and Abihu.",
+        "whatIsHappeningNow": "Instructions are given for Aaron's restricted entry into the sanctuary and for the annual Day of Atonement procedure involving offerings, blood, linen garments, incense, and the live goat.",
+        "whatHappensAfter": "Leviticus 17 gives instructions about slaughter, blood, and eating.",
+        "storyPositionStrip": [
+          "Nadab and Abihu",
+          "Purity Instructions",
+          "Day of Atonement ← YOU ARE HERE",
+          "Blood and Slaughter Instructions",
+          "Holiness Instructions",
+          "Priestly Holiness"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "The chapter is introduced after the death of Aaron's two sons.",
+          "It gives restricted procedures for entering the inner sanctuary space.",
+          "It establishes an annual rite for the sanctuary, priests, and congregation.",
+          "The Tabernacle is still the worship center; the later Jerusalem Temple does not exist yet."
+        ],
+        "geographicContext": [
+          "The setting is the Israelite camp at Sinai.",
+          "The action moves from the courtyard into the inner sanctuary and then outside toward the wilderness.",
+          "The wilderness is part of the physical setting surrounding the camp."
+        ],
+        "dailyLifeContext": [
+          "The procedure uses linen garments, bathing, incense, blood, bulls, goats, and a ram.",
+          "A live goat is sent away by the hand of a designated man.",
+          "The person who releases the goat washes before returning to camp.",
+          "The day is marked as an annual observance with fasting/self-denial and no work."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This gives the annual sanctuary purification procedure in Leviticus.",
+        "It directly follows the earlier priestly deaths by regulating Aaron's entry into the holy place.",
+        "It connects priestly service, sanctuary space, the congregation, and the wilderness.",
+        "It becomes one of the central annual observances in the Leviticus structure."
+      ],
+      "stepIntoTheStory": [
+        "The scene begins with the memory of Nadab and Abihu's deaths still attached to the priestly setting. Aaron is not allowed to enter the inner sanctuary whenever he chooses.",
+        "The ritual movement is carefully staged. Aaron washes, changes into linen garments, brings animals forward, carries incense and blood inside the veil, and sprinkles blood near the ark.",
+        "Outside the sanctuary, the live goat is presented before the people and then led away from the camp into the wilderness by a designated man."
+      ],
+      "documentaryObservations": [
+        "Aaron washing before service.",
+        "Linen garments worn for the rite.",
+        "A bull, two goats, and rams brought forward.",
+        "Incense smoke filling the inner sanctuary space.",
+        "Blood carried inside the veil.",
+        "Blood sprinkled before the mercy seat.",
+        "Blood applied to the altar.",
+        "A live goat standing before the congregation.",
+        "A designated man leading the goat into the wilderness.",
+        "Garments changed and bodies washed before return."
+      ],
+      "audioScript": "Leviticus 16 returns to the priestly crisis created by the deaths of Nadab and Abihu. Aaron is given strict instructions for entering the holy place. The scene moves through the Tabernacle in stages: washing, linen garments, animals brought forward, incense carried inside the veil, and blood sprinkled near the ark. The altar is also purified. Then the focus shifts outside, where a live goat is sent away into the wilderness by a designated man. This chapter establishes an annual procedure involving the priest, the sanctuary, the congregation, and the camp itself.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 10:1-20",
+          "Leviticus 15:1-33"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 16:1-34"
+        ],
+        "laterReferences": [
+          "Leviticus 23:26-32",
+          "Numbers 29:7-11"
+        ],
+        "newTestamentReferences": [
+          "Hebrews 9:1-12",
+          "Hebrews 10:1-4"
+        ]
+      },
+      "series": {
+        "character": "Aaron",
+        "arc": "Priestly Service at the Tabernacle",
+        "previousStory": "leviticus-14-bodily-discharges",
+        "nextStory": "leviticus-16-sacredness-of-blood"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron",
+          "Nadab",
+          "Abihu",
+          "Israelites"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "holy place",
+          "mercy seat",
+          "altar",
+          "wilderness"
+        ],
+        "events": [
+          "Day of Atonement",
+          "scapegoat",
+          "blood sprinkled",
+          "Aaron enters holy place"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Yom Kippur",
+          "atonement day",
+          "Leviticus 16",
+          "goat for Azazel"
+        ]
+      },
+      "realitySummary": "Leviticus 16 gives instructions for the annual Day of Atonement, including Aaron's restricted entry into the sanctuary, blood rites, altar purification, and the live goat sent into the wilderness."
+    }
+  },
+  {
+    "id": "leviticus-16-sacredness-of-blood",
+    "sourceFile": "leviticus-16-sacredness-of-blood.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Aaron and his sons",
+      "Israelites",
+      "Sojourner",
+      "Israelite camp",
+      "Outside the camp",
+      "Entrance of the Tent of Meeting",
+      "Altar of Yahweh",
+      "Aaron",
+      "Aaron's sons",
+      "sojourners",
+      "outside the camp",
+      "Tent of Meeting",
+      "altar",
+      "blood prohibition",
+      "slaughter instructions",
+      "sacrifice at Tent of Meeting",
+      "Wilderness",
+      "Sinai",
+      "sacredness of blood",
+      "Leviticus 17",
+      "blood laws",
+      "Instruction Received",
+      "Worship Activity",
+      "Food Instruction",
+      "Purity Instruction",
+      "Instructions About Slaughter, Sacrifice, and Blood",
+      "Leviticus 17 gives instructions about slaughter, offerings brought to the Tent of Meeting, blood prohibition, hunting, and animals that die naturally or are torn."
+    ],
+    "title": "Instructions About Slaughter, Sacrifice, and Blood",
+    "reference": "Leviticus 17",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Worship Activity",
+      "Food Instruction",
+      "Purity Instruction"
+    ],
+    "summary": "Leviticus 17 gives instructions about slaughter, offerings brought to the Tent of Meeting, blood prohibition, hunting, and animals that die naturally or are torn.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Camp-Wide Slaughter and Blood Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Day of Atonement instructions; before holiness instructions; before Israel leaves Sinai"
+      }
+    ],
+    "situation": "The chapter assumes domestic animals such as ox, lamb, and goat.",
+    "storyPosition": [
+      "Day of Atonement",
+      "Blood and Slaughter Instructions",
+      "Holiness Instructions",
+      "Penalties",
+      "Priestly Holiness"
+    ],
+    "currentStory": "Blood and Slaughter Instructions",
+    "stepIntoStory": "The scene reaches beyond the altar into the whole camp. Animals may be slaughtered in ordinary settings, but sacrificial activity is redirected toward the Tent of Meeting.\n\nA person with an ox, lamb, or goat must bring the animal to the sanctuary entrance when it is offered. The priest receives the blood and handles it at the altar.\n\nThe instructions also picture hunters in the field, blood poured out and covered with earth, and people washing after contact with animals that died or were torn.",
+    "notice": [
+      "Oxen, lambs, and goats in the camp.",
+      "Animals slaughtered in or outside the camp.",
+      "Movement toward the entrance of the Tent of Meeting.",
+      "Priests handling blood at the altar.",
+      "Fat burned on the altar.",
+      "Blood poured out and covered with earth after hunting.",
+      "A field setting where game is taken.",
+      "Animals found dead or torn by beasts.",
+      "Clothing washed after eating such animals.",
+      "Sojourners included in the camp instructions."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 16 gave instructions for the Day of Atonement and sanctuary purification."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given about slaughter location, offerings at the Tent of Meeting, prohibition of blood consumption, and handling animals that die naturally or are torn."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 18 begins instructions about prohibited sexual relations and practices of Egypt and Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This chapter follows the sanctuary purification instructions of Leviticus 16."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The instructions are given to Aaron, his sons, all Israel, and sojourners among them."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tent of Meeting remains the central location for offerings."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The chapter links ordinary slaughter, sacrifice, blood, and purity."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The scene is the Israelite wilderness camp at Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The instructions distinguish inside the camp, outside the camp, and the entrance of the Tent of Meeting."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The altar in the Tabernacle courtyard is the central place for blood and fat in sacrificial activity."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The chapter assumes domestic animals such as ox, lamb, and goat."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Slaughter could occur in the camp or outside it, but sacrificial slaughter is directed to the sanctuary."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Hunting and eating game are addressed through the instruction to pour out and cover blood."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "People who eat animals that die naturally or are torn must wash and remain unclean until evening."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This connects animal slaughter with the central sanctuary at Sinai.",
+      "It expands the instruction from priests to all Israelites and sojourners.",
+      "It explains blood handling outside formal altar rituals.",
+      "It prepares for the wider holiness instructions that follow."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates instructions to Aaron, his sons, and Israel",
+        "relationships": []
+      },
+      {
+        "name": "Aaron and his sons",
+        "role": "Priests connected to offerings at the Tent of Meeting",
+        "relationships": [
+          "Priestly family"
+        ]
+      },
+      {
+        "name": "Israelites",
+        "role": "Recipients of slaughter and blood instructions",
+        "relationships": []
+      },
+      {
+        "name": "Sojourner",
+        "role": "Non-Israelite resident included in the instructions",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Main community setting"
+      },
+      {
+        "ancientName": "Outside the camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where slaughter is restricted in relation to offerings"
+      },
+      {
+        "ancientName": "Entrance of the Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Required place for presenting offerings"
+      },
+      {
+        "ancientName": "Altar of Yahweh",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place where blood and fat are handled"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Aaron and his sons",
+      "Israelites",
+      "Sojourner"
+    ],
+    "places": [
+      "Israelite camp",
+      "Outside the camp",
+      "Entrance of the Tent of Meeting",
+      "Altar of Yahweh"
+    ],
+    "movement": [
+      "An animal is slaughtered in or outside the camp",
+      "The animal is to be brought to the entrance of the Tent of Meeting when treated as an offering",
+      "The priest handles the blood at the altar",
+      "Fat is burned",
+      "Blood consumption is prohibited"
+    ],
+    "movementDetails": {
+      "startingPoint": "Camp or outside the camp",
+      "destination": "Entrance of the Tent of Meeting",
+      "route": [
+        "An animal is slaughtered in or outside the camp",
+        "The animal is to be brought to the entrance of the Tent of Meeting when treated as an offering",
+        "The priest handles the blood at the altar",
+        "Fat is burned",
+        "Blood consumption is prohibited"
+      ],
+      "majorStops": [
+        "Camp",
+        "Outside camp",
+        "Entrance of Tent of Meeting",
+        "Altar"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 17 moves from the Day of Atonement to instructions for slaughter and blood. The setting is the entire Israelite camp, with special attention to the entrance of the Tent of Meeting. Animals such as oxen, lambs, and goats are not treated casually when offered; they are brought to the sanctuary, where the priest handles the blood and burns the fat. The chapter also addresses hunting. Blood from hunted animals is poured out and covered with earth. The instructions include Israelites and sojourners, showing how camp life, food, animals, and the altar are connected.",
+    "crossReferences": [
+      "Leviticus 16:1-34",
+      "Leviticus 17:1-16",
+      "Deuteronomy 12:15-28",
+      "Leviticus 19:26",
+      "Acts 15:20",
+      "Acts 15:29"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 16:1-34"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 17:1-16"
+      ],
+      "laterReferences": [
+        "Deuteronomy 12:15-28",
+        "Leviticus 19:26"
+      ],
+      "newTestamentReferences": [
+        "Acts 15:20",
+        "Acts 15:29"
+      ]
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Holiness Instructions at Sinai",
+      "previousStory": "leviticus-15-day-of-atonement",
+      "nextStory": "leviticus-17-holiness-code-part-1"
+    },
+    "source": {
+      "id": "leviticus-16-sacredness-of-blood",
+      "reference": "Leviticus 17",
+      "storyTitle": "Instructions About Slaughter, Sacrifice, and Blood",
+      "eventType": [
+        "Instruction Received",
+        "Worship Activity",
+        "Food Instruction",
+        "Purity Instruction"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Aaron",
+          "Aaron's sons",
+          "Israelites",
+          "sojourners"
+        ],
+        "sceneScale": "Camp-Wide Slaughter and Blood Instruction",
+        "timeAnchor": "After Day of Atonement instructions; before holiness instructions; before Israel leaves Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates instructions to Aaron, his sons, and Israel",
+          "relationships": []
+        },
+        {
+          "name": "Aaron and his sons",
+          "role": "Priests connected to offerings at the Tent of Meeting",
+          "relationships": [
+            "Priestly family"
+          ]
+        },
+        {
+          "name": "Israelites",
+          "role": "Recipients of slaughter and blood instructions",
+          "relationships": []
+        },
+        {
+          "name": "Sojourner",
+          "role": "Non-Israelite resident included in the instructions",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Main community setting"
+        },
+        {
+          "ancientName": "Outside the camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where slaughter is restricted in relation to offerings"
+        },
+        {
+          "ancientName": "Entrance of the Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Required place for presenting offerings"
+        },
+        {
+          "ancientName": "Altar of Yahweh",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place where blood and fat are handled"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Camp or outside the camp",
+        "destination": "Entrance of the Tent of Meeting",
+        "route": [
+          "An animal is slaughtered in or outside the camp",
+          "The animal is to be brought to the entrance of the Tent of Meeting when treated as an offering",
+          "The priest handles the blood at the altar",
+          "Fat is burned",
+          "Blood consumption is prohibited"
+        ],
+        "majorStops": [
+          "Camp",
+          "Outside camp",
+          "Entrance of Tent of Meeting",
+          "Altar"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 16 gave instructions for the Day of Atonement and sanctuary purification.",
+        "whatIsHappeningNow": "Instructions are given about slaughter location, offerings at the Tent of Meeting, prohibition of blood consumption, and handling animals that die naturally or are torn.",
+        "whatHappensAfter": "Leviticus 18 begins instructions about prohibited sexual relations and practices of Egypt and Canaan.",
+        "storyPositionStrip": [
+          "Day of Atonement",
+          "Blood and Slaughter Instructions ← YOU ARE HERE",
+          "Holiness Instructions",
+          "Penalties",
+          "Priestly Holiness"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This chapter follows the sanctuary purification instructions of Leviticus 16.",
+          "The instructions are given to Aaron, his sons, all Israel, and sojourners among them.",
+          "The Tent of Meeting remains the central location for offerings.",
+          "The chapter links ordinary slaughter, sacrifice, blood, and purity."
+        ],
+        "geographicContext": [
+          "The scene is the Israelite wilderness camp at Sinai.",
+          "The instructions distinguish inside the camp, outside the camp, and the entrance of the Tent of Meeting.",
+          "The altar in the Tabernacle courtyard is the central place for blood and fat in sacrificial activity."
+        ],
+        "dailyLifeContext": [
+          "The chapter assumes domestic animals such as ox, lamb, and goat.",
+          "Slaughter could occur in the camp or outside it, but sacrificial slaughter is directed to the sanctuary.",
+          "Hunting and eating game are addressed through the instruction to pour out and cover blood.",
+          "People who eat animals that die naturally or are torn must wash and remain unclean until evening."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This connects animal slaughter with the central sanctuary at Sinai.",
+        "It expands the instruction from priests to all Israelites and sojourners.",
+        "It explains blood handling outside formal altar rituals.",
+        "It prepares for the wider holiness instructions that follow."
+      ],
+      "stepIntoTheStory": [
+        "The scene reaches beyond the altar into the whole camp. Animals may be slaughtered in ordinary settings, but sacrificial activity is redirected toward the Tent of Meeting.",
+        "A person with an ox, lamb, or goat must bring the animal to the sanctuary entrance when it is offered. The priest receives the blood and handles it at the altar.",
+        "The instructions also picture hunters in the field, blood poured out and covered with earth, and people washing after contact with animals that died or were torn."
+      ],
+      "documentaryObservations": [
+        "Oxen, lambs, and goats in the camp.",
+        "Animals slaughtered in or outside the camp.",
+        "Movement toward the entrance of the Tent of Meeting.",
+        "Priests handling blood at the altar.",
+        "Fat burned on the altar.",
+        "Blood poured out and covered with earth after hunting.",
+        "A field setting where game is taken.",
+        "Animals found dead or torn by beasts.",
+        "Clothing washed after eating such animals.",
+        "Sojourners included in the camp instructions."
+      ],
+      "audioScript": "Leviticus 17 moves from the Day of Atonement to instructions for slaughter and blood. The setting is the entire Israelite camp, with special attention to the entrance of the Tent of Meeting. Animals such as oxen, lambs, and goats are not treated casually when offered; they are brought to the sanctuary, where the priest handles the blood and burns the fat. The chapter also addresses hunting. Blood from hunted animals is poured out and covered with earth. The instructions include Israelites and sojourners, showing how camp life, food, animals, and the altar are connected.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 16:1-34"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 17:1-16"
+        ],
+        "laterReferences": [
+          "Deuteronomy 12:15-28",
+          "Leviticus 19:26"
+        ],
+        "newTestamentReferences": [
+          "Acts 15:20",
+          "Acts 15:29"
+        ]
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Holiness Instructions at Sinai",
+        "previousStory": "leviticus-15-day-of-atonement",
+        "nextStory": "leviticus-17-holiness-code-part-1"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron",
+          "Aaron's sons",
+          "Israelites",
+          "sojourners"
+        ],
+        "places": [
+          "Israelite camp",
+          "outside the camp",
+          "Tent of Meeting",
+          "altar"
+        ],
+        "events": [
+          "blood prohibition",
+          "slaughter instructions",
+          "sacrifice at Tent of Meeting"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "sacredness of blood",
+          "Leviticus 17",
+          "blood laws"
+        ]
+      },
+      "realitySummary": "Leviticus 17 gives instructions about slaughter, offerings brought to the Tent of Meeting, blood prohibition, hunting, and animals that die naturally or are torn."
+    }
+  },
+  {
+    "id": "leviticus-17-holiness-code-part-1",
+    "sourceFile": "leviticus-17-holiness-code-part-1.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Egyptians",
+      "Canaanites",
+      "Egypt",
+      "Canaan",
+      "Israelite camp",
+      "Sinai",
+      "prohibited relations",
+      "holiness instructions",
+      "Egypt and Canaan practices",
+      "Wilderness",
+      "Leviticus 18",
+      "sexual boundaries",
+      "holiness code",
+      "Instruction Received",
+      "Holiness Instruction",
+      "Family Boundary Instruction",
+      "Instructions About Prohibited Sexual Relations",
+      "Leviticus 18 gives Israel instructions concerning prohibited sexual relations and household boundaries, framed between Egypt, where Israel lived, and Canaan, where Israel is going."
+    ],
+    "title": "Instructions About Prohibited Sexual Relations",
+    "reference": "Leviticus 18",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Holiness Instruction",
+      "Family Boundary Instruction"
+    ],
+    "summary": "Leviticus 18 gives Israel instructions concerning prohibited sexual relations and household boundaries, framed between Egypt, where Israel lived, and Canaan, where Israel is going.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Household Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After slaughter and blood instructions; before broader holiness laws; before Israel enters Canaan"
+      }
+    ],
+    "situation": "The instructions concern kinship relationships within households and extended families.",
+    "storyPosition": [
+      "Blood and Slaughter Instructions",
+      "Prohibited Relations",
+      "Community Holiness Instructions",
+      "Penalties",
+      "Priestly Holiness"
+    ],
+    "currentStory": "Prohibited Relations",
+    "stepIntoStory": "The scene is Sinai, but the instructions point in two directions. Behind Israel is Egypt; ahead is Canaan.\n\nThe focus moves inside the household. The chapter names family relationships and prohibited boundaries using the structure of ancient family life.\n\nNo journey occurs in the chapter itself, but the instruction stands at a turning point: Israel is no longer in Egypt and has not yet entered Canaan.",
+    "notice": [
+      "Israel camped at Sinai between Egypt and Canaan.",
+      "A national assembly receiving household boundary instructions.",
+      "Family relationships named in detail.",
+      "Egypt remembered as the land left behind.",
+      "Canaan named as the land ahead.",
+      "Household life treated as part of national order.",
+      "Instructions directed to all Israel.",
+      "The future land setting shaping present instruction."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 17 gave instructions about slaughter, sacrifice, and blood."
+      },
+      {
+        "label": "Now",
+        "value": "Israel is instructed not to follow the practices of Egypt or Canaan and receives a list of prohibited sexual relations and practices."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 19 broadens the instruction into community, worship, justice, agriculture, and neighbor-related commands."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This begins the major holiness instruction section commonly associated with Leviticus 18-20."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The passage looks backward to Egypt and forward to Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The instructions are addressed to Israel as a people before entering the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The chapter focuses on household and sexual boundaries."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Egypt is the land Israel has left."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan is the land Israel is moving toward."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Sinai is the present instruction setting between those two regions."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The instructions concern kinship relationships within households and extended families."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Family boundaries are named in terms of father, mother, sibling, grandchild, aunt, uncle, daughter-in-law, sister-in-law, and others."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The passage addresses household structure and social boundaries before settled life in Canaan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The laws are given to the whole people, not only priests."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This shifts Leviticus into household and land-focused holiness instructions.",
+      "It directly connects Israel's past in Egypt and future in Canaan.",
+      "It sets family boundary instructions before the people enter the land.",
+      "It introduces the wider holiness section that continues through Leviticus 20."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates instructions to Israel",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Recipients of instructions concerning household and sexual boundaries",
+        "relationships": []
+      },
+      {
+        "name": "Egyptians",
+        "role": "Former land population whose practices are referenced",
+        "relationships": []
+      },
+      {
+        "name": "Canaanites",
+        "role": "Future land population whose practices are referenced",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Egypt",
+        "modernRegion": "Egypt",
+        "description": "Land from which Israel came"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Levant region",
+        "description": "Land toward which Israel is going"
+      },
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Current wilderness setting where the instructions are received"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Egyptians",
+      "Canaanites"
+    ],
+    "places": [
+      "Egypt",
+      "Canaan",
+      "Israelite camp"
+    ],
+    "movement": [
+      "Israel has come out of Egypt",
+      "Israel is receiving instruction at Sinai",
+      "Israel is being prepared for life in Canaan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Egypt",
+      "destination": "Canaan",
+      "route": [
+        "Israel has come out of Egypt",
+        "Israel is receiving instruction at Sinai",
+        "Israel is being prepared for life in Canaan"
+      ],
+      "majorStops": [
+        "Egypt",
+        "Sinai",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 18 stands at Sinai, but it points backward and forward. Israel has left Egypt, and Canaan lies ahead. The chapter gives instructions about household and sexual boundaries, naming close family relationships in detail. The focus is not altar ritual now, but family structure and future life in the land. The people are told not to follow the practices of Egypt, where they lived, or Canaan, where they are going. The scene is a wilderness camp receiving instructions for life beyond the wilderness.",
+    "crossReferences": [
+      "Leviticus 17:1-16",
+      "Leviticus 18:1-30",
+      "Leviticus 20:10-21",
+      "Deuteronomy 27:20-23",
+      "1 Corinthians 5:1"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 17:1-16"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 18:1-30"
+      ],
+      "laterReferences": [
+        "Leviticus 20:10-21",
+        "Deuteronomy 27:20-23"
+      ],
+      "newTestamentReferences": [
+        "1 Corinthians 5:1"
+      ]
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Holiness Instructions at Sinai",
+      "previousStory": "leviticus-16-sacredness-of-blood",
+      "nextStory": "leviticus-18-holiness-code-part-2"
+    },
+    "source": {
+      "id": "leviticus-17-holiness-code-part-1",
+      "reference": "Leviticus 18",
+      "storyTitle": "Instructions About Prohibited Sexual Relations",
+      "eventType": [
+        "Instruction Received",
+        "Holiness Instruction",
+        "Family Boundary Instruction"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Household Instruction",
+        "timeAnchor": "After slaughter and blood instructions; before broader holiness laws; before Israel enters Canaan",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates instructions to Israel",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Recipients of instructions concerning household and sexual boundaries",
+          "relationships": []
+        },
+        {
+          "name": "Egyptians",
+          "role": "Former land population whose practices are referenced",
+          "relationships": []
+        },
+        {
+          "name": "Canaanites",
+          "role": "Future land population whose practices are referenced",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Egypt",
+          "modernRegion": "Egypt",
+          "description": "Land from which Israel came"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Levant region",
+          "description": "Land toward which Israel is going"
+        },
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Current wilderness setting where the instructions are received"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Egypt",
+        "destination": "Canaan",
+        "route": [
+          "Israel has come out of Egypt",
+          "Israel is receiving instruction at Sinai",
+          "Israel is being prepared for life in Canaan"
+        ],
+        "majorStops": [
+          "Egypt",
+          "Sinai",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 17 gave instructions about slaughter, sacrifice, and blood.",
+        "whatIsHappeningNow": "Israel is instructed not to follow the practices of Egypt or Canaan and receives a list of prohibited sexual relations and practices.",
+        "whatHappensAfter": "Leviticus 19 broadens the instruction into community, worship, justice, agriculture, and neighbor-related commands.",
+        "storyPositionStrip": [
+          "Blood and Slaughter Instructions",
+          "Prohibited Relations ← YOU ARE HERE",
+          "Community Holiness Instructions",
+          "Penalties",
+          "Priestly Holiness"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This begins the major holiness instruction section commonly associated with Leviticus 18-20.",
+          "The passage looks backward to Egypt and forward to Canaan.",
+          "The instructions are addressed to Israel as a people before entering the land.",
+          "The chapter focuses on household and sexual boundaries."
+        ],
+        "geographicContext": [
+          "Egypt is the land Israel has left.",
+          "Canaan is the land Israel is moving toward.",
+          "Sinai is the present instruction setting between those two regions."
+        ],
+        "dailyLifeContext": [
+          "The instructions concern kinship relationships within households and extended families.",
+          "Family boundaries are named in terms of father, mother, sibling, grandchild, aunt, uncle, daughter-in-law, sister-in-law, and others.",
+          "The passage addresses household structure and social boundaries before settled life in Canaan.",
+          "The laws are given to the whole people, not only priests."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This shifts Leviticus into household and land-focused holiness instructions.",
+        "It directly connects Israel's past in Egypt and future in Canaan.",
+        "It sets family boundary instructions before the people enter the land.",
+        "It introduces the wider holiness section that continues through Leviticus 20."
+      ],
+      "stepIntoTheStory": [
+        "The scene is Sinai, but the instructions point in two directions. Behind Israel is Egypt; ahead is Canaan.",
+        "The focus moves inside the household. The chapter names family relationships and prohibited boundaries using the structure of ancient family life.",
+        "No journey occurs in the chapter itself, but the instruction stands at a turning point: Israel is no longer in Egypt and has not yet entered Canaan."
+      ],
+      "documentaryObservations": [
+        "Israel camped at Sinai between Egypt and Canaan.",
+        "A national assembly receiving household boundary instructions.",
+        "Family relationships named in detail.",
+        "Egypt remembered as the land left behind.",
+        "Canaan named as the land ahead.",
+        "Household life treated as part of national order.",
+        "Instructions directed to all Israel.",
+        "The future land setting shaping present instruction."
+      ],
+      "audioScript": "Leviticus 18 stands at Sinai, but it points backward and forward. Israel has left Egypt, and Canaan lies ahead. The chapter gives instructions about household and sexual boundaries, naming close family relationships in detail. The focus is not altar ritual now, but family structure and future life in the land. The people are told not to follow the practices of Egypt, where they lived, or Canaan, where they are going. The scene is a wilderness camp receiving instructions for life beyond the wilderness.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 17:1-16"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 18:1-30"
+        ],
+        "laterReferences": [
+          "Leviticus 20:10-21",
+          "Deuteronomy 27:20-23"
+        ],
+        "newTestamentReferences": [
+          "1 Corinthians 5:1"
+        ]
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Holiness Instructions at Sinai",
+        "previousStory": "leviticus-16-sacredness-of-blood",
+        "nextStory": "leviticus-18-holiness-code-part-2"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Israelites",
+          "Egyptians",
+          "Canaanites"
+        ],
+        "places": [
+          "Egypt",
+          "Canaan",
+          "Sinai",
+          "Israelite camp"
+        ],
+        "events": [
+          "prohibited relations",
+          "holiness instructions",
+          "Egypt and Canaan practices"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Leviticus 18",
+          "sexual boundaries",
+          "holiness code"
+        ]
+      },
+      "realitySummary": "Leviticus 18 gives Israel instructions concerning prohibited sexual relations and household boundaries, framed between Egypt, where Israel lived, and Canaan, where Israel is going."
+    }
+  },
+  {
+    "id": "leviticus-18-holiness-code-part-2",
+    "sourceFile": "leviticus-18-holiness-code-part-2.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Congregation of Israel",
+      "Poor person",
+      "Sojourner",
+      "Neighbor",
+      "Israelite camp",
+      "Field",
+      "Vineyard",
+      "Gate/court setting",
+      "congregation of Israel",
+      "poor",
+      "sojourner",
+      "neighbor",
+      "field",
+      "vineyard",
+      "future land",
+      "community holiness",
+      "gleaning",
+      "honest weights",
+      "neighbor laws",
+      "Wilderness",
+      "Sinai",
+      "Leviticus 19",
+      "love your neighbor",
+      "holiness code community laws",
+      "Instruction Received",
+      "Community Instruction",
+      "Worship Instruction",
+      "Justice Instruction",
+      "Instructions for Holy Community Life",
+      "Leviticus 19 gives broad community instructions involving worship, family, agriculture, justice, wages, sojourners, personal conduct, and honest measures."
+    ],
+    "title": "Instructions for Holy Community Life",
+    "reference": "Leviticus 19",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Community Instruction",
+      "Worship Instruction",
+      "Justice Instruction"
+    ],
+    "summary": "Leviticus 19 gives broad community instructions involving worship, family, agriculture, justice, wages, sojourners, personal conduct, and honest measures.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Community Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After prohibited relation instructions; before penalties in Leviticus 20; before Israel enters Canaan"
+      }
+    ],
+    "situation": "The chapter names fields, vineyards, wages, scales, weights, measures, clothing, livestock, tattoos/cuttings, hair, and fruit trees.",
+    "storyPosition": [
+      "Prohibited Relations",
+      "Community Holiness Instructions",
+      "Penalties and Holiness",
+      "Priestly Holiness",
+      "Appointed Times"
+    ],
+    "currentStory": "Community Holiness Instructions",
+    "stepIntoStory": "The scene is a whole congregation receiving instruction. The focus is no longer only priests at the altar, but every household in Israel.\n\nThe chapter's world is visual and practical: fields with corners left unharvested, vineyards with fallen grapes, workers waiting for wages, judges hearing cases, merchants using weights and measures.\n\nThe instructions also reach into personal appearance, family respect, Sabbath keeping, worship practices, treatment of sojourners, and care in daily dealings.",
+    "notice": [
+      "The congregation gathered to receive instruction.",
+      "Field corners left for the poor and sojourner.",
+      "Grapes left behind in vineyards.",
+      "Hired workers waiting for wages.",
+      "Judges deciding without partiality.",
+      "Merchants using weights and measures.",
+      "Fruit trees in future land settings.",
+      "Livestock and seed categories mentioned.",
+      "Clothing and body practices addressed.",
+      "Sojourners living among Israelite households."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 18 gave instructions concerning prohibited sexual relations and practices associated with Egypt and Canaan."
+      },
+      {
+        "label": "Now",
+        "value": "Moses is told to speak to all the congregation of Israel. Instructions are given concerning parents, Sabbaths, idols, offerings, gleaning, theft, justice, wages, disability, slander, vengeance, mixtures, trees, blood, divination, hair, body markings, prostitution, sanctuary reverence, sojourners, and honest measures."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 20 gives penalties for certain violations and continues holiness instructions."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This chapter is addressed to all the congregation of Israel."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It broadens holiness instruction beyond the sanctuary into agriculture, justice, labor, family, worship, and treatment of others."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The instructions anticipate settled agricultural life as well as current camp life."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The chapter continues the holiness section begun in Leviticus 18."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The instruction is given at Sinai, but many examples point forward to life in the land."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Fields and vineyards are future agricultural settings for Israel."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Community judgment and marketplace dealings are part of the social world envisioned."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The chapter names fields, vineyards, wages, scales, weights, measures, clothing, livestock, tattoos/cuttings, hair, and fruit trees."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Gleaning instructions assume harvest activity and agricultural edges."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Justice instructions involve courts, neighbors, hired workers, and sojourners."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Honest weights and measures point to trade and market exchange."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is one of the broadest community instruction chapters in Leviticus.",
+      "It connects holiness with ordinary life, not only priestly ritual.",
+      "It anticipates Israel's future agricultural, legal, and social life in the land.",
+      "It stands between sexual boundary instructions and the penalty instructions of Leviticus 20."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Speaks instructions to all the congregation of Israel",
+        "relationships": []
+      },
+      {
+        "name": "Congregation of Israel",
+        "role": "Recipients of community, worship, justice, and daily life instructions",
+        "relationships": []
+      },
+      {
+        "name": "Poor person",
+        "role": "Named in gleaning instructions",
+        "relationships": []
+      },
+      {
+        "name": "Sojourner",
+        "role": "Named in gleaning, justice, and treatment instructions",
+        "relationships": []
+      },
+      {
+        "name": "Neighbor",
+        "role": "Named in interpersonal instructions",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Current setting where the congregation receives instruction"
+      },
+      {
+        "ancientName": "Field",
+        "modernRegion": "Future agricultural land setting",
+        "description": "Place where gleaning instructions apply"
+      },
+      {
+        "ancientName": "Vineyard",
+        "modernRegion": "Future agricultural land setting",
+        "description": "Place where gleaning instructions apply"
+      },
+      {
+        "ancientName": "Gate/court setting",
+        "modernRegion": "Community setting",
+        "description": "Implied space for judgment and honest dealings"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Congregation of Israel",
+      "Poor person",
+      "Sojourner",
+      "Neighbor"
+    ],
+    "places": [
+      "Israelite camp",
+      "Field",
+      "Vineyard",
+      "Gate/court setting"
+    ],
+    "movement": [],
+    "movementDetails": {
+      "startingPoint": null,
+      "destination": null,
+      "route": [],
+      "majorStops": []
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 19 widens the lens to the whole community. Moses is told to speak to all the congregation of Israel. The instructions reach into daily life: parents, Sabbaths, idols, offerings, fields, vineyards, wages, justice, neighbors, sojourners, fruit trees, clothing, body practices, and honest measures. A listener can picture future fields with unharvested corners, vineyards with grapes left behind, workers receiving wages, and merchants using weights and measures. The chapter shows Israel receiving instructions not only for the altar, but for everyday community life.",
+    "crossReferences": [
+      "Leviticus 18:1-30",
+      "Leviticus 19:1-37",
+      "Leviticus 20:1-27",
+      "Deuteronomy 24:14-22",
+      "Matthew 22:39",
+      "Mark 12:31",
+      "James 2:8"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 18:1-30"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 19:1-37"
+      ],
+      "laterReferences": [
+        "Leviticus 20:1-27",
+        "Deuteronomy 24:14-22"
+      ],
+      "newTestamentReferences": [
+        "Matthew 22:39",
+        "Mark 12:31",
+        "James 2:8"
+      ]
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Holiness Instructions at Sinai",
+      "previousStory": "leviticus-17-holiness-code-part-1",
+      "nextStory": "leviticus-19-penalties-and-holiness"
+    },
+    "source": {
+      "id": "leviticus-18-holiness-code-part-2",
+      "reference": "Leviticus 19",
+      "storyTitle": "Instructions for Holy Community Life",
+      "eventType": [
+        "Instruction Received",
+        "Community Instruction",
+        "Worship Instruction",
+        "Justice Instruction"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Congregation of Israel"
+        ],
+        "sceneScale": "National Community Instruction",
+        "timeAnchor": "After prohibited relation instructions; before penalties in Leviticus 20; before Israel enters Canaan",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Speaks instructions to all the congregation of Israel",
+          "relationships": []
+        },
+        {
+          "name": "Congregation of Israel",
+          "role": "Recipients of community, worship, justice, and daily life instructions",
+          "relationships": []
+        },
+        {
+          "name": "Poor person",
+          "role": "Named in gleaning instructions",
+          "relationships": []
+        },
+        {
+          "name": "Sojourner",
+          "role": "Named in gleaning, justice, and treatment instructions",
+          "relationships": []
+        },
+        {
+          "name": "Neighbor",
+          "role": "Named in interpersonal instructions",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Current setting where the congregation receives instruction"
+        },
+        {
+          "ancientName": "Field",
+          "modernRegion": "Future agricultural land setting",
+          "description": "Place where gleaning instructions apply"
+        },
+        {
+          "ancientName": "Vineyard",
+          "modernRegion": "Future agricultural land setting",
+          "description": "Place where gleaning instructions apply"
+        },
+        {
+          "ancientName": "Gate/court setting",
+          "modernRegion": "Community setting",
+          "description": "Implied space for judgment and honest dealings"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": null,
+        "destination": null,
+        "route": [],
+        "majorStops": []
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 18 gave instructions concerning prohibited sexual relations and practices associated with Egypt and Canaan.",
+        "whatIsHappeningNow": "Moses is told to speak to all the congregation of Israel. Instructions are given concerning parents, Sabbaths, idols, offerings, gleaning, theft, justice, wages, disability, slander, vengeance, mixtures, trees, blood, divination, hair, body markings, prostitution, sanctuary reverence, sojourners, and honest measures.",
+        "whatHappensAfter": "Leviticus 20 gives penalties for certain violations and continues holiness instructions.",
+        "storyPositionStrip": [
+          "Prohibited Relations",
+          "Community Holiness Instructions ← YOU ARE HERE",
+          "Penalties and Holiness",
+          "Priestly Holiness",
+          "Appointed Times"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This chapter is addressed to all the congregation of Israel.",
+          "It broadens holiness instruction beyond the sanctuary into agriculture, justice, labor, family, worship, and treatment of others.",
+          "The instructions anticipate settled agricultural life as well as current camp life.",
+          "The chapter continues the holiness section begun in Leviticus 18."
+        ],
+        "geographicContext": [
+          "The instruction is given at Sinai, but many examples point forward to life in the land.",
+          "Fields and vineyards are future agricultural settings for Israel.",
+          "Community judgment and marketplace dealings are part of the social world envisioned."
+        ],
+        "dailyLifeContext": [
+          "The chapter names fields, vineyards, wages, scales, weights, measures, clothing, livestock, tattoos/cuttings, hair, and fruit trees.",
+          "Gleaning instructions assume harvest activity and agricultural edges.",
+          "Justice instructions involve courts, neighbors, hired workers, and sojourners.",
+          "Honest weights and measures point to trade and market exchange."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is one of the broadest community instruction chapters in Leviticus.",
+        "It connects holiness with ordinary life, not only priestly ritual.",
+        "It anticipates Israel's future agricultural, legal, and social life in the land.",
+        "It stands between sexual boundary instructions and the penalty instructions of Leviticus 20."
+      ],
+      "stepIntoTheStory": [
+        "The scene is a whole congregation receiving instruction. The focus is no longer only priests at the altar, but every household in Israel.",
+        "The chapter's world is visual and practical: fields with corners left unharvested, vineyards with fallen grapes, workers waiting for wages, judges hearing cases, merchants using weights and measures.",
+        "The instructions also reach into personal appearance, family respect, Sabbath keeping, worship practices, treatment of sojourners, and care in daily dealings."
+      ],
+      "documentaryObservations": [
+        "The congregation gathered to receive instruction.",
+        "Field corners left for the poor and sojourner.",
+        "Grapes left behind in vineyards.",
+        "Hired workers waiting for wages.",
+        "Judges deciding without partiality.",
+        "Merchants using weights and measures.",
+        "Fruit trees in future land settings.",
+        "Livestock and seed categories mentioned.",
+        "Clothing and body practices addressed.",
+        "Sojourners living among Israelite households."
+      ],
+      "audioScript": "Leviticus 19 widens the lens to the whole community. Moses is told to speak to all the congregation of Israel. The instructions reach into daily life: parents, Sabbaths, idols, offerings, fields, vineyards, wages, justice, neighbors, sojourners, fruit trees, clothing, body practices, and honest measures. A listener can picture future fields with unharvested corners, vineyards with grapes left behind, workers receiving wages, and merchants using weights and measures. The chapter shows Israel receiving instructions not only for the altar, but for everyday community life.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 18:1-30"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 19:1-37"
+        ],
+        "laterReferences": [
+          "Leviticus 20:1-27",
+          "Deuteronomy 24:14-22"
+        ],
+        "newTestamentReferences": [
+          "Matthew 22:39",
+          "Mark 12:31",
+          "James 2:8"
+        ]
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Holiness Instructions at Sinai",
+        "previousStory": "leviticus-17-holiness-code-part-1",
+        "nextStory": "leviticus-19-penalties-and-holiness"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "congregation of Israel",
+          "poor",
+          "sojourner",
+          "neighbor"
+        ],
+        "places": [
+          "Israelite camp",
+          "field",
+          "vineyard",
+          "future land"
+        ],
+        "events": [
+          "community holiness",
+          "gleaning",
+          "honest weights",
+          "neighbor laws"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Leviticus 19",
+          "love your neighbor",
+          "holiness code community laws"
+        ]
+      },
+      "realitySummary": "Leviticus 19 gives broad community instructions involving worship, family, agriculture, justice, wages, sojourners, personal conduct, and honest measures."
+    }
+  },
+  {
+    "id": "leviticus-19-penalties-and-holiness",
+    "sourceFile": "leviticus-19-penalties-and-holiness.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Sojourner",
+      "Canaanite nations",
+      "Israelite camp",
+      "Canaan",
+      "Egypt",
+      "sojourner",
+      "Canaanites",
+      "Sinai",
+      "penalties",
+      "holiness instructions",
+      "Molech",
+      "community judgment",
+      "Wilderness",
+      "Leviticus 20",
+      "holiness penalties",
+      "penalty laws",
+      "Instruction Received",
+      "Judgment Instruction",
+      "Community Boundary Instruction",
+      "Penalties and Holiness Instructions for Israel",
+      "Leviticus 20 gives penalty and holiness instructions for Israel, framing community boundaries before life in Canaan and preparing for priest-specific instructions."
+    ],
+    "title": "Penalties and Holiness Instructions for Israel",
+    "reference": "Leviticus 20",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Judgment Instruction",
+      "Community Boundary Instruction"
+    ],
+    "summary": "Leviticus 20 gives penalty and holiness instructions for Israel, framing community boundaries before life in Canaan and preparing for priest-specific instructions.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Legal Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After community holiness instructions; before priestly holiness instructions; before Israel enters Canaan"
+      }
+    ],
+    "situation": "The instructions involve household relations, worship practices, community enforcement, and social boundaries.",
+    "storyPosition": [
+      "Community Holiness Instructions",
+      "Penalties and Holiness",
+      "Priestly Holiness",
+      "Appointed Times",
+      "Sabbatical and Jubilee"
+    ],
+    "currentStory": "Penalties and Holiness",
+    "stepIntoStory": "The setting remains Sinai, but the chapter looks toward Canaan. Israel is being prepared for life among existing nations in the land.\n\nThe instructions are legal and communal. They assume households, worship choices, family relationships, witnesses, and community enforcement.\n\nThe chapter is not a travel scene, but it stands in the larger journey from Egypt to Canaan, defining boundaries before Israel reaches the land.",
+    "notice": [
+      "Israel receiving legal instructions in the wilderness camp.",
+      "Canaan named as the future land setting.",
+      "Community enforcement implied by penalties.",
+      "Households and family relationships addressed.",
+      "Sojourners included in some instructions.",
+      "Clean and unclean animals recalled.",
+      "Practices of surrounding nations referenced.",
+      "Israel positioned between Egypt and Canaan.",
+      "Legal boundaries given before settlement."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 19 gave broad instructions for community life, worship, justice, agriculture, and treatment of others."
+      },
+      {
+        "label": "Now",
+        "value": "Penalties are given for Molech worship, occult practices, dishonoring parents, adultery, prohibited sexual relations, and other violations. Israel is told to distinguish between clean and unclean animals and to remain separate from the practices of the nations."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 21-22 gives instructions specifically for priests, priestly households, offerings, and priestly holiness."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This chapter continues the holiness section after Leviticus 18-19."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It gives penalties corresponding to several prohibited practices."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It looks ahead to Israel's life in Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It prepares for the next section focused specifically on priests."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The current instruction setting is Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Canaan is the future land setting repeatedly referenced."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The chapter frames Israel between the land left behind and the land ahead."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The instructions involve household relations, worship practices, community enforcement, and social boundaries."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The chapter includes both Israelites and sojourners in certain cases."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Community judgment is assumed through penalties."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Clean and unclean animal distinctions are recalled from Leviticus 11."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This chapter gives enforcement instructions within the holiness section.",
+      "It links Israel's conduct to future life in Canaan.",
+      "It revisits several issues already named in Leviticus 18-19 but now gives penalties.",
+      "It transitions from general community holiness to priest-specific holiness in Leviticus 21-22."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives penalty and holiness instructions to Moses",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates the instructions",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Recipients of the instructions",
+        "relationships": []
+      },
+      {
+        "name": "Sojourner",
+        "role": "Included in some community penalty instructions",
+        "relationships": []
+      },
+      {
+        "name": "Canaanite nations",
+        "role": "Peoples in the land whose practices are referenced",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Current setting where instructions are received"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Levant region",
+        "description": "Land into which Israel is being brought"
+      },
+      {
+        "ancientName": "Egypt",
+        "modernRegion": "Egypt",
+        "description": "Land from which Israel was separated"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Sojourner",
+      "Canaanite nations"
+    ],
+    "places": [
+      "Israelite camp",
+      "Canaan",
+      "Egypt"
+    ],
+    "movement": [
+      "Israel has been separated from peoples",
+      "Israel receives instructions at Sinai",
+      "Israel is being brought into the land"
+    ],
+    "movementDetails": {
+      "startingPoint": "Egypt",
+      "destination": "Canaan",
+      "route": [
+        "Israel has been separated from peoples",
+        "Israel receives instructions at Sinai",
+        "Israel is being brought into the land"
+      ],
+      "majorStops": [
+        "Egypt",
+        "Sinai",
+        "Canaan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 20 continues the holiness instructions, but now with penalties. The setting is still the wilderness camp at Sinai, while the future land of Canaan remains in view. The chapter addresses worship practices, family relationships, sexual violations, occult practices, and community enforcement. It also recalls the distinction between clean and unclean animals. The scene is not a single event at the altar, but a national legal instruction given before Israel enters the land. It prepares the narrative to move from the whole community to the priests in the next section.",
+    "crossReferences": [
+      "Leviticus 18:1-30",
+      "Leviticus 19:1-37",
+      "Leviticus 20:1-27",
+      "Deuteronomy 18:9-14",
+      "Deuteronomy 27:15-26"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 18:1-30",
+        "Leviticus 19:1-37"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 20:1-27"
+      ],
+      "laterReferences": [
+        "Deuteronomy 18:9-14",
+        "Deuteronomy 27:15-26"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Holiness Instructions at Sinai",
+      "previousStory": "leviticus-18-holiness-code-part-2",
+      "nextStory": "leviticus-20-priestly-holiness"
+    },
+    "source": {
+      "id": "leviticus-19-penalties-and-holiness",
+      "reference": "Leviticus 20",
+      "storyTitle": "Penalties and Holiness Instructions for Israel",
+      "eventType": [
+        "Instruction Received",
+        "Judgment Instruction",
+        "Community Boundary Instruction"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Legal Instruction",
+        "timeAnchor": "After community holiness instructions; before priestly holiness instructions; before Israel enters Canaan",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives penalty and holiness instructions to Moses",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates the instructions",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Recipients of the instructions",
+          "relationships": []
+        },
+        {
+          "name": "Sojourner",
+          "role": "Included in some community penalty instructions",
+          "relationships": []
+        },
+        {
+          "name": "Canaanite nations",
+          "role": "Peoples in the land whose practices are referenced",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Current setting where instructions are received"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Levant region",
+          "description": "Land into which Israel is being brought"
+        },
+        {
+          "ancientName": "Egypt",
+          "modernRegion": "Egypt",
+          "description": "Land from which Israel was separated"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Egypt",
+        "destination": "Canaan",
+        "route": [
+          "Israel has been separated from peoples",
+          "Israel receives instructions at Sinai",
+          "Israel is being brought into the land"
+        ],
+        "majorStops": [
+          "Egypt",
+          "Sinai",
+          "Canaan"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 19 gave broad instructions for community life, worship, justice, agriculture, and treatment of others.",
+        "whatIsHappeningNow": "Penalties are given for Molech worship, occult practices, dishonoring parents, adultery, prohibited sexual relations, and other violations. Israel is told to distinguish between clean and unclean animals and to remain separate from the practices of the nations.",
+        "whatHappensAfter": "Leviticus 21-22 gives instructions specifically for priests, priestly households, offerings, and priestly holiness.",
+        "storyPositionStrip": [
+          "Community Holiness Instructions",
+          "Penalties and Holiness ← YOU ARE HERE",
+          "Priestly Holiness",
+          "Appointed Times",
+          "Sabbatical and Jubilee"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This chapter continues the holiness section after Leviticus 18-19.",
+          "It gives penalties corresponding to several prohibited practices.",
+          "It looks ahead to Israel's life in Canaan.",
+          "It prepares for the next section focused specifically on priests."
+        ],
+        "geographicContext": [
+          "The current instruction setting is Sinai.",
+          "Canaan is the future land setting repeatedly referenced.",
+          "The chapter frames Israel between the land left behind and the land ahead."
+        ],
+        "dailyLifeContext": [
+          "The instructions involve household relations, worship practices, community enforcement, and social boundaries.",
+          "The chapter includes both Israelites and sojourners in certain cases.",
+          "Community judgment is assumed through penalties.",
+          "Clean and unclean animal distinctions are recalled from Leviticus 11."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This chapter gives enforcement instructions within the holiness section.",
+        "It links Israel's conduct to future life in Canaan.",
+        "It revisits several issues already named in Leviticus 18-19 but now gives penalties.",
+        "It transitions from general community holiness to priest-specific holiness in Leviticus 21-22."
+      ],
+      "stepIntoTheStory": [
+        "The setting remains Sinai, but the chapter looks toward Canaan. Israel is being prepared for life among existing nations in the land.",
+        "The instructions are legal and communal. They assume households, worship choices, family relationships, witnesses, and community enforcement.",
+        "The chapter is not a travel scene, but it stands in the larger journey from Egypt to Canaan, defining boundaries before Israel reaches the land."
+      ],
+      "documentaryObservations": [
+        "Israel receiving legal instructions in the wilderness camp.",
+        "Canaan named as the future land setting.",
+        "Community enforcement implied by penalties.",
+        "Households and family relationships addressed.",
+        "Sojourners included in some instructions.",
+        "Clean and unclean animals recalled.",
+        "Practices of surrounding nations referenced.",
+        "Israel positioned between Egypt and Canaan.",
+        "Legal boundaries given before settlement."
+      ],
+      "audioScript": "Leviticus 20 continues the holiness instructions, but now with penalties. The setting is still the wilderness camp at Sinai, while the future land of Canaan remains in view. The chapter addresses worship practices, family relationships, sexual violations, occult practices, and community enforcement. It also recalls the distinction between clean and unclean animals. The scene is not a single event at the altar, but a national legal instruction given before Israel enters the land. It prepares the narrative to move from the whole community to the priests in the next section.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 18:1-30",
+          "Leviticus 19:1-37"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 20:1-27"
+        ],
+        "laterReferences": [
+          "Deuteronomy 18:9-14",
+          "Deuteronomy 27:15-26"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Holiness Instructions at Sinai",
+        "previousStory": "leviticus-18-holiness-code-part-2",
+        "nextStory": "leviticus-20-priestly-holiness"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Israelites",
+          "sojourner",
+          "Canaanites"
+        ],
+        "places": [
+          "Israelite camp",
+          "Sinai",
+          "Canaan",
+          "Egypt"
+        ],
+        "events": [
+          "penalties",
+          "holiness instructions",
+          "Molech",
+          "community judgment"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Leviticus 20",
+          "holiness penalties",
+          "penalty laws"
+        ]
+      },
+      "realitySummary": "Leviticus 20 gives penalty and holiness instructions for Israel, framing community boundaries before life in Canaan and preparing for priest-specific instructions."
+    }
+  },
+  {
+    "id": "leviticus-20-priestly-holiness",
+    "sourceFile": "leviticus-20-priestly-holiness.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Aaron's sons",
+      "High priest",
+      "Priestly household members",
+      "Israelites",
+      "Israelite camp",
+      "Tent of Meeting",
+      "Altar",
+      "Priestly household",
+      "priests",
+      "high priest",
+      "Tabernacle",
+      "altar",
+      "priestly household",
+      "priestly holiness",
+      "holy food",
+      "acceptable offerings",
+      "priestly restrictions",
+      "Wilderness",
+      "Sinai",
+      "Leviticus 21",
+      "Leviticus 22",
+      "priestly holiness laws",
+      "holy food laws",
+      "Instruction Received",
+      "Priestly Instruction",
+      "Offering Instruction",
+      "Purity Instruction",
+      "Instructions for Priests, Offerings, and Holy Things",
+      "Leviticus 21-22",
+      "Leviticus 21-22 gives instructions for priests, the high priest, priestly households, holy food, and acceptable animals for offerings."
+    ],
+    "title": "Instructions for Priests, Offerings, and Holy Things",
+    "reference": "Leviticus 21-22",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Priestly Instruction",
+      "Offering Instruction",
+      "Purity Instruction"
+    ],
+    "summary": "Leviticus 21-22 gives instructions for priests, the high priest, priestly households, holy food, and acceptable animals for offerings.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Aaron's sons"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Priestly Household Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After community penalties; before appointed times; before Israel leaves Sinai; before Temple"
+      }
+    ],
+    "situation": "The chapters address mourning practices, marriage, bodily conditions, household membership, hired workers, daughters of priests, and offerings.",
+    "storyPosition": [
+      "Community Penalties",
+      "Priestly Holiness",
+      "Appointed Times",
+      "Lamp and Bread",
+      "Blasphemy Case",
+      "Jubilee"
+    ],
+    "currentStory": "Priestly Holiness",
+    "stepIntoStory": "The scene narrows from all Israel to the priestly family. Aaron's sons are not only altar workers; their households, mourning practices, marriages, and physical condition are part of the instruction.\n\nA priestly home becomes part of the sanctuary world. Some household members may eat holy food, while others may not.\n\nAt the altar, animals brought by Israelites must be examined. The priestly system depends on visible conditions: defects, age, injury, and proper handling of holy things.",
+    "notice": [
+      "Priests living among the Israelite camp.",
+      "Priestly families connected to holy food.",
+      "Restrictions on mourning practices.",
+      "Marriage boundaries for priests.",
+      "The high priest under stricter rules.",
+      "Animals inspected before offering.",
+      "Defects in animals identified by sight.",
+      "Offerings brought to the altar by Israelites.",
+      "Holy food handled within priestly households.",
+      "The Tabernacle service connected to family life."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 20 gave penalty and holiness instructions for the whole community."
+      },
+      {
+        "label": "Now",
+        "value": "Specific instructions are given for priests, the high priest, priestly households, access to holy food, and acceptable animals for offerings."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 23 gives instructions concerning the appointed times of Yahweh."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This section focuses on priests after instructions for the wider community."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Aaron's sons are addressed as the priestly family."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The high priest receives additional instructions."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The passage also regulates holy food and the condition of animals brought as offerings."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting remains the Sinai camp with the Tabernacle at its center."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The instructions move between priestly households, the sanctuary, and the altar."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Future ongoing service is assumed beyond the Sinai setting."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The chapters address mourning practices, marriage, bodily conditions, household membership, hired workers, daughters of priests, and offerings."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Holy food rules affect who may eat from priestly portions."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Animals brought for offerings are examined for age, condition, and defects."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priestly life includes both public sanctuary work and private household boundaries."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This defines priestly boundaries after the general holiness instructions.",
+      "It connects priestly service with priestly household life.",
+      "It gives rules for access to holy food.",
+      "It regulates the condition of animals brought to the altar before the appointed times are listed."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Speaks to the priests and Israel",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Head of the priestly family",
+        "relationships": [
+          "Father of Aaron's sons"
+        ]
+      },
+      {
+        "name": "Aaron's sons",
+        "role": "Priests addressed in the instructions",
+        "relationships": [
+          "Sons of Aaron"
+        ]
+      },
+      {
+        "name": "High priest",
+        "role": "Priest with additional restrictions concerning mourning and marriage",
+        "relationships": []
+      },
+      {
+        "name": "Priestly household members",
+        "role": "Persons connected to eating holy food",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "People who bring offerings",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Community setting where priests and households live"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary where priests serve"
+      },
+      {
+        "ancientName": "Altar",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place where offerings are presented"
+      },
+      {
+        "ancientName": "Priestly household",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Domestic setting connected to holy food rules"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Aaron's sons",
+      "High priest",
+      "Priestly household members",
+      "Israelites"
+    ],
+    "places": [
+      "Israelite camp",
+      "Tent of Meeting",
+      "Altar",
+      "Priestly household"
+    ],
+    "movement": [
+      "Priests receive restrictions concerning mourning, marriage, and bodily condition",
+      "Priestly household rules define who may eat holy food",
+      "Israelites bring offerings",
+      "Offerings are examined for acceptability",
+      "Priests guard holy things from misuse"
+    ],
+    "movementDetails": {
+      "startingPoint": "Priestly household and Israelite camp",
+      "destination": "Tent of Meeting and altar",
+      "route": [
+        "Priests receive restrictions concerning mourning, marriage, and bodily condition",
+        "Priestly household rules define who may eat holy food",
+        "Israelites bring offerings",
+        "Offerings are examined for acceptability",
+        "Priests guard holy things from misuse"
+      ],
+      "majorStops": [
+        "Priestly household",
+        "Israelite camp",
+        "Tent of Meeting",
+        "Altar"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 21 and 22 focus on the priests. After instructions for the whole community, the lens narrows to Aaron's sons and their households. Priestly life includes more than altar service. The chapters address mourning, marriage, physical condition, household membership, and who may eat holy food. The high priest receives additional restrictions. The instructions also reach the altar, where animals brought by Israelites must be acceptable and without disqualifying defects. The scene connects the priest's public work at the Tabernacle with private household life in the camp.",
+    "crossReferences": [
+      "Leviticus 20:1-27",
+      "Leviticus 21:1-22:33",
+      "Leviticus 23:1-44",
+      "Numbers 18:1-32"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 20:1-27"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 21:1-22:33"
+      ],
+      "laterReferences": [
+        "Leviticus 23:1-44",
+        "Numbers 18:1-32"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Aaron's sons",
+      "arc": "Priestly Service at the Tabernacle",
+      "previousStory": "leviticus-19-penalties-and-holiness",
+      "nextStory": null
+    },
+    "source": {
+      "id": "leviticus-20-priestly-holiness",
+      "reference": "Leviticus 21-22",
+      "storyTitle": "Instructions for Priests, Offerings, and Holy Things",
+      "eventType": [
+        "Instruction Received",
+        "Priestly Instruction",
+        "Offering Instruction",
+        "Purity Instruction"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Aaron's sons",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Aaron",
+          "Moses",
+          "Israelites"
+        ],
+        "sceneScale": "Priestly Household Instruction",
+        "timeAnchor": "After community penalties; before appointed times; before Israel leaves Sinai; before Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Speaks to the priests and Israel",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Head of the priestly family",
+          "relationships": [
+            "Father of Aaron's sons"
+          ]
+        },
+        {
+          "name": "Aaron's sons",
+          "role": "Priests addressed in the instructions",
+          "relationships": [
+            "Sons of Aaron"
+          ]
+        },
+        {
+          "name": "High priest",
+          "role": "Priest with additional restrictions concerning mourning and marriage",
+          "relationships": []
+        },
+        {
+          "name": "Priestly household members",
+          "role": "Persons connected to eating holy food",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "People who bring offerings",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Community setting where priests and households live"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary where priests serve"
+        },
+        {
+          "ancientName": "Altar",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place where offerings are presented"
+        },
+        {
+          "ancientName": "Priestly household",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Domestic setting connected to holy food rules"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Priestly household and Israelite camp",
+        "destination": "Tent of Meeting and altar",
+        "route": [
+          "Priests receive restrictions concerning mourning, marriage, and bodily condition",
+          "Priestly household rules define who may eat holy food",
+          "Israelites bring offerings",
+          "Offerings are examined for acceptability",
+          "Priests guard holy things from misuse"
+        ],
+        "majorStops": [
+          "Priestly household",
+          "Israelite camp",
+          "Tent of Meeting",
+          "Altar"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 20 gave penalty and holiness instructions for the whole community.",
+        "whatIsHappeningNow": "Specific instructions are given for priests, the high priest, priestly households, access to holy food, and acceptable animals for offerings.",
+        "whatHappensAfter": "Leviticus 23 gives instructions concerning the appointed times of Yahweh.",
+        "storyPositionStrip": [
+          "Community Penalties",
+          "Priestly Holiness ← YOU ARE HERE",
+          "Appointed Times",
+          "Lamp and Bread",
+          "Blasphemy Case",
+          "Jubilee"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This section focuses on priests after instructions for the wider community.",
+          "Aaron's sons are addressed as the priestly family.",
+          "The high priest receives additional instructions.",
+          "The passage also regulates holy food and the condition of animals brought as offerings."
+        ],
+        "geographicContext": [
+          "The setting remains the Sinai camp with the Tabernacle at its center.",
+          "The instructions move between priestly households, the sanctuary, and the altar.",
+          "Future ongoing service is assumed beyond the Sinai setting."
+        ],
+        "dailyLifeContext": [
+          "The chapters address mourning practices, marriage, bodily conditions, household membership, hired workers, daughters of priests, and offerings.",
+          "Holy food rules affect who may eat from priestly portions.",
+          "Animals brought for offerings are examined for age, condition, and defects.",
+          "Priestly life includes both public sanctuary work and private household boundaries."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This defines priestly boundaries after the general holiness instructions.",
+        "It connects priestly service with priestly household life.",
+        "It gives rules for access to holy food.",
+        "It regulates the condition of animals brought to the altar before the appointed times are listed."
+      ],
+      "stepIntoTheStory": [
+        "The scene narrows from all Israel to the priestly family. Aaron's sons are not only altar workers; their households, mourning practices, marriages, and physical condition are part of the instruction.",
+        "A priestly home becomes part of the sanctuary world. Some household members may eat holy food, while others may not.",
+        "At the altar, animals brought by Israelites must be examined. The priestly system depends on visible conditions: defects, age, injury, and proper handling of holy things."
+      ],
+      "documentaryObservations": [
+        "Priests living among the Israelite camp.",
+        "Priestly families connected to holy food.",
+        "Restrictions on mourning practices.",
+        "Marriage boundaries for priests.",
+        "The high priest under stricter rules.",
+        "Animals inspected before offering.",
+        "Defects in animals identified by sight.",
+        "Offerings brought to the altar by Israelites.",
+        "Holy food handled within priestly households.",
+        "The Tabernacle service connected to family life."
+      ],
+      "audioScript": "Leviticus 21 and 22 focus on the priests. After instructions for the whole community, the lens narrows to Aaron's sons and their households. Priestly life includes more than altar service. The chapters address mourning, marriage, physical condition, household membership, and who may eat holy food. The high priest receives additional restrictions. The instructions also reach the altar, where animals brought by Israelites must be acceptable and without disqualifying defects. The scene connects the priest's public work at the Tabernacle with private household life in the camp.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 20:1-27"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 21:1-22:33"
+        ],
+        "laterReferences": [
+          "Leviticus 23:1-44",
+          "Numbers 18:1-32"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Aaron's sons",
+        "arc": "Priestly Service at the Tabernacle",
+        "previousStory": "leviticus-19-penalties-and-holiness",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron",
+          "Aaron's sons",
+          "priests",
+          "high priest",
+          "Israelites"
+        ],
+        "places": [
+          "Israelite camp",
+          "Tent of Meeting",
+          "Tabernacle",
+          "altar",
+          "priestly household"
+        ],
+        "events": [
+          "priestly holiness",
+          "holy food",
+          "acceptable offerings",
+          "priestly restrictions"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Leviticus 21",
+          "Leviticus 22",
+          "priestly holiness laws",
+          "holy food laws"
+        ]
+      },
+      "realitySummary": "Leviticus 21-22 gives instructions for priests, the high priest, priestly households, holy food, and acceptable animals for offerings."
+    }
   }
 ]
