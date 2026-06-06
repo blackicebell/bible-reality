@@ -33978,5 +33978,3925 @@
       },
       "realitySummary": "Leviticus 27 closes the book with instructions about vows, valuations, dedicated persons or property, devoted things, firstborn animals, and tithes."
     }
+  },
+  {
+    "id": "numbers-01-first-census",
+    "sourceFile": "numbers-01-first-census.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Tribal leaders",
+      "Israelite men twenty years old and upward",
+      "Levites",
+      "Wilderness of Sinai",
+      "Tent of Meeting",
+      "Israelite camp",
+      "tribal leaders",
+      "Israelite men",
+      "first census",
+      "military census",
+      "Numbers census",
+      "Levites excluded",
+      "Wilderness",
+      "Sinai",
+      "Numbers 1 census",
+      "first census of Israel",
+      "Sinai census",
+      "Census",
+      "Organization",
+      "Instruction Received",
+      "The First Census of Israel at Sinai",
+      "Numbers 1",
+      "Numbers 1 records the first census of Israel at Sinai, counting military-age men by tribe while setting the Levites apart for Tabernacle service."
+    ],
+    "title": "The First Census of Israel at Sinai",
+    "reference": "Numbers 1",
+    "kicker": "Study",
+    "eventType": [
+      "Census",
+      "Organization",
+      "Instruction Received"
+    ],
+    "summary": "Numbers 1 records the first census of Israel at Sinai, counting military-age men by tribe while setting the Levites apart for Tabernacle service.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Wilderness of Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Census"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Exodus; after Tabernacle setup; before leaving Sinai; before entering Canaan"
+      }
+    ],
+    "situation": "Census-taking required household and clan identification.",
+    "storyPosition": [
+      "Exodus from Egypt",
+      "Tabernacle Built",
+      "Leviticus Instructions",
+      "First Census at Sinai",
+      "Camp Arrangement",
+      "Levite Duties",
+      "Departure from Sinai"
+    ],
+    "currentStory": "First Census at Sinai",
+    "stepIntoStory": "The scene is the wilderness camp at Sinai. The Tabernacle stands in the center of Israel's camp life, and the people are still gathered near the mountain.\n\nMoses, Aaron, and named tribal leaders begin a large public count. Men are identified by tribe, clan, and father's house, and the count focuses on those twenty years old and upward.\n\nThe Levites are set apart from the military census. Their role will be tied to the Tabernacle rather than the fighting divisions of the other tribes.",
+    "notice": [
+      "A large wilderness camp at Sinai.",
+      "The Tent of Meeting standing at the center of camp life.",
+      "Moses and Aaron receiving census instructions.",
+      "Tribal leaders standing with Moses and Aaron.",
+      "Men counted by tribe, clan, and father's house.",
+      "Military-age men identified from age twenty and upward.",
+      "Written totals recorded for each tribe.",
+      "Levites separated from the military count."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus ended with instructions given at Mount Sinai. The Tabernacle had already been set up at the end of Exodus."
+      },
+      {
+        "label": "Now",
+        "value": "Yahweh commands Moses to take a census of Israel's men twenty years old and upward, by tribe and father's house. The Levites are set apart from this military count."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 2 arranges the tribes by camp divisions around the Tabernacle."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Numbers begins while Israel is still camped at Sinai."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The census occurs after the Tabernacle is built and before Israel leaves Sinai."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The count is organized by tribe, clan, and father's house."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Levites are assigned separately because of their Tabernacle responsibilities."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting is the wilderness of Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Israelite camp is organized around the Tent of Meeting."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The census takes place before the nation resumes travel toward Canaan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Census-taking required household and clan identification."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Men twenty years old and upward are counted for military service."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Each tribe has a named leader assisting Moses and Aaron."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Large-scale camp organization would require public gathering and record keeping."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This opens Numbers with Israel organized as a counted wilderness nation.",
+      "It establishes the military-age population before travel resumes.",
+      "It distinguishes the Levites from the other tribes.",
+      "It prepares for the camp arrangement around the Tabernacle in Numbers 2."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Speaks to Moses in the wilderness of Sinai",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives census instructions and records the totals",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Assists Moses in the census",
+        "relationships": [
+          "Brother of Moses"
+        ]
+      },
+      {
+        "name": "Tribal leaders",
+        "role": "One man from each tribe assists in the census",
+        "relationships": []
+      },
+      {
+        "name": "Israelite men twenty years old and upward",
+        "role": "Counted for military service",
+        "relationships": []
+      },
+      {
+        "name": "Levites",
+        "role": "Not counted with the other tribes for military service",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Wilderness of Sinai",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Location where the census is commanded"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary area from which Yahweh speaks to Moses"
+      },
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Camp where tribes are counted by clan and father's house"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Tribal leaders",
+      "Israelite men twenty years old and upward",
+      "Levites"
+    ],
+    "places": [
+      "Wilderness of Sinai",
+      "Tent of Meeting",
+      "Israelite camp"
+    ],
+    "movement": [],
+    "movementDetails": {
+      "startingPoint": null,
+      "destination": null,
+      "route": [],
+      "majorStops": [
+        "Tent of Meeting",
+        "Israelite camp"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Numbers opens in the wilderness of Sinai. Israel is still camped near the Tabernacle, after the events of Exodus and Leviticus. Yahweh speaks to Moses in the Tent of Meeting and commands a census. Moses and Aaron are joined by one leader from each tribe. The count includes men twenty years old and upward, organized by tribe, clan, and father's house. These are the men counted for military service. The Levites are not included with the other tribes, because their work will be connected to the Tabernacle. The book begins with Israel being counted and organized before the journey resumes.",
+    "crossReferences": [
+      "Exodus 40:1-38",
+      "Leviticus 27:34",
+      "Numbers 1:1-54",
+      "Numbers 2:1-34",
+      "Numbers 26:1-65"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Exodus 40:1-38",
+        "Leviticus 27:34"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 1:1-54"
+      ],
+      "laterReferences": [
+        "Numbers 2:1-34",
+        "Numbers 26:1-65"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Sinai Organization",
+      "previousStory": "leviticus-26-vows-and-dedications",
+      "nextStory": "numbers-02-camp-arrangement"
+    },
+    "source": {
+      "id": "numbers-01-first-census",
+      "reference": "Numbers 1",
+      "storyTitle": "The First Census of Israel at Sinai",
+      "eventType": [
+        "Census",
+        "Organization",
+        "Instruction Received"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Wilderness of Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Aaron",
+          "tribal leaders",
+          "Israelite men"
+        ],
+        "sceneScale": "National Census",
+        "timeAnchor": "After Exodus; after Tabernacle setup; before leaving Sinai; before entering Canaan",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Speaks to Moses in the wilderness of Sinai",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives census instructions and records the totals",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Assists Moses in the census",
+          "relationships": [
+            "Brother of Moses"
+          ]
+        },
+        {
+          "name": "Tribal leaders",
+          "role": "One man from each tribe assists in the census",
+          "relationships": []
+        },
+        {
+          "name": "Israelite men twenty years old and upward",
+          "role": "Counted for military service",
+          "relationships": []
+        },
+        {
+          "name": "Levites",
+          "role": "Not counted with the other tribes for military service",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Wilderness of Sinai",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Location where the census is commanded"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary area from which Yahweh speaks to Moses"
+        },
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Camp where tribes are counted by clan and father's house"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": null,
+        "destination": null,
+        "route": [],
+        "majorStops": [
+          "Tent of Meeting",
+          "Israelite camp"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus ended with instructions given at Mount Sinai. The Tabernacle had already been set up at the end of Exodus.",
+        "whatIsHappeningNow": "Yahweh commands Moses to take a census of Israel's men twenty years old and upward, by tribe and father's house. The Levites are set apart from this military count.",
+        "whatHappensAfter": "Numbers 2 arranges the tribes by camp divisions around the Tabernacle.",
+        "storyPositionStrip": [
+          "Exodus from Egypt",
+          "Tabernacle Built",
+          "Leviticus Instructions",
+          "First Census at Sinai ← YOU ARE HERE",
+          "Camp Arrangement",
+          "Levite Duties",
+          "Departure from Sinai"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Numbers begins while Israel is still camped at Sinai.",
+          "The census occurs after the Tabernacle is built and before Israel leaves Sinai.",
+          "The count is organized by tribe, clan, and father's house.",
+          "The Levites are assigned separately because of their Tabernacle responsibilities."
+        ],
+        "geographicContext": [
+          "The setting is the wilderness of Sinai.",
+          "The Israelite camp is organized around the Tent of Meeting.",
+          "The census takes place before the nation resumes travel toward Canaan."
+        ],
+        "dailyLifeContext": [
+          "Census-taking required household and clan identification.",
+          "Men twenty years old and upward are counted for military service.",
+          "Each tribe has a named leader assisting Moses and Aaron.",
+          "Large-scale camp organization would require public gathering and record keeping."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This opens Numbers with Israel organized as a counted wilderness nation.",
+        "It establishes the military-age population before travel resumes.",
+        "It distinguishes the Levites from the other tribes.",
+        "It prepares for the camp arrangement around the Tabernacle in Numbers 2."
+      ],
+      "stepIntoTheStory": [
+        "The scene is the wilderness camp at Sinai. The Tabernacle stands in the center of Israel's camp life, and the people are still gathered near the mountain.",
+        "Moses, Aaron, and named tribal leaders begin a large public count. Men are identified by tribe, clan, and father's house, and the count focuses on those twenty years old and upward.",
+        "The Levites are set apart from the military census. Their role will be tied to the Tabernacle rather than the fighting divisions of the other tribes."
+      ],
+      "documentaryObservations": [
+        "A large wilderness camp at Sinai.",
+        "The Tent of Meeting standing at the center of camp life.",
+        "Moses and Aaron receiving census instructions.",
+        "Tribal leaders standing with Moses and Aaron.",
+        "Men counted by tribe, clan, and father's house.",
+        "Military-age men identified from age twenty and upward.",
+        "Written totals recorded for each tribe.",
+        "Levites separated from the military count."
+      ],
+      "audioScript": "Numbers opens in the wilderness of Sinai. Israel is still camped near the Tabernacle, after the events of Exodus and Leviticus. Yahweh speaks to Moses in the Tent of Meeting and commands a census. Moses and Aaron are joined by one leader from each tribe. The count includes men twenty years old and upward, organized by tribe, clan, and father's house. These are the men counted for military service. The Levites are not included with the other tribes, because their work will be connected to the Tabernacle. The book begins with Israel being counted and organized before the journey resumes.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Exodus 40:1-38",
+          "Leviticus 27:34"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 1:1-54"
+        ],
+        "laterReferences": [
+          "Numbers 2:1-34",
+          "Numbers 26:1-65"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Sinai Organization",
+        "previousStory": "leviticus-26-vows-and-dedications",
+        "nextStory": "numbers-02-camp-arrangement"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron",
+          "tribal leaders",
+          "Levites",
+          "Israelite men"
+        ],
+        "places": [
+          "Wilderness of Sinai",
+          "Tent of Meeting",
+          "Israelite camp"
+        ],
+        "events": [
+          "first census",
+          "military census",
+          "Numbers census",
+          "Levites excluded"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Numbers 1 census",
+          "first census of Israel",
+          "Sinai census"
+        ]
+      },
+      "realitySummary": "Numbers 1 records the first census of Israel at Sinai, counting military-age men by tribe while setting the Levites apart for Tabernacle service."
+    }
+  },
+  {
+    "id": "numbers-02-camp-arrangement",
+    "sourceFile": "numbers-02-camp-arrangement.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Judah division",
+      "Reuben division",
+      "Ephraim division",
+      "Dan division",
+      "Levites",
+      "Israelite camp",
+      "Tent of Meeting",
+      "East side",
+      "South side",
+      "West side",
+      "North side",
+      "Judah",
+      "Reuben",
+      "Ephraim",
+      "Dan",
+      "Wilderness of Sinai",
+      "east",
+      "south",
+      "west",
+      "north",
+      "camp arrangement",
+      "tribal standards",
+      "order of march",
+      "Tabernacle center",
+      "Wilderness",
+      "Sinai",
+      "Numbers 2 camp",
+      "Israel camp layout",
+      "tribal camp order",
+      "Camp Arrangement",
+      "Organization",
+      "Instruction Received",
+      "The Tribes Camp Around the Tabernacle",
+      "Numbers 2",
+      "Numbers 2 arranges Israel's tribes around the Tabernacle by direction and division, establishing both the camp layout and travel order."
+    ],
+    "title": "The Tribes Camp Around the Tabernacle",
+    "reference": "Numbers 2",
+    "kicker": "Study",
+    "eventType": [
+      "Camp Arrangement",
+      "Organization",
+      "Instruction Received"
+    ],
+    "summary": "Numbers 2 arranges Israel's tribes around the Tabernacle by direction and division, establishing both the camp layout and travel order.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Israelite tribes"
+      },
+      {
+        "label": "Location",
+        "value": "Wilderness of Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Camp Layout"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After first census; before Levite assignments; before leaving Sinai"
+      }
+    ],
+    "situation": "Large encampments required ordered placement by tribe and division.",
+    "storyPosition": [
+      "First Census",
+      "Camp Arrangement",
+      "Levite Duties",
+      "Camp Laws",
+      "Tribal Offerings",
+      "Departure from Sinai"
+    ],
+    "currentStory": "Camp Arrangement",
+    "stepIntoStory": "A person looking across the camp would see Israel arranged by direction around the Tabernacle. Each tribal division has its place and standard.\n\nJudah's camp stands on the east, Reuben's on the south, Ephraim's on the west, and Dan's on the north. The Tent of Meeting sits at the center with the Levites nearby.\n\nThe layout is not only for camping. It also determines movement, so when the camp breaks, the divisions set out in a known order.",
+    "notice": [
+      "A massive camp arranged in four directions.",
+      "The Tabernacle at the center.",
+      "Tribal standards marking divisions.",
+      "Judah's division on the east.",
+      "Reuben's division on the south.",
+      "Ephraim's division on the west.",
+      "Dan's division on the north.",
+      "Levites positioned near the Tent of Meeting.",
+      "A defined order for breaking camp.",
+      "Tribal groups moving by division."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 1 counted Israel's military-age men by tribe and set apart the Levites."
+      },
+      {
+        "label": "Now",
+        "value": "The tribes are assigned positions around the Tent of Meeting by standards and divisions, with a set order for camping and travel."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 3-4 describes the Levites, their clans, and their Tabernacle duties."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This follows the census of Numbers 1."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The tribes are now arranged spatially around the Tabernacle."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The camp layout also creates a travel order."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Levites remain distinct and camp closest to the Tabernacle."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The camp is organized in the wilderness of Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Tent of Meeting is the central point."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Directions are given by east, south, west, and north."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Large encampments required ordered placement by tribe and division."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Standards or banners visually identified tribal groups."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel order mattered when a large population broke camp."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The Tabernacle's central position shaped both camp life and movement."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This turns the census totals into a visible camp structure.",
+      "It shows Israel arranged around the Tabernacle.",
+      "It establishes the order in which the tribes will travel.",
+      "It prepares for the Levite duties that make movement of the Tabernacle possible."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives camp arrangement instructions to Moses and Aaron",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives camp layout instructions",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Receives camp layout instructions with Moses",
+        "relationships": []
+      },
+      {
+        "name": "Judah division",
+        "role": "Camps east with Issachar and Zebulun",
+        "relationships": []
+      },
+      {
+        "name": "Reuben division",
+        "role": "Camps south with Simeon and Gad",
+        "relationships": []
+      },
+      {
+        "name": "Ephraim division",
+        "role": "Camps west with Manasseh and Benjamin",
+        "relationships": []
+      },
+      {
+        "name": "Dan division",
+        "role": "Camps north with Asher and Naphtali",
+        "relationships": []
+      },
+      {
+        "name": "Levites",
+        "role": "Camp around the Tabernacle within the larger tribal arrangement",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "National camp arranged by tribal standards"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Central sanctuary around which the tribes camp"
+      },
+      {
+        "ancientName": "East side",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Camp position of Judah's division"
+      },
+      {
+        "ancientName": "South side",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Camp position of Reuben's division"
+      },
+      {
+        "ancientName": "West side",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Camp position of Ephraim's division"
+      },
+      {
+        "ancientName": "North side",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Camp position of Dan's division"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Judah division",
+      "Reuben division",
+      "Ephraim division",
+      "Dan division",
+      "Levites"
+    ],
+    "places": [
+      "Israelite camp",
+      "Tent of Meeting",
+      "East side",
+      "South side",
+      "West side",
+      "North side"
+    ],
+    "movement": [
+      "Judah's division camps on the east and sets out first",
+      "Reuben's division camps on the south and sets out second",
+      "The Tent of Meeting with the Levite camp travels in the middle",
+      "Ephraim's division camps on the west and sets out third",
+      "Dan's division camps on the north and sets out last"
+    ],
+    "movementDetails": {
+      "startingPoint": null,
+      "destination": null,
+      "route": [
+        "Judah's division camps on the east and sets out first",
+        "Reuben's division camps on the south and sets out second",
+        "The Tent of Meeting with the Levite camp travels in the middle",
+        "Ephraim's division camps on the west and sets out third",
+        "Dan's division camps on the north and sets out last"
+      ],
+      "majorStops": [
+        "East camp",
+        "South camp",
+        "Central Tabernacle camp",
+        "West camp",
+        "North camp"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Numbers 2 turns the census into a visible camp. Israel is arranged around the Tent of Meeting by tribal divisions. Judah's division camps on the east. Reuben's division camps on the south. Ephraim's division camps on the west. Dan's division camps on the north. The Levites camp near the Tabernacle, which stands at the center of the entire arrangement. This layout also becomes the travel order. When Israel moves, the divisions set out in sequence, with the Tent of Meeting and Levites positioned within the order of march.",
+    "crossReferences": [
+      "Numbers 1:1-54",
+      "Numbers 2:1-34",
+      "Numbers 10:11-28"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 1:1-54"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 2:1-34"
+      ],
+      "laterReferences": [
+        "Numbers 10:11-28"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Israelite tribes",
+      "arc": "Sinai Organization",
+      "previousStory": "numbers-01-first-census",
+      "nextStory": "numbers-03-levites-assigned"
+    },
+    "source": {
+      "id": "numbers-02-camp-arrangement",
+      "reference": "Numbers 2",
+      "storyTitle": "The Tribes Camp Around the Tabernacle",
+      "eventType": [
+        "Camp Arrangement",
+        "Organization",
+        "Instruction Received"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Israelite tribes",
+        "approximateAge": null,
+        "currentLocation": "Wilderness of Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Aaron",
+          "tribal divisions"
+        ],
+        "sceneScale": "National Camp Layout",
+        "timeAnchor": "After first census; before Levite assignments; before leaving Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives camp arrangement instructions to Moses and Aaron",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives camp layout instructions",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Receives camp layout instructions with Moses",
+          "relationships": []
+        },
+        {
+          "name": "Judah division",
+          "role": "Camps east with Issachar and Zebulun",
+          "relationships": []
+        },
+        {
+          "name": "Reuben division",
+          "role": "Camps south with Simeon and Gad",
+          "relationships": []
+        },
+        {
+          "name": "Ephraim division",
+          "role": "Camps west with Manasseh and Benjamin",
+          "relationships": []
+        },
+        {
+          "name": "Dan division",
+          "role": "Camps north with Asher and Naphtali",
+          "relationships": []
+        },
+        {
+          "name": "Levites",
+          "role": "Camp around the Tabernacle within the larger tribal arrangement",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "National camp arranged by tribal standards"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Central sanctuary around which the tribes camp"
+        },
+        {
+          "ancientName": "East side",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Camp position of Judah's division"
+        },
+        {
+          "ancientName": "South side",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Camp position of Reuben's division"
+        },
+        {
+          "ancientName": "West side",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Camp position of Ephraim's division"
+        },
+        {
+          "ancientName": "North side",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Camp position of Dan's division"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": null,
+        "destination": null,
+        "route": [
+          "Judah's division camps on the east and sets out first",
+          "Reuben's division camps on the south and sets out second",
+          "The Tent of Meeting with the Levite camp travels in the middle",
+          "Ephraim's division camps on the west and sets out third",
+          "Dan's division camps on the north and sets out last"
+        ],
+        "majorStops": [
+          "East camp",
+          "South camp",
+          "Central Tabernacle camp",
+          "West camp",
+          "North camp"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 1 counted Israel's military-age men by tribe and set apart the Levites.",
+        "whatIsHappeningNow": "The tribes are assigned positions around the Tent of Meeting by standards and divisions, with a set order for camping and travel.",
+        "whatHappensAfter": "Numbers 3-4 describes the Levites, their clans, and their Tabernacle duties.",
+        "storyPositionStrip": [
+          "First Census",
+          "Camp Arrangement ← YOU ARE HERE",
+          "Levite Duties",
+          "Camp Laws",
+          "Tribal Offerings",
+          "Departure from Sinai"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This follows the census of Numbers 1.",
+          "The tribes are now arranged spatially around the Tabernacle.",
+          "The camp layout also creates a travel order.",
+          "The Levites remain distinct and camp closest to the Tabernacle."
+        ],
+        "geographicContext": [
+          "The camp is organized in the wilderness of Sinai.",
+          "The Tent of Meeting is the central point.",
+          "Directions are given by east, south, west, and north."
+        ],
+        "dailyLifeContext": [
+          "Large encampments required ordered placement by tribe and division.",
+          "Standards or banners visually identified tribal groups.",
+          "Travel order mattered when a large population broke camp.",
+          "The Tabernacle's central position shaped both camp life and movement."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This turns the census totals into a visible camp structure.",
+        "It shows Israel arranged around the Tabernacle.",
+        "It establishes the order in which the tribes will travel.",
+        "It prepares for the Levite duties that make movement of the Tabernacle possible."
+      ],
+      "stepIntoTheStory": [
+        "A person looking across the camp would see Israel arranged by direction around the Tabernacle. Each tribal division has its place and standard.",
+        "Judah's camp stands on the east, Reuben's on the south, Ephraim's on the west, and Dan's on the north. The Tent of Meeting sits at the center with the Levites nearby.",
+        "The layout is not only for camping. It also determines movement, so when the camp breaks, the divisions set out in a known order."
+      ],
+      "documentaryObservations": [
+        "A massive camp arranged in four directions.",
+        "The Tabernacle at the center.",
+        "Tribal standards marking divisions.",
+        "Judah's division on the east.",
+        "Reuben's division on the south.",
+        "Ephraim's division on the west.",
+        "Dan's division on the north.",
+        "Levites positioned near the Tent of Meeting.",
+        "A defined order for breaking camp.",
+        "Tribal groups moving by division."
+      ],
+      "audioScript": "Numbers 2 turns the census into a visible camp. Israel is arranged around the Tent of Meeting by tribal divisions. Judah's division camps on the east. Reuben's division camps on the south. Ephraim's division camps on the west. Dan's division camps on the north. The Levites camp near the Tabernacle, which stands at the center of the entire arrangement. This layout also becomes the travel order. When Israel moves, the divisions set out in sequence, with the Tent of Meeting and Levites positioned within the order of march.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 1:1-54"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 2:1-34"
+        ],
+        "laterReferences": [
+          "Numbers 10:11-28"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Israelite tribes",
+        "arc": "Sinai Organization",
+        "previousStory": "numbers-01-first-census",
+        "nextStory": "numbers-03-levites-assigned"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Aaron",
+          "Judah",
+          "Reuben",
+          "Ephraim",
+          "Dan",
+          "Levites"
+        ],
+        "places": [
+          "Wilderness of Sinai",
+          "Tent of Meeting",
+          "east",
+          "south",
+          "west",
+          "north"
+        ],
+        "events": [
+          "camp arrangement",
+          "tribal standards",
+          "order of march",
+          "Tabernacle center"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Numbers 2 camp",
+          "Israel camp layout",
+          "tribal camp order"
+        ]
+      },
+      "realitySummary": "Numbers 2 arranges Israel's tribes around the Tabernacle by direction and division, establishing both the camp layout and travel order."
+    }
+  },
+  {
+    "id": "numbers-03-levites-assigned",
+    "sourceFile": "numbers-03-levites-assigned.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Eleazar",
+      "Ithamar",
+      "Gershonites",
+      "Kohathites",
+      "Merarites",
+      "Wilderness of Sinai",
+      "Tent of Meeting",
+      "Camp around the Tabernacle",
+      "Levites",
+      "Tabernacle",
+      "Levite census",
+      "Tabernacle duties",
+      "Gershon Kohath Merari",
+      "firstborn substitution",
+      "Wilderness",
+      "Sinai",
+      "Numbers 3 Levites",
+      "Numbers 4 Levites",
+      "Levitical duties",
+      "Census",
+      "Priestly Assignment",
+      "Tabernacle Service",
+      "Instruction Received",
+      "The Levites Are Counted and Assigned Tabernacle Duties",
+      "Numbers 3-4",
+      "Numbers 3-4 counts the Levites, assigns them around the Tabernacle, connects them to Israel's firstborn, and gives Gershon, Kohath, and Merari their transport duties."
+    ],
+    "title": "The Levites Are Counted and Assigned Tabernacle Duties",
+    "reference": "Numbers 3-4",
+    "kicker": "Study",
+    "eventType": [
+      "Census",
+      "Priestly Assignment",
+      "Tabernacle Service",
+      "Instruction Received"
+    ],
+    "summary": "Numbers 3-4 counts the Levites, assigns them around the Tabernacle, connects them to Israel's firstborn, and gives Gershon, Kohath, and Merari their transport duties.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Levites"
+      },
+      {
+        "label": "Location",
+        "value": "Wilderness of Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Tribal Service Organization"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After camp arrangement; before camp purity laws; before leaving Sinai"
+      }
+    ],
+    "situation": "Portable sanctuary service required careful division of labor.",
+    "storyPosition": [
+      "First Census",
+      "Camp Arrangement",
+      "Levites Assigned",
+      "Camp Laws",
+      "Tribal Offerings",
+      "Levite Dedication",
+      "Departure from Sinai"
+    ],
+    "currentStory": "Levites Assigned",
+    "stepIntoStory": "The focus narrows from the twelve tribes to the Levite clans surrounding the Tabernacle. Their camp positions form an inner ring around the sanctuary.\n\nEach clan has assigned work. Gershonites handle curtains and coverings. Kohathites carry the most holy objects after priests cover them. Merarites handle the heavy structural pieces.\n\nA person watching the camp prepare for travel would see priests covering sacred objects, Levites lifting poles, frames, bases, curtains, and tools, and each clan working under defined supervision.",
+    "notice": [
+      "Levite camps positioned around the Tabernacle.",
+      "Gershonites assigned curtains and coverings.",
+      "Kohathites assigned holy objects after covering.",
+      "Merarites assigned frames, bars, pillars, and bases.",
+      "Priests covering sanctuary objects before transport.",
+      "Poles used for carrying holy objects.",
+      "Carts and structural loads implied by heavy Tabernacle parts.",
+      "Firstborn males counted separately.",
+      "Levites substituted for Israel's firstborn.",
+      "Eleazar and Ithamar named as surviving sons of Aaron."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 2 arranged the tribes around the Tabernacle with travel order."
+      },
+      {
+        "label": "Now",
+        "value": "The Levites are counted, positioned around the Tabernacle, substituted for Israel's firstborn, and assigned duties for carrying and guarding the sanctuary."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 5-6 gives instructions about camp purity, restitution, the jealousy case, the Nazirite vow, and the priestly blessing."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Levites were excluded from the military census in Numbers 1."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This section explains their separate census and Tabernacle role."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Aaron's sons Nadab and Abihu are remembered as having died, leaving Eleazar and Ithamar."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Levites are assigned as substitutes for Israel's firstborn."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting remains the wilderness of Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Levite clans are placed around the Tabernacle."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Their duties relate to dismantling, covering, carrying, and guarding the sanctuary during travel."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Portable sanctuary service required careful division of labor."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Holy objects were covered before transport."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Frames, curtains, bars, pillars, bases, and utensils required organized carrying teams."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Different age ranges are counted for service depending on the section."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This explains how the Tabernacle will move with Israel.",
+      "It gives each Levite clan a visible role in camp and travel.",
+      "It connects the Levites to Israel's firstborn.",
+      "It prepares for Israel's departure from Sinai in Numbers 10."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions concerning Levite service",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Counts and assigns the Levites",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Head of the priestly family",
+        "relationships": [
+          "Father of Eleazar and Ithamar"
+        ]
+      },
+      {
+        "name": "Eleazar",
+        "role": "Surviving son of Aaron with oversight responsibilities",
+        "relationships": [
+          "Son of Aaron"
+        ]
+      },
+      {
+        "name": "Ithamar",
+        "role": "Surviving son of Aaron with oversight responsibilities",
+        "relationships": [
+          "Son of Aaron"
+        ]
+      },
+      {
+        "name": "Gershonites",
+        "role": "Levite clan assigned to curtains and coverings",
+        "relationships": [
+          "Descendants of Levi"
+        ]
+      },
+      {
+        "name": "Kohathites",
+        "role": "Levite clan assigned to holy objects after priests cover them",
+        "relationships": [
+          "Descendants of Levi"
+        ]
+      },
+      {
+        "name": "Merarites",
+        "role": "Levite clan assigned to frames, bars, pillars, bases, and related items",
+        "relationships": [
+          "Descendants of Levi"
+        ]
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Wilderness of Sinai",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Location where Levites are counted"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary served and transported by Levites"
+      },
+      {
+        "ancientName": "Camp around the Tabernacle",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Levite clan positions around the sanctuary"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Eleazar",
+      "Ithamar",
+      "Gershonites",
+      "Kohathites",
+      "Merarites"
+    ],
+    "places": [
+      "Wilderness of Sinai",
+      "Tent of Meeting",
+      "Camp around the Tabernacle"
+    ],
+    "movement": [
+      "Levite males are counted by clan",
+      "Gershon, Kohath, and Merari clans are assigned positions",
+      "Firstborn males of Israel are counted",
+      "Levites substitute for Israel's firstborn",
+      "Kohathite, Gershonite, and Merarite transport duties are assigned"
+    ],
+    "movementDetails": {
+      "startingPoint": "Levite camp positions around the Tabernacle",
+      "destination": "Travel service for the Tent of Meeting",
+      "route": [
+        "Levite males are counted by clan",
+        "Gershon, Kohath, and Merari clans are assigned positions",
+        "Firstborn males of Israel are counted",
+        "Levites substitute for Israel's firstborn",
+        "Kohathite, Gershonite, and Merarite transport duties are assigned"
+      ],
+      "majorStops": [
+        "Gershonite camp",
+        "Kohathite camp",
+        "Merarite camp",
+        "Tent of Meeting"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Numbers 3 and 4 explain why the Levites were not counted with the fighting men. Their work is centered on the Tabernacle. Moses counts the Levite clans and assigns them around the sanctuary. Gershonites are connected with curtains and coverings. Kohathites carry the holy objects after the priests cover them. Merarites handle the frames, bars, pillars, bases, and structural pieces. The Levites also stand in place of Israel's firstborn. This section turns the Tabernacle from a fixed structure into a portable sanctuary with assigned teams ready for travel.",
+    "crossReferences": [
+      "Numbers 1:47-54",
+      "Numbers 2:17",
+      "Numbers 3:1-51",
+      "Numbers 4:1-49",
+      "Numbers 7:1-9",
+      "Numbers 10:11-28"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 1:47-54",
+        "Numbers 2:17"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 3:1-51",
+        "Numbers 4:1-49"
+      ],
+      "laterReferences": [
+        "Numbers 7:1-9",
+        "Numbers 10:11-28"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Levites",
+      "arc": "Sinai Organization",
+      "previousStory": "numbers-02-camp-arrangement",
+      "nextStory": "numbers-04-camp-laws"
+    },
+    "source": {
+      "id": "numbers-03-levites-assigned",
+      "reference": "Numbers 3-4",
+      "storyTitle": "The Levites Are Counted and Assigned Tabernacle Duties",
+      "eventType": [
+        "Census",
+        "Priestly Assignment",
+        "Tabernacle Service",
+        "Instruction Received"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Levites",
+        "approximateAge": null,
+        "currentLocation": "Wilderness of Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Aaron",
+          "Aaron's sons"
+        ],
+        "sceneScale": "Tribal Service Organization",
+        "timeAnchor": "After camp arrangement; before camp purity laws; before leaving Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions concerning Levite service",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Counts and assigns the Levites",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Head of the priestly family",
+          "relationships": [
+            "Father of Eleazar and Ithamar"
+          ]
+        },
+        {
+          "name": "Eleazar",
+          "role": "Surviving son of Aaron with oversight responsibilities",
+          "relationships": [
+            "Son of Aaron"
+          ]
+        },
+        {
+          "name": "Ithamar",
+          "role": "Surviving son of Aaron with oversight responsibilities",
+          "relationships": [
+            "Son of Aaron"
+          ]
+        },
+        {
+          "name": "Gershonites",
+          "role": "Levite clan assigned to curtains and coverings",
+          "relationships": [
+            "Descendants of Levi"
+          ]
+        },
+        {
+          "name": "Kohathites",
+          "role": "Levite clan assigned to holy objects after priests cover them",
+          "relationships": [
+            "Descendants of Levi"
+          ]
+        },
+        {
+          "name": "Merarites",
+          "role": "Levite clan assigned to frames, bars, pillars, bases, and related items",
+          "relationships": [
+            "Descendants of Levi"
+          ]
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Wilderness of Sinai",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Location where Levites are counted"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary served and transported by Levites"
+        },
+        {
+          "ancientName": "Camp around the Tabernacle",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Levite clan positions around the sanctuary"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Levite camp positions around the Tabernacle",
+        "destination": "Travel service for the Tent of Meeting",
+        "route": [
+          "Levite males are counted by clan",
+          "Gershon, Kohath, and Merari clans are assigned positions",
+          "Firstborn males of Israel are counted",
+          "Levites substitute for Israel's firstborn",
+          "Kohathite, Gershonite, and Merarite transport duties are assigned"
+        ],
+        "majorStops": [
+          "Gershonite camp",
+          "Kohathite camp",
+          "Merarite camp",
+          "Tent of Meeting"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 2 arranged the tribes around the Tabernacle with travel order.",
+        "whatIsHappeningNow": "The Levites are counted, positioned around the Tabernacle, substituted for Israel's firstborn, and assigned duties for carrying and guarding the sanctuary.",
+        "whatHappensAfter": "Numbers 5-6 gives instructions about camp purity, restitution, the jealousy case, the Nazirite vow, and the priestly blessing.",
+        "storyPositionStrip": [
+          "First Census",
+          "Camp Arrangement",
+          "Levites Assigned ← YOU ARE HERE",
+          "Camp Laws",
+          "Tribal Offerings",
+          "Levite Dedication",
+          "Departure from Sinai"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "The Levites were excluded from the military census in Numbers 1.",
+          "This section explains their separate census and Tabernacle role.",
+          "Aaron's sons Nadab and Abihu are remembered as having died, leaving Eleazar and Ithamar.",
+          "The Levites are assigned as substitutes for Israel's firstborn."
+        ],
+        "geographicContext": [
+          "The setting remains the wilderness of Sinai.",
+          "Levite clans are placed around the Tabernacle.",
+          "Their duties relate to dismantling, covering, carrying, and guarding the sanctuary during travel."
+        ],
+        "dailyLifeContext": [
+          "Portable sanctuary service required careful division of labor.",
+          "Holy objects were covered before transport.",
+          "Frames, curtains, bars, pillars, bases, and utensils required organized carrying teams.",
+          "Different age ranges are counted for service depending on the section."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This explains how the Tabernacle will move with Israel.",
+        "It gives each Levite clan a visible role in camp and travel.",
+        "It connects the Levites to Israel's firstborn.",
+        "It prepares for Israel's departure from Sinai in Numbers 10."
+      ],
+      "stepIntoTheStory": [
+        "The focus narrows from the twelve tribes to the Levite clans surrounding the Tabernacle. Their camp positions form an inner ring around the sanctuary.",
+        "Each clan has assigned work. Gershonites handle curtains and coverings. Kohathites carry the most holy objects after priests cover them. Merarites handle the heavy structural pieces.",
+        "A person watching the camp prepare for travel would see priests covering sacred objects, Levites lifting poles, frames, bases, curtains, and tools, and each clan working under defined supervision."
+      ],
+      "documentaryObservations": [
+        "Levite camps positioned around the Tabernacle.",
+        "Gershonites assigned curtains and coverings.",
+        "Kohathites assigned holy objects after covering.",
+        "Merarites assigned frames, bars, pillars, and bases.",
+        "Priests covering sanctuary objects before transport.",
+        "Poles used for carrying holy objects.",
+        "Carts and structural loads implied by heavy Tabernacle parts.",
+        "Firstborn males counted separately.",
+        "Levites substituted for Israel's firstborn.",
+        "Eleazar and Ithamar named as surviving sons of Aaron."
+      ],
+      "audioScript": "Numbers 3 and 4 explain why the Levites were not counted with the fighting men. Their work is centered on the Tabernacle. Moses counts the Levite clans and assigns them around the sanctuary. Gershonites are connected with curtains and coverings. Kohathites carry the holy objects after the priests cover them. Merarites handle the frames, bars, pillars, bases, and structural pieces. The Levites also stand in place of Israel's firstborn. This section turns the Tabernacle from a fixed structure into a portable sanctuary with assigned teams ready for travel.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 1:47-54",
+          "Numbers 2:17"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 3:1-51",
+          "Numbers 4:1-49"
+        ],
+        "laterReferences": [
+          "Numbers 7:1-9",
+          "Numbers 10:11-28"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Levites",
+        "arc": "Sinai Organization",
+        "previousStory": "numbers-02-camp-arrangement",
+        "nextStory": "numbers-04-camp-laws"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Aaron",
+          "Eleazar",
+          "Ithamar",
+          "Gershonites",
+          "Kohathites",
+          "Merarites",
+          "Levites"
+        ],
+        "places": [
+          "Wilderness of Sinai",
+          "Tent of Meeting",
+          "Tabernacle"
+        ],
+        "events": [
+          "Levite census",
+          "Tabernacle duties",
+          "Gershon Kohath Merari",
+          "firstborn substitution"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Numbers 3 Levites",
+          "Numbers 4 Levites",
+          "Levitical duties"
+        ]
+      },
+      "realitySummary": "Numbers 3-4 counts the Levites, assigns them around the Tabernacle, connects them to Israel's firstborn, and gives Gershon, Kohath, and Merari their transport duties."
+    }
+  },
+  {
+    "id": "numbers-04-camp-laws",
+    "sourceFile": "numbers-04-camp-laws.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Priest",
+      "Nazirite",
+      "Aaron and his sons",
+      "Israelite camp",
+      "Outside the camp",
+      "Tent of Meeting",
+      "Aaron",
+      "priests",
+      "outside the camp",
+      "camp purity",
+      "restitution",
+      "Nazirite vow",
+      "priestly blessing",
+      "jealousy case",
+      "Wilderness",
+      "Sinai",
+      "Numbers 5",
+      "Numbers 6",
+      "Aaronic blessing",
+      "Nazirite law",
+      "Instruction Received",
+      "Camp Purity",
+      "Restitution",
+      "Vow",
+      "Blessing",
+      "Instructions for Camp Purity, Restitution, Nazirites, and Blessing",
+      "Numbers 5-6",
+      "Numbers 5-6 gives instructions for camp purity, restitution, the jealousy case, Nazirite vows, and the priestly blessing spoken by Aaron and his sons."
+    ],
+    "title": "Instructions for Camp Purity, Restitution, Nazirites, and Blessing",
+    "reference": "Numbers 5-6",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Camp Purity",
+      "Restitution",
+      "Vow",
+      "Blessing"
+    ],
+    "summary": "Numbers 5-6 gives instructions for camp purity, restitution, the jealousy case, Nazirite vows, and the priestly blessing spoken by Aaron and his sons.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Camp Community Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Levite assignments; before tribal offerings; before leaving Sinai"
+      }
+    ],
+    "situation": "The laws address disease, bodily conditions, restitution, confession, marital suspicion, vows, hair, wine, grapes, dead bodies, offerings, and blessing.",
+    "storyPosition": [
+      "Levites Assigned",
+      "Camp Laws",
+      "Tribal Offerings",
+      "Levite Dedication",
+      "Passover and Cloud",
+      "Departure from Sinai"
+    ],
+    "currentStory": "Camp Laws",
+    "stepIntoStory": "The camp around the Tabernacle is now organized, but daily life still produces cases that must be handled: impurity, wrongdoing, suspicion, vows, and public blessing.\n\nSome people move outside the camp. Others bring restitution or offerings to the priest. A Nazirite becomes visible through abstentions and uncut hair.\n\nThe section ends with Aaron and his sons receiving words to speak over Israel, placing priestly blessing within the camp's ordered life.",
+    "notice": [
+      "Camp boundaries separating inside from outside.",
+      "Unclean persons sent outside the camp.",
+      "Restitution brought with added compensation.",
+      "Cases brought before a priest.",
+      "A Nazirite with uncut hair.",
+      "Wine, grapes, and dead-body contact restricted during the vow.",
+      "Offerings brought when the vow is completed.",
+      "Aaron and his sons blessing Israel.",
+      "The Tent of Meeting as the place of priestly action.",
+      "Community order maintained before travel resumes."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 3-4 assigned the Levites and their Tabernacle duties."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given for removing certain unclean persons from camp, restitution, the jealousy case, Nazirite vows, and the priestly blessing."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 7 records tribal leaders bringing offerings after the Tabernacle is set up and anointed."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The camp is organized around the Tabernacle and now receives purity and community instructions."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The instructions affect both ordinary Israelites and special vow situations."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The priestly blessing is given to Aaron and his sons for Israel."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "These instructions occur before the tribal offerings of Numbers 7."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting is the wilderness camp at Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Camp boundaries matter because some people are sent outside the camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Tent of Meeting remains the place where priestly procedures occur."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The laws address disease, bodily conditions, restitution, confession, marital suspicion, vows, hair, wine, grapes, dead bodies, offerings, and blessing."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Nazirite vows are marked by visible restrictions, especially uncut hair."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Restitution involves repayment and added compensation."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests act in both legal and ritual situations."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This applies camp order to daily community life.",
+      "It shows how purity, restitution, vows, and blessing function in the organized wilderness camp.",
+      "It introduces the Nazirite vow.",
+      "It preserves the priestly blessing within the Sinai organization section."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates camp laws",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Recipients of camp purity, restitution, and Nazirite instructions",
+        "relationships": []
+      },
+      {
+        "name": "Priest",
+        "role": "Handles restitution, jealousy case, and Nazirite offerings",
+        "relationships": []
+      },
+      {
+        "name": "Nazirite",
+        "role": "Person who makes a special vow",
+        "relationships": []
+      },
+      {
+        "name": "Aaron and his sons",
+        "role": "Receive the priestly blessing to speak over Israel",
+        "relationships": [
+          "Priestly family"
+        ]
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Community setting affected by purity and restitution instructions"
+      },
+      {
+        "ancientName": "Outside the camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where certain unclean persons are sent"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where offerings and priestly actions occur"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Priest",
+      "Nazirite",
+      "Aaron and his sons"
+    ],
+    "places": [
+      "Israelite camp",
+      "Outside the camp",
+      "Tent of Meeting"
+    ],
+    "movement": [
+      "Certain unclean persons are sent outside the camp",
+      "Wrongdoing and restitution are addressed",
+      "A jealousy case is brought to the priest",
+      "A Nazirite follows vow restrictions and later brings offerings",
+      "Aaron and his sons bless Israel"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp",
+      "destination": "Outside camp or Tent of Meeting depending on case",
+      "route": [
+        "Certain unclean persons are sent outside the camp",
+        "Wrongdoing and restitution are addressed",
+        "A jealousy case is brought to the priest",
+        "A Nazirite follows vow restrictions and later brings offerings",
+        "Aaron and his sons bless Israel"
+      ],
+      "majorStops": [
+        "Camp",
+        "Outside the camp",
+        "Tent of Meeting"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Numbers 5 and 6 move from camp layout to camp life. The people are organized around the Tabernacle, and now the camp receives instructions for purity, restitution, special cases, vows, and blessing. Certain unclean persons are sent outside the camp. Wrongdoing requires confession and repayment. A jealousy case is brought before the priest. The Nazirite vow is described with visible restrictions, including uncut hair and separation from wine and grape products. The section closes with the priestly blessing given to Aaron and his sons to speak over Israel.",
+    "crossReferences": [
+      "Numbers 3:1-4:49",
+      "Numbers 5:1-31",
+      "Numbers 6:1-27",
+      "Judges 13:1-7",
+      "1 Samuel 1:11",
+      "Luke 1:15",
+      "Acts 21:23-26"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 3:1-4:49"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 5:1-31",
+        "Numbers 6:1-27"
+      ],
+      "laterReferences": [
+        "Judges 13:1-7",
+        "1 Samuel 1:11"
+      ],
+      "newTestamentReferences": [
+        "Luke 1:15",
+        "Acts 21:23-26"
+      ]
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Sinai Organization",
+      "previousStory": "numbers-03-levites-assigned",
+      "nextStory": "numbers-05-tribal-offerings"
+    },
+    "source": {
+      "id": "numbers-04-camp-laws",
+      "reference": "Numbers 5-6",
+      "storyTitle": "Instructions for Camp Purity, Restitution, Nazirites, and Blessing",
+      "eventType": [
+        "Instruction Received",
+        "Camp Purity",
+        "Restitution",
+        "Vow",
+        "Blessing"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Aaron",
+          "priests",
+          "Israelites",
+          "Nazirites"
+        ],
+        "sceneScale": "Camp Community Instruction",
+        "timeAnchor": "After Levite assignments; before tribal offerings; before leaving Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates camp laws",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Recipients of camp purity, restitution, and Nazirite instructions",
+          "relationships": []
+        },
+        {
+          "name": "Priest",
+          "role": "Handles restitution, jealousy case, and Nazirite offerings",
+          "relationships": []
+        },
+        {
+          "name": "Nazirite",
+          "role": "Person who makes a special vow",
+          "relationships": []
+        },
+        {
+          "name": "Aaron and his sons",
+          "role": "Receive the priestly blessing to speak over Israel",
+          "relationships": [
+            "Priestly family"
+          ]
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Community setting affected by purity and restitution instructions"
+        },
+        {
+          "ancientName": "Outside the camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where certain unclean persons are sent"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where offerings and priestly actions occur"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp",
+        "destination": "Outside camp or Tent of Meeting depending on case",
+        "route": [
+          "Certain unclean persons are sent outside the camp",
+          "Wrongdoing and restitution are addressed",
+          "A jealousy case is brought to the priest",
+          "A Nazirite follows vow restrictions and later brings offerings",
+          "Aaron and his sons bless Israel"
+        ],
+        "majorStops": [
+          "Camp",
+          "Outside the camp",
+          "Tent of Meeting"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 3-4 assigned the Levites and their Tabernacle duties.",
+        "whatIsHappeningNow": "Instructions are given for removing certain unclean persons from camp, restitution, the jealousy case, Nazirite vows, and the priestly blessing.",
+        "whatHappensAfter": "Numbers 7 records tribal leaders bringing offerings after the Tabernacle is set up and anointed.",
+        "storyPositionStrip": [
+          "Levites Assigned",
+          "Camp Laws ← YOU ARE HERE",
+          "Tribal Offerings",
+          "Levite Dedication",
+          "Passover and Cloud",
+          "Departure from Sinai"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "The camp is organized around the Tabernacle and now receives purity and community instructions.",
+          "The instructions affect both ordinary Israelites and special vow situations.",
+          "The priestly blessing is given to Aaron and his sons for Israel.",
+          "These instructions occur before the tribal offerings of Numbers 7."
+        ],
+        "geographicContext": [
+          "The setting is the wilderness camp at Sinai.",
+          "Camp boundaries matter because some people are sent outside the camp.",
+          "The Tent of Meeting remains the place where priestly procedures occur."
+        ],
+        "dailyLifeContext": [
+          "The laws address disease, bodily conditions, restitution, confession, marital suspicion, vows, hair, wine, grapes, dead bodies, offerings, and blessing.",
+          "Nazirite vows are marked by visible restrictions, especially uncut hair.",
+          "Restitution involves repayment and added compensation.",
+          "Priests act in both legal and ritual situations."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This applies camp order to daily community life.",
+        "It shows how purity, restitution, vows, and blessing function in the organized wilderness camp.",
+        "It introduces the Nazirite vow.",
+        "It preserves the priestly blessing within the Sinai organization section."
+      ],
+      "stepIntoTheStory": [
+        "The camp around the Tabernacle is now organized, but daily life still produces cases that must be handled: impurity, wrongdoing, suspicion, vows, and public blessing.",
+        "Some people move outside the camp. Others bring restitution or offerings to the priest. A Nazirite becomes visible through abstentions and uncut hair.",
+        "The section ends with Aaron and his sons receiving words to speak over Israel, placing priestly blessing within the camp's ordered life."
+      ],
+      "documentaryObservations": [
+        "Camp boundaries separating inside from outside.",
+        "Unclean persons sent outside the camp.",
+        "Restitution brought with added compensation.",
+        "Cases brought before a priest.",
+        "A Nazirite with uncut hair.",
+        "Wine, grapes, and dead-body contact restricted during the vow.",
+        "Offerings brought when the vow is completed.",
+        "Aaron and his sons blessing Israel.",
+        "The Tent of Meeting as the place of priestly action.",
+        "Community order maintained before travel resumes."
+      ],
+      "audioScript": "Numbers 5 and 6 move from camp layout to camp life. The people are organized around the Tabernacle, and now the camp receives instructions for purity, restitution, special cases, vows, and blessing. Certain unclean persons are sent outside the camp. Wrongdoing requires confession and repayment. A jealousy case is brought before the priest. The Nazirite vow is described with visible restrictions, including uncut hair and separation from wine and grape products. The section closes with the priestly blessing given to Aaron and his sons to speak over Israel.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 3:1-4:49"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 5:1-31",
+          "Numbers 6:1-27"
+        ],
+        "laterReferences": [
+          "Judges 13:1-7",
+          "1 Samuel 1:11"
+        ],
+        "newTestamentReferences": [
+          "Luke 1:15",
+          "Acts 21:23-26"
+        ]
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Sinai Organization",
+        "previousStory": "numbers-03-levites-assigned",
+        "nextStory": "numbers-05-tribal-offerings"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Aaron",
+          "priests",
+          "Israelites",
+          "Nazirite"
+        ],
+        "places": [
+          "Israelite camp",
+          "outside the camp",
+          "Tent of Meeting"
+        ],
+        "events": [
+          "camp purity",
+          "restitution",
+          "Nazirite vow",
+          "priestly blessing",
+          "jealousy case"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Numbers 5",
+          "Numbers 6",
+          "Aaronic blessing",
+          "Nazirite law"
+        ]
+      },
+      "realitySummary": "Numbers 5-6 gives instructions for camp purity, restitution, the jealousy case, Nazirite vows, and the priestly blessing spoken by Aaron and his sons."
+    }
+  },
+  {
+    "id": "numbers-05-tribal-offerings",
+    "sourceFile": "numbers-05-tribal-offerings.json",
+    "searchTerms": [
+      "Moses",
+      "Tribal leaders",
+      "Levites",
+      "Gershonites",
+      "Merarites",
+      "Kohathites",
+      "Aaron",
+      "Tabernacle",
+      "Altar",
+      "Tent of Meeting",
+      "tribal leaders",
+      "altar",
+      "Sinai",
+      "tribal offerings",
+      "altar dedication",
+      "covered carts",
+      "twelve oxen",
+      "Wilderness",
+      "Numbers 7 offerings",
+      "leaders' offerings",
+      "Offering",
+      "Dedication",
+      "Worship Activity",
+      "Tribal Presentation",
+      "The Tribal Leaders Bring Offerings for the Altar",
+      "Numbers 7",
+      "Numbers 7 records the tribal leaders bringing carts, oxen, and repeated offerings for the dedication of the altar after the Tabernacle is set up."
+    ],
+    "title": "The Tribal Leaders Bring Offerings for the Altar",
+    "reference": "Numbers 7",
+    "kicker": "Study",
+    "eventType": [
+      "Offering",
+      "Dedication",
+      "Worship Activity",
+      "Tribal Presentation"
+    ],
+    "summary": "Numbers 7 records the tribal leaders bringing carts, oxen, and repeated offerings for the dedication of the altar after the Tabernacle is set up.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Tribal leaders"
+      },
+      {
+        "label": "Location",
+        "value": "Tabernacle at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Tribal Offering"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Tabernacle setup and anointing; before Levite dedication; before leaving Sinai"
+      }
+    ],
+    "situation": "Covered carts and oxen are practical transport resources for Tabernacle movement.",
+    "storyPosition": [
+      "Camp Laws",
+      "Tribal Offerings",
+      "Lamp and Levite Dedication",
+      "Passover and Cloud",
+      "Departure from Sinai"
+    ],
+    "currentStory": "Tribal Offerings",
+    "stepIntoStory": "The scene is formal and repetitive. Tribal leaders come forward one by one, each representing his tribe before the sanctuary.\n\nThe first visible gift is practical: covered carts and oxen for moving Tabernacle materials. These are assigned to Levites according to their work.\n\nThen, over twelve days, each leader brings offerings for the altar. The repeated lists create the image of a long public dedication sequence at the Tabernacle.",
+    "notice": [
+      "Tribal leaders approaching the Tabernacle.",
+      "Six covered carts standing near the sanctuary.",
+      "Twelve oxen brought for transport.",
+      "Carts assigned to Gershonites and Merarites.",
+      "Kohathites carrying holy objects on shoulders.",
+      "Silver plates and basins presented.",
+      "Gold dishes filled with incense.",
+      "Bulls, rams, lambs, goats, and peace offering animals brought.",
+      "Each tribe presenting on its own day.",
+      "Moses entering the Tent of Meeting after the offerings."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 5-6 gave camp laws, Nazirite instructions, and the priestly blessing."
+      },
+      {
+        "label": "Now",
+        "value": "Tribal leaders bring carts, oxen, and offerings for the dedication of the altar, each leader presenting on a separate day."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 8 gives instructions about the lampstand and the dedication of the Levites."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle has been set up and anointed."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The tribal leaders were involved in the census and organization of Israel."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Levite transport assignments from Numbers 4 are reflected in the distribution of carts and oxen."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This chapter dedicates the altar through tribal offerings."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The scene is the Tabernacle at Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Offerings move from tribal camp areas toward the sanctuary."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The altar and Tent of Meeting are the central locations."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Covered carts and oxen are practical transport resources for Tabernacle movement."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Offerings include silver plates, silver basins, gold dishes, flour, oil, incense, bulls, rams, lambs, goats, and peace offering animals."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Each tribal leader presents a matching offering on a different day."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Kohathites carry holy objects by shoulder rather than cart."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This publicly involves every tribe in altar dedication.",
+      "It supplies transport resources for the Levite clans that move Tabernacle materials.",
+      "It reinforces the tribal organization established earlier in Numbers.",
+      "It leads into the Levite dedication of Numbers 8."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Receives offerings and enters the Tent of Meeting",
+        "relationships": []
+      },
+      {
+        "name": "Tribal leaders",
+        "role": "Heads of Israel's tribes who bring offerings",
+        "relationships": []
+      },
+      {
+        "name": "Levites",
+        "role": "Receive carts and oxen according to service needs",
+        "relationships": []
+      },
+      {
+        "name": "Gershonites",
+        "role": "Receive carts and oxen for transport duties",
+        "relationships": []
+      },
+      {
+        "name": "Merarites",
+        "role": "Receive carts and oxen for heavier transport duties",
+        "relationships": []
+      },
+      {
+        "name": "Kohathites",
+        "role": "Do not receive carts because they carry holy objects on shoulders",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Priestly figure associated with the altar dedication",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tabernacle",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary that has been set up and anointed"
+      },
+      {
+        "ancientName": "Altar",
+        "modernRegion": "Tabernacle courtyard",
+        "description": "Place dedicated through the leaders' offerings"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where Moses hears the voice speaking from above the mercy seat"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Tribal leaders",
+      "Levites",
+      "Gershonites",
+      "Merarites",
+      "Kohathites",
+      "Aaron"
+    ],
+    "places": [
+      "Tabernacle",
+      "Altar",
+      "Tent of Meeting"
+    ],
+    "movement": [
+      "Leaders bring six covered carts and twelve oxen",
+      "Carts and oxen are assigned to Levite clans",
+      "Each tribal leader brings offerings over twelve days",
+      "The altar dedication offerings are presented",
+      "Moses enters the Tent of Meeting and hears the voice"
+    ],
+    "movementDetails": {
+      "startingPoint": "Tribal camps",
+      "destination": "Tabernacle altar",
+      "route": [
+        "Leaders bring six covered carts and twelve oxen",
+        "Carts and oxen are assigned to Levite clans",
+        "Each tribal leader brings offerings over twelve days",
+        "The altar dedication offerings are presented",
+        "Moses enters the Tent of Meeting and hears the voice"
+      ],
+      "majorStops": [
+        "Tribal camps",
+        "Tabernacle",
+        "Altar",
+        "Tent of Meeting"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Numbers 7 records a long public dedication at the Tabernacle. The leaders of Israel bring offerings after the sanctuary has been set up and anointed. First come practical gifts: six covered carts and twelve oxen for the Levites who transport Tabernacle materials. The Gershonites and Merarites receive carts, but the Kohathites do not, because they carry the holy objects on their shoulders. Then each tribal leader presents offerings for the altar on his appointed day. The chapter ends with Moses entering the Tent of Meeting and hearing the voice from above the mercy seat.",
+    "crossReferences": [
+      "Exodus 40:1-38",
+      "Numbers 4:1-49",
+      "Numbers 7:1-89",
+      "Numbers 8:1-26",
+      "Numbers 10:11-28"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Exodus 40:1-38",
+        "Numbers 4:1-49"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 7:1-89"
+      ],
+      "laterReferences": [
+        "Numbers 8:1-26",
+        "Numbers 10:11-28"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Tribal leaders",
+      "arc": "Sinai Organization",
+      "previousStory": "numbers-04-camp-laws",
+      "nextStory": "numbers-06-lamp-and-levite-dedication"
+    },
+    "source": {
+      "id": "numbers-05-tribal-offerings",
+      "reference": "Numbers 7",
+      "storyTitle": "The Tribal Leaders Bring Offerings for the Altar",
+      "eventType": [
+        "Offering",
+        "Dedication",
+        "Worship Activity",
+        "Tribal Presentation"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Tribal leaders",
+        "approximateAge": null,
+        "currentLocation": "Tabernacle at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Aaron",
+          "Levites"
+        ],
+        "sceneScale": "National Tribal Offering",
+        "timeAnchor": "After Tabernacle setup and anointing; before Levite dedication; before leaving Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Receives offerings and enters the Tent of Meeting",
+          "relationships": []
+        },
+        {
+          "name": "Tribal leaders",
+          "role": "Heads of Israel's tribes who bring offerings",
+          "relationships": []
+        },
+        {
+          "name": "Levites",
+          "role": "Receive carts and oxen according to service needs",
+          "relationships": []
+        },
+        {
+          "name": "Gershonites",
+          "role": "Receive carts and oxen for transport duties",
+          "relationships": []
+        },
+        {
+          "name": "Merarites",
+          "role": "Receive carts and oxen for heavier transport duties",
+          "relationships": []
+        },
+        {
+          "name": "Kohathites",
+          "role": "Do not receive carts because they carry holy objects on shoulders",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Priestly figure associated with the altar dedication",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tabernacle",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary that has been set up and anointed"
+        },
+        {
+          "ancientName": "Altar",
+          "modernRegion": "Tabernacle courtyard",
+          "description": "Place dedicated through the leaders' offerings"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where Moses hears the voice speaking from above the mercy seat"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Tribal camps",
+        "destination": "Tabernacle altar",
+        "route": [
+          "Leaders bring six covered carts and twelve oxen",
+          "Carts and oxen are assigned to Levite clans",
+          "Each tribal leader brings offerings over twelve days",
+          "The altar dedication offerings are presented",
+          "Moses enters the Tent of Meeting and hears the voice"
+        ],
+        "majorStops": [
+          "Tribal camps",
+          "Tabernacle",
+          "Altar",
+          "Tent of Meeting"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 5-6 gave camp laws, Nazirite instructions, and the priestly blessing.",
+        "whatIsHappeningNow": "Tribal leaders bring carts, oxen, and offerings for the dedication of the altar, each leader presenting on a separate day.",
+        "whatHappensAfter": "Numbers 8 gives instructions about the lampstand and the dedication of the Levites.",
+        "storyPositionStrip": [
+          "Camp Laws",
+          "Tribal Offerings ← YOU ARE HERE",
+          "Lamp and Levite Dedication",
+          "Passover and Cloud",
+          "Departure from Sinai"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "The Tabernacle has been set up and anointed.",
+          "The tribal leaders were involved in the census and organization of Israel.",
+          "The Levite transport assignments from Numbers 4 are reflected in the distribution of carts and oxen.",
+          "This chapter dedicates the altar through tribal offerings."
+        ],
+        "geographicContext": [
+          "The scene is the Tabernacle at Sinai.",
+          "Offerings move from tribal camp areas toward the sanctuary.",
+          "The altar and Tent of Meeting are the central locations."
+        ],
+        "dailyLifeContext": [
+          "Covered carts and oxen are practical transport resources for Tabernacle movement.",
+          "Offerings include silver plates, silver basins, gold dishes, flour, oil, incense, bulls, rams, lambs, goats, and peace offering animals.",
+          "Each tribal leader presents a matching offering on a different day.",
+          "Kohathites carry holy objects by shoulder rather than cart."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This publicly involves every tribe in altar dedication.",
+        "It supplies transport resources for the Levite clans that move Tabernacle materials.",
+        "It reinforces the tribal organization established earlier in Numbers.",
+        "It leads into the Levite dedication of Numbers 8."
+      ],
+      "stepIntoTheStory": [
+        "The scene is formal and repetitive. Tribal leaders come forward one by one, each representing his tribe before the sanctuary.",
+        "The first visible gift is practical: covered carts and oxen for moving Tabernacle materials. These are assigned to Levites according to their work.",
+        "Then, over twelve days, each leader brings offerings for the altar. The repeated lists create the image of a long public dedication sequence at the Tabernacle."
+      ],
+      "documentaryObservations": [
+        "Tribal leaders approaching the Tabernacle.",
+        "Six covered carts standing near the sanctuary.",
+        "Twelve oxen brought for transport.",
+        "Carts assigned to Gershonites and Merarites.",
+        "Kohathites carrying holy objects on shoulders.",
+        "Silver plates and basins presented.",
+        "Gold dishes filled with incense.",
+        "Bulls, rams, lambs, goats, and peace offering animals brought.",
+        "Each tribe presenting on its own day.",
+        "Moses entering the Tent of Meeting after the offerings."
+      ],
+      "audioScript": "Numbers 7 records a long public dedication at the Tabernacle. The leaders of Israel bring offerings after the sanctuary has been set up and anointed. First come practical gifts: six covered carts and twelve oxen for the Levites who transport Tabernacle materials. The Gershonites and Merarites receive carts, but the Kohathites do not, because they carry the holy objects on their shoulders. Then each tribal leader presents offerings for the altar on his appointed day. The chapter ends with Moses entering the Tent of Meeting and hearing the voice from above the mercy seat.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Exodus 40:1-38",
+          "Numbers 4:1-49"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 7:1-89"
+        ],
+        "laterReferences": [
+          "Numbers 8:1-26",
+          "Numbers 10:11-28"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Tribal leaders",
+        "arc": "Sinai Organization",
+        "previousStory": "numbers-04-camp-laws",
+        "nextStory": "numbers-06-lamp-and-levite-dedication"
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Aaron",
+          "tribal leaders",
+          "Levites",
+          "Gershonites",
+          "Merarites",
+          "Kohathites"
+        ],
+        "places": [
+          "Tabernacle",
+          "altar",
+          "Tent of Meeting",
+          "Sinai"
+        ],
+        "events": [
+          "tribal offerings",
+          "altar dedication",
+          "covered carts",
+          "twelve oxen"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Numbers 7 offerings",
+          "leaders' offerings",
+          "altar dedication"
+        ]
+      },
+      "realitySummary": "Numbers 7 records the tribal leaders bringing carts, oxen, and repeated offerings for the dedication of the altar after the Tabernacle is set up."
+    }
+  },
+  {
+    "id": "numbers-06-lamp-and-levite-dedication",
+    "sourceFile": "numbers-06-lamp-and-levite-dedication.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Levites",
+      "Israelites",
+      "Aaron's sons",
+      "Tent of Meeting",
+      "Lampstand",
+      "Israelite camp",
+      "lampstand",
+      "lampstand arranged",
+      "Levite dedication",
+      "Levites cleansed",
+      "firstborn substitution",
+      "Wilderness",
+      "Sinai",
+      "Numbers 8",
+      "dedication of Levites",
+      "lampstand instruction",
+      "Instruction Received",
+      "Tabernacle Service",
+      "Dedication",
+      "Priestly Assignment",
+      "The Lampstand Is Arranged and the Levites Are Dedicated",
+      "Numbers 8 gives instructions for arranging the lampstand and narrates the cleansing, presentation, and dedication of the Levites for service at the Tent of Meeting."
+    ],
+    "title": "The Lampstand Is Arranged and the Levites Are Dedicated",
+    "reference": "Numbers 8",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Tabernacle Service",
+      "Dedication",
+      "Priestly Assignment"
+    ],
+    "summary": "Numbers 8 gives instructions for arranging the lampstand and narrates the cleansing, presentation, and dedication of the Levites for service at the Tent of Meeting.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Levites"
+      },
+      {
+        "label": "Location",
+        "value": "Tent of Meeting at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Levite Dedication"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After tribal offerings; before second Passover; before leaving Sinai"
+      }
+    ],
+    "situation": "The Levites are cleansed with water, shaving, and washing garments.",
+    "storyPosition": [
+      "Tribal Offerings",
+      "Lamp and Levite Dedication",
+      "Passover and Cloud",
+      "Silver Trumpets",
+      "Departure from Sinai"
+    ],
+    "currentStory": "Lamp and Levite Dedication",
+    "stepIntoStory": "The scene begins inside the Tent with the lampstand, where Aaron arranges the lamps to give light in front of the stand.\n\nThe focus then moves to the Levites. They are brought from among Israel, cleansed, shaved, and their clothes washed.\n\nThe people lay hands on them, and Aaron presents them for service. The Levites move from ordinary tribal identity into defined Tabernacle duty.",
+    "notice": [
+      "Aaron arranging lamps on the lampstand.",
+      "Light directed in front of the lampstand.",
+      "Levites gathered from among Israel.",
+      "Water used for cleansing.",
+      "Levites shaving their bodies.",
+      "Garments washed before service.",
+      "Israelites laying hands on the Levites.",
+      "Levites presented before the Tent of Meeting.",
+      "Offerings made during the dedication.",
+      "Levites assigned to active service ages."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 7 recorded the tribal leaders' offerings for the altar dedication."
+      },
+      {
+        "label": "Now",
+        "value": "Aaron arranges the lamps, and the Levites are cleansed, presented, and assigned to serve at the Tent of Meeting."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 9 records the second-year Passover and the cloud that guides Israel's travel."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This follows the altar dedication offerings of Numbers 7."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Levites had already been counted and assigned roles in Numbers 3-4."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This chapter presents their formal dedication for service."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The lampstand instructions connect back to Exodus and Leviticus sanctuary maintenance."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting is the Tabernacle at Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The action moves between the camp community and the Tent of Meeting."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The lampstand is located inside the sanctuary."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The Levites are cleansed with water, shaving, and washing garments."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Israelites lay hands on the Levites in a public presentation."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Levites are described as substitutes for Israel's firstborn."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Service age limits are stated for Levite work."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This formally dedicates the Levites for Tabernacle service.",
+      "It connects Levite service to Israel's firstborn.",
+      "It prepares the camp for movement with the Tabernacle.",
+      "It links lamp maintenance and Levite dedication in the ordered sanctuary system."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and carries out Levite dedication instructions",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Arranges the lamps and presents the Levites",
+        "relationships": [
+          "Brother of Moses"
+        ]
+      },
+      {
+        "name": "Levites",
+        "role": "Cleansed, presented, and assigned for service",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Lay hands on the Levites",
+        "relationships": []
+      },
+      {
+        "name": "Aaron's sons",
+        "role": "Priests connected with offerings and service",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary where lamps and Levites are presented"
+      },
+      {
+        "ancientName": "Lampstand",
+        "modernRegion": "Inside the Tent of Meeting",
+        "description": "Sanctuary object whose lamps are arranged"
+      },
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Community setting from which Levites are taken"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Aaron",
+      "Levites",
+      "Israelites",
+      "Aaron's sons"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Lampstand",
+      "Israelite camp"
+    ],
+    "movement": [
+      "Aaron arranges the lamps",
+      "Levites are taken from among Israel",
+      "Levites are cleansed with water, shaving, and washing clothes",
+      "Israelites lay hands on the Levites",
+      "Aaron presents the Levites as an offering",
+      "Levites enter service at the Tent of Meeting"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp",
+      "destination": "Tent of Meeting service",
+      "route": [
+        "Aaron arranges the lamps",
+        "Levites are taken from among Israel",
+        "Levites are cleansed with water, shaving, and washing clothes",
+        "Israelites lay hands on the Levites",
+        "Aaron presents the Levites as an offering",
+        "Levites enter service at the Tent of Meeting"
+      ],
+      "majorStops": [
+        "Israelite camp",
+        "Tent of Meeting",
+        "Lampstand",
+        "Levite service area"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Numbers 8 begins with the lampstand inside the Tent of Meeting. Aaron arranges the lamps so they give light in front of the lampstand. The chapter then turns to the Levites. They are taken from among Israel, cleansed with water, shaved, and their clothes are washed. The Israelites lay hands on them, and Aaron presents them for service. The Levites are set apart for work at the Tent of Meeting in place of Israel's firstborn. The organized camp now has dedicated workers ready for the sanctuary's service and movement.",
+    "crossReferences": [
+      "Exodus 25:31-40",
+      "Numbers 3:5-13",
+      "Numbers 7:1-89",
+      "Numbers 8:1-26",
+      "Numbers 10:11-28",
+      "Numbers 18:1-7"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Exodus 25:31-40",
+        "Numbers 3:5-13",
+        "Numbers 7:1-89"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 8:1-26"
+      ],
+      "laterReferences": [
+        "Numbers 10:11-28",
+        "Numbers 18:1-7"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Levites",
+      "arc": "Sinai Organization",
+      "previousStory": "numbers-05-tribal-offerings",
+      "nextStory": "numbers-07-passover-and-cloud"
+    },
+    "source": {
+      "id": "numbers-06-lamp-and-levite-dedication",
+      "reference": "Numbers 8",
+      "storyTitle": "The Lampstand Is Arranged and the Levites Are Dedicated",
+      "eventType": [
+        "Instruction Received",
+        "Tabernacle Service",
+        "Dedication",
+        "Priestly Assignment"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Levites",
+        "approximateAge": null,
+        "currentLocation": "Tent of Meeting at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Aaron",
+          "Israelites"
+        ],
+        "sceneScale": "Levite Dedication",
+        "timeAnchor": "After tribal offerings; before second Passover; before leaving Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and carries out Levite dedication instructions",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Arranges the lamps and presents the Levites",
+          "relationships": [
+            "Brother of Moses"
+          ]
+        },
+        {
+          "name": "Levites",
+          "role": "Cleansed, presented, and assigned for service",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Lay hands on the Levites",
+          "relationships": []
+        },
+        {
+          "name": "Aaron's sons",
+          "role": "Priests connected with offerings and service",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary where lamps and Levites are presented"
+        },
+        {
+          "ancientName": "Lampstand",
+          "modernRegion": "Inside the Tent of Meeting",
+          "description": "Sanctuary object whose lamps are arranged"
+        },
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Community setting from which Levites are taken"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp",
+        "destination": "Tent of Meeting service",
+        "route": [
+          "Aaron arranges the lamps",
+          "Levites are taken from among Israel",
+          "Levites are cleansed with water, shaving, and washing clothes",
+          "Israelites lay hands on the Levites",
+          "Aaron presents the Levites as an offering",
+          "Levites enter service at the Tent of Meeting"
+        ],
+        "majorStops": [
+          "Israelite camp",
+          "Tent of Meeting",
+          "Lampstand",
+          "Levite service area"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 7 recorded the tribal leaders' offerings for the altar dedication.",
+        "whatIsHappeningNow": "Aaron arranges the lamps, and the Levites are cleansed, presented, and assigned to serve at the Tent of Meeting.",
+        "whatHappensAfter": "Numbers 9 records the second-year Passover and the cloud that guides Israel's travel.",
+        "storyPositionStrip": [
+          "Tribal Offerings",
+          "Lamp and Levite Dedication ← YOU ARE HERE",
+          "Passover and Cloud",
+          "Silver Trumpets",
+          "Departure from Sinai"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This follows the altar dedication offerings of Numbers 7.",
+          "The Levites had already been counted and assigned roles in Numbers 3-4.",
+          "This chapter presents their formal dedication for service.",
+          "The lampstand instructions connect back to Exodus and Leviticus sanctuary maintenance."
+        ],
+        "geographicContext": [
+          "The setting is the Tabernacle at Sinai.",
+          "The action moves between the camp community and the Tent of Meeting.",
+          "The lampstand is located inside the sanctuary."
+        ],
+        "dailyLifeContext": [
+          "The Levites are cleansed with water, shaving, and washing garments.",
+          "Israelites lay hands on the Levites in a public presentation.",
+          "Levites are described as substitutes for Israel's firstborn.",
+          "Service age limits are stated for Levite work."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This formally dedicates the Levites for Tabernacle service.",
+        "It connects Levite service to Israel's firstborn.",
+        "It prepares the camp for movement with the Tabernacle.",
+        "It links lamp maintenance and Levite dedication in the ordered sanctuary system."
+      ],
+      "stepIntoTheStory": [
+        "The scene begins inside the Tent with the lampstand, where Aaron arranges the lamps to give light in front of the stand.",
+        "The focus then moves to the Levites. They are brought from among Israel, cleansed, shaved, and their clothes washed.",
+        "The people lay hands on them, and Aaron presents them for service. The Levites move from ordinary tribal identity into defined Tabernacle duty."
+      ],
+      "documentaryObservations": [
+        "Aaron arranging lamps on the lampstand.",
+        "Light directed in front of the lampstand.",
+        "Levites gathered from among Israel.",
+        "Water used for cleansing.",
+        "Levites shaving their bodies.",
+        "Garments washed before service.",
+        "Israelites laying hands on the Levites.",
+        "Levites presented before the Tent of Meeting.",
+        "Offerings made during the dedication.",
+        "Levites assigned to active service ages."
+      ],
+      "audioScript": "Numbers 8 begins with the lampstand inside the Tent of Meeting. Aaron arranges the lamps so they give light in front of the lampstand. The chapter then turns to the Levites. They are taken from among Israel, cleansed with water, shaved, and their clothes are washed. The Israelites lay hands on them, and Aaron presents them for service. The Levites are set apart for work at the Tent of Meeting in place of Israel's firstborn. The organized camp now has dedicated workers ready for the sanctuary's service and movement.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Exodus 25:31-40",
+          "Numbers 3:5-13",
+          "Numbers 7:1-89"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 8:1-26"
+        ],
+        "laterReferences": [
+          "Numbers 10:11-28",
+          "Numbers 18:1-7"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Levites",
+        "arc": "Sinai Organization",
+        "previousStory": "numbers-05-tribal-offerings",
+        "nextStory": "numbers-07-passover-and-cloud"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron",
+          "Levites",
+          "Israelites",
+          "Aaron's sons"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "lampstand",
+          "Israelite camp"
+        ],
+        "events": [
+          "lampstand arranged",
+          "Levite dedication",
+          "Levites cleansed",
+          "firstborn substitution"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Numbers 8",
+          "dedication of Levites",
+          "lampstand instruction"
+        ]
+      },
+      "realitySummary": "Numbers 8 gives instructions for arranging the lampstand and narrates the cleansing, presentation, and dedication of the Levites for service at the Tent of Meeting."
+    }
+  },
+  {
+    "id": "numbers-07-passover-and-cloud",
+    "sourceFile": "numbers-07-passover-and-cloud.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Men unclean through a dead body",
+      "Aaron",
+      "Wilderness of Sinai",
+      "Tabernacle",
+      "Tent of the Testimony",
+      "unclean men",
+      "Passover in wilderness",
+      "second Passover",
+      "cloud guidance",
+      "fire by night",
+      "Wilderness",
+      "Sinai",
+      "Numbers 9 Passover",
+      "cloud over Tabernacle",
+      "Pesach Sheni",
+      "Passover",
+      "Instruction Received",
+      "Guidance",
+      "Encampment",
+      "The Passover Is Kept and the Cloud Guides Israel",
+      "Numbers 9",
+      "Numbers 9 records Israel keeping Passover in the wilderness, receiving a delayed Passover provision, and following the cloud over the Tabernacle for camping and travel."
+    ],
+    "title": "The Passover Is Kept and the Cloud Guides Israel",
+    "reference": "Numbers 9",
+    "kicker": "Study",
+    "eventType": [
+      "Passover",
+      "Instruction Received",
+      "Guidance",
+      "Encampment"
+    ],
+    "summary": "Numbers 9 records Israel keeping Passover in the wilderness, receiving a delayed Passover provision, and following the cloud over the Tabernacle for camping and travel.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Israelites"
+      },
+      {
+        "label": "Location",
+        "value": "Wilderness of Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Worship and Travel Guidance"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "Second year after Exodus; before departure from Sinai; before silver trumpets"
+      }
+    ],
+    "situation": "Passover involves keeping a set date and ritual meal.",
+    "storyPosition": [
+      "Levite Dedication",
+      "Passover and Cloud",
+      "Silver Trumpets",
+      "Departure from Sinai",
+      "Complaints in the Wilderness"
+    ],
+    "currentStory": "Passover and Cloud",
+    "stepIntoStory": "Israel is still at Sinai in the second year after leaving Egypt. The camp keeps Passover in the wilderness, remembering an event that happened before the departure from Egypt.\n\nA group of men who are unclean because of a dead body approach Moses with a practical problem. Their case leads to instruction for a second-month observance.\n\nThe final scene is visual: the cloud covers the Tabernacle by day, appears like fire by night, and determines whether the entire camp stays or moves.",
+    "notice": [
+      "Israel keeping Passover in the wilderness.",
+      "Men approaching Moses with a participation question.",
+      "A second-month Passover provision given.",
+      "The Tabernacle covered by a cloud.",
+      "Fire-like appearance over the Tabernacle at night.",
+      "The camp waiting while the cloud remains.",
+      "The camp breaking when the cloud lifts.",
+      "Tribes watching the sanctuary for travel signals.",
+      "Movement determined by the cloud rather than human scheduling."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 8 dedicated the Levites for service at the Tent of Meeting."
+      },
+      {
+        "label": "Now",
+        "value": "Israel keeps Passover in the second year, receives instructions for delayed Passover observance, and follows the cloud over the Tabernacle for camping and travel."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 10 gives instructions for silver trumpets and then records Israel's departure from Sinai."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This Passover occurs in the second year after the Exodus from Egypt."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The first Passover occurred in Egypt in Exodus 12."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "A provision is given for those unable to keep Passover at the appointed time because of uncleanness or distance."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The cloud over the Tabernacle becomes the visible guide for Israel's travel."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting is the wilderness of Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Tabernacle stands inside the camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The cloud's movement determines whether the camp stays or breaks camp."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Passover involves keeping a set date and ritual meal."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Contact with a dead body affects participation in the appointed time."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Camp life depends on watching the cloud over the Tabernacle."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel can begin after a few days, a month, a year, or whenever the cloud lifts."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This connects the original Passover in Egypt to Israel's wilderness life.",
+      "It introduces the delayed Passover provision.",
+      "It explains how the cloud determines Israel's camp and travel movements.",
+      "It prepares directly for the departure from Sinai in Numbers 10."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives Passover and cloud guidance instructions",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates instructions",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Keep Passover in the wilderness of Sinai",
+        "relationships": []
+      },
+      {
+        "name": "Men unclean through a dead body",
+        "role": "Ask about keeping Passover",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Priestly leader in the camp",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Wilderness of Sinai",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where the Passover is kept in the second year"
+      },
+      {
+        "ancientName": "Tabernacle",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Covered by the cloud after being set up"
+      },
+      {
+        "ancientName": "Tent of the Testimony",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary covered by the cloud"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Men unclean through a dead body",
+      "Aaron"
+    ],
+    "places": [
+      "Wilderness of Sinai",
+      "Tabernacle",
+      "Tent of the Testimony"
+    ],
+    "movement": [
+      "Israel keeps Passover in the wilderness of Sinai",
+      "A case arises for men unclean through a dead body",
+      "A second-month Passover provision is given",
+      "The cloud covers the Tabernacle",
+      "Israel camps or travels according to the cloud"
+    ],
+    "movementDetails": {
+      "startingPoint": "Camp at Sinai",
+      "destination": "Future travel under cloud guidance",
+      "route": [
+        "Israel keeps Passover in the wilderness of Sinai",
+        "A case arises for men unclean through a dead body",
+        "A second-month Passover provision is given",
+        "The cloud covers the Tabernacle",
+        "Israel camps or travels according to the cloud"
+      ],
+      "majorStops": [
+        "Wilderness of Sinai",
+        "Tabernacle",
+        "Israelite camp"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Numbers 9 takes place in the second year after Israel left Egypt. The people are still in the wilderness of Sinai, and they keep Passover there. Some men who are unclean because of a dead body ask Moses what they should do, and a provision is given for keeping Passover in the second month. The chapter then turns to the cloud over the Tabernacle. By day the cloud covers it, and by night it appears like fire. When the cloud stays, Israel camps. When the cloud lifts, Israel travels. The whole nation watches the sanctuary to know when to move.",
+    "crossReferences": [
+      "Exodus 12:1-51",
+      "Numbers 8:1-26",
+      "Numbers 9:1-23",
+      "Numbers 10:11-36",
+      "Deuteronomy 1:6-8"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Exodus 12:1-51",
+        "Numbers 8:1-26"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 9:1-23"
+      ],
+      "laterReferences": [
+        "Numbers 10:11-36",
+        "Deuteronomy 1:6-8"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Israelites",
+      "arc": "Sinai Organization",
+      "previousStory": "numbers-06-lamp-and-levite-dedication",
+      "nextStory": "numbers-08-silver-trumpets-and-departure"
+    },
+    "source": {
+      "id": "numbers-07-passover-and-cloud",
+      "reference": "Numbers 9",
+      "storyTitle": "The Passover Is Kept and the Cloud Guides Israel",
+      "eventType": [
+        "Passover",
+        "Instruction Received",
+        "Guidance",
+        "Encampment"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Israelites",
+        "approximateAge": null,
+        "currentLocation": "Wilderness of Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Aaron",
+          "unclean men"
+        ],
+        "sceneScale": "National Worship and Travel Guidance",
+        "timeAnchor": "Second year after Exodus; before departure from Sinai; before silver trumpets",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives Passover and cloud guidance instructions",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates instructions",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Keep Passover in the wilderness of Sinai",
+          "relationships": []
+        },
+        {
+          "name": "Men unclean through a dead body",
+          "role": "Ask about keeping Passover",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Priestly leader in the camp",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Wilderness of Sinai",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where the Passover is kept in the second year"
+        },
+        {
+          "ancientName": "Tabernacle",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Covered by the cloud after being set up"
+        },
+        {
+          "ancientName": "Tent of the Testimony",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary covered by the cloud"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Camp at Sinai",
+        "destination": "Future travel under cloud guidance",
+        "route": [
+          "Israel keeps Passover in the wilderness of Sinai",
+          "A case arises for men unclean through a dead body",
+          "A second-month Passover provision is given",
+          "The cloud covers the Tabernacle",
+          "Israel camps or travels according to the cloud"
+        ],
+        "majorStops": [
+          "Wilderness of Sinai",
+          "Tabernacle",
+          "Israelite camp"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 8 dedicated the Levites for service at the Tent of Meeting.",
+        "whatIsHappeningNow": "Israel keeps Passover in the second year, receives instructions for delayed Passover observance, and follows the cloud over the Tabernacle for camping and travel.",
+        "whatHappensAfter": "Numbers 10 gives instructions for silver trumpets and then records Israel's departure from Sinai.",
+        "storyPositionStrip": [
+          "Levite Dedication",
+          "Passover and Cloud ← YOU ARE HERE",
+          "Silver Trumpets",
+          "Departure from Sinai",
+          "Complaints in the Wilderness"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This Passover occurs in the second year after the Exodus from Egypt.",
+          "The first Passover occurred in Egypt in Exodus 12.",
+          "A provision is given for those unable to keep Passover at the appointed time because of uncleanness or distance.",
+          "The cloud over the Tabernacle becomes the visible guide for Israel's travel."
+        ],
+        "geographicContext": [
+          "The setting is the wilderness of Sinai.",
+          "The Tabernacle stands inside the camp.",
+          "The cloud's movement determines whether the camp stays or breaks camp."
+        ],
+        "dailyLifeContext": [
+          "Passover involves keeping a set date and ritual meal.",
+          "Contact with a dead body affects participation in the appointed time.",
+          "Camp life depends on watching the cloud over the Tabernacle.",
+          "Travel can begin after a few days, a month, a year, or whenever the cloud lifts."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This connects the original Passover in Egypt to Israel's wilderness life.",
+        "It introduces the delayed Passover provision.",
+        "It explains how the cloud determines Israel's camp and travel movements.",
+        "It prepares directly for the departure from Sinai in Numbers 10."
+      ],
+      "stepIntoTheStory": [
+        "Israel is still at Sinai in the second year after leaving Egypt. The camp keeps Passover in the wilderness, remembering an event that happened before the departure from Egypt.",
+        "A group of men who are unclean because of a dead body approach Moses with a practical problem. Their case leads to instruction for a second-month observance.",
+        "The final scene is visual: the cloud covers the Tabernacle by day, appears like fire by night, and determines whether the entire camp stays or moves."
+      ],
+      "documentaryObservations": [
+        "Israel keeping Passover in the wilderness.",
+        "Men approaching Moses with a participation question.",
+        "A second-month Passover provision given.",
+        "The Tabernacle covered by a cloud.",
+        "Fire-like appearance over the Tabernacle at night.",
+        "The camp waiting while the cloud remains.",
+        "The camp breaking when the cloud lifts.",
+        "Tribes watching the sanctuary for travel signals.",
+        "Movement determined by the cloud rather than human scheduling."
+      ],
+      "audioScript": "Numbers 9 takes place in the second year after Israel left Egypt. The people are still in the wilderness of Sinai, and they keep Passover there. Some men who are unclean because of a dead body ask Moses what they should do, and a provision is given for keeping Passover in the second month. The chapter then turns to the cloud over the Tabernacle. By day the cloud covers it, and by night it appears like fire. When the cloud stays, Israel camps. When the cloud lifts, Israel travels. The whole nation watches the sanctuary to know when to move.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Exodus 12:1-51",
+          "Numbers 8:1-26"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 9:1-23"
+        ],
+        "laterReferences": [
+          "Numbers 10:11-36",
+          "Deuteronomy 1:6-8"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Israelites",
+        "arc": "Sinai Organization",
+        "previousStory": "numbers-06-lamp-and-levite-dedication",
+        "nextStory": "numbers-08-silver-trumpets-and-departure"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron",
+          "Israelites",
+          "unclean men"
+        ],
+        "places": [
+          "Wilderness of Sinai",
+          "Tabernacle",
+          "Tent of the Testimony"
+        ],
+        "events": [
+          "Passover in wilderness",
+          "second Passover",
+          "cloud guidance",
+          "fire by night"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Numbers 9 Passover",
+          "cloud over Tabernacle",
+          "Pesach Sheni"
+        ]
+      },
+      "realitySummary": "Numbers 9 records Israel keeping Passover in the wilderness, receiving a delayed Passover provision, and following the cloud over the Tabernacle for camping and travel."
+    }
+  },
+  {
+    "id": "numbers-08-silver-trumpets-and-departure",
+    "sourceFile": "numbers-08-silver-trumpets-and-departure.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Aaron's sons",
+      "Israelite divisions",
+      "Hobab",
+      "Levites",
+      "Wilderness of Sinai",
+      "Tent of Meeting",
+      "Wilderness of Paran",
+      "silver trumpets",
+      "departure from Sinai",
+      "cloud lifts",
+      "order of march",
+      "ark goes before Israel",
+      "Wilderness",
+      "Sinai",
+      "Numbers 10 departure",
+      "Israel leaves Sinai",
+      "Instruction Received",
+      "Signal",
+      "Departure",
+      "Journey",
+      "Silver Trumpets and Israel's Departure from Sinai",
+      "Numbers 10",
+      "Numbers 10 gives instructions for silver trumpets and records Israel's departure from Sinai as the cloud lifts and the tribes set out in ordered divisions toward Paran."
+    ],
+    "title": "Silver Trumpets and Israel's Departure from Sinai",
+    "reference": "Numbers 10",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Signal",
+      "Departure",
+      "Journey"
+    ],
+    "summary": "Numbers 10 gives instructions for silver trumpets and records Israel's departure from Sinai as the cloud lifts and the tribes set out in ordered divisions toward Paran.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Wilderness of Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Departure"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "Second year after Exodus; after Passover and cloud guidance; leaving Sinai; before wilderness complaints"
+      }
+    ],
+    "situation": "Silver trumpets serve as public sound signals for a large camp.",
+    "storyPosition": [
+      "First Census",
+      "Camp Arrangement",
+      "Levite Duties",
+      "Passover and Cloud",
+      "Departure from Sinai",
+      "Complaints and Quail",
+      "Miriam and Aaron",
+      "Spies in Canaan"
+    ],
+    "currentStory": "Departure from Sinai",
+    "stepIntoStory": "The camp that has been organized for chapters now begins to move. The cloud lifts from the Tabernacle, and the wilderness camp prepares for departure.\n\nSilver trumpets sound through the camp. Tribal divisions gather under their standards, Levites prepare the Tabernacle components, and the order of march begins.\n\nJudah's division sets out first, followed by the other divisions in sequence. The ark travels ahead during the three-day journey from Sinai toward Paran.",
+    "notice": [
+      "Two hammered silver trumpets made for camp signals.",
+      "Priests blowing trumpets.",
+      "The cloud lifting from over the Tabernacle.",
+      "Tribal standards rising as divisions prepare to move.",
+      "Tents being taken down across the camp.",
+      "Levites carrying or transporting Tabernacle components.",
+      "Judah's division setting out first.",
+      "The ark moving ahead of the people.",
+      "A three-day journey from Sinai.",
+      "The camp entering the wilderness of Paran."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Numbers 9 described Passover in the wilderness and the cloud that determines when Israel camps or travels."
+      },
+      {
+        "label": "Now",
+        "value": "Silver trumpet instructions are given, the cloud lifts, and Israel departs from Sinai in ordered tribal divisions."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers 11 records complaints in the wilderness, fire at Taberah, and the craving for meat."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the departure from Sinai after the census, camp arrangement, Levite organization, Passover, and cloud guidance."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The order of march follows the camp divisions described in Numbers 2."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Levite transport roles described earlier are now put into motion."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The next major section of Numbers begins the wilderness complaint narratives."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The journey begins in the wilderness of Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The cloud lifts from over the Tabernacle to signal movement."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The destination region named is the wilderness of Paran."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Silver trumpets serve as public sound signals for a large camp."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Breaking camp requires coordinated tribal movement and Tabernacle transport."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Priests blow the trumpets, while tribal divisions and Levite clans move in assigned order."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A large encampment leaving Sinai would involve tents, livestock, carts, sacred objects, and tribal standards."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is Israel's actual departure from Sinai in Numbers.",
+      "It turns the earlier organization sections into movement.",
+      "It introduces silver trumpets as camp signals.",
+      "It marks the transition from Sinai organization to wilderness testing and conflict."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives trumpet instructions and directs the journey by cloud",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives trumpet instructions and leads departure",
+        "relationships": []
+      },
+      {
+        "name": "Aaron's sons",
+        "role": "Priests who blow the silver trumpets",
+        "relationships": [
+          "Sons of Aaron"
+        ]
+      },
+      {
+        "name": "Israelite divisions",
+        "role": "Tribes that set out in ordered formation",
+        "relationships": []
+      },
+      {
+        "name": "Hobab",
+        "role": "Son of Reuel the Midianite, Moses' father-in-law; invited to travel with Israel",
+        "relationships": [
+          "Relative of Moses by marriage"
+        ]
+      },
+      {
+        "name": "Levites",
+        "role": "Carry the Tabernacle components according to duty",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Wilderness of Sinai",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Starting location of the departure"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary whose movement is organized within the camp"
+      },
+      {
+        "ancientName": "Wilderness of Paran",
+        "modernRegion": "Northern Sinai / southern wilderness region; exact scope debated",
+        "description": "Destination region after departure from Sinai"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Aaron's sons",
+      "Israelite divisions",
+      "Hobab",
+      "Levites"
+    ],
+    "places": [
+      "Wilderness of Sinai",
+      "Tent of Meeting",
+      "Wilderness of Paran"
+    ],
+    "movement": [
+      "Two silver trumpets are made for signaling",
+      "Trumpets signal assembly, leaders, camp movement, battle, and appointed times",
+      "The cloud lifts from the Tabernacle",
+      "Israel sets out from Sinai by divisions",
+      "The ark travels ahead for three days",
+      "Israel reaches the wilderness of Paran"
+    ],
+    "movementDetails": {
+      "startingPoint": "Wilderness of Sinai",
+      "destination": "Wilderness of Paran",
+      "route": [
+        "Two silver trumpets are made for signaling",
+        "Trumpets signal assembly, leaders, camp movement, battle, and appointed times",
+        "The cloud lifts from the Tabernacle",
+        "Israel sets out from Sinai by divisions",
+        "The ark travels ahead for three days",
+        "Israel reaches the wilderness of Paran"
+      ],
+      "majorStops": [
+        "Wilderness of Sinai",
+        "ordered camp march",
+        "three-day journey",
+        "Wilderness of Paran"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Numbers 10 is the turning point of the Sinai section. First, two silver trumpets are made for signaling the camp: assembly, movement, battle, and appointed times. Then the cloud lifts from over the Tabernacle. After months at Sinai, Israel begins to move. The tribal divisions set out in order, just as they were arranged earlier. Levites carry and transport the Tabernacle components. Moses speaks with Hobab about traveling with them. The ark goes before the people during the three-day journey. Israel leaves the wilderness of Sinai and moves toward the wilderness of Paran.",
+    "crossReferences": [
+      "Numbers 2:1-34",
+      "Numbers 4:1-49",
+      "Numbers 9:15-23",
+      "Numbers 10:1-36",
+      "Numbers 11:1-35",
+      "Deuteronomy 1:6-8"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 2:1-34",
+        "Numbers 4:1-49",
+        "Numbers 9:15-23"
+      ],
+      "directlyRelatedEvents": [
+        "Numbers 10:1-36"
+      ],
+      "laterReferences": [
+        "Numbers 11:1-35",
+        "Deuteronomy 1:6-8"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Sinai Organization",
+      "previousStory": "numbers-07-passover-and-cloud",
+      "nextStory": null
+    },
+    "source": {
+      "id": "numbers-08-silver-trumpets-and-departure",
+      "reference": "Numbers 10",
+      "storyTitle": "Silver Trumpets and Israel's Departure from Sinai",
+      "eventType": [
+        "Instruction Received",
+        "Signal",
+        "Departure",
+        "Journey"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Wilderness of Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Aaron's sons",
+          "Israelite divisions",
+          "Hobab"
+        ],
+        "sceneScale": "National Departure",
+        "timeAnchor": "Second year after Exodus; after Passover and cloud guidance; leaving Sinai; before wilderness complaints",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives trumpet instructions and directs the journey by cloud",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives trumpet instructions and leads departure",
+          "relationships": []
+        },
+        {
+          "name": "Aaron's sons",
+          "role": "Priests who blow the silver trumpets",
+          "relationships": [
+            "Sons of Aaron"
+          ]
+        },
+        {
+          "name": "Israelite divisions",
+          "role": "Tribes that set out in ordered formation",
+          "relationships": []
+        },
+        {
+          "name": "Hobab",
+          "role": "Son of Reuel the Midianite, Moses' father-in-law; invited to travel with Israel",
+          "relationships": [
+            "Relative of Moses by marriage"
+          ]
+        },
+        {
+          "name": "Levites",
+          "role": "Carry the Tabernacle components according to duty",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Wilderness of Sinai",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Starting location of the departure"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary whose movement is organized within the camp"
+        },
+        {
+          "ancientName": "Wilderness of Paran",
+          "modernRegion": "Northern Sinai / southern wilderness region; exact scope debated",
+          "description": "Destination region after departure from Sinai"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Wilderness of Sinai",
+        "destination": "Wilderness of Paran",
+        "route": [
+          "Two silver trumpets are made for signaling",
+          "Trumpets signal assembly, leaders, camp movement, battle, and appointed times",
+          "The cloud lifts from the Tabernacle",
+          "Israel sets out from Sinai by divisions",
+          "The ark travels ahead for three days",
+          "Israel reaches the wilderness of Paran"
+        ],
+        "majorStops": [
+          "Wilderness of Sinai",
+          "ordered camp march",
+          "three-day journey",
+          "Wilderness of Paran"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Numbers 9 described Passover in the wilderness and the cloud that determines when Israel camps or travels.",
+        "whatIsHappeningNow": "Silver trumpet instructions are given, the cloud lifts, and Israel departs from Sinai in ordered tribal divisions.",
+        "whatHappensAfter": "Numbers 11 records complaints in the wilderness, fire at Taberah, and the craving for meat.",
+        "storyPositionStrip": [
+          "First Census",
+          "Camp Arrangement",
+          "Levite Duties",
+          "Passover and Cloud",
+          "Departure from Sinai ← YOU ARE HERE",
+          "Complaints and Quail",
+          "Miriam and Aaron",
+          "Spies in Canaan"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This is the departure from Sinai after the census, camp arrangement, Levite organization, Passover, and cloud guidance.",
+          "The order of march follows the camp divisions described in Numbers 2.",
+          "The Levite transport roles described earlier are now put into motion.",
+          "The next major section of Numbers begins the wilderness complaint narratives."
+        ],
+        "geographicContext": [
+          "The journey begins in the wilderness of Sinai.",
+          "The cloud lifts from over the Tabernacle to signal movement.",
+          "The destination region named is the wilderness of Paran."
+        ],
+        "dailyLifeContext": [
+          "Silver trumpets serve as public sound signals for a large camp.",
+          "Breaking camp requires coordinated tribal movement and Tabernacle transport.",
+          "Priests blow the trumpets, while tribal divisions and Levite clans move in assigned order.",
+          "A large encampment leaving Sinai would involve tents, livestock, carts, sacred objects, and tribal standards."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is Israel's actual departure from Sinai in Numbers.",
+        "It turns the earlier organization sections into movement.",
+        "It introduces silver trumpets as camp signals.",
+        "It marks the transition from Sinai organization to wilderness testing and conflict."
+      ],
+      "stepIntoTheStory": [
+        "The camp that has been organized for chapters now begins to move. The cloud lifts from the Tabernacle, and the wilderness camp prepares for departure.",
+        "Silver trumpets sound through the camp. Tribal divisions gather under their standards, Levites prepare the Tabernacle components, and the order of march begins.",
+        "Judah's division sets out first, followed by the other divisions in sequence. The ark travels ahead during the three-day journey from Sinai toward Paran."
+      ],
+      "documentaryObservations": [
+        "Two hammered silver trumpets made for camp signals.",
+        "Priests blowing trumpets.",
+        "The cloud lifting from over the Tabernacle.",
+        "Tribal standards rising as divisions prepare to move.",
+        "Tents being taken down across the camp.",
+        "Levites carrying or transporting Tabernacle components.",
+        "Judah's division setting out first.",
+        "The ark moving ahead of the people.",
+        "A three-day journey from Sinai.",
+        "The camp entering the wilderness of Paran."
+      ],
+      "audioScript": "Numbers 10 is the turning point of the Sinai section. First, two silver trumpets are made for signaling the camp: assembly, movement, battle, and appointed times. Then the cloud lifts from over the Tabernacle. After months at Sinai, Israel begins to move. The tribal divisions set out in order, just as they were arranged earlier. Levites carry and transport the Tabernacle components. Moses speaks with Hobab about traveling with them. The ark goes before the people during the three-day journey. Israel leaves the wilderness of Sinai and moves toward the wilderness of Paran.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 2:1-34",
+          "Numbers 4:1-49",
+          "Numbers 9:15-23"
+        ],
+        "directlyRelatedEvents": [
+          "Numbers 10:1-36"
+        ],
+        "laterReferences": [
+          "Numbers 11:1-35",
+          "Deuteronomy 1:6-8"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Sinai Organization",
+        "previousStory": "numbers-07-passover-and-cloud",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron's sons",
+          "Hobab",
+          "Levites",
+          "Israelite divisions"
+        ],
+        "places": [
+          "Wilderness of Sinai",
+          "Tent of Meeting",
+          "Wilderness of Paran"
+        ],
+        "events": [
+          "silver trumpets",
+          "departure from Sinai",
+          "cloud lifts",
+          "order of march",
+          "ark goes before Israel"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Numbers 10 departure",
+          "Israel leaves Sinai",
+          "silver trumpets"
+        ]
+      },
+      "realitySummary": "Numbers 10 gives instructions for silver trumpets and records Israel's departure from Sinai as the cloud lifts and the tribes set out in ordered divisions toward Paran."
+    }
   }
 ]
