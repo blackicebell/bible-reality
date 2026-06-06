@@ -62908,5 +62908,3285 @@
       },
       "realitySummary": "Circumcision, Passover, Manna Stops, and Joshua Meets the Commander. Israel is circumcised at Gilgal, keeps Passover in Canaan, eats the produce of the land, the manna stops, and Joshua meets the commander near Jericho."
     }
+  },
+  {
+    "id": "joshua-05-fall-of-jericho",
+    "sourceFile": "joshua-05-fall-of-jericho.json",
+    "searchTerms": [
+      "Joshua",
+      "Priests",
+      "Armed men",
+      "Rahab",
+      "Two spies",
+      "People of Jericho",
+      "Jericho",
+      "City wall",
+      "Gilgal",
+      "Rahab's house",
+      "fall of Jericho",
+      "Rahab rescued",
+      "seven trumpets",
+      "Jericho wall",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 6",
+      "Jericho falls",
+      "battle of Jericho",
+      "Siege",
+      "Procession",
+      "Battle",
+      "Destruction",
+      "Rescue",
+      "The Fall of Jericho and Rahab's Household Spared",
+      "The Fall of Jericho and Rahab's Household Spared. Israel marches around Jericho according to instruction, the wall falls, the city is taken, and Rahab's household is rescued."
+    ],
+    "title": "The Fall of Jericho and Rahab's Household Spared",
+    "reference": "Joshua 6",
+    "kicker": "Study",
+    "eventType": [
+      "Siege",
+      "Procession",
+      "Battle",
+      "Destruction",
+      "Rescue"
+    ],
+    "summary": "The Fall of Jericho and Rahab's Household Spared. Israel marches around Jericho according to instruction, the wall falls, the city is taken, and Rahab's household is rescued.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Jericho"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "City Siege and Rescue"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Gilgal and commander encounter; before Achan and Ai"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "The Fall of Jericho and Rahab's Household Spared"
+    ],
+    "currentStory": "The Fall of Jericho and Rahab's Household Spared",
+    "stepIntoStory": "Jericho is closed against Israel. The city gate is shut, and no one goes out or comes in.\n\nFor six days, the Israelites move around the city once each day. Priests carry trumpets before the Ark, with armed men positioned in the procession.\n\nOn the seventh day, the movement intensifies: seven circuits, trumpet blast, public shout, collapse of the wall, and entry into the city. In the middle of the destruction, Rahab's household is brought out alive.",
+    "notice": [
+      "Jericho shut with its gates closed.",
+      "Armed men marching before the Ark.",
+      "Seven priests carrying seven trumpets.",
+      "The Ark moving around the city perimeter.",
+      "Silent marching for six days.",
+      "Seven circuits on the seventh day.",
+      "A loud trumpet blast and public shout.",
+      "The wall falling in the narrative.",
+      "Rahab's household brought out by the spies.",
+      "The city burned after valuables are placed in Yahweh's treasury."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Joshua encountered the commander near Jericho after Israel kept Passover and the manna stopped."
+      },
+      {
+        "label": "Now",
+        "value": "Israel marches around Jericho according to instruction, the wall falls, the city is taken, and Rahab's household is rescued."
+      },
+      {
+        "label": "Next",
+        "value": "Israel violates the devoted-things command through Achan, and the first attack on Ai fails."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the first city conquest west of the Jordan in Joshua."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It completes the Rahab thread that began in Joshua 2."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It shows priests, Ark, trumpets, armed men, and people moving together in a city processional event."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It sets up the Achan narrative by emphasizing devoted things."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Jericho stands in the Jordan Valley near Israel's Gilgal camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The city is described as shut up, emphasizing gates and defensive closure."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The repeated movement around the city makes the wall, perimeter, and city interior central to the scene."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Ancient fortified cities used walls and gates to control entry."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A siege could involve encirclement and public intimidation, but this narrative uses a repeated procession rather than ordinary assault at first."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Trumpets, Ark movement, armed guards, and public shouting define the visible action."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the first major city event after Israel enters Canaan.",
+      "It connects the spy narrative to Rahab's rescue.",
+      "It establishes the seriousness of instructions concerning devoted things before Achan's violation.",
+      "It moves Israel from crossing and camp transition into active conflict."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Commands the procession and city instructions",
+        "relationships": []
+      },
+      {
+        "name": "Priests",
+        "role": "Carry trumpets and the Ark in the city procession",
+        "relationships": []
+      },
+      {
+        "name": "Armed men",
+        "role": "March before and behind the Ark",
+        "relationships": []
+      },
+      {
+        "name": "Rahab",
+        "role": "Rescued with her family because of the spies' oath",
+        "relationships": []
+      },
+      {
+        "name": "Two spies",
+        "role": "Sent to bring Rahab's household out",
+        "relationships": []
+      },
+      {
+        "name": "People of Jericho",
+        "role": "City population under judgment in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Jericho",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Fortified city west of the Jordan"
+      },
+      {
+        "ancientName": "City wall",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Defensive structure associated with Rahab's house and the city's fall"
+      },
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Israel's camp nearby after crossing the Jordan"
+      },
+      {
+        "ancientName": "Rahab's house",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Household location marked for rescue"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Priests",
+      "Armed men",
+      "Rahab",
+      "Two spies",
+      "People of Jericho"
+    ],
+    "places": [
+      "Jericho",
+      "City wall",
+      "Gilgal",
+      "Rahab's house"
+    ],
+    "movement": [
+      "Jericho is shut up",
+      "Israel marches around the city once daily for six days",
+      "Seven priests carry seven trumpets before the Ark",
+      "On the seventh day Israel circles the city seven times",
+      "The people shout after the trumpet blast",
+      "The wall falls",
+      "Rahab's household is brought out",
+      "The city is destroyed and burned"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp near Jericho",
+      "destination": "Jericho and return after its fall",
+      "route": [
+        "Jericho is shut up",
+        "Israel marches around the city once daily for six days",
+        "Seven priests carry seven trumpets before the Ark",
+        "On the seventh day Israel circles the city seven times",
+        "The people shout after the trumpet blast",
+        "The wall falls",
+        "Rahab's household is brought out",
+        "The city is destroyed and burned"
+      ],
+      "majorStops": [
+        "Camp near Jericho",
+        "Jericho perimeter",
+        "city wall",
+        "Rahab's house",
+        "outside Israel's camp"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 6 focuses on Jericho, the first fortified city Israel faces west of the Jordan. The city is shut, and the procession begins. Armed men march, priests carry trumpets, and the Ark circles the city. For six days, Israel circles once each day. On the seventh day, they circle seven times. After the trumpet blast, the people shout, and the wall falls. The city is taken and burned, but Rahab and her household are brought out by the two spies. The chapter connects the earlier spy mission with the first city conquest in Canaan.",
+    "crossReferences": [
+      "Joshua 2:1-24",
+      "Joshua 5:13-15",
+      "Joshua 6:1-27",
+      "Joshua 7:1",
+      "1 Kings 16:34",
+      "Hebrews 11:30-31"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 2:1-24",
+        "Joshua 5:13-15"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 6:1-27"
+      ],
+      "laterReferences": [
+        "Joshua 7:1",
+        "1 Kings 16:34"
+      ],
+      "newTestamentReferences": [
+        "Hebrews 11:30-31"
+      ]
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-04-circumcision-passover-and-commander",
+      "nextStory": "joshua-06-achan-and-ai"
+    },
+    "source": {
+      "id": "joshua-05-fall-of-jericho",
+      "reference": "Joshua 6",
+      "storyTitle": "The Fall of Jericho and Rahab's Household Spared",
+      "eventType": [
+        "Siege",
+        "Procession",
+        "Battle",
+        "Destruction",
+        "Rescue"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Jericho",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "priests",
+          "armed men",
+          "Rahab",
+          "two spies"
+        ],
+        "sceneScale": "City Siege and Rescue",
+        "timeAnchor": "After Gilgal and commander encounter; before Achan and Ai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Commands the procession and city instructions",
+          "relationships": []
+        },
+        {
+          "name": "Priests",
+          "role": "Carry trumpets and the Ark in the city procession",
+          "relationships": []
+        },
+        {
+          "name": "Armed men",
+          "role": "March before and behind the Ark",
+          "relationships": []
+        },
+        {
+          "name": "Rahab",
+          "role": "Rescued with her family because of the spies' oath",
+          "relationships": []
+        },
+        {
+          "name": "Two spies",
+          "role": "Sent to bring Rahab's household out",
+          "relationships": []
+        },
+        {
+          "name": "People of Jericho",
+          "role": "City population under judgment in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Jericho",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Fortified city west of the Jordan"
+        },
+        {
+          "ancientName": "City wall",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Defensive structure associated with Rahab's house and the city's fall"
+        },
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Israel's camp nearby after crossing the Jordan"
+        },
+        {
+          "ancientName": "Rahab's house",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Household location marked for rescue"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp near Jericho",
+        "destination": "Jericho and return after its fall",
+        "route": [
+          "Jericho is shut up",
+          "Israel marches around the city once daily for six days",
+          "Seven priests carry seven trumpets before the Ark",
+          "On the seventh day Israel circles the city seven times",
+          "The people shout after the trumpet blast",
+          "The wall falls",
+          "Rahab's household is brought out",
+          "The city is destroyed and burned"
+        ],
+        "majorStops": [
+          "Camp near Jericho",
+          "Jericho perimeter",
+          "city wall",
+          "Rahab's house",
+          "outside Israel's camp"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Joshua encountered the commander near Jericho after Israel kept Passover and the manna stopped.",
+        "whatIsHappeningNow": "Israel marches around Jericho according to instruction, the wall falls, the city is taken, and Rahab's household is rescued.",
+        "whatHappensAfter": "Israel violates the devoted-things command through Achan, and the first attack on Ai fails.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "The Fall of Jericho and Rahab's Household Spared ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This is the first city conquest west of the Jordan in Joshua.",
+          "It completes the Rahab thread that began in Joshua 2.",
+          "It shows priests, Ark, trumpets, armed men, and people moving together in a city processional event.",
+          "It sets up the Achan narrative by emphasizing devoted things."
+        ],
+        "geographicContext": [
+          "Jericho stands in the Jordan Valley near Israel's Gilgal camp.",
+          "The city is described as shut up, emphasizing gates and defensive closure.",
+          "The repeated movement around the city makes the wall, perimeter, and city interior central to the scene."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Ancient fortified cities used walls and gates to control entry.",
+          "A siege could involve encirclement and public intimidation, but this narrative uses a repeated procession rather than ordinary assault at first.",
+          "Trumpets, Ark movement, armed guards, and public shouting define the visible action."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the first major city event after Israel enters Canaan.",
+        "It connects the spy narrative to Rahab's rescue.",
+        "It establishes the seriousness of instructions concerning devoted things before Achan's violation.",
+        "It moves Israel from crossing and camp transition into active conflict."
+      ],
+      "stepIntoTheStory": [
+        "Jericho is closed against Israel. The city gate is shut, and no one goes out or comes in.",
+        "For six days, the Israelites move around the city once each day. Priests carry trumpets before the Ark, with armed men positioned in the procession.",
+        "On the seventh day, the movement intensifies: seven circuits, trumpet blast, public shout, collapse of the wall, and entry into the city. In the middle of the destruction, Rahab's household is brought out alive."
+      ],
+      "documentaryObservations": [
+        "Jericho shut with its gates closed.",
+        "Armed men marching before the Ark.",
+        "Seven priests carrying seven trumpets.",
+        "The Ark moving around the city perimeter.",
+        "Silent marching for six days.",
+        "Seven circuits on the seventh day.",
+        "A loud trumpet blast and public shout.",
+        "The wall falling in the narrative.",
+        "Rahab's household brought out by the spies.",
+        "The city burned after valuables are placed in Yahweh's treasury."
+      ],
+      "audioScript": "Joshua 6 focuses on Jericho, the first fortified city Israel faces west of the Jordan. The city is shut, and the procession begins. Armed men march, priests carry trumpets, and the Ark circles the city. For six days, Israel circles once each day. On the seventh day, they circle seven times. After the trumpet blast, the people shout, and the wall falls. The city is taken and burned, but Rahab and her household are brought out by the two spies. The chapter connects the earlier spy mission with the first city conquest in Canaan.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 2:1-24",
+          "Joshua 5:13-15"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 6:1-27"
+        ],
+        "laterReferences": [
+          "Joshua 7:1",
+          "1 Kings 16:34"
+        ],
+        "newTestamentReferences": [
+          "Hebrews 11:30-31"
+        ]
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-04-circumcision-passover-and-commander",
+        "nextStory": "joshua-06-achan-and-ai"
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Priests",
+          "Armed men",
+          "Rahab",
+          "Two spies",
+          "People of Jericho"
+        ],
+        "places": [
+          "Jericho",
+          "City wall",
+          "Gilgal",
+          "Rahab's house"
+        ],
+        "events": [
+          "fall of Jericho",
+          "Rahab rescued",
+          "seven trumpets",
+          "Jericho wall"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 6",
+          "Jericho falls",
+          "battle of Jericho"
+        ]
+      },
+      "realitySummary": "The Fall of Jericho and Rahab's Household Spared. Israel marches around Jericho according to instruction, the wall falls, the city is taken, and Rahab's household is rescued."
+    }
+  },
+  {
+    "id": "joshua-06-achan-and-ai",
+    "sourceFile": "joshua-06-achan-and-ai.json",
+    "searchTerms": [
+      "Joshua",
+      "Achan",
+      "Men of Ai",
+      "Israelites",
+      "Levites",
+      "Ai",
+      "Bethel",
+      "Valley of Achor",
+      "Mount Ebal",
+      "Mount Gerizim",
+      "defeat at Ai",
+      "Mount Ebal law reading",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 7-8",
+      "Achan and Ai",
+      "Ai ambush",
+      "Defeat",
+      "Investigation",
+      "Judgment",
+      "Battle",
+      "Covenant Ceremony",
+      "Achan, the Defeat at Ai, and the Covenant Reading at Ebal",
+      "Achan, the Defeat at Ai, and the Covenant Reading at Ebal. Achan's taking of devoted things leads to defeat at Ai, investigation, judgment in the Valley of Achor, a successful second battle at Ai, and a covenant reading at Mount Ebal."
+    ],
+    "title": "Achan, the Defeat at Ai, and the Covenant Reading at Ebal",
+    "reference": "Joshua 7-8",
+    "kicker": "Study",
+    "eventType": [
+      "Defeat",
+      "Investigation",
+      "Judgment",
+      "Battle",
+      "Covenant Ceremony"
+    ],
+    "summary": "Achan, the Defeat at Ai, and the Covenant Reading at Ebal. Achan's taking of devoted things leads to defeat at Ai, investigation, judgment in the Valley of Achor, a successful second battle at Ai, and a covenant reading at Mount Ebal.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Ai, Valley of Achor, and Mount Ebal"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Military Failure and Covenant Renewal"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Jericho falls; before Gibeonite treaty"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "Achan, the Defeat at Ai, and the Covenant Reading at Ebal"
+    ],
+    "currentStory": "Achan, the Defeat at Ai, and the Covenant Reading at Ebal",
+    "stepIntoStory": "After Jericho, Ai looks like a smaller target. The first attack sends only part of the force, but Israel is defeated and men die.\n\nThe camp shifts from battle planning to investigation. Achan is identified step by step, and the scene moves to the Valley of Achor.\n\nThe second battle uses ambush. Ai's men are drawn away from the city, the hidden force enters, and smoke rises. Afterward, Joshua builds an altar on Mount Ebal and reads the law before all Israel.",
+    "notice": [
+      "A small force going up against Ai.",
+      "Israelite men fleeing from Ai.",
+      "Thirty-six men killed in the first defeat.",
+      "Joshua and elders before the Ark.",
+      "Achan identified by tribe, clan, household, and person.",
+      "A mantle, silver, and gold hidden in a tent.",
+      "Valley of Achor as judgment site.",
+      "Ambush forces hidden near Ai.",
+      "Smoke rising from Ai.",
+      "Altar built on Mount Ebal.",
+      "Israel divided before Ebal and Gerizim for law reading."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Jericho fell, Rahab's household was spared, and instructions concerning devoted things were given."
+      },
+      {
+        "label": "Now",
+        "value": "Achan's taking of devoted things leads to defeat at Ai, investigation, judgment in the Valley of Achor, a successful second battle at Ai, and a covenant reading at Mount Ebal."
+      },
+      {
+        "label": "Next",
+        "value": "The Gibeonites deceive Israel into making a treaty."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the first military failure in Joshua after Jericho."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It links obedience to the devoted-things command with the outcome at Ai in the narrative."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces the Valley of Achor as a named judgment location."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It fulfills the earlier instruction to read blessing and curse at Ebal and Gerizim."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Ai lies in the central hill country, near Bethel, unlike Jericho in the Jordan Valley."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Valley of Achor is associated with the judgment after Achan is identified."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Mount Ebal and Mount Gerizim are central hill country locations used for the covenant reading."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military reconnaissance leads to a small-force attack because Ai appears less formidable than Jericho."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Clan identification moves from tribe to clan to household to individual."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Ambush tactics use terrain, concealment, and the drawing out of city defenders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public covenant reading requires assembly, altar, writing, and hearing."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This explains why Israel's early campaign is interrupted after Jericho.",
+      "It connects the Jericho devoted-things command with consequences in the next battle.",
+      "It records the capture of Ai after a failed first attempt.",
+      "It places the Ebal-Gerizim covenant ceremony inside the conquest narrative."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Leads Israel through defeat, investigation, renewed battle, and covenant reading",
+        "relationships": []
+      },
+      {
+        "name": "Achan",
+        "role": "Man from Judah who takes devoted things from Jericho",
+        "relationships": []
+      },
+      {
+        "name": "Men of Ai",
+        "role": "Defeat Israel's first attack and later fall in ambush",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Affected by Achan's act and then fight Ai",
+        "relationships": []
+      },
+      {
+        "name": "Levites",
+        "role": "Stand with the Ark during the covenant reading",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Ai",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Town east of Bethel targeted after Jericho"
+      },
+      {
+        "ancientName": "Bethel",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "City near Ai"
+      },
+      {
+        "ancientName": "Valley of Achor",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Place where Achan's judgment occurs"
+      },
+      {
+        "ancientName": "Mount Ebal",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Mountain where altar and law reading occur"
+      },
+      {
+        "ancientName": "Mount Gerizim",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Mountain opposite Ebal in the covenant ceremony"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Achan",
+      "Men of Ai",
+      "Israelites",
+      "Levites"
+    ],
+    "places": [
+      "Ai",
+      "Bethel",
+      "Valley of Achor",
+      "Mount Ebal",
+      "Mount Gerizim"
+    ],
+    "movement": [
+      "Israel sends men against Ai",
+      "Israel is defeated and thirty-six men fall",
+      "Achan is identified by tribe, clan, household, and person",
+      "Judgment occurs in the Valley of Achor",
+      "Joshua sets an ambush against Ai",
+      "Ai is taken and burned",
+      "Joshua builds an altar on Mount Ebal",
+      "The law is read before all Israel"
+    ],
+    "movementDetails": {
+      "startingPoint": "Camp after Jericho",
+      "destination": "Ai and then Mount Ebal/Gerizim",
+      "route": [
+        "Israel sends men against Ai",
+        "Israel is defeated and thirty-six men fall",
+        "Achan is identified by tribe, clan, household, and person",
+        "Judgment occurs in the Valley of Achor",
+        "Joshua sets an ambush against Ai",
+        "Ai is taken and burned",
+        "Joshua builds an altar on Mount Ebal",
+        "The law is read before all Israel"
+      ],
+      "majorStops": [
+        "Ai",
+        "camp investigation",
+        "Valley of Achor",
+        "Ai ambush site",
+        "Mount Ebal",
+        "Mount Gerizim"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 7 and 8 move from victory to crisis. After Jericho, Israel attacks Ai with a smaller force and is defeated. Thirty-six men die, and the camp is shaken. Achan is identified as the man who took devoted things from Jericho: a mantle, silver, and gold hidden in his tent. Judgment takes place in the Valley of Achor. Then Joshua returns to Ai with a different strategy. An ambush draws the men of Ai away, the city is taken, and smoke rises from it. The section ends at Mount Ebal, where Joshua builds an altar and reads the law before all Israel.",
+    "crossReferences": [
+      "Joshua 6:17-19",
+      "Deuteronomy 27:1-26",
+      "Joshua 7:1-8:35",
+      "Joshua 9:1-27",
+      "Hosea 2:15"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 6:17-19",
+        "Deuteronomy 27:1-26"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 7:1-8:35"
+      ],
+      "laterReferences": [
+        "Joshua 9:1-27",
+        "Hosea 2:15"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-05-fall-of-jericho",
+      "nextStory": "joshua-07-gibeonite-treaty"
+    },
+    "source": {
+      "id": "joshua-06-achan-and-ai",
+      "reference": "Joshua 7-8",
+      "storyTitle": "Achan, the Defeat at Ai, and the Covenant Reading at Ebal",
+      "eventType": [
+        "Defeat",
+        "Investigation",
+        "Judgment",
+        "Battle",
+        "Covenant Ceremony"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Ai, Valley of Achor, and Mount Ebal",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "Achan",
+          "Israelite army",
+          "men of Ai",
+          "Levites"
+        ],
+        "sceneScale": "Military Failure and Covenant Renewal",
+        "timeAnchor": "After Jericho falls; before Gibeonite treaty",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Leads Israel through defeat, investigation, renewed battle, and covenant reading",
+          "relationships": []
+        },
+        {
+          "name": "Achan",
+          "role": "Man from Judah who takes devoted things from Jericho",
+          "relationships": []
+        },
+        {
+          "name": "Men of Ai",
+          "role": "Defeat Israel's first attack and later fall in ambush",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Affected by Achan's act and then fight Ai",
+          "relationships": []
+        },
+        {
+          "name": "Levites",
+          "role": "Stand with the Ark during the covenant reading",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Ai",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Town east of Bethel targeted after Jericho"
+        },
+        {
+          "ancientName": "Bethel",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "City near Ai"
+        },
+        {
+          "ancientName": "Valley of Achor",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Place where Achan's judgment occurs"
+        },
+        {
+          "ancientName": "Mount Ebal",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Mountain where altar and law reading occur"
+        },
+        {
+          "ancientName": "Mount Gerizim",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Mountain opposite Ebal in the covenant ceremony"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Camp after Jericho",
+        "destination": "Ai and then Mount Ebal/Gerizim",
+        "route": [
+          "Israel sends men against Ai",
+          "Israel is defeated and thirty-six men fall",
+          "Achan is identified by tribe, clan, household, and person",
+          "Judgment occurs in the Valley of Achor",
+          "Joshua sets an ambush against Ai",
+          "Ai is taken and burned",
+          "Joshua builds an altar on Mount Ebal",
+          "The law is read before all Israel"
+        ],
+        "majorStops": [
+          "Ai",
+          "camp investigation",
+          "Valley of Achor",
+          "Ai ambush site",
+          "Mount Ebal",
+          "Mount Gerizim"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Jericho fell, Rahab's household was spared, and instructions concerning devoted things were given.",
+        "whatIsHappeningNow": "Achan's taking of devoted things leads to defeat at Ai, investigation, judgment in the Valley of Achor, a successful second battle at Ai, and a covenant reading at Mount Ebal.",
+        "whatHappensAfter": "The Gibeonites deceive Israel into making a treaty.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "Achan, the Defeat at Ai, and the Covenant Reading at Ebal ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This is the first military failure in Joshua after Jericho.",
+          "It links obedience to the devoted-things command with the outcome at Ai in the narrative.",
+          "It introduces the Valley of Achor as a named judgment location.",
+          "It fulfills the earlier instruction to read blessing and curse at Ebal and Gerizim."
+        ],
+        "geographicContext": [
+          "Ai lies in the central hill country, near Bethel, unlike Jericho in the Jordan Valley.",
+          "The Valley of Achor is associated with the judgment after Achan is identified.",
+          "Mount Ebal and Mount Gerizim are central hill country locations used for the covenant reading."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Military reconnaissance leads to a small-force attack because Ai appears less formidable than Jericho.",
+          "Clan identification moves from tribe to clan to household to individual.",
+          "Ambush tactics use terrain, concealment, and the drawing out of city defenders.",
+          "Public covenant reading requires assembly, altar, writing, and hearing."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This explains why Israel's early campaign is interrupted after Jericho.",
+        "It connects the Jericho devoted-things command with consequences in the next battle.",
+        "It records the capture of Ai after a failed first attempt.",
+        "It places the Ebal-Gerizim covenant ceremony inside the conquest narrative."
+      ],
+      "stepIntoTheStory": [
+        "After Jericho, Ai looks like a smaller target. The first attack sends only part of the force, but Israel is defeated and men die.",
+        "The camp shifts from battle planning to investigation. Achan is identified step by step, and the scene moves to the Valley of Achor.",
+        "The second battle uses ambush. Ai's men are drawn away from the city, the hidden force enters, and smoke rises. Afterward, Joshua builds an altar on Mount Ebal and reads the law before all Israel."
+      ],
+      "documentaryObservations": [
+        "A small force going up against Ai.",
+        "Israelite men fleeing from Ai.",
+        "Thirty-six men killed in the first defeat.",
+        "Joshua and elders before the Ark.",
+        "Achan identified by tribe, clan, household, and person.",
+        "A mantle, silver, and gold hidden in a tent.",
+        "Valley of Achor as judgment site.",
+        "Ambush forces hidden near Ai.",
+        "Smoke rising from Ai.",
+        "Altar built on Mount Ebal.",
+        "Israel divided before Ebal and Gerizim for law reading."
+      ],
+      "audioScript": "Joshua 7 and 8 move from victory to crisis. After Jericho, Israel attacks Ai with a smaller force and is defeated. Thirty-six men die, and the camp is shaken. Achan is identified as the man who took devoted things from Jericho: a mantle, silver, and gold hidden in his tent. Judgment takes place in the Valley of Achor. Then Joshua returns to Ai with a different strategy. An ambush draws the men of Ai away, the city is taken, and smoke rises from it. The section ends at Mount Ebal, where Joshua builds an altar and reads the law before all Israel.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 6:17-19",
+          "Deuteronomy 27:1-26"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 7:1-8:35"
+        ],
+        "laterReferences": [
+          "Joshua 9:1-27",
+          "Hosea 2:15"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-05-fall-of-jericho",
+        "nextStory": "joshua-07-gibeonite-treaty"
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Achan",
+          "Men of Ai",
+          "Israelites",
+          "Levites"
+        ],
+        "places": [
+          "Ai",
+          "Bethel",
+          "Valley of Achor",
+          "Mount Ebal",
+          "Mount Gerizim"
+        ],
+        "events": [
+          "Achan",
+          "defeat at Ai",
+          "Valley of Achor",
+          "Mount Ebal law reading"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 7-8",
+          "Achan and Ai",
+          "Ai ambush"
+        ]
+      },
+      "realitySummary": "Achan, the Defeat at Ai, and the Covenant Reading at Ebal. Achan's taking of devoted things leads to defeat at Ai, investigation, judgment in the Valley of Achor, a successful second battle at Ai, and a covenant reading at Mount Ebal."
+    }
+  },
+  {
+    "id": "joshua-07-gibeonite-treaty",
+    "sourceFile": "joshua-07-gibeonite-treaty.json",
+    "searchTerms": [
+      "Joshua",
+      "Gibeonites",
+      "Leaders of Israel",
+      "Israelite congregation",
+      "Gilgal",
+      "Gibeon",
+      "Chephirah",
+      "Beeroth",
+      "Kiriath-jearim",
+      "Gibeonite treaty",
+      "Gibeonites deceive Joshua",
+      "worn-out wineskins",
+      "woodcutters water carriers",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 9",
+      "Gibeonite deception",
+      "treaty with Gibeon",
+      "Treaty",
+      "Deception",
+      "Diplomatic Encounter",
+      "Servitude",
+      "The Gibeonites Deceive Israel and Receive a Treaty",
+      "The Gibeonites Deceive Israel and Receive a Treaty. The Gibeonites deceive Israel with worn-out supplies, receive a sworn treaty, and are assigned as woodcutters and water carriers."
+    ],
+    "title": "The Gibeonites Deceive Israel and Receive a Treaty",
+    "reference": "Joshua 9",
+    "kicker": "Study",
+    "eventType": [
+      "Treaty",
+      "Deception",
+      "Diplomatic Encounter",
+      "Servitude"
+    ],
+    "summary": "The Gibeonites Deceive Israel and Receive a Treaty. The Gibeonites deceive Israel with worn-out supplies, receive a sworn treaty, and are assigned as woodcutters and water carriers.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp at Gilgal and Gibeon"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Diplomatic Crisis"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Ai and covenant reading; before southern coalition battle"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "The Gibeonites Deceive Israel and Receive a Treaty"
+    ],
+    "currentStory": "The Gibeonites Deceive Israel and Receive a Treaty",
+    "stepIntoStory": "News of Jericho and Ai spreads through the land. The Gibeonites choose deception rather than battle.\n\nTheir envoys arrive at Gilgal with worn-out sacks, cracked wineskins, old sandals, patched clothing, and dry bread. The visual evidence makes them appear to have come from far away.\n\nAfter the treaty is sworn, the truth emerges: they live nearby. Israel does not kill them because of the oath, but they are assigned to serve as woodcutters and water carriers.",
+    "notice": [
+      "Envoys arriving at Gilgal.",
+      "Worn-out sacks on donkeys.",
+      "Old cracked wineskins.",
+      "Patched sandals and worn clothing.",
+      "Dry, crumbly bread shown as evidence.",
+      "Israelite leaders examining provisions.",
+      "A treaty sworn with the Gibeonites.",
+      "Three-day discovery that the cities are nearby.",
+      "Congregation grumbling against the leaders.",
+      "Gibeonites assigned to cut wood and draw water."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Jericho and Ai had fallen, and Joshua read the law at Mount Ebal."
+      },
+      {
+        "label": "Now",
+        "value": "The Gibeonites deceive Israel with worn-out supplies, receive a sworn treaty, and are assigned as woodcutters and water carriers."
+      },
+      {
+        "label": "Next",
+        "value": "Jerusalem's king gathers a southern coalition against Gibeon because it made peace with Israel."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This introduces treaty-making into the conquest narrative."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It explains why Gibeon is spared and becomes connected to sanctuary service."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It sets up the southern campaign of Joshua 10 because Gibeon becomes a target of surrounding kings."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It shows a different kind of conflict: diplomacy and deception rather than open battle."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Gibeon is in the central hill country, not far from the areas Israel is entering."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Gilgal remains Israel's camp and decision center at this point."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Gibeonite cities named in the chapter form a local cluster rather than a distant foreign region."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Ancient diplomacy could involve envoys, provisions, clothing, and visible signs of travel."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Worn-out wineskins, sandals, and dry bread become evidence used in the deception."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Oaths and treaties create binding public commitments in the narrative."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Woodcutting and water carrying are practical labor roles connected to community and sanctuary needs."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This preserves Gibeon within Israel's story rather than listing it among destroyed cities.",
+      "It creates the immediate political trigger for the southern coalition.",
+      "It shows Israel dealing with a non-battle crisis after Jericho and Ai.",
+      "It explains the origin of Gibeonite service in the narrative."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Makes peace with the Gibeonite envoys and later assigns them service",
+        "relationships": []
+      },
+      {
+        "name": "Gibeonites",
+        "role": "Use worn-out supplies to appear as travelers from a distant land",
+        "relationships": []
+      },
+      {
+        "name": "Leaders of Israel",
+        "role": "Swear an oath to the Gibeonites",
+        "relationships": []
+      },
+      {
+        "name": "Israelite congregation",
+        "role": "Grumbles against the leaders after discovering the deception",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Israel's camp where the envoys come"
+      },
+      {
+        "ancientName": "Gibeon",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Major city whose inhabitants deceive Israel"
+      },
+      {
+        "ancientName": "Chephirah",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Gibeonite city named in the treaty aftermath"
+      },
+      {
+        "ancientName": "Beeroth",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Gibeonite city named in the treaty aftermath"
+      },
+      {
+        "ancientName": "Kiriath-jearim",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Gibeonite city named in the treaty aftermath"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Gibeonites",
+      "Leaders of Israel",
+      "Israelite congregation"
+    ],
+    "places": [
+      "Gilgal",
+      "Gibeon",
+      "Chephirah",
+      "Beeroth",
+      "Kiriath-jearim"
+    ],
+    "movement": [
+      "Gibeonites hear what happened to Jericho and Ai",
+      "They prepare worn-out sacks, wineskins, sandals, clothing, and dry bread",
+      "They travel to Joshua at Gilgal",
+      "Israel makes a treaty with them",
+      "Three days later Israel hears they are nearby",
+      "Gibeonites are assigned as woodcutters and water carriers"
+    ],
+    "movementDetails": {
+      "startingPoint": "Gibeon",
+      "destination": "Israel's camp at Gilgal and treaty service",
+      "route": [
+        "Gibeonites hear what happened to Jericho and Ai",
+        "They prepare worn-out sacks, wineskins, sandals, clothing, and dry bread",
+        "They travel to Joshua at Gilgal",
+        "Israel makes a treaty with them",
+        "Three days later Israel hears they are nearby",
+        "Gibeonites are assigned as woodcutters and water carriers"
+      ],
+      "majorStops": [
+        "Gibeon",
+        "Gilgal",
+        "Gibeonite cities"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 9 moves from battlefield to diplomacy. The Gibeonites hear what happened to Jericho and Ai, and they prepare a deception. Their envoys come to Israel's camp at Gilgal with worn-out sacks, old wineskins, patched sandals, worn clothing, and dry bread. They claim to have come from a distant land. Israel makes a treaty with them. Three days later, the people learn that Gibeon is nearby. Because of the oath, the Gibeonites are spared, but Joshua assigns them to serve as woodcutters and water carriers.",
+    "crossReferences": [
+      "Joshua 6:1-27",
+      "Joshua 8:1-35",
+      "Joshua 9:1-27",
+      "Joshua 10:1-15",
+      "2 Samuel 21:1-14"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 6:1-27",
+        "Joshua 8:1-35"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 9:1-27"
+      ],
+      "laterReferences": [
+        "Joshua 10:1-15",
+        "2 Samuel 21:1-14"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-06-achan-and-ai",
+      "nextStory": "joshua-08-southern-campaign"
+    },
+    "source": {
+      "id": "joshua-07-gibeonite-treaty",
+      "reference": "Joshua 9",
+      "storyTitle": "The Gibeonites Deceive Israel and Receive a Treaty",
+      "eventType": [
+        "Treaty",
+        "Deception",
+        "Diplomatic Encounter",
+        "Servitude"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp at Gilgal and Gibeon",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "Gibeonites",
+          "leaders of Israel",
+          "congregation"
+        ],
+        "sceneScale": "Diplomatic Crisis",
+        "timeAnchor": "After Ai and covenant reading; before southern coalition battle",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Makes peace with the Gibeonite envoys and later assigns them service",
+          "relationships": []
+        },
+        {
+          "name": "Gibeonites",
+          "role": "Use worn-out supplies to appear as travelers from a distant land",
+          "relationships": []
+        },
+        {
+          "name": "Leaders of Israel",
+          "role": "Swear an oath to the Gibeonites",
+          "relationships": []
+        },
+        {
+          "name": "Israelite congregation",
+          "role": "Grumbles against the leaders after discovering the deception",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Israel's camp where the envoys come"
+        },
+        {
+          "ancientName": "Gibeon",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Major city whose inhabitants deceive Israel"
+        },
+        {
+          "ancientName": "Chephirah",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Gibeonite city named in the treaty aftermath"
+        },
+        {
+          "ancientName": "Beeroth",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Gibeonite city named in the treaty aftermath"
+        },
+        {
+          "ancientName": "Kiriath-jearim",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Gibeonite city named in the treaty aftermath"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Gibeon",
+        "destination": "Israel's camp at Gilgal and treaty service",
+        "route": [
+          "Gibeonites hear what happened to Jericho and Ai",
+          "They prepare worn-out sacks, wineskins, sandals, clothing, and dry bread",
+          "They travel to Joshua at Gilgal",
+          "Israel makes a treaty with them",
+          "Three days later Israel hears they are nearby",
+          "Gibeonites are assigned as woodcutters and water carriers"
+        ],
+        "majorStops": [
+          "Gibeon",
+          "Gilgal",
+          "Gibeonite cities"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Jericho and Ai had fallen, and Joshua read the law at Mount Ebal.",
+        "whatIsHappeningNow": "The Gibeonites deceive Israel with worn-out supplies, receive a sworn treaty, and are assigned as woodcutters and water carriers.",
+        "whatHappensAfter": "Jerusalem's king gathers a southern coalition against Gibeon because it made peace with Israel.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "The Gibeonites Deceive Israel and Receive a Treaty ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This introduces treaty-making into the conquest narrative.",
+          "It explains why Gibeon is spared and becomes connected to sanctuary service.",
+          "It sets up the southern campaign of Joshua 10 because Gibeon becomes a target of surrounding kings.",
+          "It shows a different kind of conflict: diplomacy and deception rather than open battle."
+        ],
+        "geographicContext": [
+          "Gibeon is in the central hill country, not far from the areas Israel is entering.",
+          "Gilgal remains Israel's camp and decision center at this point.",
+          "The Gibeonite cities named in the chapter form a local cluster rather than a distant foreign region."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Ancient diplomacy could involve envoys, provisions, clothing, and visible signs of travel.",
+          "Worn-out wineskins, sandals, and dry bread become evidence used in the deception.",
+          "Oaths and treaties create binding public commitments in the narrative.",
+          "Woodcutting and water carrying are practical labor roles connected to community and sanctuary needs."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This preserves Gibeon within Israel's story rather than listing it among destroyed cities.",
+        "It creates the immediate political trigger for the southern coalition.",
+        "It shows Israel dealing with a non-battle crisis after Jericho and Ai.",
+        "It explains the origin of Gibeonite service in the narrative."
+      ],
+      "stepIntoTheStory": [
+        "News of Jericho and Ai spreads through the land. The Gibeonites choose deception rather than battle.",
+        "Their envoys arrive at Gilgal with worn-out sacks, cracked wineskins, old sandals, patched clothing, and dry bread. The visual evidence makes them appear to have come from far away.",
+        "After the treaty is sworn, the truth emerges: they live nearby. Israel does not kill them because of the oath, but they are assigned to serve as woodcutters and water carriers."
+      ],
+      "documentaryObservations": [
+        "Envoys arriving at Gilgal.",
+        "Worn-out sacks on donkeys.",
+        "Old cracked wineskins.",
+        "Patched sandals and worn clothing.",
+        "Dry, crumbly bread shown as evidence.",
+        "Israelite leaders examining provisions.",
+        "A treaty sworn with the Gibeonites.",
+        "Three-day discovery that the cities are nearby.",
+        "Congregation grumbling against the leaders.",
+        "Gibeonites assigned to cut wood and draw water."
+      ],
+      "audioScript": "Joshua 9 moves from battlefield to diplomacy. The Gibeonites hear what happened to Jericho and Ai, and they prepare a deception. Their envoys come to Israel's camp at Gilgal with worn-out sacks, old wineskins, patched sandals, worn clothing, and dry bread. They claim to have come from a distant land. Israel makes a treaty with them. Three days later, the people learn that Gibeon is nearby. Because of the oath, the Gibeonites are spared, but Joshua assigns them to serve as woodcutters and water carriers.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 6:1-27",
+          "Joshua 8:1-35"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 9:1-27"
+        ],
+        "laterReferences": [
+          "Joshua 10:1-15",
+          "2 Samuel 21:1-14"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-06-achan-and-ai",
+        "nextStory": "joshua-08-southern-campaign"
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Gibeonites",
+          "Leaders of Israel",
+          "Israelite congregation"
+        ],
+        "places": [
+          "Gilgal",
+          "Gibeon",
+          "Chephirah",
+          "Beeroth",
+          "Kiriath-jearim"
+        ],
+        "events": [
+          "Gibeonite treaty",
+          "Gibeonites deceive Joshua",
+          "worn-out wineskins",
+          "woodcutters water carriers"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 9",
+          "Gibeonite deception",
+          "treaty with Gibeon"
+        ]
+      },
+      "realitySummary": "The Gibeonites Deceive Israel and Receive a Treaty. The Gibeonites deceive Israel with worn-out supplies, receive a sworn treaty, and are assigned as woodcutters and water carriers."
+    }
+  },
+  {
+    "id": "joshua-08-southern-campaign",
+    "sourceFile": "joshua-08-southern-campaign.json",
+    "searchTerms": [
+      "Joshua",
+      "Gibeonites",
+      "Adoni-zedek",
+      "Five Amorite kings",
+      "Israelite army",
+      "Gilgal",
+      "Gibeon",
+      "Beth-horon ascent/descent",
+      "Azekah",
+      "Makkedah",
+      "Lachish",
+      "Eglon",
+      "Hebron",
+      "Debir",
+      "southern campaign",
+      "Gibeon defended",
+      "five Amorite kings",
+      "Beth-horon",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 10",
+      "battle of Gibeon",
+      "southern conquest",
+      "Battle",
+      "Alliance Conflict",
+      "Military Campaign",
+      "Pursuit",
+      "The Southern Campaign and the Defense of Gibeon",
+      "The Southern Campaign and the Defense of Gibeon. Five southern kings attack Gibeon, Joshua marches from Gilgal to defend it, pursues the coalition, and captures a series of southern cities."
+    ],
+    "title": "The Southern Campaign and the Defense of Gibeon",
+    "reference": "Joshua 10",
+    "kicker": "Study",
+    "eventType": [
+      "Battle",
+      "Alliance Conflict",
+      "Military Campaign",
+      "Pursuit"
+    ],
+    "summary": "The Southern Campaign and the Defense of Gibeon. Five southern kings attack Gibeon, Joshua marches from Gilgal to defend it, pursues the coalition, and captures a series of southern cities.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Gibeon, Beth-horon, and southern Canaan"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Regional Military Campaign"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Gibeonite treaty; before northern campaign"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "The Southern Campaign and the Defense of Gibeon"
+    ],
+    "currentStory": "The Southern Campaign and the Defense of Gibeon",
+    "stepIntoStory": "The scene begins with political reaction. Gibeon has made peace with Israel, so five southern kings gather against it.\n\nThe Gibeonites send urgently to Gilgal. Joshua marches through the night from the Jordan Valley up toward Gibeon with his fighting men.\n\nThe battle becomes a pursuit. Enemies flee by the way of Beth-horon, and the five kings hide in a cave at Makkedah. The campaign then moves from city to city across the south.",
+    "notice": [
+      "Messengers from Gibeon reaching Gilgal.",
+      "Joshua's army marching all night uphill.",
+      "Five kings forming a southern coalition.",
+      "Battle near Gibeon.",
+      "Enemies fleeing down the Beth-horon route.",
+      "Large stones falling from the sky in the narrative.",
+      "The sun and moon scene over Gibeon and Aijalon.",
+      "Five kings hiding in a cave at Makkedah.",
+      "Southern cities taken one after another.",
+      "Israel returning to Gilgal."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "The Gibeonites deceived Israel, received a treaty, and were spared."
+      },
+      {
+        "label": "Now",
+        "value": "Five southern kings attack Gibeon, Joshua marches from Gilgal to defend it, pursues the coalition, and captures a series of southern cities."
+      },
+      {
+        "label": "Next",
+        "value": "Jabin of Hazor gathers a northern coalition against Israel."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This shows the treaty with Gibeon immediately affecting Israel's military obligations."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It expands the conflict from individual cities to regional coalitions."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It moves the campaign into the southern hill country and lowland routes."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It lists major southern cities that shape the conquest summary."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The campaign moves from Gilgal in the Jordan Valley up toward Gibeon in the hill country."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The pursuit follows the Beth-horon route, a strategic descent from highland toward lower regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Makkedah, Lachish, Eglon, Hebron, and Debir extend the theater across southern Canaan."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A forced night march from Gilgal to Gibeon requires rapid military movement uphill."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "City-states act under kings who form coalitions."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Caves can serve as hiding places during pursuit."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Regional campaigns involve movement between fortified towns, battle routes, and return to camp."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the first large coalition conflict in Joshua.",
+      "It explains why Israel fights on behalf of Gibeon after the treaty.",
+      "It summarizes the southern campaign before the northern campaign of Joshua 11.",
+      "It marks the expansion of Israel's conflict beyond Jericho and Ai."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Leads Israel's forced march and southern campaign",
+        "relationships": []
+      },
+      {
+        "name": "Gibeonites",
+        "role": "Call for help after being attacked by southern kings",
+        "relationships": []
+      },
+      {
+        "name": "Adoni-zedek",
+        "role": "King of Jerusalem who organizes the coalition",
+        "relationships": []
+      },
+      {
+        "name": "Five Amorite kings",
+        "role": "Kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon",
+        "relationships": []
+      },
+      {
+        "name": "Israelite army",
+        "role": "Marches from Gilgal and fights the coalition",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Israel's base camp before the forced march"
+      },
+      {
+        "ancientName": "Gibeon",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "City attacked because it made peace with Israel"
+      },
+      {
+        "ancientName": "Beth-horon ascent/descent",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Route of pursuit"
+      },
+      {
+        "ancientName": "Azekah",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Area toward which enemies flee"
+      },
+      {
+        "ancientName": "Makkedah",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Cave where the five kings hide"
+      },
+      {
+        "ancientName": "Lachish",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Southern city taken in the campaign"
+      },
+      {
+        "ancientName": "Eglon",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Southern city taken in the campaign"
+      },
+      {
+        "ancientName": "Hebron",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Hill country city involved in the campaign"
+      },
+      {
+        "ancientName": "Debir",
+        "modernRegion": "West Bank / central hill country region",
+        "description": "Southern hill country city taken in the campaign"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Gibeonites",
+      "Adoni-zedek",
+      "Five Amorite kings",
+      "Israelite army"
+    ],
+    "places": [
+      "Gilgal",
+      "Gibeon",
+      "Beth-horon ascent/descent",
+      "Azekah",
+      "Makkedah",
+      "Lachish",
+      "Eglon",
+      "Hebron",
+      "Debir"
+    ],
+    "movement": [
+      "Five kings attack Gibeon",
+      "Gibeon sends to Joshua at Gilgal",
+      "Joshua marches up from Gilgal by night",
+      "Israel fights at Gibeon",
+      "Enemies flee by Beth-horon toward Azekah and Makkedah",
+      "Five kings hide in a cave at Makkedah",
+      "Joshua continues through southern cities",
+      "Israel returns to camp at Gilgal"
+    ],
+    "movementDetails": {
+      "startingPoint": "Gilgal",
+      "destination": "Gibeon and southern cities",
+      "route": [
+        "Five kings attack Gibeon",
+        "Gibeon sends to Joshua at Gilgal",
+        "Joshua marches up from Gilgal by night",
+        "Israel fights at Gibeon",
+        "Enemies flee by Beth-horon toward Azekah and Makkedah",
+        "Five kings hide in a cave at Makkedah",
+        "Joshua continues through southern cities",
+        "Israel returns to camp at Gilgal"
+      ],
+      "majorStops": [
+        "Gilgal",
+        "Gibeon",
+        "Beth-horon",
+        "Azekah",
+        "Makkedah",
+        "Libnah",
+        "Lachish",
+        "Eglon",
+        "Hebron",
+        "Debir"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 10 begins because of the treaty with Gibeon. Five southern kings attack Gibeon, and the Gibeonites send to Joshua at Gilgal. Joshua marches all night from Gilgal with his fighting men and reaches Gibeon. The battle turns into a pursuit along the Beth-horon route toward Azekah and Makkedah. The five kings hide in a cave at Makkedah. After dealing with them, Joshua continues through southern cities including Libnah, Lachish, Eglon, Hebron, and Debir. The chapter presents a regional campaign across southern Canaan.",
+    "crossReferences": [
+      "Joshua 9:1-27",
+      "Joshua 10:1-43",
+      "Joshua 11:1-23",
+      "Joshua 12:7-24"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 9:1-27"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 10:1-43"
+      ],
+      "laterReferences": [
+        "Joshua 11:1-23",
+        "Joshua 12:7-24"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-07-gibeonite-treaty",
+      "nextStory": "joshua-09-northern-campaign"
+    },
+    "source": {
+      "id": "joshua-08-southern-campaign",
+      "reference": "Joshua 10",
+      "storyTitle": "The Southern Campaign and the Defense of Gibeon",
+      "eventType": [
+        "Battle",
+        "Alliance Conflict",
+        "Military Campaign",
+        "Pursuit"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Gibeon, Beth-horon, and southern Canaan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "Gibeonites",
+          "five Amorite kings",
+          "Israelite army"
+        ],
+        "sceneScale": "Regional Military Campaign",
+        "timeAnchor": "After Gibeonite treaty; before northern campaign",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Leads Israel's forced march and southern campaign",
+          "relationships": []
+        },
+        {
+          "name": "Gibeonites",
+          "role": "Call for help after being attacked by southern kings",
+          "relationships": []
+        },
+        {
+          "name": "Adoni-zedek",
+          "role": "King of Jerusalem who organizes the coalition",
+          "relationships": []
+        },
+        {
+          "name": "Five Amorite kings",
+          "role": "Kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon",
+          "relationships": []
+        },
+        {
+          "name": "Israelite army",
+          "role": "Marches from Gilgal and fights the coalition",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Israel's base camp before the forced march"
+        },
+        {
+          "ancientName": "Gibeon",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "City attacked because it made peace with Israel"
+        },
+        {
+          "ancientName": "Beth-horon ascent/descent",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Route of pursuit"
+        },
+        {
+          "ancientName": "Azekah",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Area toward which enemies flee"
+        },
+        {
+          "ancientName": "Makkedah",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Cave where the five kings hide"
+        },
+        {
+          "ancientName": "Lachish",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Southern city taken in the campaign"
+        },
+        {
+          "ancientName": "Eglon",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Southern city taken in the campaign"
+        },
+        {
+          "ancientName": "Hebron",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Hill country city involved in the campaign"
+        },
+        {
+          "ancientName": "Debir",
+          "modernRegion": "West Bank / central hill country region",
+          "description": "Southern hill country city taken in the campaign"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Gilgal",
+        "destination": "Gibeon and southern cities",
+        "route": [
+          "Five kings attack Gibeon",
+          "Gibeon sends to Joshua at Gilgal",
+          "Joshua marches up from Gilgal by night",
+          "Israel fights at Gibeon",
+          "Enemies flee by Beth-horon toward Azekah and Makkedah",
+          "Five kings hide in a cave at Makkedah",
+          "Joshua continues through southern cities",
+          "Israel returns to camp at Gilgal"
+        ],
+        "majorStops": [
+          "Gilgal",
+          "Gibeon",
+          "Beth-horon",
+          "Azekah",
+          "Makkedah",
+          "Libnah",
+          "Lachish",
+          "Eglon",
+          "Hebron",
+          "Debir"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "The Gibeonites deceived Israel, received a treaty, and were spared.",
+        "whatIsHappeningNow": "Five southern kings attack Gibeon, Joshua marches from Gilgal to defend it, pursues the coalition, and captures a series of southern cities.",
+        "whatHappensAfter": "Jabin of Hazor gathers a northern coalition against Israel.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "The Southern Campaign and the Defense of Gibeon ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This shows the treaty with Gibeon immediately affecting Israel's military obligations.",
+          "It expands the conflict from individual cities to regional coalitions.",
+          "It moves the campaign into the southern hill country and lowland routes.",
+          "It lists major southern cities that shape the conquest summary."
+        ],
+        "geographicContext": [
+          "The campaign moves from Gilgal in the Jordan Valley up toward Gibeon in the hill country.",
+          "The pursuit follows the Beth-horon route, a strategic descent from highland toward lower regions.",
+          "Makkedah, Lachish, Eglon, Hebron, and Debir extend the theater across southern Canaan."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "A forced night march from Gilgal to Gibeon requires rapid military movement uphill.",
+          "City-states act under kings who form coalitions.",
+          "Caves can serve as hiding places during pursuit.",
+          "Regional campaigns involve movement between fortified towns, battle routes, and return to camp."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the first large coalition conflict in Joshua.",
+        "It explains why Israel fights on behalf of Gibeon after the treaty.",
+        "It summarizes the southern campaign before the northern campaign of Joshua 11.",
+        "It marks the expansion of Israel's conflict beyond Jericho and Ai."
+      ],
+      "stepIntoTheStory": [
+        "The scene begins with political reaction. Gibeon has made peace with Israel, so five southern kings gather against it.",
+        "The Gibeonites send urgently to Gilgal. Joshua marches through the night from the Jordan Valley up toward Gibeon with his fighting men.",
+        "The battle becomes a pursuit. Enemies flee by the way of Beth-horon, and the five kings hide in a cave at Makkedah. The campaign then moves from city to city across the south."
+      ],
+      "documentaryObservations": [
+        "Messengers from Gibeon reaching Gilgal.",
+        "Joshua's army marching all night uphill.",
+        "Five kings forming a southern coalition.",
+        "Battle near Gibeon.",
+        "Enemies fleeing down the Beth-horon route.",
+        "Large stones falling from the sky in the narrative.",
+        "The sun and moon scene over Gibeon and Aijalon.",
+        "Five kings hiding in a cave at Makkedah.",
+        "Southern cities taken one after another.",
+        "Israel returning to Gilgal."
+      ],
+      "audioScript": "Joshua 10 begins because of the treaty with Gibeon. Five southern kings attack Gibeon, and the Gibeonites send to Joshua at Gilgal. Joshua marches all night from Gilgal with his fighting men and reaches Gibeon. The battle turns into a pursuit along the Beth-horon route toward Azekah and Makkedah. The five kings hide in a cave at Makkedah. After dealing with them, Joshua continues through southern cities including Libnah, Lachish, Eglon, Hebron, and Debir. The chapter presents a regional campaign across southern Canaan.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 9:1-27"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 10:1-43"
+        ],
+        "laterReferences": [
+          "Joshua 11:1-23",
+          "Joshua 12:7-24"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-07-gibeonite-treaty",
+        "nextStory": "joshua-09-northern-campaign"
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Gibeonites",
+          "Adoni-zedek",
+          "Five Amorite kings",
+          "Israelite army"
+        ],
+        "places": [
+          "Gilgal",
+          "Gibeon",
+          "Beth-horon ascent/descent",
+          "Azekah",
+          "Makkedah",
+          "Lachish",
+          "Eglon",
+          "Hebron",
+          "Debir"
+        ],
+        "events": [
+          "southern campaign",
+          "Gibeon defended",
+          "five Amorite kings",
+          "Beth-horon"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 10",
+          "battle of Gibeon",
+          "southern conquest"
+        ]
+      },
+      "realitySummary": "The Southern Campaign and the Defense of Gibeon. Five southern kings attack Gibeon, Joshua marches from Gilgal to defend it, pursues the coalition, and captures a series of southern cities."
+    }
+  },
+  {
+    "id": "joshua-09-northern-campaign",
+    "sourceFile": "joshua-09-northern-campaign.json",
+    "searchTerms": [
+      "Joshua",
+      "Jabin",
+      "Northern kings",
+      "Israelite army",
+      "Hazor",
+      "Waters of Merom",
+      "Madon",
+      "Shimron",
+      "Achshaph",
+      "Sidon",
+      "Misrephoth-maim",
+      "northern campaign",
+      "waters of Merom",
+      "horses and chariots",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 11",
+      "Jabin of Hazor",
+      "northern conquest",
+      "Battle",
+      "Military Campaign",
+      "Coalition Conflict",
+      "Regional Conquest",
+      "The Northern Campaign and the Defeat of Hazor's Coalition",
+      "The Northern Campaign and the Defeat of Hazor's Coalition. Jabin of Hazor gathers a large northern coalition, Joshua attacks at the waters of Merom, and Hazor is burned."
+    ],
+    "title": "The Northern Campaign and the Defeat of Hazor's Coalition",
+    "reference": "Joshua 11",
+    "kicker": "Study",
+    "eventType": [
+      "Battle",
+      "Military Campaign",
+      "Coalition Conflict",
+      "Regional Conquest"
+    ],
+    "summary": "The Northern Campaign and the Defeat of Hazor's Coalition. Jabin of Hazor gathers a large northern coalition, Joshua attacks at the waters of Merom, and Hazor is burned.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua"
+      },
+      {
+        "label": "Location",
+        "value": "Northern Canaan and Hazor"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Northern Israel / Galilee-Hazor region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Regional Military Campaign"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After southern campaign; before conquest summary"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "The Northern Campaign and the Defeat of Hazor's Coalition"
+    ],
+    "currentStory": "The Northern Campaign and the Defeat of Hazor's Coalition",
+    "stepIntoStory": "News from the south reaches the north. Jabin of Hazor gathers kings from multiple regions into a large coalition.\n\nThe armies camp near the waters of Merom. Unlike Jericho's procession or Ai's ambush, this scene is a coalition battlefield with horses and chariots.\n\nJoshua attacks suddenly, the coalition is defeated, and the pursuit spreads northward. Hazor, the leading city, is captured and burned.",
+    "notice": [
+      "Northern kings gathering in coalition.",
+      "A large camp near the waters of Merom.",
+      "Horses and chariots in the northern army.",
+      "Joshua's sudden attack.",
+      "Enemies pursued toward Sidon and Misrephoth-maim.",
+      "Hazor identified as head of the kingdoms.",
+      "Hazor burned with fire.",
+      "Northern hill country and valleys included in the campaign.",
+      "The land summarized as taken after prolonged war."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Joshua completed the southern campaign after defending Gibeon."
+      },
+      {
+        "label": "Now",
+        "value": "Jabin of Hazor gathers a large northern coalition, Joshua attacks at the waters of Merom, and Hazor is burned."
+      },
+      {
+        "label": "Next",
+        "value": "Joshua 12 summarizes the defeated kings east and west of the Jordan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the northern counterpart to the southern campaign."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces Hazor as the leading northern city in the Joshua conquest account."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It moves the battlefield from southern hill country to northern waters and cities."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It prepares for the conquest summary of Joshua 12."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Northern Canaan includes hill country, valleys, water sources, and major fortified cities such as Hazor."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The waters of Merom provide the named battle setting for the coalition encounter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The pursuit stretches toward northern coastal and highland regions."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "City-state kings could form regional coalitions in response to Israel's advance."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Horses and chariots appear in this northern conflict, indicating a different military setting from some earlier battles."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Hazor's burning marks the defeat of the leading city named in the coalition."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This completes the major north-south campaign structure in Joshua.",
+      "It shows the conflict expanding to the largest northern coalition in the book.",
+      "It highlights Hazor as a major city in the north.",
+      "It leads directly into the list of defeated kings."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Leads Israel against the northern coalition",
+        "relationships": []
+      },
+      {
+        "name": "Jabin",
+        "role": "King of Hazor who gathers northern kings",
+        "relationships": []
+      },
+      {
+        "name": "Northern kings",
+        "role": "Coalition rulers from hill country, Arabah, lowland, and coastal regions",
+        "relationships": []
+      },
+      {
+        "name": "Israelite army",
+        "role": "Attacks the coalition at the waters of Merom",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Hazor",
+        "modernRegion": "Northern Israel / Galilee-Hazor region",
+        "description": "Major northern city whose king leads the coalition"
+      },
+      {
+        "ancientName": "Waters of Merom",
+        "modernRegion": "Northern Israel / Galilee-Hazor region",
+        "description": "Battle area for the northern coalition; exact identification debated"
+      },
+      {
+        "ancientName": "Madon",
+        "modernRegion": "Northern Israel / Galilee-Hazor region",
+        "description": "Northern city associated with the coalition"
+      },
+      {
+        "ancientName": "Shimron",
+        "modernRegion": "Northern Israel / Galilee-Hazor region",
+        "description": "Northern city associated with the coalition"
+      },
+      {
+        "ancientName": "Achshaph",
+        "modernRegion": "Northern Israel / Galilee-Hazor region",
+        "description": "Northern city associated with the coalition"
+      },
+      {
+        "ancientName": "Sidon",
+        "modernRegion": "Lebanon coast",
+        "description": "Northern coastal reference in the pursuit"
+      },
+      {
+        "ancientName": "Misrephoth-maim",
+        "modernRegion": "Northern coastal region; exact site debated",
+        "description": "Pursuit region named in the narrative"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Jabin",
+      "Northern kings",
+      "Israelite army"
+    ],
+    "places": [
+      "Hazor",
+      "Waters of Merom",
+      "Madon",
+      "Shimron",
+      "Achshaph",
+      "Sidon",
+      "Misrephoth-maim"
+    ],
+    "movement": [
+      "Jabin hears of southern events and gathers northern kings",
+      "The coalition camps near the waters of Merom",
+      "Joshua attacks suddenly",
+      "The coalition is defeated and pursued",
+      "Hazor is captured and burned",
+      "Joshua takes the land according to the narrative summary"
+    ],
+    "movementDetails": {
+      "startingPoint": "Northern coalition gathered near Merom",
+      "destination": "Hazor and northern territories",
+      "route": [
+        "Jabin hears of southern events and gathers northern kings",
+        "The coalition camps near the waters of Merom",
+        "Joshua attacks suddenly",
+        "The coalition is defeated and pursued",
+        "Hazor is captured and burned",
+        "Joshua takes the land according to the narrative summary"
+      ],
+      "majorStops": [
+        "Hazor",
+        "Waters of Merom",
+        "Sidon region",
+        "Misrephoth-maim",
+        "northern hill country"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 11 shifts the campaign north. Jabin king of Hazor gathers a large coalition of kings from the northern regions. Their forces assemble near the waters of Merom, with horses and chariots. Joshua attacks suddenly, and the coalition is defeated. The pursuit stretches toward northern coastal and highland areas. Hazor, described as the head of those kingdoms, is captured and burned. This chapter completes the major northern campaign before the book summarizes the defeated kings.",
+    "crossReferences": [
+      "Joshua 10:1-43",
+      "Joshua 11:1-23",
+      "Joshua 12:1-24",
+      "Judges 4:1-24"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 10:1-43"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 11:1-23"
+      ],
+      "laterReferences": [
+        "Joshua 12:1-24",
+        "Judges 4:1-24"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joshua",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-08-southern-campaign",
+      "nextStory": "joshua-10-conquest-summary"
+    },
+    "source": {
+      "id": "joshua-09-northern-campaign",
+      "reference": "Joshua 11",
+      "storyTitle": "The Northern Campaign and the Defeat of Hazor's Coalition",
+      "eventType": [
+        "Battle",
+        "Military Campaign",
+        "Coalition Conflict",
+        "Regional Conquest"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua",
+        "approximateAge": null,
+        "currentLocation": "Northern Canaan and Hazor",
+        "modernRegion": "Northern Israel / Galilee-Hazor region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "Jabin king of Hazor",
+          "northern kings",
+          "Israelite army"
+        ],
+        "sceneScale": "Regional Military Campaign",
+        "timeAnchor": "After southern campaign; before conquest summary",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Leads Israel against the northern coalition",
+          "relationships": []
+        },
+        {
+          "name": "Jabin",
+          "role": "King of Hazor who gathers northern kings",
+          "relationships": []
+        },
+        {
+          "name": "Northern kings",
+          "role": "Coalition rulers from hill country, Arabah, lowland, and coastal regions",
+          "relationships": []
+        },
+        {
+          "name": "Israelite army",
+          "role": "Attacks the coalition at the waters of Merom",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Hazor",
+          "modernRegion": "Northern Israel / Galilee-Hazor region",
+          "description": "Major northern city whose king leads the coalition"
+        },
+        {
+          "ancientName": "Waters of Merom",
+          "modernRegion": "Northern Israel / Galilee-Hazor region",
+          "description": "Battle area for the northern coalition; exact identification debated"
+        },
+        {
+          "ancientName": "Madon",
+          "modernRegion": "Northern Israel / Galilee-Hazor region",
+          "description": "Northern city associated with the coalition"
+        },
+        {
+          "ancientName": "Shimron",
+          "modernRegion": "Northern Israel / Galilee-Hazor region",
+          "description": "Northern city associated with the coalition"
+        },
+        {
+          "ancientName": "Achshaph",
+          "modernRegion": "Northern Israel / Galilee-Hazor region",
+          "description": "Northern city associated with the coalition"
+        },
+        {
+          "ancientName": "Sidon",
+          "modernRegion": "Lebanon coast",
+          "description": "Northern coastal reference in the pursuit"
+        },
+        {
+          "ancientName": "Misrephoth-maim",
+          "modernRegion": "Northern coastal region; exact site debated",
+          "description": "Pursuit region named in the narrative"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Northern coalition gathered near Merom",
+        "destination": "Hazor and northern territories",
+        "route": [
+          "Jabin hears of southern events and gathers northern kings",
+          "The coalition camps near the waters of Merom",
+          "Joshua attacks suddenly",
+          "The coalition is defeated and pursued",
+          "Hazor is captured and burned",
+          "Joshua takes the land according to the narrative summary"
+        ],
+        "majorStops": [
+          "Hazor",
+          "Waters of Merom",
+          "Sidon region",
+          "Misrephoth-maim",
+          "northern hill country"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Joshua completed the southern campaign after defending Gibeon.",
+        "whatIsHappeningNow": "Jabin of Hazor gathers a large northern coalition, Joshua attacks at the waters of Merom, and Hazor is burned.",
+        "whatHappensAfter": "Joshua 12 summarizes the defeated kings east and west of the Jordan.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "The Northern Campaign and the Defeat of Hazor's Coalition ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This is the northern counterpart to the southern campaign.",
+          "It introduces Hazor as the leading northern city in the Joshua conquest account.",
+          "It moves the battlefield from southern hill country to northern waters and cities.",
+          "It prepares for the conquest summary of Joshua 12."
+        ],
+        "geographicContext": [
+          "Northern Canaan includes hill country, valleys, water sources, and major fortified cities such as Hazor.",
+          "The waters of Merom provide the named battle setting for the coalition encounter.",
+          "The pursuit stretches toward northern coastal and highland regions."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "City-state kings could form regional coalitions in response to Israel's advance.",
+          "Horses and chariots appear in this northern conflict, indicating a different military setting from some earlier battles.",
+          "Hazor's burning marks the defeat of the leading city named in the coalition."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This completes the major north-south campaign structure in Joshua.",
+        "It shows the conflict expanding to the largest northern coalition in the book.",
+        "It highlights Hazor as a major city in the north.",
+        "It leads directly into the list of defeated kings."
+      ],
+      "stepIntoTheStory": [
+        "News from the south reaches the north. Jabin of Hazor gathers kings from multiple regions into a large coalition.",
+        "The armies camp near the waters of Merom. Unlike Jericho's procession or Ai's ambush, this scene is a coalition battlefield with horses and chariots.",
+        "Joshua attacks suddenly, the coalition is defeated, and the pursuit spreads northward. Hazor, the leading city, is captured and burned."
+      ],
+      "documentaryObservations": [
+        "Northern kings gathering in coalition.",
+        "A large camp near the waters of Merom.",
+        "Horses and chariots in the northern army.",
+        "Joshua's sudden attack.",
+        "Enemies pursued toward Sidon and Misrephoth-maim.",
+        "Hazor identified as head of the kingdoms.",
+        "Hazor burned with fire.",
+        "Northern hill country and valleys included in the campaign.",
+        "The land summarized as taken after prolonged war."
+      ],
+      "audioScript": "Joshua 11 shifts the campaign north. Jabin king of Hazor gathers a large coalition of kings from the northern regions. Their forces assemble near the waters of Merom, with horses and chariots. Joshua attacks suddenly, and the coalition is defeated. The pursuit stretches toward northern coastal and highland areas. Hazor, described as the head of those kingdoms, is captured and burned. This chapter completes the major northern campaign before the book summarizes the defeated kings.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 10:1-43"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 11:1-23"
+        ],
+        "laterReferences": [
+          "Joshua 12:1-24",
+          "Judges 4:1-24"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joshua",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-08-southern-campaign",
+        "nextStory": "joshua-10-conquest-summary"
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Jabin",
+          "Northern kings",
+          "Israelite army"
+        ],
+        "places": [
+          "Hazor",
+          "Waters of Merom",
+          "Madon",
+          "Shimron",
+          "Achshaph",
+          "Sidon",
+          "Misrephoth-maim"
+        ],
+        "events": [
+          "northern campaign",
+          "Hazor",
+          "waters of Merom",
+          "horses and chariots"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 11",
+          "Jabin of Hazor",
+          "northern conquest"
+        ]
+      },
+      "realitySummary": "The Northern Campaign and the Defeat of Hazor's Coalition. Jabin of Hazor gathers a large northern coalition, Joshua attacks at the waters of Merom, and Hazor is burned."
+    }
+  },
+  {
+    "id": "joshua-10-conquest-summary",
+    "sourceFile": "joshua-10-conquest-summary.json",
+    "searchTerms": [
+      "Moses",
+      "Joshua",
+      "Sihon",
+      "Og",
+      "Thirty-one western kings",
+      "East of the Jordan",
+      "West of the Jordan",
+      "Heshbon",
+      "Bashan",
+      "Jericho",
+      "Hazor",
+      "defeated kings",
+      "Joshua 12 kings list",
+      "Sihon Og",
+      "thirty-one kings",
+      "Conquest",
+      "Entry into Canaan",
+      "Joshua 12",
+      "conquest summary",
+      "defeated kings of Canaan",
+      "Summary",
+      "King List",
+      "Conquest Review",
+      "Land Review",
+      "Summary of Defeated Kings East and West of the Jordan",
+      "Summary of Defeated Kings East and West of the Jordan. The chapter summarizes kings defeated east of the Jordan under Moses and west of the Jordan under Joshua."
+    ],
+    "title": "Summary of Defeated Kings East and West of the Jordan",
+    "reference": "Joshua 12",
+    "kicker": "Study",
+    "eventType": [
+      "Summary",
+      "King List",
+      "Conquest Review",
+      "Land Review"
+    ],
+    "summary": "Summary of Defeated Kings East and West of the Jordan. The chapter summarizes kings defeated east of the Jordan under Moses and west of the Jordan under Joshua.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Joshua and Moses"
+      },
+      {
+        "label": "Location",
+        "value": "East and west of the Jordan"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Conquest"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Regional Conquest Summary"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After northern campaign; before land allocation begins"
+      }
+    ],
+    "situation": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+    "storyPosition": [
+      "Moses Dies",
+      "Joshua Commissioned",
+      "Jordan Crossing",
+      "Jericho",
+      "Ai and Covenant Renewal",
+      "Land Allotments",
+      "Joshua's Farewell",
+      "Summary of Defeated Kings East and West of the Jordan"
+    ],
+    "currentStory": "Summary of Defeated Kings East and West of the Jordan",
+    "stepIntoStory": "Joshua 12 reads like a roll call after the campaigns. It begins east of the Jordan with Sihon and Og, the kings defeated under Moses.\n\nThen the focus crosses the river to the kings defeated under Joshua. Jericho, Ai, Jerusalem, Hebron, Lachish, Hazor, and many others appear as city names in a political list.\n\nThe scene is not one battlefield but a documentary map of conquest memory, preparing the story for tribal inheritance.",
+    "notice": [
+      "The Jordan dividing east and west victories.",
+      "Sihon and Og listed as earlier Transjordan kings.",
+      "Western city-state kings named one by one.",
+      "Jericho and Ai included near the beginning of the list.",
+      "Southern and northern cities included together.",
+      "Hazor appearing after its campaign.",
+      "Thirty-one kings counted west of the Jordan.",
+      "The narrative moving from battle to land distribution."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Joshua defeated the northern coalition and burned Hazor."
+      },
+      {
+        "label": "Now",
+        "value": "The chapter summarizes kings defeated east of the Jordan under Moses and west of the Jordan under Joshua."
+      },
+      {
+        "label": "Next",
+        "value": "The narrative shifts from conquest campaigns to land distribution among the tribes."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Joshua follows the death of Moses at the end of Deuteronomy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists, but the later Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy has not yet begun."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This chapter closes the conquest-summary section before land allotments begin."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It connects Moses' Transjordan victories with Joshua's western campaigns."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It provides a geographic and political inventory of defeated kings."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It bridges military narrative and inheritance distribution."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The summary spans both sides of the Jordan: Transjordan territories east of the river and Canaanite city-states west of it."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The western list moves through a wide range of cities across hill country, lowlands, and northern regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Jordan functions as the dividing line between Moses' victories and Joshua's victories."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Ancient city-states were often ruled by local kings over cities and surrounding lands."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A king list functions as a political geography summary rather than a single battle scene."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The list prepares the reader for land division by summarizing the regions now under Israel's control in the narrative."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the formal conquest inventory of Joshua.",
+      "It marks the end of the campaign narratives before inheritance begins.",
+      "It preserves continuity between Moses and Joshua.",
+      "It gives the reader a map-like overview of the defeated city-state kings."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Moses",
+        "role": "Associated with defeated kings east of the Jordan",
+        "relationships": []
+      },
+      {
+        "name": "Joshua",
+        "role": "Associated with defeated kings west of the Jordan",
+        "relationships": []
+      },
+      {
+        "name": "Sihon",
+        "role": "King of the Amorites defeated east of the Jordan",
+        "relationships": []
+      },
+      {
+        "name": "Og",
+        "role": "King of Bashan defeated east of the Jordan",
+        "relationships": []
+      },
+      {
+        "name": "Thirty-one western kings",
+        "role": "Kings listed as defeated west of the Jordan",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "East of the Jordan",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Territory of Sihon and Og defeated under Moses"
+      },
+      {
+        "ancientName": "West of the Jordan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Territory of kings defeated under Joshua"
+      },
+      {
+        "ancientName": "Heshbon",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "City of Sihon"
+      },
+      {
+        "ancientName": "Bashan",
+        "modernRegion": "Northern Israel / Galilee-Hazor region",
+        "description": "Region of Og"
+      },
+      {
+        "ancientName": "Jericho",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "First city listed among western kings"
+      },
+      {
+        "ancientName": "Hazor",
+        "modernRegion": "Northern Israel / Galilee-Hazor region",
+        "description": "Major northern city listed among defeated kings"
+      }
+    ],
+    "people": [
+      "Moses",
+      "Joshua",
+      "Sihon",
+      "Og",
+      "Thirty-one western kings"
+    ],
+    "places": [
+      "East of the Jordan",
+      "West of the Jordan",
+      "Heshbon",
+      "Bashan",
+      "Jericho",
+      "Hazor"
+    ],
+    "movement": [
+      "The chapter first lists kings defeated by Moses east of the Jordan",
+      "It then lists kings defeated by Joshua west of the Jordan",
+      "The list moves through major city names and regions",
+      "The total of western kings is given as thirty-one"
+    ],
+    "movementDetails": {
+      "startingPoint": "East of the Jordan summary",
+      "destination": "West of the Jordan summary",
+      "route": [
+        "The chapter first lists kings defeated by Moses east of the Jordan",
+        "It then lists kings defeated by Joshua west of the Jordan",
+        "The list moves through major city names and regions",
+        "The total of western kings is given as thirty-one"
+      ],
+      "majorStops": [
+        "Heshbon",
+        "Bashan",
+        "Jordan boundary",
+        "Jericho",
+        "Ai",
+        "Jerusalem",
+        "Lachish",
+        "Hazor"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Joshua 12 summarizes the victories before the land allotments begin. First, it recalls the kings defeated east of the Jordan under Moses: Sihon of Heshbon and Og of Bashan. Then it lists the kings defeated west of the Jordan under Joshua. The list includes Jericho, Ai, Jerusalem, Hebron, Lachish, Hazor, and many others, totaling thirty-one kings. The chapter functions like a political map after the campaigns, linking Moses' victories east of the river with Joshua's victories inside Canaan.",
+    "crossReferences": [
+      "Numbers 21:21-35",
+      "Joshua 10:1-43",
+      "Joshua 11:1-23",
+      "Joshua 12:1-24",
+      "Joshua 13:1-33"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 21:21-35",
+        "Joshua 10:1-43",
+        "Joshua 11:1-23"
+      ],
+      "directlyRelatedEvents": [
+        "Joshua 12:1-24"
+      ],
+      "laterReferences": [
+        "Joshua 13:1-33"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Joshua and Moses",
+      "arc": "Entry, Conquest, and Settlement in Canaan",
+      "previousStory": "joshua-09-northern-campaign",
+      "nextStory": null
+    },
+    "source": {
+      "id": "joshua-10-conquest-summary",
+      "reference": "Joshua 12",
+      "storyTitle": "Summary of Defeated Kings East and West of the Jordan",
+      "eventType": [
+        "Summary",
+        "King List",
+        "Conquest Review",
+        "Land Review"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Joshua and Moses",
+        "approximateAge": null,
+        "currentLocation": "East and west of the Jordan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Conquest",
+        "keyCompanions": [
+          "Moses",
+          "Joshua",
+          "defeated kings"
+        ],
+        "sceneScale": "Regional Conquest Summary",
+        "timeAnchor": "After northern campaign; before land allocation begins",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Moses",
+          "role": "Associated with defeated kings east of the Jordan",
+          "relationships": []
+        },
+        {
+          "name": "Joshua",
+          "role": "Associated with defeated kings west of the Jordan",
+          "relationships": []
+        },
+        {
+          "name": "Sihon",
+          "role": "King of the Amorites defeated east of the Jordan",
+          "relationships": []
+        },
+        {
+          "name": "Og",
+          "role": "King of Bashan defeated east of the Jordan",
+          "relationships": []
+        },
+        {
+          "name": "Thirty-one western kings",
+          "role": "Kings listed as defeated west of the Jordan",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "East of the Jordan",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Territory of Sihon and Og defeated under Moses"
+        },
+        {
+          "ancientName": "West of the Jordan",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Territory of kings defeated under Joshua"
+        },
+        {
+          "ancientName": "Heshbon",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "City of Sihon"
+        },
+        {
+          "ancientName": "Bashan",
+          "modernRegion": "Northern Israel / Galilee-Hazor region",
+          "description": "Region of Og"
+        },
+        {
+          "ancientName": "Jericho",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "First city listed among western kings"
+        },
+        {
+          "ancientName": "Hazor",
+          "modernRegion": "Northern Israel / Galilee-Hazor region",
+          "description": "Major northern city listed among defeated kings"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "East of the Jordan summary",
+        "destination": "West of the Jordan summary",
+        "route": [
+          "The chapter first lists kings defeated by Moses east of the Jordan",
+          "It then lists kings defeated by Joshua west of the Jordan",
+          "The list moves through major city names and regions",
+          "The total of western kings is given as thirty-one"
+        ],
+        "majorStops": [
+          "Heshbon",
+          "Bashan",
+          "Jordan boundary",
+          "Jericho",
+          "Ai",
+          "Jerusalem",
+          "Lachish",
+          "Hazor"
+        ]
+      },
+      "timelineEra": "Conquest",
+      "storyPosition": {
+        "whatHappenedBefore": "Joshua defeated the northern coalition and burned Hazor.",
+        "whatIsHappeningNow": "The chapter summarizes kings defeated east of the Jordan under Moses and west of the Jordan under Joshua.",
+        "whatHappensAfter": "The narrative shifts from conquest campaigns to land distribution among the tribes.",
+        "storyPositionStrip": [
+          "Moses Dies",
+          "Joshua Commissioned",
+          "Jordan Crossing",
+          "Jericho",
+          "Ai and Covenant Renewal",
+          "Land Allotments",
+          "Joshua's Farewell",
+          "Summary of Defeated Kings East and West of the Jordan ← YOU ARE HERE"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Joshua follows the death of Moses at the end of Deuteronomy.",
+          "Israel is no longer at Sinai or wandering without direction; the nation is positioned to enter and occupy Canaan.",
+          "The Tabernacle exists, but the later Jerusalem Temple does not yet exist.",
+          "Israel is organized by tribes, with priests, Levites, elders, officers, fighting men, families, and livestock.",
+          "The monarchy has not yet begun.",
+          "This chapter closes the conquest-summary section before land allotments begin.",
+          "It connects Moses' Transjordan victories with Joshua's western campaigns.",
+          "It provides a geographic and political inventory of defeated kings.",
+          "It bridges military narrative and inheritance distribution."
+        ],
+        "geographicContext": [
+          "The summary spans both sides of the Jordan: Transjordan territories east of the river and Canaanite city-states west of it.",
+          "The western list moves through a wide range of cities across hill country, lowlands, and northern regions.",
+          "The Jordan functions as the dividing line between Moses' victories and Joshua's victories."
+        ],
+        "dailyLifeContext": [
+          "The narratives assume large-scale camp movement involving tents, families, livestock, priests, tribal representatives, and military-age men.",
+          "Travel, crossing rivers, siege activity, treaty-making, inheritance boundaries, and public assemblies shape daily life in Joshua.",
+          "Settled Canaan includes walled cities, roads, gates, fields, hill country, valleys, springs, and regional rulers.",
+          "Ancient city-states were often ruled by local kings over cities and surrounding lands.",
+          "A king list functions as a political geography summary rather than a single battle scene.",
+          "The list prepares the reader for land division by summarizing the regions now under Israel's control in the narrative."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the formal conquest inventory of Joshua.",
+        "It marks the end of the campaign narratives before inheritance begins.",
+        "It preserves continuity between Moses and Joshua.",
+        "It gives the reader a map-like overview of the defeated city-state kings."
+      ],
+      "stepIntoTheStory": [
+        "Joshua 12 reads like a roll call after the campaigns. It begins east of the Jordan with Sihon and Og, the kings defeated under Moses.",
+        "Then the focus crosses the river to the kings defeated under Joshua. Jericho, Ai, Jerusalem, Hebron, Lachish, Hazor, and many others appear as city names in a political list.",
+        "The scene is not one battlefield but a documentary map of conquest memory, preparing the story for tribal inheritance."
+      ],
+      "documentaryObservations": [
+        "The Jordan dividing east and west victories.",
+        "Sihon and Og listed as earlier Transjordan kings.",
+        "Western city-state kings named one by one.",
+        "Jericho and Ai included near the beginning of the list.",
+        "Southern and northern cities included together.",
+        "Hazor appearing after its campaign.",
+        "Thirty-one kings counted west of the Jordan.",
+        "The narrative moving from battle to land distribution."
+      ],
+      "audioScript": "Joshua 12 summarizes the victories before the land allotments begin. First, it recalls the kings defeated east of the Jordan under Moses: Sihon of Heshbon and Og of Bashan. Then it lists the kings defeated west of the Jordan under Joshua. The list includes Jericho, Ai, Jerusalem, Hebron, Lachish, Hazor, and many others, totaling thirty-one kings. The chapter functions like a political map after the campaigns, linking Moses' victories east of the river with Joshua's victories inside Canaan.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 21:21-35",
+          "Joshua 10:1-43",
+          "Joshua 11:1-23"
+        ],
+        "directlyRelatedEvents": [
+          "Joshua 12:1-24"
+        ],
+        "laterReferences": [
+          "Joshua 13:1-33"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Joshua and Moses",
+        "arc": "Entry, Conquest, and Settlement in Canaan",
+        "previousStory": "joshua-09-northern-campaign",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Moses",
+          "Joshua",
+          "Sihon",
+          "Og",
+          "Thirty-one western kings"
+        ],
+        "places": [
+          "East of the Jordan",
+          "West of the Jordan",
+          "Heshbon",
+          "Bashan",
+          "Jericho",
+          "Hazor"
+        ],
+        "events": [
+          "defeated kings",
+          "Joshua 12 kings list",
+          "Sihon Og",
+          "thirty-one kings"
+        ],
+        "timelineEra": [
+          "Conquest",
+          "Joshua",
+          "Entry into Canaan"
+        ],
+        "alternateNames": [
+          "Joshua 12",
+          "conquest summary",
+          "defeated kings of Canaan"
+        ]
+      },
+      "realitySummary": "Summary of Defeated Kings East and West of the Jordan. The chapter summarizes kings defeated east of the Jordan under Moses and west of the Jordan under Joshua."
+    }
   }
 ]
