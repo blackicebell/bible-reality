@@ -71500,5 +71500,1544 @@
       },
       "realitySummary": "Covenant Renewal at Shechem and the Death of Joshua. Joshua gathers Israel at Shechem, reviews the nation's history, renews the covenant, sets up a witness stone, dies, and the chapter records burials of Joshua, Joseph's bones, and Eleazar."
     }
+  },
+  {
+    "id": "judges-01-incomplete-conquest",
+    "sourceFile": "judges-01-incomplete-conquest.json",
+    "searchTerms": [
+      "Tribe of Judah",
+      "Tribe of Simeon",
+      "Caleb",
+      "Othniel",
+      "Achsah",
+      "Joseph tribes",
+      "Canaanites",
+      "Bezek",
+      "Jerusalem",
+      "Hebron",
+      "Debir / Kiriath-sepher",
+      "Bethel",
+      "Gezer",
+      "Valley regions",
+      "incomplete conquest",
+      "tribal settlement",
+      "Achsah springs",
+      "Canaanites remain",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 1",
+      "tribes after Joshua",
+      "Settlement",
+      "Battle",
+      "Tribal Report",
+      "Incomplete Conquest",
+      "Incomplete Conquest and Tribal Settlements",
+      "Incomplete Conquest and Tribal Settlements. Tribes continue fighting and settling after Joshua's death, but the chapter repeatedly notes Canaanites remaining in the land."
+    ],
+    "title": "Incomplete Conquest and Tribal Settlements",
+    "reference": "Judges 1",
+    "kicker": "Study",
+    "eventType": [
+      "Settlement",
+      "Battle",
+      "Tribal Report",
+      "Incomplete Conquest"
+    ],
+    "summary": "Incomplete Conquest and Tribal Settlements. Tribes continue fighting and settling after Joshua's death, but the chapter repeatedly notes Canaanites remaining in the land.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Tribes of Israel"
+      },
+      {
+        "label": "Location",
+        "value": "Canaan after Joshua's death"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Multi-Tribal Settlement Report"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Joshua's death; before the judges cycle is introduced"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Incomplete Conquest and Tribal Settlements",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Incomplete Conquest and Tribal Settlements",
+    "stepIntoStory": "The book begins after Joshua's death. There is no king and no single leader like Moses or Joshua standing over all the tribes.\n\nThe camera moves from tribe to tribe. Judah and Simeon fight together. Caleb's family appears again around Hebron and Debir. Achsah asks for springs, a practical need in the southern landscape.\n\nThe repeated visual is unfinished settlement. Some cities are taken, some inhabitants remain, and some groups are pressed into labor. The land is occupied, but not fully controlled by Israel.",
+    "notice": [
+      "Tribal groups acting separately after Joshua's death.",
+      "Judah and Simeon moving together into battle.",
+      "Adoni-bezek captured after conflict.",
+      "Caleb's family connected to Hebron and Debir.",
+      "Achsah asking for upper and lower springs.",
+      "Joseph tribes scouting Bethel.",
+      "A man showing the entrance to Bethel.",
+      "Canaanites remaining in Gezer and other towns.",
+      "Valley inhabitants associated with iron chariots.",
+      "Forced labor arrangements appearing in several notices."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Joshua ended with covenant renewal at Shechem, Joshua's death, Joseph's bones buried, and Eleazar's death."
+      },
+      {
+        "label": "Now",
+        "value": "Tribes continue fighting and settling after Joshua's death, but the chapter repeatedly notes Canaanites remaining in the land."
+      },
+      {
+        "label": "Next",
+        "value": "The messenger at Bochim confronts Israel, and the book introduces the recurring cycle of the judges."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This opens Judges by showing conditions after Joshua rather than a clean centralized conquest."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The chapter continues material from Joshua's allotment world but changes the tone toward incomplete possession."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The repeated notices of remaining peoples set up the conflicts that follow."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The chapter moves across southern, central, northern, and valley regions of Canaan."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Hill country, valleys, towns, and fortified places all appear as different settlement environments."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Iron chariots are associated with valley areas, where open terrain favored chariot warfare."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Tribal fighting is regional and not always national."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Settlement involves taking cities, clearing inhabitants, making forced labor arrangements, and living alongside remaining populations."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Water sources such as springs matter for household and agricultural settlement."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This chapter establishes the unfinished settlement setting of Judges.",
+      "It explains why later conflict with surrounding peoples continues inside the land.",
+      "It shifts from Joshua's leadership to tribal action without a single central leader.",
+      "It introduces a pattern of partial obedience and unresolved territory in narrative terms without turning it into application."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Tribe of Judah",
+        "role": "Leads early fighting after Joshua's death",
+        "relationships": []
+      },
+      {
+        "name": "Tribe of Simeon",
+        "role": "Fights alongside Judah",
+        "relationships": []
+      },
+      {
+        "name": "Caleb",
+        "role": "Receives and acts in the Hebron/Debir tradition",
+        "relationships": [
+          "Son of Jephunneh"
+        ]
+      },
+      {
+        "name": "Othniel",
+        "role": "Captures Kiriath-sepher/Debir",
+        "relationships": [
+          "Son of Kenaz",
+          "Caleb's relative"
+        ]
+      },
+      {
+        "name": "Achsah",
+        "role": "Caleb's daughter who asks for springs",
+        "relationships": []
+      },
+      {
+        "name": "Joseph tribes",
+        "role": "Take Bethel",
+        "relationships": []
+      },
+      {
+        "name": "Canaanites",
+        "role": "Remain in several towns and regions",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Bezek",
+        "modernRegion": "Ancient location uncertain",
+        "description": "Battle location connected to Adoni-bezek"
+      },
+      {
+        "ancientName": "Jerusalem",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "City attacked in the Judah section but later still associated with Jebusites"
+      },
+      {
+        "ancientName": "Hebron",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Hill-country city connected to Caleb"
+      },
+      {
+        "ancientName": "Debir / Kiriath-sepher",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "City captured by Othniel"
+      },
+      {
+        "ancientName": "Bethel",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "City taken by the house of Joseph"
+      },
+      {
+        "ancientName": "Gezer",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "City where Canaanites remain among Ephraim"
+      },
+      {
+        "ancientName": "Valley regions",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Areas where iron chariots are mentioned"
+      }
+    ],
+    "people": [
+      "Tribe of Judah",
+      "Tribe of Simeon",
+      "Caleb",
+      "Othniel",
+      "Achsah",
+      "Joseph tribes",
+      "Canaanites"
+    ],
+    "places": [
+      "Bezek",
+      "Jerusalem",
+      "Hebron",
+      "Debir / Kiriath-sepher",
+      "Bethel",
+      "Gezer",
+      "Valley regions"
+    ],
+    "movement": [
+      "Israel asks who will go up first",
+      "Judah and Simeon fight together",
+      "Caleb's family traditions are recalled",
+      "Joseph tribes take Bethel",
+      "Several tribes fail to drive out inhabitants fully",
+      "Canaanites remain in multiple territories"
+    ],
+    "movementDetails": {
+      "startingPoint": "Post-Joshua tribal territories",
+      "destination": "Ongoing tribal settlement attempts",
+      "route": [
+        "Israel asks who will go up first",
+        "Judah and Simeon fight together",
+        "Caleb's family traditions are recalled",
+        "Joseph tribes take Bethel",
+        "Several tribes fail to drive out inhabitants fully",
+        "Canaanites remain in multiple territories"
+      ],
+      "majorStops": [
+        "Bezek",
+        "Jerusalem",
+        "Hebron",
+        "Debir",
+        "Bethel",
+        "Gezer",
+        "valley towns"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 1 opens after Joshua's death. Israel is no longer under one central leader, and the tribes act in their regions. Judah and Simeon fight together. Caleb's family appears again in the hill country, with Othniel capturing Kiriath-sepher and Achsah asking for springs. The house of Joseph takes Bethel. But the chapter repeatedly notes places where Canaanites remain. Some are not driven out; others become forced labor. The scene is a land partly occupied, partly contested, and organized by tribal regions rather than a united monarchy.",
+    "crossReferences": [
+      "Joshua 15:13-19",
+      "Joshua 24:29-33",
+      "Judges 1:1-36",
+      "Judges 2:1-5",
+      "Judges 3:1-6"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 15:13-19",
+        "Joshua 24:29-33"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 1:1-36"
+      ],
+      "laterReferences": [
+        "Judges 2:1-5",
+        "Judges 3:1-6"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Tribes of Israel",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "joshua-20-covenant-renewal-shechem",
+      "nextStory": "judges-02-angel-at-bochim"
+    },
+    "source": {
+      "id": "judges-01-incomplete-conquest",
+      "reference": "Judges 1",
+      "storyTitle": "Incomplete Conquest and Tribal Settlements",
+      "eventType": [
+        "Settlement",
+        "Battle",
+        "Tribal Report",
+        "Incomplete Conquest"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Tribes of Israel",
+        "approximateAge": null,
+        "currentLocation": "Canaan after Joshua's death",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Judah",
+          "Simeon",
+          "Joseph tribes",
+          "Caleb's family",
+          "remaining Canaanites"
+        ],
+        "sceneScale": "Multi-Tribal Settlement Report",
+        "timeAnchor": "After Joshua's death; before the judges cycle is introduced",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Tribe of Judah",
+          "role": "Leads early fighting after Joshua's death",
+          "relationships": []
+        },
+        {
+          "name": "Tribe of Simeon",
+          "role": "Fights alongside Judah",
+          "relationships": []
+        },
+        {
+          "name": "Caleb",
+          "role": "Receives and acts in the Hebron/Debir tradition",
+          "relationships": [
+            "Son of Jephunneh"
+          ]
+        },
+        {
+          "name": "Othniel",
+          "role": "Captures Kiriath-sepher/Debir",
+          "relationships": [
+            "Son of Kenaz",
+            "Caleb's relative"
+          ]
+        },
+        {
+          "name": "Achsah",
+          "role": "Caleb's daughter who asks for springs",
+          "relationships": []
+        },
+        {
+          "name": "Joseph tribes",
+          "role": "Take Bethel",
+          "relationships": []
+        },
+        {
+          "name": "Canaanites",
+          "role": "Remain in several towns and regions",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Bezek",
+          "modernRegion": "Ancient location uncertain",
+          "description": "Battle location connected to Adoni-bezek"
+        },
+        {
+          "ancientName": "Jerusalem",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "City attacked in the Judah section but later still associated with Jebusites"
+        },
+        {
+          "ancientName": "Hebron",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Hill-country city connected to Caleb"
+        },
+        {
+          "ancientName": "Debir / Kiriath-sepher",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "City captured by Othniel"
+        },
+        {
+          "ancientName": "Bethel",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "City taken by the house of Joseph"
+        },
+        {
+          "ancientName": "Gezer",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "City where Canaanites remain among Ephraim"
+        },
+        {
+          "ancientName": "Valley regions",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Areas where iron chariots are mentioned"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Post-Joshua tribal territories",
+        "destination": "Ongoing tribal settlement attempts",
+        "route": [
+          "Israel asks who will go up first",
+          "Judah and Simeon fight together",
+          "Caleb's family traditions are recalled",
+          "Joseph tribes take Bethel",
+          "Several tribes fail to drive out inhabitants fully",
+          "Canaanites remain in multiple territories"
+        ],
+        "majorStops": [
+          "Bezek",
+          "Jerusalem",
+          "Hebron",
+          "Debir",
+          "Bethel",
+          "Gezer",
+          "valley towns"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Joshua ended with covenant renewal at Shechem, Joshua's death, Joseph's bones buried, and Eleazar's death.",
+        "whatIsHappeningNow": "Tribes continue fighting and settling after Joshua's death, but the chapter repeatedly notes Canaanites remaining in the land.",
+        "whatHappensAfter": "The messenger at Bochim confronts Israel, and the book introduces the recurring cycle of the judges.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Incomplete Conquest and Tribal Settlements ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This opens Judges by showing conditions after Joshua rather than a clean centralized conquest.",
+          "The chapter continues material from Joshua's allotment world but changes the tone toward incomplete possession.",
+          "The repeated notices of remaining peoples set up the conflicts that follow."
+        ],
+        "geographicContext": [
+          "The chapter moves across southern, central, northern, and valley regions of Canaan.",
+          "Hill country, valleys, towns, and fortified places all appear as different settlement environments.",
+          "Iron chariots are associated with valley areas, where open terrain favored chariot warfare."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Tribal fighting is regional and not always national.",
+          "Settlement involves taking cities, clearing inhabitants, making forced labor arrangements, and living alongside remaining populations.",
+          "Water sources such as springs matter for household and agricultural settlement."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This chapter establishes the unfinished settlement setting of Judges.",
+        "It explains why later conflict with surrounding peoples continues inside the land.",
+        "It shifts from Joshua's leadership to tribal action without a single central leader.",
+        "It introduces a pattern of partial obedience and unresolved territory in narrative terms without turning it into application."
+      ],
+      "stepIntoTheStory": [
+        "The book begins after Joshua's death. There is no king and no single leader like Moses or Joshua standing over all the tribes.",
+        "The camera moves from tribe to tribe. Judah and Simeon fight together. Caleb's family appears again around Hebron and Debir. Achsah asks for springs, a practical need in the southern landscape.",
+        "The repeated visual is unfinished settlement. Some cities are taken, some inhabitants remain, and some groups are pressed into labor. The land is occupied, but not fully controlled by Israel."
+      ],
+      "documentaryObservations": [
+        "Tribal groups acting separately after Joshua's death.",
+        "Judah and Simeon moving together into battle.",
+        "Adoni-bezek captured after conflict.",
+        "Caleb's family connected to Hebron and Debir.",
+        "Achsah asking for upper and lower springs.",
+        "Joseph tribes scouting Bethel.",
+        "A man showing the entrance to Bethel.",
+        "Canaanites remaining in Gezer and other towns.",
+        "Valley inhabitants associated with iron chariots.",
+        "Forced labor arrangements appearing in several notices."
+      ],
+      "audioScript": "Judges 1 opens after Joshua's death. Israel is no longer under one central leader, and the tribes act in their regions. Judah and Simeon fight together. Caleb's family appears again in the hill country, with Othniel capturing Kiriath-sepher and Achsah asking for springs. The house of Joseph takes Bethel. But the chapter repeatedly notes places where Canaanites remain. Some are not driven out; others become forced labor. The scene is a land partly occupied, partly contested, and organized by tribal regions rather than a united monarchy.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 15:13-19",
+          "Joshua 24:29-33"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 1:1-36"
+        ],
+        "laterReferences": [
+          "Judges 2:1-5",
+          "Judges 3:1-6"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Tribes of Israel",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "joshua-20-covenant-renewal-shechem",
+        "nextStory": "judges-02-angel-at-bochim"
+      },
+      "search": {
+        "people": [
+          "Tribe of Judah",
+          "Tribe of Simeon",
+          "Caleb",
+          "Othniel",
+          "Achsah",
+          "Joseph tribes",
+          "Canaanites"
+        ],
+        "places": [
+          "Bezek",
+          "Jerusalem",
+          "Hebron",
+          "Debir / Kiriath-sepher",
+          "Bethel",
+          "Gezer",
+          "Valley regions"
+        ],
+        "events": [
+          "incomplete conquest",
+          "tribal settlement",
+          "Achsah springs",
+          "Canaanites remain"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 1",
+          "incomplete conquest",
+          "tribes after Joshua"
+        ]
+      },
+      "realitySummary": "Incomplete Conquest and Tribal Settlements. Tribes continue fighting and settling after Joshua's death, but the chapter repeatedly notes Canaanites remaining in the land."
+    }
+  },
+  {
+    "id": "judges-02-angel-at-bochim",
+    "sourceFile": "judges-02-angel-at-bochim.json",
+    "searchTerms": [
+      "Messenger of Yahweh",
+      "Israelites",
+      "Gilgal",
+      "Bochim",
+      "Canaan",
+      "messenger at Bochim",
+      "Israel weeps",
+      "sacrifice at Bochim",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 2:1-5",
+      "Bochim assembly",
+      "angel at Bochim",
+      "Rebuke",
+      "Assembly",
+      "Weeping",
+      "Worship Activity",
+      "The Messenger at Bochim",
+      "The Messenger at Bochim. The messenger at Bochim speaks to Israel, the people weep, and sacrifices are offered at the place."
+    ],
+    "title": "The Messenger at Bochim",
+    "reference": "Judges 2:1-5",
+    "kicker": "Study",
+    "eventType": [
+      "Rebuke",
+      "Assembly",
+      "Weeping",
+      "Worship Activity"
+    ],
+    "summary": "The Messenger at Bochim. The messenger at Bochim speaks to Israel, the people weep, and sacrifices are offered at the place.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Messenger of Yahweh"
+      },
+      {
+        "label": "Location",
+        "value": "Bochim"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Assembly Moment"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After incomplete tribal settlement; before the judges cycle introduction"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "The Messenger at Bochim",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "The Messenger at Bochim",
+    "stepIntoStory": "The action is brief and public. A messenger comes up from Gilgal to Bochim and speaks to Israel.\n\nThe response is visible and collective. The people lift their voices and weep, and the place receives a name connected to that weeping.\n\nThe scene ends not with a battle but with sacrifice, making Bochim a remembered assembly point before the book explains the cycles of the judges.",
+    "notice": [
+      "A messenger traveling from Gilgal to Bochim.",
+      "Israel gathered to hear the message.",
+      "The people lifting their voices together.",
+      "Public weeping giving the place its name.",
+      "Sacrifices offered at Bochim.",
+      "A short assembly scene between tribal reports and cycle introduction."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Judges 1 described tribal settlement efforts and repeated failures to drive out inhabitants fully."
+      },
+      {
+        "label": "Now",
+        "value": "The messenger at Bochim speaks to Israel, the people weep, and sacrifices are offered at the place."
+      },
+      {
+        "label": "Next",
+        "value": "The narrative steps back to summarize Joshua's generation, the next generation, and the recurring judges pattern."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This short scene interprets the incomplete settlement as the immediate background to the rest of Judges."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It gives Bochim its name within the narrative."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It creates a transition from tribal reports to the theological-historical introduction of Judges, while the profile remains focused on narrative function."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Bochim's exact location is uncertain, but it is presented as a gathering place in the land."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Gilgal is named as the starting point of the messenger's movement, linking the scene to earlier Joshua memories."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The event is stationary and assembly-based rather than a battle or journey narrative."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A public assembly could include weeping, naming a place, and sacrifice."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Place names in biblical narrative often preserve memory of an event."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Sacrifice at Bochim shows the event occurs in a worship setting or becomes one."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This scene bridges Judges 1 and the repeated cycles that follow.",
+      "It gives a named location to Israel's reaction after the message.",
+      "It prepares for the book's explanation of why conflicts continue."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Messenger of Yahweh",
+        "role": "Comes from Gilgal to Bochim and speaks to Israel",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Hear the message, lift their voices, weep, and sacrifice",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Earlier Israelite camp and memory location after Jordan crossing"
+      },
+      {
+        "ancientName": "Bochim",
+        "modernRegion": "Ancient location uncertain",
+        "description": "Place named from Israel's weeping in this scene"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Land where Israel has settled incompletely"
+      }
+    ],
+    "people": [
+      "Messenger of Yahweh",
+      "Israelites"
+    ],
+    "places": [
+      "Gilgal",
+      "Bochim",
+      "Canaan"
+    ],
+    "movement": [
+      "The messenger goes up from Gilgal to Bochim",
+      "The message is spoken to Israel",
+      "The people lift their voices and weep",
+      "The place is named Bochim",
+      "The people sacrifice there"
+    ],
+    "movementDetails": {
+      "startingPoint": "Gilgal",
+      "destination": "Bochim",
+      "route": [
+        "The messenger goes up from Gilgal to Bochim",
+        "The message is spoken to Israel",
+        "The people lift their voices and weep",
+        "The place is named Bochim",
+        "The people sacrifice there"
+      ],
+      "majorStops": [
+        "Gilgal",
+        "Bochim"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 2:1-5 moves from tribal settlement reports to a public assembly. The messenger of Yahweh comes from Gilgal to Bochim and speaks to Israel. The people lift their voices and weep, and the place receives the name Bochim. They sacrifice there. The scene is short, but it acts as a transition. The book has shown unfinished settlement, and now the people stand together at a named place before the larger pattern of the judges is introduced.",
+    "crossReferences": [
+      "Judges 1:1-36",
+      "Joshua 5:9-10",
+      "Judges 2:1-5",
+      "Judges 2:6-3:6"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 1:1-36",
+        "Joshua 5:9-10"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 2:1-5"
+      ],
+      "laterReferences": [
+        "Judges 2:6-3:6"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Messenger of Yahweh",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-01-incomplete-conquest",
+      "nextStory": "judges-03-judges-cycle-introduction"
+    },
+    "source": {
+      "id": "judges-02-angel-at-bochim",
+      "reference": "Judges 2:1-5",
+      "storyTitle": "The Messenger at Bochim",
+      "eventType": [
+        "Rebuke",
+        "Assembly",
+        "Weeping",
+        "Worship Activity"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Messenger of Yahweh",
+        "approximateAge": null,
+        "currentLocation": "Bochim",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Assembly Moment",
+        "timeAnchor": "After incomplete tribal settlement; before the judges cycle introduction",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Messenger of Yahweh",
+          "role": "Comes from Gilgal to Bochim and speaks to Israel",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Hear the message, lift their voices, weep, and sacrifice",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Earlier Israelite camp and memory location after Jordan crossing"
+        },
+        {
+          "ancientName": "Bochim",
+          "modernRegion": "Ancient location uncertain",
+          "description": "Place named from Israel's weeping in this scene"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Land where Israel has settled incompletely"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Gilgal",
+        "destination": "Bochim",
+        "route": [
+          "The messenger goes up from Gilgal to Bochim",
+          "The message is spoken to Israel",
+          "The people lift their voices and weep",
+          "The place is named Bochim",
+          "The people sacrifice there"
+        ],
+        "majorStops": [
+          "Gilgal",
+          "Bochim"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Judges 1 described tribal settlement efforts and repeated failures to drive out inhabitants fully.",
+        "whatIsHappeningNow": "The messenger at Bochim speaks to Israel, the people weep, and sacrifices are offered at the place.",
+        "whatHappensAfter": "The narrative steps back to summarize Joshua's generation, the next generation, and the recurring judges pattern.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "The Messenger at Bochim ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This short scene interprets the incomplete settlement as the immediate background to the rest of Judges.",
+          "It gives Bochim its name within the narrative.",
+          "It creates a transition from tribal reports to the theological-historical introduction of Judges, while the profile remains focused on narrative function."
+        ],
+        "geographicContext": [
+          "Bochim's exact location is uncertain, but it is presented as a gathering place in the land.",
+          "Gilgal is named as the starting point of the messenger's movement, linking the scene to earlier Joshua memories.",
+          "The event is stationary and assembly-based rather than a battle or journey narrative."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "A public assembly could include weeping, naming a place, and sacrifice.",
+          "Place names in biblical narrative often preserve memory of an event.",
+          "Sacrifice at Bochim shows the event occurs in a worship setting or becomes one."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This scene bridges Judges 1 and the repeated cycles that follow.",
+        "It gives a named location to Israel's reaction after the message.",
+        "It prepares for the book's explanation of why conflicts continue."
+      ],
+      "stepIntoTheStory": [
+        "The action is brief and public. A messenger comes up from Gilgal to Bochim and speaks to Israel.",
+        "The response is visible and collective. The people lift their voices and weep, and the place receives a name connected to that weeping.",
+        "The scene ends not with a battle but with sacrifice, making Bochim a remembered assembly point before the book explains the cycles of the judges."
+      ],
+      "documentaryObservations": [
+        "A messenger traveling from Gilgal to Bochim.",
+        "Israel gathered to hear the message.",
+        "The people lifting their voices together.",
+        "Public weeping giving the place its name.",
+        "Sacrifices offered at Bochim.",
+        "A short assembly scene between tribal reports and cycle introduction."
+      ],
+      "audioScript": "Judges 2:1-5 moves from tribal settlement reports to a public assembly. The messenger of Yahweh comes from Gilgal to Bochim and speaks to Israel. The people lift their voices and weep, and the place receives the name Bochim. They sacrifice there. The scene is short, but it acts as a transition. The book has shown unfinished settlement, and now the people stand together at a named place before the larger pattern of the judges is introduced.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 1:1-36",
+          "Joshua 5:9-10"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 2:1-5"
+        ],
+        "laterReferences": [
+          "Judges 2:6-3:6"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Messenger of Yahweh",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-01-incomplete-conquest",
+        "nextStory": "judges-03-judges-cycle-introduction"
+      },
+      "search": {
+        "people": [
+          "Messenger of Yahweh",
+          "Israelites"
+        ],
+        "places": [
+          "Gilgal",
+          "Bochim",
+          "Canaan"
+        ],
+        "events": [
+          "Bochim",
+          "messenger at Bochim",
+          "Israel weeps",
+          "sacrifice at Bochim"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 2:1-5",
+          "Bochim assembly",
+          "angel at Bochim"
+        ]
+      },
+      "realitySummary": "The Messenger at Bochim. The messenger at Bochim speaks to Israel, the people weep, and sacrifices are offered at the place."
+    }
+  },
+  {
+    "id": "judges-03-judges-cycle-introduction",
+    "sourceFile": "judges-03-judges-cycle-introduction.json",
+    "searchTerms": [
+      "Joshua",
+      "Joshua's generation",
+      "New generation",
+      "Judges",
+      "Surrounding nations",
+      "Timnath-heres / Timnath-serah",
+      "Canaan",
+      "Baal and Ashtaroth worship settings",
+      "judges cycle introduction",
+      "generation after Joshua",
+      "Israel before monarchy",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 2:6-3:6",
+      "cycle of judges",
+      "new generation after Joshua",
+      "Narrative Summary",
+      "Generational Transition",
+      "Cycle Introduction",
+      "Introduction to the Judges Cycle",
+      "Introduction to the Judges Cycle. The narrator summarizes Joshua's death, the rise of a new generation, Israel's repeated pattern, and the role of judges."
+    ],
+    "title": "Introduction to the Judges Cycle",
+    "reference": "Judges 2:6-3:6",
+    "kicker": "Study",
+    "eventType": [
+      "Narrative Summary",
+      "Generational Transition",
+      "Cycle Introduction"
+    ],
+    "summary": "Introduction to the Judges Cycle. The narrator summarizes Joshua's death, the rise of a new generation, Israel's repeated pattern, and the role of judges.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Israel"
+      },
+      {
+        "label": "Location",
+        "value": "Canaan"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Pattern Introduction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Bochim; before Othniel"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Introduction to the Judges Cycle",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Introduction to the Judges Cycle",
+    "stepIntoStory": "The camera pulls back from one place to the whole land. Joshua's generation passes, and a new generation rises after them.\n\nThe narrator describes a recurring pattern rather than one event: distress, oppression, crying out, a judge, relief, and return to the same pattern.\n\nThe nations left in the land become part of the setting for the stories that follow. Israel is living in Canaan, but the land is not presented as socially or politically settled.",
+    "notice": [
+      "Joshua's death and burial recalled.",
+      "A generation passing away.",
+      "A new generation rising in the land.",
+      "Israel living among remaining peoples.",
+      "Judges raised during distress.",
+      "Oppressors appearing in regional cycles.",
+      "Baal and Ashtaroth named as local worship references.",
+      "Intermarriage with surrounding peoples mentioned.",
+      "No king introduced yet."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "The people wept and sacrificed at Bochim after the messenger's speech."
+      },
+      {
+        "label": "Now",
+        "value": "The narrator summarizes Joshua's death, the rise of a new generation, Israel's repeated pattern, and the role of judges."
+      },
+      {
+        "label": "Next",
+        "value": "Othniel becomes the first major judge narrative."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the programmatic introduction to the rest of Judges."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It explains the repeated sequence of abandonment, oppression, crying out, judges, and relapse in narrative terms."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It places the book after Joshua's generation and before the monarchy."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The summary is land-wide, not tied to one battlefield."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Remaining peoples in Canaan become part of the ongoing regional context."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Joshua's burial in the hill country anchors the generational transition geographically."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Generational memory matters because the narrative contrasts those who knew Joshua with those who came after."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Regional deities, local settlements, intermarriage, and remaining nations shape the social world of Judges."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Judges function as regional deliverers rather than national kings."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This gives the framework for reading the judge narratives that follow.",
+      "It marks the transition from Joshua's generation to the next generation.",
+      "It explains why the book moves through repeated regional crises.",
+      "It introduces judges as deliverers before Israel has a king."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Joshua",
+        "role": "Previous leader whose death and burial are recalled",
+        "relationships": [
+          "Son of Nun"
+        ]
+      },
+      {
+        "name": "Joshua's generation",
+        "role": "Generation that served during Joshua's lifetime",
+        "relationships": []
+      },
+      {
+        "name": "New generation",
+        "role": "Generation described as arising after Joshua's generation",
+        "relationships": []
+      },
+      {
+        "name": "Judges",
+        "role": "Leaders raised during periods of oppression",
+        "relationships": []
+      },
+      {
+        "name": "Surrounding nations",
+        "role": "Groups left in the land in the narrative frame",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Timnath-heres / Timnath-serah",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Joshua's burial place in Ephraim's hill country"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Land where Israel lives among remaining peoples"
+      },
+      {
+        "ancientName": "Baal and Ashtaroth worship settings",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Local religious context named in the introduction"
+      }
+    ],
+    "people": [
+      "Joshua",
+      "Joshua's generation",
+      "New generation",
+      "Judges",
+      "Surrounding nations"
+    ],
+    "places": [
+      "Timnath-heres / Timnath-serah",
+      "Canaan",
+      "Baal and Ashtaroth worship settings"
+    ],
+    "movement": [
+      "Joshua dismisses the people in the recalled background",
+      "Joshua dies and is buried",
+      "A new generation arises",
+      "Israel turns to other gods in the narrative summary",
+      "Oppression and deliverance cycles are introduced",
+      "Remaining nations are listed as testing Israel"
+    ],
+    "movementDetails": {
+      "startingPoint": "Joshua's generation",
+      "destination": "Repeated cycles in the land",
+      "route": [
+        "Joshua dismisses the people in the recalled background",
+        "Joshua dies and is buried",
+        "A new generation arises",
+        "Israel turns to other gods in the narrative summary",
+        "Oppression and deliverance cycles are introduced",
+        "Remaining nations are listed as testing Israel"
+      ],
+      "majorStops": [
+        "Joshua's burial place",
+        "tribal inheritances",
+        "remaining nations"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 2:6 through 3:6 introduces the pattern of the book. Joshua's death and burial are recalled, and the generation that knew him passes away. A new generation arises. The narrator then describes the repeated cycle that will shape the book: Israel turns aside, enemies oppress them, the people cry out, a judge is raised, and relief comes for a time. After the judge dies, the pattern returns. The scene is broad, covering the whole land and explaining why the following stories are regional, repeated, and unstable.",
+    "crossReferences": [
+      "Joshua 24:28-33",
+      "Judges 2:1-5",
+      "Judges 2:6-3:6",
+      "Judges 3:7-11",
+      "1 Samuel 8:1-22",
+      "Acts 13:20"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 24:28-33",
+        "Judges 2:1-5"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 2:6-3:6"
+      ],
+      "laterReferences": [
+        "Judges 3:7-11",
+        "1 Samuel 8:1-22"
+      ],
+      "newTestamentReferences": [
+        "Acts 13:20"
+      ]
+    },
+    "series": {
+      "character": "Israel",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-02-angel-at-bochim",
+      "nextStory": null
+    },
+    "source": {
+      "id": "judges-03-judges-cycle-introduction",
+      "reference": "Judges 2:6-3:6",
+      "storyTitle": "Introduction to the Judges Cycle",
+      "eventType": [
+        "Narrative Summary",
+        "Generational Transition",
+        "Cycle Introduction"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Israel",
+        "approximateAge": null,
+        "currentLocation": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Joshua's generation",
+          "new generation",
+          "judges",
+          "surrounding nations"
+        ],
+        "sceneScale": "National Pattern Introduction",
+        "timeAnchor": "After Bochim; before Othniel",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Joshua",
+          "role": "Previous leader whose death and burial are recalled",
+          "relationships": [
+            "Son of Nun"
+          ]
+        },
+        {
+          "name": "Joshua's generation",
+          "role": "Generation that served during Joshua's lifetime",
+          "relationships": []
+        },
+        {
+          "name": "New generation",
+          "role": "Generation described as arising after Joshua's generation",
+          "relationships": []
+        },
+        {
+          "name": "Judges",
+          "role": "Leaders raised during periods of oppression",
+          "relationships": []
+        },
+        {
+          "name": "Surrounding nations",
+          "role": "Groups left in the land in the narrative frame",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Timnath-heres / Timnath-serah",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Joshua's burial place in Ephraim's hill country"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Land where Israel lives among remaining peoples"
+        },
+        {
+          "ancientName": "Baal and Ashtaroth worship settings",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Local religious context named in the introduction"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Joshua's generation",
+        "destination": "Repeated cycles in the land",
+        "route": [
+          "Joshua dismisses the people in the recalled background",
+          "Joshua dies and is buried",
+          "A new generation arises",
+          "Israel turns to other gods in the narrative summary",
+          "Oppression and deliverance cycles are introduced",
+          "Remaining nations are listed as testing Israel"
+        ],
+        "majorStops": [
+          "Joshua's burial place",
+          "tribal inheritances",
+          "remaining nations"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "The people wept and sacrificed at Bochim after the messenger's speech.",
+        "whatIsHappeningNow": "The narrator summarizes Joshua's death, the rise of a new generation, Israel's repeated pattern, and the role of judges.",
+        "whatHappensAfter": "Othniel becomes the first major judge narrative.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Introduction to the Judges Cycle ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This is the programmatic introduction to the rest of Judges.",
+          "It explains the repeated sequence of abandonment, oppression, crying out, judges, and relapse in narrative terms.",
+          "It places the book after Joshua's generation and before the monarchy."
+        ],
+        "geographicContext": [
+          "The summary is land-wide, not tied to one battlefield.",
+          "Remaining peoples in Canaan become part of the ongoing regional context.",
+          "Joshua's burial in the hill country anchors the generational transition geographically."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Generational memory matters because the narrative contrasts those who knew Joshua with those who came after.",
+          "Regional deities, local settlements, intermarriage, and remaining nations shape the social world of Judges.",
+          "Judges function as regional deliverers rather than national kings."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This gives the framework for reading the judge narratives that follow.",
+        "It marks the transition from Joshua's generation to the next generation.",
+        "It explains why the book moves through repeated regional crises.",
+        "It introduces judges as deliverers before Israel has a king."
+      ],
+      "stepIntoTheStory": [
+        "The camera pulls back from one place to the whole land. Joshua's generation passes, and a new generation rises after them.",
+        "The narrator describes a recurring pattern rather than one event: distress, oppression, crying out, a judge, relief, and return to the same pattern.",
+        "The nations left in the land become part of the setting for the stories that follow. Israel is living in Canaan, but the land is not presented as socially or politically settled."
+      ],
+      "documentaryObservations": [
+        "Joshua's death and burial recalled.",
+        "A generation passing away.",
+        "A new generation rising in the land.",
+        "Israel living among remaining peoples.",
+        "Judges raised during distress.",
+        "Oppressors appearing in regional cycles.",
+        "Baal and Ashtaroth named as local worship references.",
+        "Intermarriage with surrounding peoples mentioned.",
+        "No king introduced yet."
+      ],
+      "audioScript": "Judges 2:6 through 3:6 introduces the pattern of the book. Joshua's death and burial are recalled, and the generation that knew him passes away. A new generation arises. The narrator then describes the repeated cycle that will shape the book: Israel turns aside, enemies oppress them, the people cry out, a judge is raised, and relief comes for a time. After the judge dies, the pattern returns. The scene is broad, covering the whole land and explaining why the following stories are regional, repeated, and unstable.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 24:28-33",
+          "Judges 2:1-5"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 2:6-3:6"
+        ],
+        "laterReferences": [
+          "Judges 3:7-11",
+          "1 Samuel 8:1-22"
+        ],
+        "newTestamentReferences": [
+          "Acts 13:20"
+        ]
+      },
+      "series": {
+        "character": "Israel",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-02-angel-at-bochim",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Joshua",
+          "Joshua's generation",
+          "New generation",
+          "Judges",
+          "Surrounding nations"
+        ],
+        "places": [
+          "Timnath-heres / Timnath-serah",
+          "Canaan",
+          "Baal and Ashtaroth worship settings"
+        ],
+        "events": [
+          "judges cycle introduction",
+          "generation after Joshua",
+          "Israel before monarchy"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 2:6-3:6",
+          "cycle of judges",
+          "new generation after Joshua"
+        ]
+      },
+      "realitySummary": "Introduction to the Judges Cycle. The narrator summarizes Joshua's death, the rise of a new generation, Israel's repeated pattern, and the role of judges."
+    }
   }
 ]
