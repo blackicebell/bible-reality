@@ -31147,5 +31147,2836 @@
       },
       "realitySummary": "Leviticus 21-22 gives instructions for priests, the high priest, priestly households, holy food, and acceptable animals for offerings."
     }
+  },
+  {
+    "id": "leviticus-21-appointed-times",
+    "sourceFile": "leviticus-21-appointed-times.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Priests",
+      "Israelite camp",
+      "Tent of Meeting",
+      "Future fields in the land",
+      "priests",
+      "Canaan fields",
+      "appointed times",
+      "Sabbath",
+      "Passover",
+      "Unleavened Bread",
+      "Firstfruits",
+      "Weeks",
+      "Trumpets",
+      "Day of Atonement",
+      "Booths",
+      "Wilderness",
+      "Sinai",
+      "feasts of Yahweh",
+      "Leviticus 23",
+      "biblical calendar",
+      "holy convocations",
+      "Instruction Received",
+      "Calendar Instruction",
+      "Worship Activity",
+      "Assembly",
+      "Instructions for the Appointed Times",
+      "Leviticus 23 gives instructions for Israel's appointed times, including Sabbath, Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, Day of Atonement, and Booths."
+    ],
+    "title": "Instructions for the Appointed Times",
+    "reference": "Leviticus 23",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Calendar Instruction",
+      "Worship Activity",
+      "Assembly"
+    ],
+    "summary": "Leviticus 23 gives instructions for Israel's appointed times, including Sabbath, Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, Day of Atonement, and Booths.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Worship Calendar"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After priestly holiness instructions; before lamp and bread instructions; before Israel enters Canaan; before Temple"
+      }
+    ],
+    "situation": "The chapter includes timekeeping by days, months, and seasons.",
+    "storyPosition": [
+      "Priestly Holiness",
+      "Appointed Times",
+      "Lamp and Bread",
+      "Blasphemy Case",
+      "Sabbatical and Jubilee",
+      "Vows and Dedications"
+    ],
+    "currentStory": "Appointed Times",
+    "stepIntoStory": "The scene is a national calendar being given in the wilderness. Israel is still living in camp formation, but the instructions look ahead to fields, harvests, assemblies, and seasonal observance.\n\nThe calendar moves from the weekly Sabbath to annual appointed times. Some days involve rest, some involve offerings, some involve public gathering, and some involve living in booths.\n\nA person standing in the camp would not see one single event, but a schedule that will shape Israel's movement through time: weeks, months, harvest seasons, and annual assemblies.",
+    "notice": [
+      "A whole nation receiving calendar instructions.",
+      "Weekly Sabbath marked by stopping work.",
+      "Passover and Unleavened Bread tied to the first month.",
+      "Firstfruits connected to harvest sheaves.",
+      "Weeks counted after Firstfruits.",
+      "Trumpet sound marking an appointed day.",
+      "Day of Atonement placed in the seventh month.",
+      "Booths made for the Feast of Booths.",
+      "Future fields and harvests anticipated.",
+      "Public assemblies forming at appointed times."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 21-22 gave instructions concerning priests, priestly households, holy food, and acceptable offerings."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given for weekly Sabbath, Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, Day of Atonement, and Booths."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 24 gives instructions concerning the lamp, bread, and then narrates a case involving blasphemy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This chapter gives Israel's appointed times while the nation is still at Sinai."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The appointed times include weekly, monthly, and annual observances."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Some instructions look back to the Exodus, while others anticipate harvest life in the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The later Temple does not exist; the current sanctuary is the Tabernacle."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The instructions are given in the wilderness camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Harvest-related instructions look ahead to agricultural land in Canaan."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The observances are connected to assemblies and offerings centered around the sanctuary."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The chapter includes timekeeping by days, months, and seasons."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Agricultural imagery includes grain harvest, firstfruits, sheaves, and booths."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public assemblies gather the people at appointed times."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Work stoppage, offerings, and temporary dwellings are part of the calendar structure."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This gives Israel its appointed worship calendar in Leviticus.",
+      "It connects wilderness instruction with future agricultural life in the land.",
+      "It places the Day of Atonement within the annual cycle after Leviticus 16 gave its procedure.",
+      "It prepares for later narratives where these appointed times appear again."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses concerning appointed times",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates the appointed time instructions",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Recipients who observe Sabbaths, feasts, assemblies, and offerings",
+        "relationships": []
+      },
+      {
+        "name": "Priests",
+        "role": "Serve in connection with offerings and sanctuary activity",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Current setting where the instructions are given"
+      },
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Sanctuary connected with offerings and assemblies"
+      },
+      {
+        "ancientName": "Future fields in the land",
+        "modernRegion": "Canaan / Levant region",
+        "description": "Agricultural setting assumed by harvest-related appointed times"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Priests"
+    ],
+    "places": [
+      "Israelite camp",
+      "Tent of Meeting",
+      "Future fields in the land"
+    ],
+    "movement": [],
+    "movementDetails": {
+      "startingPoint": null,
+      "destination": null,
+      "route": [],
+      "majorStops": []
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 23 gives Israel its appointed times. The people are still at Sinai, living around the Tabernacle, but the instructions reach into the future rhythms of national life. The calendar begins with the weekly Sabbath, then moves through Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, the Day of Atonement, and Booths. Some observances require rest. Some involve offerings. Some gather the people in assembly. Others look ahead to harvest fields and temporary shelters in the land. This chapter turns time itself into an ordered part of Israel's wilderness instruction.",
+    "crossReferences": [
+      "Leviticus 16:1-34",
+      "Leviticus 21:1-22:33",
+      "Leviticus 23:1-44",
+      "Numbers 28:1-29:40",
+      "Deuteronomy 16:1-17",
+      "John 7:2",
+      "Acts 2:1",
+      "1 Corinthians 5:7-8"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 16:1-34",
+        "Leviticus 21:1-22:33"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 23:1-44"
+      ],
+      "laterReferences": [
+        "Numbers 28:1-29:40",
+        "Deuteronomy 16:1-17"
+      ],
+      "newTestamentReferences": [
+        "John 7:2",
+        "Acts 2:1",
+        "1 Corinthians 5:7-8"
+      ]
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Sinai Calendar and Camp Instructions",
+      "previousStory": "leviticus-20-priestly-holiness",
+      "nextStory": "leviticus-22-tabernacle-lamp-and-bread"
+    },
+    "source": {
+      "id": "leviticus-21-appointed-times",
+      "reference": "Leviticus 23",
+      "storyTitle": "Instructions for the Appointed Times",
+      "eventType": [
+        "Instruction Received",
+        "Calendar Instruction",
+        "Worship Activity",
+        "Assembly"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites",
+          "priests"
+        ],
+        "sceneScale": "National Worship Calendar",
+        "timeAnchor": "After priestly holiness instructions; before lamp and bread instructions; before Israel enters Canaan; before Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses concerning appointed times",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates the appointed time instructions",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Recipients who observe Sabbaths, feasts, assemblies, and offerings",
+          "relationships": []
+        },
+        {
+          "name": "Priests",
+          "role": "Serve in connection with offerings and sanctuary activity",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Current setting where the instructions are given"
+        },
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Sanctuary connected with offerings and assemblies"
+        },
+        {
+          "ancientName": "Future fields in the land",
+          "modernRegion": "Canaan / Levant region",
+          "description": "Agricultural setting assumed by harvest-related appointed times"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": null,
+        "destination": null,
+        "route": [],
+        "majorStops": []
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 21-22 gave instructions concerning priests, priestly households, holy food, and acceptable offerings.",
+        "whatIsHappeningNow": "Instructions are given for weekly Sabbath, Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, Day of Atonement, and Booths.",
+        "whatHappensAfter": "Leviticus 24 gives instructions concerning the lamp, bread, and then narrates a case involving blasphemy.",
+        "storyPositionStrip": [
+          "Priestly Holiness",
+          "Appointed Times ← YOU ARE HERE",
+          "Lamp and Bread",
+          "Blasphemy Case",
+          "Sabbatical and Jubilee",
+          "Vows and Dedications"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This chapter gives Israel's appointed times while the nation is still at Sinai.",
+          "The appointed times include weekly, monthly, and annual observances.",
+          "Some instructions look back to the Exodus, while others anticipate harvest life in the land.",
+          "The later Temple does not exist; the current sanctuary is the Tabernacle."
+        ],
+        "geographicContext": [
+          "The instructions are given in the wilderness camp.",
+          "Harvest-related instructions look ahead to agricultural land in Canaan.",
+          "The observances are connected to assemblies and offerings centered around the sanctuary."
+        ],
+        "dailyLifeContext": [
+          "The chapter includes timekeeping by days, months, and seasons.",
+          "Agricultural imagery includes grain harvest, firstfruits, sheaves, and booths.",
+          "Public assemblies gather the people at appointed times.",
+          "Work stoppage, offerings, and temporary dwellings are part of the calendar structure."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This gives Israel its appointed worship calendar in Leviticus.",
+        "It connects wilderness instruction with future agricultural life in the land.",
+        "It places the Day of Atonement within the annual cycle after Leviticus 16 gave its procedure.",
+        "It prepares for later narratives where these appointed times appear again."
+      ],
+      "stepIntoTheStory": [
+        "The scene is a national calendar being given in the wilderness. Israel is still living in camp formation, but the instructions look ahead to fields, harvests, assemblies, and seasonal observance.",
+        "The calendar moves from the weekly Sabbath to annual appointed times. Some days involve rest, some involve offerings, some involve public gathering, and some involve living in booths.",
+        "A person standing in the camp would not see one single event, but a schedule that will shape Israel's movement through time: weeks, months, harvest seasons, and annual assemblies."
+      ],
+      "documentaryObservations": [
+        "A whole nation receiving calendar instructions.",
+        "Weekly Sabbath marked by stopping work.",
+        "Passover and Unleavened Bread tied to the first month.",
+        "Firstfruits connected to harvest sheaves.",
+        "Weeks counted after Firstfruits.",
+        "Trumpet sound marking an appointed day.",
+        "Day of Atonement placed in the seventh month.",
+        "Booths made for the Feast of Booths.",
+        "Future fields and harvests anticipated.",
+        "Public assemblies forming at appointed times."
+      ],
+      "audioScript": "Leviticus 23 gives Israel its appointed times. The people are still at Sinai, living around the Tabernacle, but the instructions reach into the future rhythms of national life. The calendar begins with the weekly Sabbath, then moves through Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, the Day of Atonement, and Booths. Some observances require rest. Some involve offerings. Some gather the people in assembly. Others look ahead to harvest fields and temporary shelters in the land. This chapter turns time itself into an ordered part of Israel's wilderness instruction.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 16:1-34",
+          "Leviticus 21:1-22:33"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 23:1-44"
+        ],
+        "laterReferences": [
+          "Numbers 28:1-29:40",
+          "Deuteronomy 16:1-17"
+        ],
+        "newTestamentReferences": [
+          "John 7:2",
+          "Acts 2:1",
+          "1 Corinthians 5:7-8"
+        ]
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Sinai Calendar and Camp Instructions",
+        "previousStory": "leviticus-20-priestly-holiness",
+        "nextStory": "leviticus-22-tabernacle-lamp-and-bread"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Israelites",
+          "priests"
+        ],
+        "places": [
+          "Israelite camp",
+          "Tent of Meeting",
+          "Canaan fields"
+        ],
+        "events": [
+          "appointed times",
+          "Sabbath",
+          "Passover",
+          "Unleavened Bread",
+          "Firstfruits",
+          "Weeks",
+          "Trumpets",
+          "Day of Atonement",
+          "Booths"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "feasts of Yahweh",
+          "Leviticus 23",
+          "biblical calendar",
+          "holy convocations"
+        ]
+      },
+      "realitySummary": "Leviticus 23 gives instructions for Israel's appointed times, including Sabbath, Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, Day of Atonement, and Booths."
+    }
+  },
+  {
+    "id": "leviticus-22-tabernacle-lamp-and-bread",
+    "sourceFile": "leviticus-22-tabernacle-lamp-and-bread.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Aaron",
+      "Aaron and his sons",
+      "Tent of Meeting",
+      "Outside the veil of the testimony",
+      "Table",
+      "Aaron's sons",
+      "lampstand",
+      "table",
+      "veil",
+      "lamp oil",
+      "bread of the Presence",
+      "twelve loaves",
+      "Sabbath bread",
+      "Wilderness",
+      "Sinai",
+      "showbread",
+      "bread of Presence",
+      "Tabernacle lamp",
+      "Leviticus 24",
+      "Instruction Received",
+      "Tabernacle Service",
+      "Priestly Procedure",
+      "Instructions for the Tabernacle Lamp and Bread",
+      "Leviticus 24:1-9",
+      "Leviticus 24:1-9 gives instructions for the Tabernacle lamp, pure oil, twelve loaves, frankincense, and the weekly priestly handling of the bread."
+    ],
+    "title": "Instructions for the Tabernacle Lamp and Bread",
+    "reference": "Leviticus 24:1-9",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Tabernacle Service",
+      "Priestly Procedure"
+    ],
+    "summary": "Leviticus 24:1-9 gives instructions for the Tabernacle lamp, pure oil, twelve loaves, frankincense, and the weekly priestly handling of the bread.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Aaron"
+      },
+      {
+        "label": "Location",
+        "value": "Tent of Meeting at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Tabernacle Maintenance Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After appointed times; before blasphemy case; before Israel leaves Sinai; before Temple"
+      }
+    ],
+    "situation": "Pure beaten olive oil is needed for the lamp.",
+    "storyPosition": [
+      "Appointed Times",
+      "Lamp and Bread",
+      "Blasphemy Case",
+      "Sabbatical and Jubilee",
+      "Vows and Dedications"
+    ],
+    "currentStory": "Lamp and Bread",
+    "stepIntoStory": "The scene shifts inside the Tent of Meeting. Outside, Israel remains camped at Sinai. Inside, the lamp and table require regular priestly attention.\n\nPure oil is brought from the people and used for the lamp. Aaron arranges it so that it burns regularly outside the veil.\n\nFine flour is prepared into twelve loaves and placed in two rows on the table with frankincense. Each Sabbath, the bread is set in order and later belongs to Aaron and his sons.",
+    "notice": [
+      "Pure beaten olive oil brought by Israelites.",
+      "A lamp arranged inside the Tent of Meeting.",
+      "The lamp positioned outside the veil.",
+      "Fine flour prepared for twelve loaves.",
+      "Loaves arranged in two rows on the table.",
+      "Frankincense placed with the bread.",
+      "Bread replaced every Sabbath.",
+      "Priests eating the bread in a holy place."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 23 gave the appointed times of Israel's worship calendar."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given for the regular lamp, pure oil, twelve loaves, frankincense, and priestly consumption of the bread."
+      },
+      {
+        "label": "Next",
+        "value": "A case involving the son of an Israelite woman and Egyptian man is narrated, leading to instructions concerning blasphemy and justice."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This brief section returns attention from national appointed times to regular Tabernacle maintenance."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The lampstand and table were described earlier in Exodus."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The instruction involves the ongoing service of Aaron and his sons."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The later Temple does not yet exist; the setting is the portable Tent of Meeting."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The setting is the Sinai wilderness camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The action centers inside the Tent of Meeting rather than the outer camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The lamp is arranged outside the veil, and the bread is arranged on the table."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Pure beaten olive oil is needed for the lamp."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Fine flour is used to make twelve loaves."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Frankincense is placed with the bread."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The bread is arranged weekly and eaten by the priests in a holy place."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This gives regular maintenance instructions for two sanctuary items: the lamp and the bread.",
+      "It connects the people, who provide oil, with priestly service inside the Tent.",
+      "It shows that Tabernacle service includes repeated weekly and daily duties.",
+      "It bridges the appointed times section and the narrative case that follows."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives instructions to Moses",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives instructions concerning oil and bread",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Provide pure oil for the lamp",
+        "relationships": []
+      },
+      {
+        "name": "Aaron",
+        "role": "Arranges and maintains the lamp regularly",
+        "relationships": [
+          "Father of Aaron's sons"
+        ]
+      },
+      {
+        "name": "Aaron and his sons",
+        "role": "Receive the bread as a holy portion",
+        "relationships": [
+          "Priestly family"
+        ]
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Tent of Meeting",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Portable sanctuary where the lamp is kept"
+      },
+      {
+        "ancientName": "Outside the veil of the testimony",
+        "modernRegion": "Inside the Tent of Meeting",
+        "description": "Location where the lamp is arranged"
+      },
+      {
+        "ancientName": "Table",
+        "modernRegion": "Inside the sanctuary",
+        "description": "Place where the bread is arranged before Yahweh"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Aaron",
+      "Aaron and his sons"
+    ],
+    "places": [
+      "Tent of Meeting",
+      "Outside the veil of the testimony",
+      "Table"
+    ],
+    "movement": [
+      "Israelites bring pure beaten olive oil",
+      "Aaron arranges the lamp outside the veil",
+      "Fine flour is prepared into twelve loaves",
+      "The loaves are arranged in two rows on the table",
+      "Frankincense is placed with the bread",
+      "The bread is replaced each Sabbath and eaten by Aaron and his sons"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite camp",
+      "destination": "Inside the Tent of Meeting",
+      "route": [
+        "Israelites bring pure beaten olive oil",
+        "Aaron arranges the lamp outside the veil",
+        "Fine flour is prepared into twelve loaves",
+        "The loaves are arranged in two rows on the table",
+        "Frankincense is placed with the bread",
+        "The bread is replaced each Sabbath and eaten by Aaron and his sons"
+      ],
+      "majorStops": [
+        "Israelite camp",
+        "Tent of Meeting",
+        "Lamp",
+        "Table"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 24 begins with regular Tabernacle service. The people are to bring pure beaten olive oil for the lamp. Aaron arranges the lamp inside the Tent of Meeting, outside the veil, so that it burns regularly. The scene then moves to the table. Fine flour is used to make twelve loaves, arranged in two rows before Yahweh, with frankincense placed on them. Every Sabbath the bread is set in order, and it belongs to Aaron and his sons. This section shows the quiet, repeated maintenance of the sanctuary.",
+    "crossReferences": [
+      "Exodus 25:23-40",
+      "Exodus 27:20-21",
+      "Leviticus 24:1-9",
+      "Numbers 4:7-9",
+      "1 Samuel 21:1-6",
+      "Matthew 12:3-4",
+      "Mark 2:25-26",
+      "Luke 6:3-4"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Exodus 25:23-40",
+        "Exodus 27:20-21"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 24:1-9"
+      ],
+      "laterReferences": [
+        "Numbers 4:7-9",
+        "1 Samuel 21:1-6"
+      ],
+      "newTestamentReferences": [
+        "Matthew 12:3-4",
+        "Mark 2:25-26",
+        "Luke 6:3-4"
+      ]
+    },
+    "series": {
+      "character": "Aaron",
+      "arc": "Sinai Calendar and Camp Instructions",
+      "previousStory": "leviticus-21-appointed-times",
+      "nextStory": "leviticus-23-blasphemy-case"
+    },
+    "source": {
+      "id": "leviticus-22-tabernacle-lamp-and-bread",
+      "reference": "Leviticus 24:1-9",
+      "storyTitle": "Instructions for the Tabernacle Lamp and Bread",
+      "eventType": [
+        "Instruction Received",
+        "Tabernacle Service",
+        "Priestly Procedure"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Aaron",
+        "approximateAge": null,
+        "currentLocation": "Tent of Meeting at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Moses",
+          "Israelites",
+          "Aaron's sons"
+        ],
+        "sceneScale": "Tabernacle Maintenance Instruction",
+        "timeAnchor": "After appointed times; before blasphemy case; before Israel leaves Sinai; before Temple",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives instructions to Moses",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives instructions concerning oil and bread",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Provide pure oil for the lamp",
+          "relationships": []
+        },
+        {
+          "name": "Aaron",
+          "role": "Arranges and maintains the lamp regularly",
+          "relationships": [
+            "Father of Aaron's sons"
+          ]
+        },
+        {
+          "name": "Aaron and his sons",
+          "role": "Receive the bread as a holy portion",
+          "relationships": [
+            "Priestly family"
+          ]
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Tent of Meeting",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Portable sanctuary where the lamp is kept"
+        },
+        {
+          "ancientName": "Outside the veil of the testimony",
+          "modernRegion": "Inside the Tent of Meeting",
+          "description": "Location where the lamp is arranged"
+        },
+        {
+          "ancientName": "Table",
+          "modernRegion": "Inside the sanctuary",
+          "description": "Place where the bread is arranged before Yahweh"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite camp",
+        "destination": "Inside the Tent of Meeting",
+        "route": [
+          "Israelites bring pure beaten olive oil",
+          "Aaron arranges the lamp outside the veil",
+          "Fine flour is prepared into twelve loaves",
+          "The loaves are arranged in two rows on the table",
+          "Frankincense is placed with the bread",
+          "The bread is replaced each Sabbath and eaten by Aaron and his sons"
+        ],
+        "majorStops": [
+          "Israelite camp",
+          "Tent of Meeting",
+          "Lamp",
+          "Table"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 23 gave the appointed times of Israel's worship calendar.",
+        "whatIsHappeningNow": "Instructions are given for the regular lamp, pure oil, twelve loaves, frankincense, and priestly consumption of the bread.",
+        "whatHappensAfter": "A case involving the son of an Israelite woman and Egyptian man is narrated, leading to instructions concerning blasphemy and justice.",
+        "storyPositionStrip": [
+          "Appointed Times",
+          "Lamp and Bread ← YOU ARE HERE",
+          "Blasphemy Case",
+          "Sabbatical and Jubilee",
+          "Vows and Dedications"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This brief section returns attention from national appointed times to regular Tabernacle maintenance.",
+          "The lampstand and table were described earlier in Exodus.",
+          "The instruction involves the ongoing service of Aaron and his sons.",
+          "The later Temple does not yet exist; the setting is the portable Tent of Meeting."
+        ],
+        "geographicContext": [
+          "The setting is the Sinai wilderness camp.",
+          "The action centers inside the Tent of Meeting rather than the outer camp.",
+          "The lamp is arranged outside the veil, and the bread is arranged on the table."
+        ],
+        "dailyLifeContext": [
+          "Pure beaten olive oil is needed for the lamp.",
+          "Fine flour is used to make twelve loaves.",
+          "Frankincense is placed with the bread.",
+          "The bread is arranged weekly and eaten by the priests in a holy place."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This gives regular maintenance instructions for two sanctuary items: the lamp and the bread.",
+        "It connects the people, who provide oil, with priestly service inside the Tent.",
+        "It shows that Tabernacle service includes repeated weekly and daily duties.",
+        "It bridges the appointed times section and the narrative case that follows."
+      ],
+      "stepIntoTheStory": [
+        "The scene shifts inside the Tent of Meeting. Outside, Israel remains camped at Sinai. Inside, the lamp and table require regular priestly attention.",
+        "Pure oil is brought from the people and used for the lamp. Aaron arranges it so that it burns regularly outside the veil.",
+        "Fine flour is prepared into twelve loaves and placed in two rows on the table with frankincense. Each Sabbath, the bread is set in order and later belongs to Aaron and his sons."
+      ],
+      "documentaryObservations": [
+        "Pure beaten olive oil brought by Israelites.",
+        "A lamp arranged inside the Tent of Meeting.",
+        "The lamp positioned outside the veil.",
+        "Fine flour prepared for twelve loaves.",
+        "Loaves arranged in two rows on the table.",
+        "Frankincense placed with the bread.",
+        "Bread replaced every Sabbath.",
+        "Priests eating the bread in a holy place."
+      ],
+      "audioScript": "Leviticus 24 begins with regular Tabernacle service. The people are to bring pure beaten olive oil for the lamp. Aaron arranges the lamp inside the Tent of Meeting, outside the veil, so that it burns regularly. The scene then moves to the table. Fine flour is used to make twelve loaves, arranged in two rows before Yahweh, with frankincense placed on them. Every Sabbath the bread is set in order, and it belongs to Aaron and his sons. This section shows the quiet, repeated maintenance of the sanctuary.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Exodus 25:23-40",
+          "Exodus 27:20-21"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 24:1-9"
+        ],
+        "laterReferences": [
+          "Numbers 4:7-9",
+          "1 Samuel 21:1-6"
+        ],
+        "newTestamentReferences": [
+          "Matthew 12:3-4",
+          "Mark 2:25-26",
+          "Luke 6:3-4"
+        ]
+      },
+      "series": {
+        "character": "Aaron",
+        "arc": "Sinai Calendar and Camp Instructions",
+        "previousStory": "leviticus-21-appointed-times",
+        "nextStory": "leviticus-23-blasphemy-case"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Aaron",
+          "Aaron's sons",
+          "Israelites"
+        ],
+        "places": [
+          "Tent of Meeting",
+          "lampstand",
+          "table",
+          "veil"
+        ],
+        "events": [
+          "lamp oil",
+          "bread of the Presence",
+          "twelve loaves",
+          "Sabbath bread"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "showbread",
+          "bread of Presence",
+          "Tabernacle lamp",
+          "Leviticus 24"
+        ]
+      },
+      "realitySummary": "Leviticus 24:1-9 gives instructions for the Tabernacle lamp, pure oil, twelve loaves, frankincense, and the weekly priestly handling of the bread."
+    }
+  },
+  {
+    "id": "leviticus-23-blasphemy-case",
+    "sourceFile": "leviticus-23-blasphemy-case.json",
+    "searchTerms": [
+      "Son of Shelomith",
+      "Shelomith",
+      "Israelite man",
+      "Moses",
+      "Congregation of Israel",
+      "Israelite camp",
+      "Custody",
+      "Outside the camp",
+      "son of Shelomith",
+      "Dibri",
+      "tribe of Dan",
+      "outside the camp",
+      "custody",
+      "blasphemy case",
+      "camp fight",
+      "legal custody",
+      "judgment outside camp",
+      "Wilderness",
+      "Sinai",
+      "Leviticus blasphemy case",
+      "Leviticus 24 legal case",
+      "Conflict",
+      "Legal Case",
+      "Judgment",
+      "The Blasphemy Case in the Camp",
+      "Leviticus 24:10-23",
+      "Leviticus 24:10-23 narrates a camp legal case involving blasphemy, custody, instruction through Moses, and judgment carried out outside the camp."
+    ],
+    "title": "The Blasphemy Case in the Camp",
+    "reference": "Leviticus 24:10-23",
+    "kicker": "Study",
+    "eventType": [
+      "Conflict",
+      "Legal Case",
+      "Custody",
+      "Judgment"
+    ],
+    "summary": "Leviticus 24:10-23 narrates a camp legal case involving blasphemy, custody, instruction through Moses, and judgment carried out outside the camp.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Son of Shelomith"
+      },
+      {
+        "label": "Location",
+        "value": "Israelite camp at Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Camp Legal Case"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After lamp and bread instructions; before Sabbatical and Jubilee instructions; before Israel leaves Sinai"
+      }
+    ],
+    "situation": "The case begins with a fight between two men in the camp.",
+    "storyPosition": [
+      "Lamp and Bread",
+      "Blasphemy Case",
+      "Sabbatical and Jubilee",
+      "Blessings and Curses",
+      "Vows and Dedications"
+    ],
+    "currentStory": "Blasphemy Case",
+    "stepIntoStory": "The scene begins inside the Israelite camp, where two men fight. One man is the son of an Israelite woman from Dan and an Egyptian father.\n\nAfter he blasphemes the Name and curses, he is brought to Moses. The community does not act immediately; the man is placed in custody while the command is made clear.\n\nThe movement ends outside the camp. Witnesses lay hands on his head, and the congregation carries out the judgment.",
+    "notice": [
+      "Two men fighting inside the camp.",
+      "A man identified by his mother, grandfather, and tribe.",
+      "Moses receiving the legal case.",
+      "The accused placed in custody.",
+      "The camp waiting for instruction.",
+      "Witnesses laying hands on the man's head.",
+      "Movement from inside the camp to outside the camp.",
+      "The congregation gathered for judgment.",
+      "Legal instructions given after the case."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 24:1-9 gave instructions for the Tabernacle lamp and bread."
+      },
+      {
+        "label": "Now",
+        "value": "A man with an Israelite mother and Egyptian father fights in the camp, blasphemes the Name, is placed in custody, and is judged outside the camp."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 25 gives instructions concerning the Sabbatical year and Jubilee."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is one of the few narrative legal cases inside Leviticus."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The accused man's mother, grandfather, and tribe are named."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The case occurs in the camp while Israel is still at Sinai."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The legal instruction that follows addresses both the native-born and the sojourner."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The event starts inside the Israelite camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The man is held in custody while the matter is clarified."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The final action occurs outside the camp, showing the camp boundary as legally significant."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The case begins with a fight between two men in the camp."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Custody is used while the decision is awaited."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Witnesses lay hands on the offender's head before the judgment."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The chapter also gives related injury and restitution principles."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a rare narrative case inside the legal material of Leviticus.",
+      "It shows how an actual camp incident leads to legal instruction.",
+      "It names a mixed Israelite-Egyptian family background in the wilderness camp.",
+      "It connects camp conflict, custody, witnesses, and judgment outside the camp."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Son of Shelomith",
+        "role": "Man involved in a fight who blasphemes and is judged",
+        "relationships": [
+          "Son of Shelomith",
+          "son of an Egyptian man"
+        ]
+      },
+      {
+        "name": "Shelomith",
+        "role": "Israelite mother of the accused man",
+        "relationships": [
+          "Daughter of Dibri",
+          "from the tribe of Dan"
+        ]
+      },
+      {
+        "name": "Israelite man",
+        "role": "Man who fights with Shelomith's son",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives the case and instruction",
+        "relationships": []
+      },
+      {
+        "name": "Congregation of Israel",
+        "role": "Carries out the judgment outside the camp",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where the fight occurs"
+      },
+      {
+        "ancientName": "Custody",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Temporary holding while the command is made clear"
+      },
+      {
+        "ancientName": "Outside the camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where the judgment is carried out"
+      }
+    ],
+    "people": [
+      "Son of Shelomith",
+      "Shelomith",
+      "Israelite man",
+      "Moses",
+      "Congregation of Israel"
+    ],
+    "places": [
+      "Israelite camp",
+      "Custody",
+      "Outside the camp"
+    ],
+    "movement": [
+      "A fight occurs in the camp",
+      "The man blasphemes the Name and curses",
+      "He is brought to Moses",
+      "He is placed in custody",
+      "Instruction is given",
+      "The congregation brings him outside the camp",
+      "The judgment is carried out"
+    ],
+    "movementDetails": {
+      "startingPoint": "Inside the Israelite camp",
+      "destination": "Outside the camp",
+      "route": [
+        "A fight occurs in the camp",
+        "The man blasphemes the Name and curses",
+        "He is brought to Moses",
+        "He is placed in custody",
+        "Instruction is given",
+        "The congregation brings him outside the camp",
+        "The judgment is carried out"
+      ],
+      "majorStops": [
+        "Camp",
+        "Custody",
+        "Outside the camp"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 24 shifts from sanctuary maintenance to a legal case in the camp. A man whose mother is an Israelite from the tribe of Dan and whose father is Egyptian fights with an Israelite man. During the conflict, he blasphemes the Name and curses. He is brought to Moses and placed in custody while the command is made clear. The scene then moves outside the camp. Witnesses lay their hands on his head, and the congregation carries out the judgment. The case becomes the setting for wider instructions about blasphemy, injury, and equal law for native-born and sojourner.",
+    "crossReferences": [
+      "Leviticus 24:1-9",
+      "Leviticus 24:10-23",
+      "Numbers 15:32-36",
+      "Deuteronomy 17:2-7"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 24:1-9"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 24:10-23"
+      ],
+      "laterReferences": [
+        "Numbers 15:32-36",
+        "Deuteronomy 17:2-7"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Sinai Legal Cases",
+      "previousStory": "leviticus-22-tabernacle-lamp-and-bread",
+      "nextStory": "leviticus-24-sabbatical-and-jubilee"
+    },
+    "source": {
+      "id": "leviticus-23-blasphemy-case",
+      "reference": "Leviticus 24:10-23",
+      "storyTitle": "The Blasphemy Case in the Camp",
+      "eventType": [
+        "Conflict",
+        "Legal Case",
+        "Custody",
+        "Judgment"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Son of Shelomith",
+        "approximateAge": null,
+        "currentLocation": "Israelite camp at Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Shelomith",
+          "Moses",
+          "Israelites"
+        ],
+        "sceneScale": "Camp Legal Case",
+        "timeAnchor": "After lamp and bread instructions; before Sabbatical and Jubilee instructions; before Israel leaves Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Son of Shelomith",
+          "role": "Man involved in a fight who blasphemes and is judged",
+          "relationships": [
+            "Son of Shelomith",
+            "son of an Egyptian man"
+          ]
+        },
+        {
+          "name": "Shelomith",
+          "role": "Israelite mother of the accused man",
+          "relationships": [
+            "Daughter of Dibri",
+            "from the tribe of Dan"
+          ]
+        },
+        {
+          "name": "Israelite man",
+          "role": "Man who fights with Shelomith's son",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives the case and instruction",
+          "relationships": []
+        },
+        {
+          "name": "Congregation of Israel",
+          "role": "Carries out the judgment outside the camp",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where the fight occurs"
+        },
+        {
+          "ancientName": "Custody",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Temporary holding while the command is made clear"
+        },
+        {
+          "ancientName": "Outside the camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where the judgment is carried out"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Inside the Israelite camp",
+        "destination": "Outside the camp",
+        "route": [
+          "A fight occurs in the camp",
+          "The man blasphemes the Name and curses",
+          "He is brought to Moses",
+          "He is placed in custody",
+          "Instruction is given",
+          "The congregation brings him outside the camp",
+          "The judgment is carried out"
+        ],
+        "majorStops": [
+          "Camp",
+          "Custody",
+          "Outside the camp"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 24:1-9 gave instructions for the Tabernacle lamp and bread.",
+        "whatIsHappeningNow": "A man with an Israelite mother and Egyptian father fights in the camp, blasphemes the Name, is placed in custody, and is judged outside the camp.",
+        "whatHappensAfter": "Leviticus 25 gives instructions concerning the Sabbatical year and Jubilee.",
+        "storyPositionStrip": [
+          "Lamp and Bread",
+          "Blasphemy Case ← YOU ARE HERE",
+          "Sabbatical and Jubilee",
+          "Blessings and Curses",
+          "Vows and Dedications"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This is one of the few narrative legal cases inside Leviticus.",
+          "The accused man's mother, grandfather, and tribe are named.",
+          "The case occurs in the camp while Israel is still at Sinai.",
+          "The legal instruction that follows addresses both the native-born and the sojourner."
+        ],
+        "geographicContext": [
+          "The event starts inside the Israelite camp.",
+          "The man is held in custody while the matter is clarified.",
+          "The final action occurs outside the camp, showing the camp boundary as legally significant."
+        ],
+        "dailyLifeContext": [
+          "The case begins with a fight between two men in the camp.",
+          "Custody is used while the decision is awaited.",
+          "Witnesses lay hands on the offender's head before the judgment.",
+          "The chapter also gives related injury and restitution principles."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a rare narrative case inside the legal material of Leviticus.",
+        "It shows how an actual camp incident leads to legal instruction.",
+        "It names a mixed Israelite-Egyptian family background in the wilderness camp.",
+        "It connects camp conflict, custody, witnesses, and judgment outside the camp."
+      ],
+      "stepIntoTheStory": [
+        "The scene begins inside the Israelite camp, where two men fight. One man is the son of an Israelite woman from Dan and an Egyptian father.",
+        "After he blasphemes the Name and curses, he is brought to Moses. The community does not act immediately; the man is placed in custody while the command is made clear.",
+        "The movement ends outside the camp. Witnesses lay hands on his head, and the congregation carries out the judgment."
+      ],
+      "documentaryObservations": [
+        "Two men fighting inside the camp.",
+        "A man identified by his mother, grandfather, and tribe.",
+        "Moses receiving the legal case.",
+        "The accused placed in custody.",
+        "The camp waiting for instruction.",
+        "Witnesses laying hands on the man's head.",
+        "Movement from inside the camp to outside the camp.",
+        "The congregation gathered for judgment.",
+        "Legal instructions given after the case."
+      ],
+      "audioScript": "Leviticus 24 shifts from sanctuary maintenance to a legal case in the camp. A man whose mother is an Israelite from the tribe of Dan and whose father is Egyptian fights with an Israelite man. During the conflict, he blasphemes the Name and curses. He is brought to Moses and placed in custody while the command is made clear. The scene then moves outside the camp. Witnesses lay their hands on his head, and the congregation carries out the judgment. The case becomes the setting for wider instructions about blasphemy, injury, and equal law for native-born and sojourner.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 24:1-9"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 24:10-23"
+        ],
+        "laterReferences": [
+          "Numbers 15:32-36",
+          "Deuteronomy 17:2-7"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Sinai Legal Cases",
+        "previousStory": "leviticus-22-tabernacle-lamp-and-bread",
+        "nextStory": "leviticus-24-sabbatical-and-jubilee"
+      },
+      "search": {
+        "people": [
+          "son of Shelomith",
+          "Shelomith",
+          "Dibri",
+          "Moses",
+          "Israelite man",
+          "tribe of Dan"
+        ],
+        "places": [
+          "Israelite camp",
+          "outside the camp",
+          "custody"
+        ],
+        "events": [
+          "blasphemy case",
+          "camp fight",
+          "legal custody",
+          "judgment outside camp"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Leviticus blasphemy case",
+          "son of Shelomith",
+          "Leviticus 24 legal case"
+        ]
+      },
+      "realitySummary": "Leviticus 24:10-23 narrates a camp legal case involving blasphemy, custody, instruction through Moses, and judgment carried out outside the camp."
+    }
+  },
+  {
+    "id": "leviticus-24-sabbatical-and-jubilee",
+    "sourceFile": "leviticus-24-sabbatical-and-jubilee.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Poor brother",
+      "Redeemer / kinsman",
+      "Sojourner",
+      "Mount Sinai",
+      "Land of Canaan",
+      "Fields and vineyards",
+      "Walled city",
+      "Villages without walls",
+      "poor brother",
+      "kinsman redeemer",
+      "sojourner",
+      "Canaan",
+      "fields",
+      "vineyards",
+      "walled city",
+      "villages",
+      "Sabbatical year",
+      "Jubilee",
+      "land redemption",
+      "release",
+      "property return",
+      "Wilderness",
+      "Sinai",
+      "Leviticus 25",
+      "Year of Jubilee",
+      "land Sabbath",
+      "shemittah",
+      "yovel",
+      "Instruction Received",
+      "Land Instruction",
+      "Economic Instruction",
+      "Release",
+      "Instructions for the Sabbatical Year and Jubilee",
+      "Leviticus 25 gives instructions for the land Sabbath, Jubilee, property redemption, poverty, lending, servitude, and release in Israel's future life in the land."
+    ],
+    "title": "Instructions for the Sabbatical Year and Jubilee",
+    "reference": "Leviticus 25",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Land Instruction",
+      "Economic Instruction",
+      "Release"
+    ],
+    "summary": "Leviticus 25 gives instructions for the land Sabbath, Jubilee, property redemption, poverty, lending, servitude, and release in Israel's future life in the land.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Mount Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Land and Economic Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After blasphemy case; before blessings and curses; before Israel enters Canaan"
+      }
+    ],
+    "situation": "The chapter addresses sowing, pruning, harvesting, property sale, family redemption, lending, debt, hired work, and servitude.",
+    "storyPosition": [
+      "Blasphemy Case",
+      "Sabbatical and Jubilee",
+      "Blessings and Curses",
+      "Vows and Dedications",
+      "Numbers Census"
+    ],
+    "currentStory": "Sabbatical and Jubilee",
+    "stepIntoStory": "The instruction is spoken at Sinai, but the camera looks ahead into Canaan: fields planted with grain, vineyards pruned, villages, walled towns, houses, debts, and family property.\n\nThe land itself is given a rhythm. Six years of sowing and pruning are followed by a seventh year of rest.\n\nAfter seven cycles, the Jubilee is proclaimed. Property, households, poor relatives, hired workers, and redemption arrangements all come into view.",
+    "notice": [
+      "Instruction given at Mount Sinai.",
+      "Future fields being sown for six years.",
+      "Vineyards pruned for six years.",
+      "Fields resting in the seventh year.",
+      "A trumpet sounded on the Day of Atonement.",
+      "The fiftieth year proclaimed as Jubilee.",
+      "Family land returning to original holders.",
+      "A poor brother selling property.",
+      "A kinsman redeemer buying back property.",
+      "Walled cities and unwalled villages distinguished."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "A legal case involving blasphemy was narrated in the camp."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given concerning the land Sabbath, Jubilee, property redemption, poverty, lending, servitude, and release."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 26 gives blessings and curses tied to obedience and disobedience."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The instructions are given at Mount Sinai."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The chapter looks ahead to Israel's future life in the land."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle remains in the wilderness, but the content focuses on agriculture, property, and economy in Canaan."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Leviticus 26 follows with covenant blessings and curses."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The present setting is Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The future setting is the land Israel is to enter."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Fields, vineyards, walled cities, and unwalled villages are named as land and property settings."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The chapter addresses sowing, pruning, harvesting, property sale, family redemption, lending, debt, hired work, and servitude."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The land Sabbath affects agricultural labor in the seventh year."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Jubilee affects land return and release after seven cycles of years."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Walled cities and rural villages are treated differently in property redemption."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the major land and release instruction chapter in Leviticus.",
+      "It looks beyond the wilderness to Israel's settled agricultural future.",
+      "It connects time, land, property, family, poverty, and release.",
+      "It prepares for the blessings and curses in Leviticus 26."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Speaks to Moses on Mount Sinai",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates Sabbatical and Jubilee instructions",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Recipients who will live by these instructions in the land",
+        "relationships": []
+      },
+      {
+        "name": "Poor brother",
+        "role": "Person whose property or freedom may be affected",
+        "relationships": []
+      },
+      {
+        "name": "Redeemer / kinsman",
+        "role": "Family member who may redeem property or person",
+        "relationships": []
+      },
+      {
+        "name": "Sojourner",
+        "role": "Resident among Israel included in economic instructions",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Mount Sinai",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where the instructions are given"
+      },
+      {
+        "ancientName": "Land of Canaan",
+        "modernRegion": "Levant region",
+        "description": "Future land where Sabbatical and Jubilee instructions apply"
+      },
+      {
+        "ancientName": "Fields and vineyards",
+        "modernRegion": "Future agricultural land",
+        "description": "Agricultural settings affected by the land Sabbath"
+      },
+      {
+        "ancientName": "Walled city",
+        "modernRegion": "Future settled towns",
+        "description": "Urban property category in redemption instructions"
+      },
+      {
+        "ancientName": "Villages without walls",
+        "modernRegion": "Future rural settlements",
+        "description": "Rural property category connected to field land"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Poor brother",
+      "Redeemer / kinsman",
+      "Sojourner"
+    ],
+    "places": [
+      "Mount Sinai",
+      "Land of Canaan",
+      "Fields and vineyards",
+      "Walled city",
+      "Villages without walls"
+    ],
+    "movement": [
+      "Instruction is given at Sinai",
+      "Israel is to enter the land",
+      "The land observes a Sabbath in the seventh year",
+      "The fiftieth year is proclaimed as Jubilee",
+      "Property and persons are released or redeemed according to the instructions"
+    ],
+    "movementDetails": {
+      "startingPoint": "Mount Sinai",
+      "destination": "Future life in the land",
+      "route": [
+        "Instruction is given at Sinai",
+        "Israel is to enter the land",
+        "The land observes a Sabbath in the seventh year",
+        "The fiftieth year is proclaimed as Jubilee",
+        "Property and persons are released or redeemed according to the instructions"
+      ],
+      "majorStops": [
+        "Mount Sinai",
+        "Canaan",
+        "Fields",
+        "Cities",
+        "Households"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 25 is spoken at Mount Sinai, but it looks forward to life in the land. Israel is told how fields, vineyards, property, debt, poverty, and release are to function. Six years are for sowing and pruning. The seventh year is a Sabbath for the land. After seven cycles of years, the fiftieth year is proclaimed as Jubilee. Property can return, poor relatives can be redeemed, and economic life is regulated by family, land, and time. The chapter turns the future land of Canaan into a visible world of farms, villages, walled cities, debts, workers, and redemption.",
+    "crossReferences": [
+      "Leviticus 24:10-23",
+      "Leviticus 25:1-55",
+      "Leviticus 26:1-46",
+      "Deuteronomy 15:1-18",
+      "Luke 4:18-19"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 24:10-23"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 25:1-55"
+      ],
+      "laterReferences": [
+        "Leviticus 26:1-46",
+        "Deuteronomy 15:1-18"
+      ],
+      "newTestamentReferences": [
+        "Luke 4:18-19"
+      ]
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Sinai Land Instructions",
+      "previousStory": "leviticus-23-blasphemy-case",
+      "nextStory": "leviticus-25-blessings-and-curses"
+    },
+    "source": {
+      "id": "leviticus-24-sabbatical-and-jubilee",
+      "reference": "Leviticus 25",
+      "storyTitle": "Instructions for the Sabbatical Year and Jubilee",
+      "eventType": [
+        "Instruction Received",
+        "Land Instruction",
+        "Economic Instruction",
+        "Release"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Mount Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Land and Economic Instruction",
+        "timeAnchor": "After blasphemy case; before blessings and curses; before Israel enters Canaan",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Speaks to Moses on Mount Sinai",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates Sabbatical and Jubilee instructions",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Recipients who will live by these instructions in the land",
+          "relationships": []
+        },
+        {
+          "name": "Poor brother",
+          "role": "Person whose property or freedom may be affected",
+          "relationships": []
+        },
+        {
+          "name": "Redeemer / kinsman",
+          "role": "Family member who may redeem property or person",
+          "relationships": []
+        },
+        {
+          "name": "Sojourner",
+          "role": "Resident among Israel included in economic instructions",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Mount Sinai",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where the instructions are given"
+        },
+        {
+          "ancientName": "Land of Canaan",
+          "modernRegion": "Levant region",
+          "description": "Future land where Sabbatical and Jubilee instructions apply"
+        },
+        {
+          "ancientName": "Fields and vineyards",
+          "modernRegion": "Future agricultural land",
+          "description": "Agricultural settings affected by the land Sabbath"
+        },
+        {
+          "ancientName": "Walled city",
+          "modernRegion": "Future settled towns",
+          "description": "Urban property category in redemption instructions"
+        },
+        {
+          "ancientName": "Villages without walls",
+          "modernRegion": "Future rural settlements",
+          "description": "Rural property category connected to field land"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Mount Sinai",
+        "destination": "Future life in the land",
+        "route": [
+          "Instruction is given at Sinai",
+          "Israel is to enter the land",
+          "The land observes a Sabbath in the seventh year",
+          "The fiftieth year is proclaimed as Jubilee",
+          "Property and persons are released or redeemed according to the instructions"
+        ],
+        "majorStops": [
+          "Mount Sinai",
+          "Canaan",
+          "Fields",
+          "Cities",
+          "Households"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "A legal case involving blasphemy was narrated in the camp.",
+        "whatIsHappeningNow": "Instructions are given concerning the land Sabbath, Jubilee, property redemption, poverty, lending, servitude, and release.",
+        "whatHappensAfter": "Leviticus 26 gives blessings and curses tied to obedience and disobedience.",
+        "storyPositionStrip": [
+          "Blasphemy Case",
+          "Sabbatical and Jubilee ← YOU ARE HERE",
+          "Blessings and Curses",
+          "Vows and Dedications",
+          "Numbers Census"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "The instructions are given at Mount Sinai.",
+          "The chapter looks ahead to Israel's future life in the land.",
+          "The Tabernacle remains in the wilderness, but the content focuses on agriculture, property, and economy in Canaan.",
+          "Leviticus 26 follows with covenant blessings and curses."
+        ],
+        "geographicContext": [
+          "The present setting is Sinai.",
+          "The future setting is the land Israel is to enter.",
+          "Fields, vineyards, walled cities, and unwalled villages are named as land and property settings."
+        ],
+        "dailyLifeContext": [
+          "The chapter addresses sowing, pruning, harvesting, property sale, family redemption, lending, debt, hired work, and servitude.",
+          "The land Sabbath affects agricultural labor in the seventh year.",
+          "Jubilee affects land return and release after seven cycles of years.",
+          "Walled cities and rural villages are treated differently in property redemption."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the major land and release instruction chapter in Leviticus.",
+        "It looks beyond the wilderness to Israel's settled agricultural future.",
+        "It connects time, land, property, family, poverty, and release.",
+        "It prepares for the blessings and curses in Leviticus 26."
+      ],
+      "stepIntoTheStory": [
+        "The instruction is spoken at Sinai, but the camera looks ahead into Canaan: fields planted with grain, vineyards pruned, villages, walled towns, houses, debts, and family property.",
+        "The land itself is given a rhythm. Six years of sowing and pruning are followed by a seventh year of rest.",
+        "After seven cycles, the Jubilee is proclaimed. Property, households, poor relatives, hired workers, and redemption arrangements all come into view."
+      ],
+      "documentaryObservations": [
+        "Instruction given at Mount Sinai.",
+        "Future fields being sown for six years.",
+        "Vineyards pruned for six years.",
+        "Fields resting in the seventh year.",
+        "A trumpet sounded on the Day of Atonement.",
+        "The fiftieth year proclaimed as Jubilee.",
+        "Family land returning to original holders.",
+        "A poor brother selling property.",
+        "A kinsman redeemer buying back property.",
+        "Walled cities and unwalled villages distinguished."
+      ],
+      "audioScript": "Leviticus 25 is spoken at Mount Sinai, but it looks forward to life in the land. Israel is told how fields, vineyards, property, debt, poverty, and release are to function. Six years are for sowing and pruning. The seventh year is a Sabbath for the land. After seven cycles of years, the fiftieth year is proclaimed as Jubilee. Property can return, poor relatives can be redeemed, and economic life is regulated by family, land, and time. The chapter turns the future land of Canaan into a visible world of farms, villages, walled cities, debts, workers, and redemption.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 24:10-23"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 25:1-55"
+        ],
+        "laterReferences": [
+          "Leviticus 26:1-46",
+          "Deuteronomy 15:1-18"
+        ],
+        "newTestamentReferences": [
+          "Luke 4:18-19"
+        ]
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Sinai Land Instructions",
+        "previousStory": "leviticus-23-blasphemy-case",
+        "nextStory": "leviticus-25-blessings-and-curses"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Israelites",
+          "poor brother",
+          "kinsman redeemer",
+          "sojourner"
+        ],
+        "places": [
+          "Mount Sinai",
+          "Canaan",
+          "fields",
+          "vineyards",
+          "walled city",
+          "villages"
+        ],
+        "events": [
+          "Sabbatical year",
+          "Jubilee",
+          "land redemption",
+          "release",
+          "property return"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Leviticus 25",
+          "Year of Jubilee",
+          "land Sabbath",
+          "shemittah",
+          "yovel"
+        ]
+      },
+      "realitySummary": "Leviticus 25 gives instructions for the land Sabbath, Jubilee, property redemption, poverty, lending, servitude, and release in Israel's future life in the land."
+    }
+  },
+  {
+    "id": "leviticus-25-blessings-and-curses",
+    "sourceFile": "leviticus-25-blessings-and-curses.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Enemies",
+      "Mount Sinai",
+      "Land",
+      "Enemy lands",
+      "Cities",
+      "enemies",
+      "land",
+      "cities",
+      "enemy lands",
+      "blessings and curses",
+      "covenant consequences",
+      "exile warning",
+      "land Sabbaths",
+      "Wilderness",
+      "Sinai",
+      "Leviticus 26",
+      "covenant blessings",
+      "covenant curses",
+      "warnings of exile",
+      "Instruction Received",
+      "Blessing",
+      "Warning",
+      "Exile",
+      "Return",
+      "Blessings, Curses, and Covenant Consequences",
+      "Leviticus 26 gives blessings and curses connected to Israel's future life in the land, including agricultural abundance, peace, judgment, desolation, exile, confession, and covenant remembrance."
+    ],
+    "title": "Blessings, Curses, and Covenant Consequences",
+    "reference": "Leviticus 26",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Blessing",
+      "Warning",
+      "Exile",
+      "Return"
+    ],
+    "summary": "Leviticus 26 gives blessings and curses connected to Israel's future life in the land, including agricultural abundance, peace, judgment, desolation, exile, confession, and covenant remembrance.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Mount Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Covenant Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Sabbatical and Jubilee instructions; before vows and dedications; before Israel enters Canaan"
+      }
+    ],
+    "situation": "Blessing imagery includes rain, harvest, threshing, vintage, bread, peace, and safety.",
+    "storyPosition": [
+      "Sabbatical and Jubilee",
+      "Blessings and Curses",
+      "Vows and Dedications",
+      "Numbers Census",
+      "Israel Leaves Sinai"
+    ],
+    "currentStory": "Blessings and Curses",
+    "stepIntoStory": "The scene is still Sinai, but the words paint future scenes in the land: rain in season, fields producing crops, trees bearing fruit, people eating bread in safety, and cities at peace.\n\nThe warnings picture the opposite: failed harvests, fear, enemies, disease, wild beasts, broken cities, and people scattered into foreign lands.\n\nThis chapter is not a single event, but a long covenant horizon. From Sinai, the future land is shown in two directions: ordered abundance or desolation and scattering.",
+    "notice": [
+      "Instruction given at Mount Sinai.",
+      "Rain falling in season over future fields.",
+      "Threshing continuing until vintage.",
+      "Fruit trees producing in the land.",
+      "Cities and roads at peace.",
+      "Enemies defeated or prevailing depending on the warning sequence.",
+      "Disease and fear described among the people.",
+      "Cities becoming waste.",
+      "Land lying desolate and resting.",
+      "People scattered among enemy nations."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 25 gave instructions concerning the land Sabbath, Jubilee, property, poverty, and release."
+      },
+      {
+        "label": "Now",
+        "value": "Blessings and curses are given, including agricultural abundance, peace, danger, disease, defeat, desolation, exile, confession, and remembrance of the covenant."
+      },
+      {
+        "label": "Next",
+        "value": "Leviticus 27 gives instructions concerning vows, valuations, devoted things, and tithes."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This chapter functions as a covenant consequence section near the end of Leviticus."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It follows the land-focused instructions of Leviticus 25."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The chapter looks forward to settled life in the land and possible scattering from it."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It references the covenant with Jacob, Isaac, and Abraham near the end."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The instruction is given at Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The future land is described through rain, crops, fruit trees, cities, sanctuaries, and desolation."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Enemy lands are unnamed but represent places outside Israel's land."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Blessing imagery includes rain, harvest, threshing, vintage, bread, peace, and safety."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Curse imagery includes disease, failed harvest, siege, wild beasts, desolate cities, and exile."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The land's Sabbaths are connected to the land resting during desolation."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The chapter uses agricultural, military, urban, and exile imagery."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This gives the major blessings and curses section of Leviticus.",
+      "It connects the land instructions of Leviticus 25 with future covenant consequences.",
+      "It looks ahead to themes of exile and return that appear later in the biblical narrative.",
+      "It prepares for the closing vows and dedication instructions in Leviticus 27."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Speaks covenant blessings, warnings, and remembrance statements",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates the instructions",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Recipients of blessings, warnings, and covenant consequences",
+        "relationships": []
+      },
+      {
+        "name": "Enemies",
+        "role": "People among whom Israel may be scattered if disobedient",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Mount Sinai",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where the instructions are given"
+      },
+      {
+        "ancientName": "Land",
+        "modernRegion": "Canaan / future Israelite territory",
+        "description": "Future land affected by rain, harvest, rest, and desolation"
+      },
+      {
+        "ancientName": "Enemy lands",
+        "modernRegion": "Unspecified foreign lands",
+        "description": "Places where Israel may be scattered"
+      },
+      {
+        "ancientName": "Cities",
+        "modernRegion": "Future settled land",
+        "description": "Urban areas mentioned in blessing and curse imagery"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Enemies"
+    ],
+    "places": [
+      "Mount Sinai",
+      "Land",
+      "Enemy lands",
+      "Cities"
+    ],
+    "movement": [
+      "Instruction is given at Sinai",
+      "Blessings are described for obedience in the land",
+      "Curses are described for disobedience",
+      "The land may become desolate",
+      "The people may be scattered among nations",
+      "Confession and remembrance are described"
+    ],
+    "movementDetails": {
+      "startingPoint": "Mount Sinai",
+      "destination": "Future land and possible exile",
+      "route": [
+        "Instruction is given at Sinai",
+        "Blessings are described for obedience in the land",
+        "Curses are described for disobedience",
+        "The land may become desolate",
+        "The people may be scattered among nations",
+        "Confession and remembrance are described"
+      ],
+      "majorStops": [
+        "Mount Sinai",
+        "Land",
+        "Cities",
+        "Enemy lands"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 26 stands near the end of the book and looks ahead from Sinai into Israel's future. The chapter first describes scenes of blessing in the land: rain in season, crops in the field, fruit on the trees, bread in abundance, peace, and safety. Then the scene darkens through warnings: disease, fear, failed harvests, enemies, wild beasts, desolate cities, and scattering among the nations. The land itself becomes part of the picture, resting during desolation. This chapter gives Leviticus its major covenant consequence section before the book closes with vows and dedications.",
+    "crossReferences": [
+      "Leviticus 25:1-55",
+      "Leviticus 26:1-46",
+      "Deuteronomy 28:1-68",
+      "2 Chronicles 36:20-21"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 25:1-55"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 26:1-46"
+      ],
+      "laterReferences": [
+        "Deuteronomy 28:1-68",
+        "2 Chronicles 36:20-21"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Sinai Land Instructions",
+      "previousStory": "leviticus-24-sabbatical-and-jubilee",
+      "nextStory": "leviticus-26-vows-and-dedications"
+    },
+    "source": {
+      "id": "leviticus-25-blessings-and-curses",
+      "reference": "Leviticus 26",
+      "storyTitle": "Blessings, Curses, and Covenant Consequences",
+      "eventType": [
+        "Instruction Received",
+        "Blessing",
+        "Warning",
+        "Exile",
+        "Return"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Mount Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites"
+        ],
+        "sceneScale": "National Covenant Instruction",
+        "timeAnchor": "After Sabbatical and Jubilee instructions; before vows and dedications; before Israel enters Canaan",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Speaks covenant blessings, warnings, and remembrance statements",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates the instructions",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Recipients of blessings, warnings, and covenant consequences",
+          "relationships": []
+        },
+        {
+          "name": "Enemies",
+          "role": "People among whom Israel may be scattered if disobedient",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Mount Sinai",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where the instructions are given"
+        },
+        {
+          "ancientName": "Land",
+          "modernRegion": "Canaan / future Israelite territory",
+          "description": "Future land affected by rain, harvest, rest, and desolation"
+        },
+        {
+          "ancientName": "Enemy lands",
+          "modernRegion": "Unspecified foreign lands",
+          "description": "Places where Israel may be scattered"
+        },
+        {
+          "ancientName": "Cities",
+          "modernRegion": "Future settled land",
+          "description": "Urban areas mentioned in blessing and curse imagery"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Mount Sinai",
+        "destination": "Future land and possible exile",
+        "route": [
+          "Instruction is given at Sinai",
+          "Blessings are described for obedience in the land",
+          "Curses are described for disobedience",
+          "The land may become desolate",
+          "The people may be scattered among nations",
+          "Confession and remembrance are described"
+        ],
+        "majorStops": [
+          "Mount Sinai",
+          "Land",
+          "Cities",
+          "Enemy lands"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 25 gave instructions concerning the land Sabbath, Jubilee, property, poverty, and release.",
+        "whatIsHappeningNow": "Blessings and curses are given, including agricultural abundance, peace, danger, disease, defeat, desolation, exile, confession, and remembrance of the covenant.",
+        "whatHappensAfter": "Leviticus 27 gives instructions concerning vows, valuations, devoted things, and tithes.",
+        "storyPositionStrip": [
+          "Sabbatical and Jubilee",
+          "Blessings and Curses ← YOU ARE HERE",
+          "Vows and Dedications",
+          "Numbers Census",
+          "Israel Leaves Sinai"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This chapter functions as a covenant consequence section near the end of Leviticus.",
+          "It follows the land-focused instructions of Leviticus 25.",
+          "The chapter looks forward to settled life in the land and possible scattering from it.",
+          "It references the covenant with Jacob, Isaac, and Abraham near the end."
+        ],
+        "geographicContext": [
+          "The instruction is given at Sinai.",
+          "The future land is described through rain, crops, fruit trees, cities, sanctuaries, and desolation.",
+          "Enemy lands are unnamed but represent places outside Israel's land."
+        ],
+        "dailyLifeContext": [
+          "Blessing imagery includes rain, harvest, threshing, vintage, bread, peace, and safety.",
+          "Curse imagery includes disease, failed harvest, siege, wild beasts, desolate cities, and exile.",
+          "The land's Sabbaths are connected to the land resting during desolation.",
+          "The chapter uses agricultural, military, urban, and exile imagery."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This gives the major blessings and curses section of Leviticus.",
+        "It connects the land instructions of Leviticus 25 with future covenant consequences.",
+        "It looks ahead to themes of exile and return that appear later in the biblical narrative.",
+        "It prepares for the closing vows and dedication instructions in Leviticus 27."
+      ],
+      "stepIntoTheStory": [
+        "The scene is still Sinai, but the words paint future scenes in the land: rain in season, fields producing crops, trees bearing fruit, people eating bread in safety, and cities at peace.",
+        "The warnings picture the opposite: failed harvests, fear, enemies, disease, wild beasts, broken cities, and people scattered into foreign lands.",
+        "This chapter is not a single event, but a long covenant horizon. From Sinai, the future land is shown in two directions: ordered abundance or desolation and scattering."
+      ],
+      "documentaryObservations": [
+        "Instruction given at Mount Sinai.",
+        "Rain falling in season over future fields.",
+        "Threshing continuing until vintage.",
+        "Fruit trees producing in the land.",
+        "Cities and roads at peace.",
+        "Enemies defeated or prevailing depending on the warning sequence.",
+        "Disease and fear described among the people.",
+        "Cities becoming waste.",
+        "Land lying desolate and resting.",
+        "People scattered among enemy nations."
+      ],
+      "audioScript": "Leviticus 26 stands near the end of the book and looks ahead from Sinai into Israel's future. The chapter first describes scenes of blessing in the land: rain in season, crops in the field, fruit on the trees, bread in abundance, peace, and safety. Then the scene darkens through warnings: disease, fear, failed harvests, enemies, wild beasts, desolate cities, and scattering among the nations. The land itself becomes part of the picture, resting during desolation. This chapter gives Leviticus its major covenant consequence section before the book closes with vows and dedications.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 25:1-55"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 26:1-46"
+        ],
+        "laterReferences": [
+          "Deuteronomy 28:1-68",
+          "2 Chronicles 36:20-21"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Sinai Land Instructions",
+        "previousStory": "leviticus-24-sabbatical-and-jubilee",
+        "nextStory": "leviticus-26-vows-and-dedications"
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Israelites",
+          "enemies"
+        ],
+        "places": [
+          "Mount Sinai",
+          "land",
+          "cities",
+          "enemy lands"
+        ],
+        "events": [
+          "blessings and curses",
+          "covenant consequences",
+          "exile warning",
+          "land Sabbaths"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Leviticus 26",
+          "covenant blessings",
+          "covenant curses",
+          "warnings of exile"
+        ]
+      },
+      "realitySummary": "Leviticus 26 gives blessings and curses connected to Israel's future life in the land, including agricultural abundance, peace, judgment, desolation, exile, confession, and covenant remembrance."
+    }
+  },
+  {
+    "id": "leviticus-26-vows-and-dedications",
+    "sourceFile": "leviticus-26-vows-and-dedications.json",
+    "searchTerms": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Priest",
+      "Mount Sinai",
+      "Israelite camp",
+      "House",
+      "Field",
+      "priest",
+      "house",
+      "field",
+      "vows",
+      "valuations",
+      "dedications",
+      "devoted things",
+      "tithes",
+      "sanctuary shekel",
+      "Wilderness",
+      "Sinai",
+      "Leviticus 27",
+      "vow valuation",
+      "dedicated things",
+      "tithe laws",
+      "Instruction Received",
+      "Vow",
+      "Dedication",
+      "Valuation",
+      "Instructions for Vows, Valuations, Devoted Things, and Tithes",
+      "Leviticus 27 closes the book with instructions about vows, valuations, dedicated persons or property, devoted things, firstborn animals, and tithes."
+    ],
+    "title": "Instructions for Vows, Valuations, Devoted Things, and Tithes",
+    "reference": "Leviticus 27",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction Received",
+      "Vow",
+      "Dedication",
+      "Valuation"
+    ],
+    "summary": "Leviticus 27 closes the book with instructions about vows, valuations, dedicated persons or property, devoted things, firstborn animals, and tithes.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Moses"
+      },
+      {
+        "label": "Location",
+        "value": "Mount Sinai"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Sinai Peninsula region; exact Mount Sinai location debated"
+      },
+      {
+        "label": "Timeline",
+        "value": "Wilderness"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Dedication Instruction"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After blessings and curses; final chapter of Leviticus; before Numbers census; before Israel leaves Sinai"
+      }
+    ],
+    "situation": "The chapter includes persons, animals, houses, fields, firstborn animals, devoted things, and tithes.",
+    "storyPosition": [
+      "Appointed Times",
+      "Sabbatical and Jubilee",
+      "Blessings and Curses",
+      "Vows and Dedications",
+      "Numbers Census",
+      "Camp Arrangement",
+      "Israel Leaves Sinai"
+    ],
+    "currentStory": "Vows and Dedications",
+    "stepIntoStory": "The final chapter does not narrate a journey or battle. It pictures ordinary Israelites making vows or dedicating something valuable: a person, animal, house, field, or tithe.\n\nA priest may be called to value what is dedicated. The scene includes household property, livestock, future fields, and sanctuary weights of silver.\n\nLeviticus closes at Sinai with instructions that reach from the wilderness camp into future agricultural and household life in the land.",
+    "notice": [
+      "Instruction given at Mount Sinai.",
+      "People making special vows.",
+      "Priests assigning valuations.",
+      "Silver measured by the sanctuary shekel.",
+      "Animals inspected as dedicated offerings.",
+      "Houses valued for dedication.",
+      "Fields valued by seed and years until Jubilee.",
+      "Firstborn animals distinguished from other dedications.",
+      "Tithes from seed, fruit, herd, and flock.",
+      "Leviticus ending before the Numbers census begins."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Leviticus 26 gave blessings and curses connected to Israel's covenant future in the land."
+      },
+      {
+        "label": "Now",
+        "value": "Instructions are given concerning special vows, valuations of persons, animals, houses, fields, devoted things, firstborn animals, and tithes."
+      },
+      {
+        "label": "Next",
+        "value": "Numbers begins with a census of Israel in the wilderness of Sinai."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the final chapter of Leviticus."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It follows the covenant blessings and curses section."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The chapter gives valuation rules connected to vows and dedications."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Numbers continues from Sinai with census and camp organization."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The instruction setting is Mount Sinai."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Some cases assume current camp life, while houses and fields anticipate settled life in the land."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The priest's valuation role connects property and vows to sanctuary order."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The chapter includes persons, animals, houses, fields, firstborn animals, devoted things, and tithes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Valuations use shekels of silver according to the sanctuary shekel."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Age, sex, property type, harvest value, and redemption rules affect valuation."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Agricultural tithes include seed of the land, fruit of trees, herd, and flock."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This closes Leviticus with practical rules for vows and dedicated property.",
+      "It connects personal dedication, property, animals, fields, and tithes to priestly valuation.",
+      "It anticipates both current camp life and future settled life in the land.",
+      "It forms the final instruction block before Numbers begins with census organization."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Yahweh",
+        "role": "Gives final instructions to Moses",
+        "relationships": []
+      },
+      {
+        "name": "Moses",
+        "role": "Receives and communicates vow and valuation instructions",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "People who may make vows or dedicate people, animals, houses, fields, or tithes",
+        "relationships": []
+      },
+      {
+        "name": "Priest",
+        "role": "Makes valuations in certain dedication cases",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Mount Sinai",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Place where the instructions are given"
+      },
+      {
+        "ancientName": "Israelite camp",
+        "modernRegion": "Sinai wilderness region",
+        "description": "Current community setting for vow and dedication instructions"
+      },
+      {
+        "ancientName": "House",
+        "modernRegion": "Future settlement setting",
+        "description": "Property that may be dedicated and valued"
+      },
+      {
+        "ancientName": "Field",
+        "modernRegion": "Future land setting",
+        "description": "Agricultural property that may be dedicated and valued"
+      }
+    ],
+    "people": [
+      "Yahweh",
+      "Moses",
+      "Israelites",
+      "Priest"
+    ],
+    "places": [
+      "Mount Sinai",
+      "Israelite camp",
+      "House",
+      "Field"
+    ],
+    "movement": [
+      "A person makes a special vow or dedication",
+      "Persons, animals, houses, fields, devoted things, or tithes are considered",
+      "Priestly valuation is made where required",
+      "Redemption rules apply in specific cases"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israelite household or property setting",
+      "destination": "Priestly valuation / sanctuary dedication",
+      "route": [
+        "A person makes a special vow or dedication",
+        "Persons, animals, houses, fields, devoted things, or tithes are considered",
+        "Priestly valuation is made where required",
+        "Redemption rules apply in specific cases"
+      ],
+      "majorStops": [
+        "Household",
+        "Priest",
+        "House",
+        "Field",
+        "Sanctuary-related valuation"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Leviticus 27 closes the book with instructions about vows, valuations, dedicated things, and tithes. The setting is still Mount Sinai, but the chapter reaches into household property, animals, fields, houses, and future agricultural life. A person may make a special vow or dedicate something, and the priest may assign a value according to the sanctuary shekel. Animals, houses, fields, firstborn animals, devoted things, and tithes are all addressed. Leviticus ends not with a journey, but with final instructions at Sinai before Numbers opens with the census of Israel.",
+    "crossReferences": [
+      "Leviticus 26:1-46",
+      "Leviticus 27:1-34",
+      "Numbers 1:1-54",
+      "Numbers 18:21-32"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 26:1-46"
+      ],
+      "directlyRelatedEvents": [
+        "Leviticus 27:1-34"
+      ],
+      "laterReferences": [
+        "Numbers 1:1-54",
+        "Numbers 18:21-32"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Moses",
+      "arc": "Sinai Land Instructions",
+      "previousStory": "leviticus-25-blessings-and-curses",
+      "nextStory": null
+    },
+    "source": {
+      "id": "leviticus-26-vows-and-dedications",
+      "reference": "Leviticus 27",
+      "storyTitle": "Instructions for Vows, Valuations, Devoted Things, and Tithes",
+      "eventType": [
+        "Instruction Received",
+        "Vow",
+        "Dedication",
+        "Valuation"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Moses",
+        "approximateAge": null,
+        "currentLocation": "Mount Sinai",
+        "modernRegion": "Sinai Peninsula region; exact Mount Sinai location debated",
+        "timelineEra": "Wilderness",
+        "keyCompanions": [
+          "Israelites",
+          "priests"
+        ],
+        "sceneScale": "National Dedication Instruction",
+        "timeAnchor": "After blessings and curses; final chapter of Leviticus; before Numbers census; before Israel leaves Sinai",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Yahweh",
+          "role": "Gives final instructions to Moses",
+          "relationships": []
+        },
+        {
+          "name": "Moses",
+          "role": "Receives and communicates vow and valuation instructions",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "People who may make vows or dedicate people, animals, houses, fields, or tithes",
+          "relationships": []
+        },
+        {
+          "name": "Priest",
+          "role": "Makes valuations in certain dedication cases",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Mount Sinai",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Place where the instructions are given"
+        },
+        {
+          "ancientName": "Israelite camp",
+          "modernRegion": "Sinai wilderness region",
+          "description": "Current community setting for vow and dedication instructions"
+        },
+        {
+          "ancientName": "House",
+          "modernRegion": "Future settlement setting",
+          "description": "Property that may be dedicated and valued"
+        },
+        {
+          "ancientName": "Field",
+          "modernRegion": "Future land setting",
+          "description": "Agricultural property that may be dedicated and valued"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israelite household or property setting",
+        "destination": "Priestly valuation / sanctuary dedication",
+        "route": [
+          "A person makes a special vow or dedication",
+          "Persons, animals, houses, fields, devoted things, or tithes are considered",
+          "Priestly valuation is made where required",
+          "Redemption rules apply in specific cases"
+        ],
+        "majorStops": [
+          "Household",
+          "Priest",
+          "House",
+          "Field",
+          "Sanctuary-related valuation"
+        ]
+      },
+      "timelineEra": "Wilderness",
+      "storyPosition": {
+        "whatHappenedBefore": "Leviticus 26 gave blessings and curses connected to Israel's covenant future in the land.",
+        "whatIsHappeningNow": "Instructions are given concerning special vows, valuations of persons, animals, houses, fields, devoted things, firstborn animals, and tithes.",
+        "whatHappensAfter": "Numbers begins with a census of Israel in the wilderness of Sinai.",
+        "storyPositionStrip": [
+          "Appointed Times",
+          "Sabbatical and Jubilee",
+          "Blessings and Curses",
+          "Vows and Dedications ← YOU ARE HERE",
+          "Numbers Census",
+          "Camp Arrangement",
+          "Israel Leaves Sinai"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "This is the final chapter of Leviticus.",
+          "It follows the covenant blessings and curses section.",
+          "The chapter gives valuation rules connected to vows and dedications.",
+          "Numbers continues from Sinai with census and camp organization."
+        ],
+        "geographicContext": [
+          "The instruction setting is Mount Sinai.",
+          "Some cases assume current camp life, while houses and fields anticipate settled life in the land.",
+          "The priest's valuation role connects property and vows to sanctuary order."
+        ],
+        "dailyLifeContext": [
+          "The chapter includes persons, animals, houses, fields, firstborn animals, devoted things, and tithes.",
+          "Valuations use shekels of silver according to the sanctuary shekel.",
+          "Age, sex, property type, harvest value, and redemption rules affect valuation.",
+          "Agricultural tithes include seed of the land, fruit of trees, herd, and flock."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This closes Leviticus with practical rules for vows and dedicated property.",
+        "It connects personal dedication, property, animals, fields, and tithes to priestly valuation.",
+        "It anticipates both current camp life and future settled life in the land.",
+        "It forms the final instruction block before Numbers begins with census organization."
+      ],
+      "stepIntoTheStory": [
+        "The final chapter does not narrate a journey or battle. It pictures ordinary Israelites making vows or dedicating something valuable: a person, animal, house, field, or tithe.",
+        "A priest may be called to value what is dedicated. The scene includes household property, livestock, future fields, and sanctuary weights of silver.",
+        "Leviticus closes at Sinai with instructions that reach from the wilderness camp into future agricultural and household life in the land."
+      ],
+      "documentaryObservations": [
+        "Instruction given at Mount Sinai.",
+        "People making special vows.",
+        "Priests assigning valuations.",
+        "Silver measured by the sanctuary shekel.",
+        "Animals inspected as dedicated offerings.",
+        "Houses valued for dedication.",
+        "Fields valued by seed and years until Jubilee.",
+        "Firstborn animals distinguished from other dedications.",
+        "Tithes from seed, fruit, herd, and flock.",
+        "Leviticus ending before the Numbers census begins."
+      ],
+      "audioScript": "Leviticus 27 closes the book with instructions about vows, valuations, dedicated things, and tithes. The setting is still Mount Sinai, but the chapter reaches into household property, animals, fields, houses, and future agricultural life. A person may make a special vow or dedicate something, and the priest may assign a value according to the sanctuary shekel. Animals, houses, fields, firstborn animals, devoted things, and tithes are all addressed. Leviticus ends not with a journey, but with final instructions at Sinai before Numbers opens with the census of Israel.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 26:1-46"
+        ],
+        "directlyRelatedEvents": [
+          "Leviticus 27:1-34"
+        ],
+        "laterReferences": [
+          "Numbers 1:1-54",
+          "Numbers 18:21-32"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Moses",
+        "arc": "Sinai Land Instructions",
+        "previousStory": "leviticus-25-blessings-and-curses",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Yahweh",
+          "Moses",
+          "Israelites",
+          "priest"
+        ],
+        "places": [
+          "Mount Sinai",
+          "Israelite camp",
+          "house",
+          "field"
+        ],
+        "events": [
+          "vows",
+          "valuations",
+          "dedications",
+          "devoted things",
+          "tithes",
+          "sanctuary shekel"
+        ],
+        "timelineEra": [
+          "Wilderness",
+          "Sinai"
+        ],
+        "alternateNames": [
+          "Leviticus 27",
+          "vow valuation",
+          "dedicated things",
+          "tithe laws"
+        ]
+      },
+      "realitySummary": "Leviticus 27 closes the book with instructions about vows, valuations, dedicated persons or property, devoted things, firstborn animals, and tithes."
+    }
   }
 ]
