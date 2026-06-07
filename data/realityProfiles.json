@@ -92881,7 +92881,7 @@
       "character": "David",
       "arc": "Samuel, Saul, and David",
       "previousStory": "1samuel-19-david-saves-keilah",
-      "nextStory": null
+      "nextStory": "1samuel-21-samuel-dies-and-abigail"
     },
     "source": {
       "id": "1samuel-20-david-spares-saul-cave",
@@ -93067,6 +93067,1379 @@
         ]
       },
       "realitySummary": "David Spares Saul in the Cave at En-gedi. David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him."
+    }
+  },
+  {
+    "id": "1samuel-21-samuel-dies-and-abigail",
+    "sourceFile": "1samuel-21-samuel-dies-and-abigail.json",
+    "searchTerms": [
+      "David and Abigail",
+      "Samuel",
+      "Nabal",
+      "Abigail",
+      "Ramah, Paran, Carmel, and Maon",
+      "Ramah",
+      "Carmel in Judah",
+      "Maon",
+      "Samuel Dies, Nabal Refuses David, and Abigail Intervenes",
+      "1 Samuel 25",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Death",
+      "Household Conflict",
+      "Intervention",
+      "United Kingdom Formation",
+      "Samuel Dies, Nabal Refuses David, and Abigail Intervenes. Samuel dies; David requests provisions from Nabal, Abigail intercepts David with food, and Nabal dies later."
+    ],
+    "title": "Samuel Dies, Nabal Refuses David, and Abigail Intervenes",
+    "reference": "1 Samuel 25",
+    "kicker": "Study",
+    "eventType": [
+      "Death",
+      "Household Conflict",
+      "Intervention"
+    ],
+    "summary": "Samuel Dies, Nabal Refuses David, and Abigail Intervenes. Samuel dies; David requests provisions from Nabal, Abigail intercepts David with food, and Nabal dies later.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "David and Abigail"
+      },
+      {
+        "label": "Location",
+        "value": "Ramah, Paran, Carmel, and Maon"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Judah / southern hill country region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "Samuel Dies, Nabal Refuses David, and Abigail Intervenes",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "Samuel Dies, Nabal Refuses David, and Abigail Intervenes",
+    "stepIntoStory": "The scene centers on Ramah, Paran, Carmel, and Maon. Samuel dies; David requests provisions from Nabal, Abigail intercepts David with food, and Nabal dies later.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Samuel buried at Ramah",
+      "Sheep shearing at Carmel",
+      "Nabal's large flocks named",
+      "David's men protecting shepherds",
+      "Nabal refusing messengers",
+      "Abigail loading donkeys with bread, wine, sheep, grain, raisins, figs",
+      "Abigail meeting David in a ravine or hidden part of mountain",
+      "Nabal feasting like a king"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "David had spared Saul in the cave at En-gedi."
+      },
+      {
+        "label": "Now",
+        "value": "Samuel dies; David requests provisions from Nabal, Abigail intercepts David with food, and Nabal dies later."
+      },
+      {
+        "label": "Next",
+        "value": "David again spares Saul, this time near the hill of Hachilah."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Ramah, Paran, Carmel, and Maon."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "David and Abigail",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Samuel",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Nabal",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Abigail",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Ramah, Paran, Carmel, and Maon",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Ramah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Samuel's burial place"
+      },
+      {
+        "ancientName": "Carmel in Judah",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Nabal's sheep-shearing setting"
+      },
+      {
+        "ancientName": "Maon",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Nabal's home region"
+      }
+    ],
+    "people": [
+      "David and Abigail",
+      "Samuel",
+      "Nabal",
+      "Abigail"
+    ],
+    "places": [
+      "Ramah, Paran, Carmel, and Maon",
+      "Ramah",
+      "Carmel in Judah",
+      "Maon"
+    ],
+    "movement": [
+      "Samuel dies; David requests provisions from Nabal, Abigail intercepts David with food, and Nabal dies later.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Ramah, Paran, Carmel, and Maon",
+      "destination": "Ramah, Paran, Carmel, and Maon",
+      "route": [
+        "Samuel dies; David requests provisions from Nabal, Abigail intercepts David with food, and Nabal dies later.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Ramah, Paran, Carmel, and Maon",
+        "Ramah",
+        "Carmel in Judah",
+        "Maon"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 25 focuses on Samuel Dies, Nabal Refuses David, and Abigail Intervenes. Samuel dies; David requests provisions from Nabal, Abigail intercepts David with food, and Nabal dies later. The scene is grounded in Ramah, Paran, Carmel, and Maon, with Samuel, Nabal, Abigail directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-20-david-spares-saul-cave",
+      "1 Samuel 25",
+      "1samuel-22-david-spares-saul-hachilah"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-20-david-spares-saul-cave"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 25"
+      ],
+      "laterReferences": [
+        "1samuel-22-david-spares-saul-hachilah"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "David and Abigail",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-20-david-spares-saul-cave",
+      "nextStory": "1samuel-22-david-spares-saul-hachilah"
+    },
+    "source": {
+      "id": "1samuel-21-samuel-dies-and-abigail",
+      "reference": "1 Samuel 25",
+      "storyTitle": "Samuel Dies, Nabal Refuses David, and Abigail Intervenes",
+      "eventType": [
+        "Death",
+        "Household Conflict",
+        "Intervention"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "David and Abigail",
+        "approximateAge": null,
+        "currentLocation": "Ramah, Paran, Carmel, and Maon",
+        "modernRegion": "Judah / southern hill country region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Samuel",
+          "Nabal",
+          "Abigail"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "David and Abigail",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Samuel",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Nabal",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Abigail",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Ramah, Paran, Carmel, and Maon",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Ramah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Samuel's burial place"
+        },
+        {
+          "ancientName": "Carmel in Judah",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Nabal's sheep-shearing setting"
+        },
+        {
+          "ancientName": "Maon",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Nabal's home region"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Ramah, Paran, Carmel, and Maon",
+        "destination": "Ramah, Paran, Carmel, and Maon",
+        "route": [
+          "Samuel dies; David requests provisions from Nabal, Abigail intercepts David with food, and Nabal dies later.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Ramah, Paran, Carmel, and Maon",
+          "Ramah",
+          "Carmel in Judah",
+          "Maon"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "David had spared Saul in the cave at En-gedi.",
+        "whatIsHappeningNow": "Samuel dies; David requests provisions from Nabal, Abigail intercepts David with food, and Nabal dies later.",
+        "whatHappensAfter": "David again spares Saul, this time near the hill of Hachilah.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "Samuel Dies, Nabal Refuses David, and Abigail Intervenes ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Ramah, Paran, Carmel, and Maon.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Ramah, Paran, Carmel, and Maon. Samuel dies; David requests provisions from Nabal, Abigail intercepts David with food, and Nabal dies later.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Samuel buried at Ramah",
+        "Sheep shearing at Carmel",
+        "Nabal's large flocks named",
+        "David's men protecting shepherds",
+        "Nabal refusing messengers",
+        "Abigail loading donkeys with bread, wine, sheep, grain, raisins, figs",
+        "Abigail meeting David in a ravine or hidden part of mountain",
+        "Nabal feasting like a king"
+      ],
+      "audioScript": "1 Samuel 25 focuses on Samuel Dies, Nabal Refuses David, and Abigail Intervenes. Samuel dies; David requests provisions from Nabal, Abigail intercepts David with food, and Nabal dies later. The scene is grounded in Ramah, Paran, Carmel, and Maon, with Samuel, Nabal, Abigail directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-20-david-spares-saul-cave"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 25"
+        ],
+        "laterReferences": [
+          "1samuel-22-david-spares-saul-hachilah"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "David and Abigail",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-20-david-spares-saul-cave",
+        "nextStory": "1samuel-22-david-spares-saul-hachilah"
+      },
+      "search": {
+        "people": [
+          "David and Abigail",
+          "Samuel",
+          "Nabal",
+          "Abigail"
+        ],
+        "places": [
+          "Ramah, Paran, Carmel, and Maon",
+          "Ramah",
+          "Carmel in Judah",
+          "Maon"
+        ],
+        "events": [
+          "Samuel Dies, Nabal Refuses David, and Abigail Intervenes",
+          "1 Samuel 25",
+          "Samuel",
+          "Nabal",
+          "Abigail"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "Samuel Dies, Nabal Refuses David, and Abigail Intervenes",
+          "1 Samuel 25"
+        ]
+      },
+      "realitySummary": "Samuel Dies, Nabal Refuses David, and Abigail Intervenes. Samuel dies; David requests provisions from Nabal, Abigail intercepts David with food, and Nabal dies later."
+    }
+  },
+  {
+    "id": "1samuel-22-david-spares-saul-hachilah",
+    "sourceFile": "1samuel-22-david-spares-saul-hachilah.json",
+    "searchTerms": [
+      "David",
+      "Saul",
+      "Abishai",
+      "Abner",
+      "Hill of Hachilah and wilderness of Ziph",
+      "Hill of Hachilah",
+      "Wilderness of Ziph",
+      "David Spares Saul at Hachilah",
+      "1 Samuel 26",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Flight",
+      "Night Raid",
+      "Sparing Life",
+      "United Kingdom Formation",
+      "David Spares Saul at Hachilah. David enters Saul's camp at night and takes Saul's spear and water jar but does not kill him."
+    ],
+    "title": "David Spares Saul at Hachilah",
+    "reference": "1 Samuel 26",
+    "kicker": "Study",
+    "eventType": [
+      "Flight",
+      "Night Raid",
+      "Sparing Life"
+    ],
+    "summary": "David Spares Saul at Hachilah. David enters Saul's camp at night and takes Saul's spear and water jar but does not kill him.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "David"
+      },
+      {
+        "label": "Location",
+        "value": "Hill of Hachilah and wilderness of Ziph"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Judah / southern hill country region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "David Spares Saul at Hachilah",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "David Spares Saul at Hachilah",
+    "stepIntoStory": "The scene centers on Hill of Hachilah and wilderness of Ziph. David enters Saul's camp at night and takes Saul's spear and water jar but does not kill him.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Saul's camp on the hill of Hachilah",
+      "Three thousand chosen men with Saul",
+      "David and Abishai entering at night",
+      "Saul sleeping inside the camp circle",
+      "Spear stuck in ground by Saul's head",
+      "Water jar taken",
+      "David calling from a distant hill",
+      "Abner challenged as guard"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Samuel died, and Abigail intervened between David and Nabal."
+      },
+      {
+        "label": "Now",
+        "value": "David enters Saul's camp at night and takes Saul's spear and water jar but does not kill him."
+      },
+      {
+        "label": "Next",
+        "value": "David goes to Philistine territory and lives at Ziklag."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Hill of Hachilah and wilderness of Ziph."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "David",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Saul",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Abishai",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Abner",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Hill of Hachilah and wilderness of Ziph",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Hill of Hachilah",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Place where Saul camps"
+      },
+      {
+        "ancientName": "Wilderness of Ziph",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Region where David is pursued"
+      }
+    ],
+    "people": [
+      "David",
+      "Saul",
+      "Abishai",
+      "Abner"
+    ],
+    "places": [
+      "Hill of Hachilah and wilderness of Ziph",
+      "Hill of Hachilah",
+      "Wilderness of Ziph"
+    ],
+    "movement": [
+      "David enters Saul's camp at night and takes Saul's spear and water jar but does not kill him.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Hill of Hachilah and wilderness of Ziph",
+      "destination": "Hill of Hachilah and wilderness of Ziph",
+      "route": [
+        "David enters Saul's camp at night and takes Saul's spear and water jar but does not kill him.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Hill of Hachilah and wilderness of Ziph",
+        "Hill of Hachilah",
+        "Wilderness of Ziph"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 26 focuses on David Spares Saul at Hachilah. David enters Saul's camp at night and takes Saul's spear and water jar but does not kill him. The scene is grounded in Hill of Hachilah and wilderness of Ziph, with Saul, Abishai, Abner directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-21-samuel-dies-and-abigail",
+      "1 Samuel 26",
+      "1samuel-23-david-among-philistines"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-21-samuel-dies-and-abigail"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 26"
+      ],
+      "laterReferences": [
+        "1samuel-23-david-among-philistines"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "David",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-21-samuel-dies-and-abigail",
+      "nextStory": "1samuel-23-david-among-philistines"
+    },
+    "source": {
+      "id": "1samuel-22-david-spares-saul-hachilah",
+      "reference": "1 Samuel 26",
+      "storyTitle": "David Spares Saul at Hachilah",
+      "eventType": [
+        "Flight",
+        "Night Raid",
+        "Sparing Life"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "David",
+        "approximateAge": null,
+        "currentLocation": "Hill of Hachilah and wilderness of Ziph",
+        "modernRegion": "Judah / southern hill country region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Saul",
+          "Abishai",
+          "Abner"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "David",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Saul",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Abishai",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Abner",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Hill of Hachilah and wilderness of Ziph",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Hill of Hachilah",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Place where Saul camps"
+        },
+        {
+          "ancientName": "Wilderness of Ziph",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Region where David is pursued"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Hill of Hachilah and wilderness of Ziph",
+        "destination": "Hill of Hachilah and wilderness of Ziph",
+        "route": [
+          "David enters Saul's camp at night and takes Saul's spear and water jar but does not kill him.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Hill of Hachilah and wilderness of Ziph",
+          "Hill of Hachilah",
+          "Wilderness of Ziph"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "Samuel died, and Abigail intervened between David and Nabal.",
+        "whatIsHappeningNow": "David enters Saul's camp at night and takes Saul's spear and water jar but does not kill him.",
+        "whatHappensAfter": "David goes to Philistine territory and lives at Ziklag.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "David Spares Saul at Hachilah ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Hill of Hachilah and wilderness of Ziph.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Hill of Hachilah and wilderness of Ziph. David enters Saul's camp at night and takes Saul's spear and water jar but does not kill him.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Saul's camp on the hill of Hachilah",
+        "Three thousand chosen men with Saul",
+        "David and Abishai entering at night",
+        "Saul sleeping inside the camp circle",
+        "Spear stuck in ground by Saul's head",
+        "Water jar taken",
+        "David calling from a distant hill",
+        "Abner challenged as guard"
+      ],
+      "audioScript": "1 Samuel 26 focuses on David Spares Saul at Hachilah. David enters Saul's camp at night and takes Saul's spear and water jar but does not kill him. The scene is grounded in Hill of Hachilah and wilderness of Ziph, with Saul, Abishai, Abner directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-21-samuel-dies-and-abigail"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 26"
+        ],
+        "laterReferences": [
+          "1samuel-23-david-among-philistines"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "David",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-21-samuel-dies-and-abigail",
+        "nextStory": "1samuel-23-david-among-philistines"
+      },
+      "search": {
+        "people": [
+          "David",
+          "Saul",
+          "Abishai",
+          "Abner"
+        ],
+        "places": [
+          "Hill of Hachilah and wilderness of Ziph",
+          "Hill of Hachilah",
+          "Wilderness of Ziph"
+        ],
+        "events": [
+          "David Spares Saul at Hachilah",
+          "1 Samuel 26",
+          "Saul",
+          "Abishai",
+          "Abner"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "David Spares Saul at Hachilah",
+          "1 Samuel 26"
+        ]
+      },
+      "realitySummary": "David Spares Saul at Hachilah. David enters Saul's camp at night and takes Saul's spear and water jar but does not kill him."
+    }
+  },
+  {
+    "id": "1samuel-23-david-among-philistines",
+    "sourceFile": "1samuel-23-david-among-philistines.json",
+    "searchTerms": [
+      "David",
+      "Achish",
+      "David's men",
+      "David's wives",
+      "Gath and Ziklag",
+      "Gath",
+      "Ziklag",
+      "David Lives Among the Philistines at Ziklag",
+      "1 Samuel 27",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Flight",
+      "Settlement",
+      "Raids",
+      "United Kingdom Formation",
+      "David Lives Among the Philistines at Ziklag. David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah."
+    ],
+    "title": "David Lives Among the Philistines at Ziklag",
+    "reference": "1 Samuel 27",
+    "kicker": "Study",
+    "eventType": [
+      "Flight",
+      "Settlement",
+      "Raids"
+    ],
+    "summary": "David Lives Among the Philistines at Ziklag. David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "David"
+      },
+      {
+        "label": "Location",
+        "value": "Gath and Ziklag"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Coastal plain / Philistine region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "David Lives Among the Philistines at Ziklag",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "David Lives Among the Philistines at Ziklag",
+    "stepIntoStory": "The scene centers on Gath and Ziklag. David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "David bringing six hundred men to Achish",
+      "Families and households moving with David",
+      "Ziklag given to David",
+      "Raids against Geshurites, Girzites, and Amalekites",
+      "No survivors left in raids according to text",
+      "David reporting misleading targets to Achish"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "David spared Saul again at Hachilah but continued to be hunted."
+      },
+      {
+        "label": "Now",
+        "value": "David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah."
+      },
+      {
+        "label": "Next",
+        "value": "Saul faces Philistines and consults the medium at En-dor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Gath and Ziklag."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "David",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Achish",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "David's men",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "David's wives",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Gath and Ziklag",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Gath",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Philistine city ruled by Achish"
+      },
+      {
+        "ancientName": "Ziklag",
+        "modernRegion": "Southern Judah / Negev region",
+        "description": "Town given to David by Achish"
+      }
+    ],
+    "people": [
+      "David",
+      "Achish",
+      "David's men",
+      "David's wives"
+    ],
+    "places": [
+      "Gath and Ziklag",
+      "Gath",
+      "Ziklag"
+    ],
+    "movement": [
+      "David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Gath and Ziklag",
+      "destination": "Gath and Ziklag",
+      "route": [
+        "David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Gath and Ziklag",
+        "Gath",
+        "Ziklag"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 27 focuses on David Lives Among the Philistines at Ziklag. David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah. The scene is grounded in Gath and Ziklag, with Achish, David's men, David's wives directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-22-david-spares-saul-hachilah",
+      "1 Samuel 27",
+      "1samuel-24-saul-medium-endor"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-22-david-spares-saul-hachilah"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 27"
+      ],
+      "laterReferences": [
+        "1samuel-24-saul-medium-endor"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "David",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-22-david-spares-saul-hachilah",
+      "nextStory": null
+    },
+    "source": {
+      "id": "1samuel-23-david-among-philistines",
+      "reference": "1 Samuel 27",
+      "storyTitle": "David Lives Among the Philistines at Ziklag",
+      "eventType": [
+        "Flight",
+        "Settlement",
+        "Raids"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "David",
+        "approximateAge": null,
+        "currentLocation": "Gath and Ziklag",
+        "modernRegion": "Coastal plain / Philistine region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Achish",
+          "David's men",
+          "David's wives"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "David",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Achish",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "David's men",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "David's wives",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Gath and Ziklag",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Gath",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Philistine city ruled by Achish"
+        },
+        {
+          "ancientName": "Ziklag",
+          "modernRegion": "Southern Judah / Negev region",
+          "description": "Town given to David by Achish"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Gath and Ziklag",
+        "destination": "Gath and Ziklag",
+        "route": [
+          "David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Gath and Ziklag",
+          "Gath",
+          "Ziklag"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "David spared Saul again at Hachilah but continued to be hunted.",
+        "whatIsHappeningNow": "David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah.",
+        "whatHappensAfter": "Saul faces Philistines and consults the medium at En-dor.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "David Lives Among the Philistines at Ziklag ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Gath and Ziklag.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Gath and Ziklag. David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "David bringing six hundred men to Achish",
+        "Families and households moving with David",
+        "Ziklag given to David",
+        "Raids against Geshurites, Girzites, and Amalekites",
+        "No survivors left in raids according to text",
+        "David reporting misleading targets to Achish"
+      ],
+      "audioScript": "1 Samuel 27 focuses on David Lives Among the Philistines at Ziklag. David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah. The scene is grounded in Gath and Ziklag, with Achish, David's men, David's wives directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-22-david-spares-saul-hachilah"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 27"
+        ],
+        "laterReferences": [
+          "1samuel-24-saul-medium-endor"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "David",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-22-david-spares-saul-hachilah",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "David",
+          "Achish",
+          "David's men",
+          "David's wives"
+        ],
+        "places": [
+          "Gath and Ziklag",
+          "Gath",
+          "Ziklag"
+        ],
+        "events": [
+          "David Lives Among the Philistines at Ziklag",
+          "1 Samuel 27",
+          "Achish",
+          "David's men",
+          "David's wives"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "David Lives Among the Philistines at Ziklag",
+          "1 Samuel 27"
+        ]
+      },
+      "realitySummary": "David Lives Among the Philistines at Ziklag. David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah."
     }
   }
 ]
