@@ -88271,7 +88271,7 @@
       "character": "Samuel",
       "arc": "Samuel, Saul, and David",
       "previousStory": "1samuel-09-saul-rescues-jabesh",
-      "nextStory": null
+      "nextStory": "1samuel-11-saul-at-gilgal"
     },
     "source": {
       "id": "1samuel-10-samuel-farewell",
@@ -88449,6 +88449,1413 @@
         ]
       },
       "realitySummary": "Samuel's Farewell Address. Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship."
+    }
+  },
+  {
+    "id": "1samuel-11-saul-at-gilgal",
+    "sourceFile": "1samuel-11-saul-at-gilgal.json",
+    "searchTerms": [
+      "Saul",
+      "Jonathan",
+      "Philistines",
+      "Samuel",
+      "Gilgal and Michmash",
+      "Gilgal",
+      "Michmash",
+      "Geba/Gibeah",
+      "Saul at Gilgal and the Philistine Crisis",
+      "1 Samuel 13",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Military Crisis",
+      "Royal Failure",
+      "Prophetic Rebuke",
+      "United Kingdom Formation",
+      "Saul at Gilgal and the Philistine Crisis. Saul faces Philistine pressure, offers at Gilgal before Samuel arrives, and the narrative marks a turning point in his kingship."
+    ],
+    "title": "Saul at Gilgal and the Philistine Crisis",
+    "reference": "1 Samuel 13",
+    "kicker": "Study",
+    "eventType": [
+      "Military Crisis",
+      "Royal Failure",
+      "Prophetic Rebuke"
+    ],
+    "summary": "Saul at Gilgal and the Philistine Crisis. Saul faces Philistine pressure, offers at Gilgal before Samuel arrives, and the narrative marks a turning point in his kingship.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Saul"
+      },
+      {
+        "label": "Location",
+        "value": "Gilgal and Michmash"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Central hill country / Israel-West Bank region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "Saul at Gilgal and the Philistine Crisis",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "Saul at Gilgal and the Philistine Crisis",
+    "stepIntoStory": "The scene centers on Gilgal and Michmash. Saul faces Philistine pressure, offers at Gilgal before Samuel arrives, and the narrative marks a turning point in his kingship.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Philistine garrison at Geba struck by Jonathan",
+      "Philistine forces at Michmash",
+      "Israelites hiding in caves, holes, rocks, tombs, and cisterns",
+      "Saul waiting seven days at Gilgal",
+      "Burnt offering made before Samuel arrives",
+      "Israelite weapon shortage noted",
+      "Philistine raiders going out in companies"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Samuel gave his farewell address after Saul's confirmation."
+      },
+      {
+        "label": "Now",
+        "value": "Saul faces Philistine pressure, offers at Gilgal before Samuel arrives, and the narrative marks a turning point in his kingship."
+      },
+      {
+        "label": "Next",
+        "value": "Jonathan attacks a Philistine outpost and panic spreads in the next battle scene."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Gilgal and Michmash."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Saul",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Jonathan",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Philistines",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Samuel",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Gilgal and Michmash",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Saul's waiting place"
+      },
+      {
+        "ancientName": "Michmash",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Philistine concentration point"
+      },
+      {
+        "ancientName": "Geba/Gibeah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Area connected to Jonathan and Saul"
+      }
+    ],
+    "people": [
+      "Saul",
+      "Jonathan",
+      "Philistines",
+      "Samuel"
+    ],
+    "places": [
+      "Gilgal and Michmash",
+      "Gilgal",
+      "Michmash",
+      "Geba/Gibeah"
+    ],
+    "movement": [
+      "Saul faces Philistine pressure, offers at Gilgal before Samuel arrives, and the narrative marks a turning point in his kingship.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Gilgal and Michmash",
+      "destination": "Gilgal and Michmash",
+      "route": [
+        "Saul faces Philistine pressure, offers at Gilgal before Samuel arrives, and the narrative marks a turning point in his kingship.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Gilgal and Michmash",
+        "Gilgal",
+        "Michmash",
+        "Geba/Gibeah"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 13 focuses on Saul at Gilgal and the Philistine Crisis. Saul faces Philistine pressure, offers at Gilgal before Samuel arrives, and the narrative marks a turning point in his kingship. The scene is grounded in Gilgal and Michmash, with Jonathan, Philistines, Samuel directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-10-samuel-farewell",
+      "1 Samuel 13",
+      "1samuel-12-jonathan-michmash"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-10-samuel-farewell"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 13"
+      ],
+      "laterReferences": [
+        "1samuel-12-jonathan-michmash"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Saul",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-10-samuel-farewell",
+      "nextStory": "1samuel-12-jonathan-michmash"
+    },
+    "source": {
+      "id": "1samuel-11-saul-at-gilgal",
+      "reference": "1 Samuel 13",
+      "storyTitle": "Saul at Gilgal and the Philistine Crisis",
+      "eventType": [
+        "Military Crisis",
+        "Royal Failure",
+        "Prophetic Rebuke"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Saul",
+        "approximateAge": null,
+        "currentLocation": "Gilgal and Michmash",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Jonathan",
+          "Philistines",
+          "Samuel"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Saul",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Jonathan",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Philistines",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Samuel",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Gilgal and Michmash",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Saul's waiting place"
+        },
+        {
+          "ancientName": "Michmash",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Philistine concentration point"
+        },
+        {
+          "ancientName": "Geba/Gibeah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Area connected to Jonathan and Saul"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Gilgal and Michmash",
+        "destination": "Gilgal and Michmash",
+        "route": [
+          "Saul faces Philistine pressure, offers at Gilgal before Samuel arrives, and the narrative marks a turning point in his kingship.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Gilgal and Michmash",
+          "Gilgal",
+          "Michmash",
+          "Geba/Gibeah"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "Samuel gave his farewell address after Saul's confirmation.",
+        "whatIsHappeningNow": "Saul faces Philistine pressure, offers at Gilgal before Samuel arrives, and the narrative marks a turning point in his kingship.",
+        "whatHappensAfter": "Jonathan attacks a Philistine outpost and panic spreads in the next battle scene.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "Saul at Gilgal and the Philistine Crisis ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Gilgal and Michmash.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Gilgal and Michmash. Saul faces Philistine pressure, offers at Gilgal before Samuel arrives, and the narrative marks a turning point in his kingship.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Philistine garrison at Geba struck by Jonathan",
+        "Philistine forces at Michmash",
+        "Israelites hiding in caves, holes, rocks, tombs, and cisterns",
+        "Saul waiting seven days at Gilgal",
+        "Burnt offering made before Samuel arrives",
+        "Israelite weapon shortage noted",
+        "Philistine raiders going out in companies"
+      ],
+      "audioScript": "1 Samuel 13 focuses on Saul at Gilgal and the Philistine Crisis. Saul faces Philistine pressure, offers at Gilgal before Samuel arrives, and the narrative marks a turning point in his kingship. The scene is grounded in Gilgal and Michmash, with Jonathan, Philistines, Samuel directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-10-samuel-farewell"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 13"
+        ],
+        "laterReferences": [
+          "1samuel-12-jonathan-michmash"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Saul",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-10-samuel-farewell",
+        "nextStory": "1samuel-12-jonathan-michmash"
+      },
+      "search": {
+        "people": [
+          "Saul",
+          "Jonathan",
+          "Philistines",
+          "Samuel"
+        ],
+        "places": [
+          "Gilgal and Michmash",
+          "Gilgal",
+          "Michmash",
+          "Geba/Gibeah"
+        ],
+        "events": [
+          "Saul at Gilgal and the Philistine Crisis",
+          "1 Samuel 13",
+          "Jonathan",
+          "Philistines",
+          "Samuel"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "Saul at Gilgal and the Philistine Crisis",
+          "1 Samuel 13"
+        ]
+      },
+      "realitySummary": "Saul at Gilgal and the Philistine Crisis. Saul faces Philistine pressure, offers at Gilgal before Samuel arrives, and the narrative marks a turning point in his kingship."
+    }
+  },
+  {
+    "id": "1samuel-12-jonathan-michmash",
+    "sourceFile": "1samuel-12-jonathan-michmash.json",
+    "searchTerms": [
+      "Jonathan",
+      "Saul",
+      "armor-bearer",
+      "Philistines",
+      "Michmash and Geba",
+      "Michmash",
+      "Geba",
+      "Bozez and Seneh",
+      "Jonathan's Attack and Saul's Oath",
+      "1 Samuel 14",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Battle",
+      "Night/Day Combat",
+      "Royal Oath",
+      "United Kingdom Formation",
+      "Jonathan's Attack and Saul's Oath. Jonathan and his armor-bearer attack a Philistine outpost, panic spreads, Israel pursues, and Saul's rash oath creates crisis."
+    ],
+    "title": "Jonathan's Attack and Saul's Oath",
+    "reference": "1 Samuel 14",
+    "kicker": "Study",
+    "eventType": [
+      "Battle",
+      "Night/Day Combat",
+      "Royal Oath"
+    ],
+    "summary": "Jonathan's Attack and Saul's Oath. Jonathan and his armor-bearer attack a Philistine outpost, panic spreads, Israel pursues, and Saul's rash oath creates crisis.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Jonathan"
+      },
+      {
+        "label": "Location",
+        "value": "Michmash and Geba"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Central hill country / Israel-West Bank region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "Jonathan's Attack and Saul's Oath",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "Jonathan's Attack and Saul's Oath",
+    "stepIntoStory": "The scene centers on Michmash and Geba. Jonathan and his armor-bearer attack a Philistine outpost, panic spreads, Israel pursues, and Saul's rash oath creates crisis.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Jonathan and armor-bearer climbing between rocky crags",
+      "Bozez and Seneh named as cliffs",
+      "Philistine outpost surprised",
+      "Panic in the camp",
+      "Watchmen seeing the multitude melting away",
+      "Hungry soldiers restrained by oath",
+      "Honey on the ground",
+      "Jonathan tasting honey",
+      "People eating with blood until altar built"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Saul's crisis with Philistines continued after the Gilgal episode."
+      },
+      {
+        "label": "Now",
+        "value": "Jonathan and his armor-bearer attack a Philistine outpost, panic spreads, Israel pursues, and Saul's rash oath creates crisis."
+      },
+      {
+        "label": "Next",
+        "value": "Saul is later rejected after the Amalek campaign."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Michmash and Geba."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Jonathan",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Saul",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "armor-bearer",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Philistines",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Michmash and Geba",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Michmash",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Philistine outpost area"
+      },
+      {
+        "ancientName": "Geba",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Israelite side of the pass"
+      },
+      {
+        "ancientName": "Bozez and Seneh",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Rocky crags named in the passage"
+      }
+    ],
+    "people": [
+      "Jonathan",
+      "Saul",
+      "armor-bearer",
+      "Philistines"
+    ],
+    "places": [
+      "Michmash and Geba",
+      "Michmash",
+      "Geba",
+      "Bozez and Seneh"
+    ],
+    "movement": [
+      "Jonathan and his armor-bearer attack a Philistine outpost, panic spreads, Israel pursues, and Saul's rash oath creates crisis.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Michmash and Geba",
+      "destination": "Michmash and Geba",
+      "route": [
+        "Jonathan and his armor-bearer attack a Philistine outpost, panic spreads, Israel pursues, and Saul's rash oath creates crisis.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Michmash and Geba",
+        "Michmash",
+        "Geba",
+        "Bozez and Seneh"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 14 focuses on Jonathan's Attack and Saul's Oath. Jonathan and his armor-bearer attack a Philistine outpost, panic spreads, Israel pursues, and Saul's rash oath creates crisis. The scene is grounded in Michmash and Geba, with Saul, armor-bearer, Philistines directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-11-saul-at-gilgal",
+      "1 Samuel 14",
+      "1samuel-13-saul-rejected-amalek"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-11-saul-at-gilgal"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 14"
+      ],
+      "laterReferences": [
+        "1samuel-13-saul-rejected-amalek"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Jonathan",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-11-saul-at-gilgal",
+      "nextStory": "1samuel-13-saul-rejected-amalek"
+    },
+    "source": {
+      "id": "1samuel-12-jonathan-michmash",
+      "reference": "1 Samuel 14",
+      "storyTitle": "Jonathan's Attack and Saul's Oath",
+      "eventType": [
+        "Battle",
+        "Night/Day Combat",
+        "Royal Oath"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Jonathan",
+        "approximateAge": null,
+        "currentLocation": "Michmash and Geba",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Saul",
+          "armor-bearer",
+          "Philistines"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Jonathan",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Saul",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "armor-bearer",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Philistines",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Michmash and Geba",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Michmash",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Philistine outpost area"
+        },
+        {
+          "ancientName": "Geba",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Israelite side of the pass"
+        },
+        {
+          "ancientName": "Bozez and Seneh",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Rocky crags named in the passage"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Michmash and Geba",
+        "destination": "Michmash and Geba",
+        "route": [
+          "Jonathan and his armor-bearer attack a Philistine outpost, panic spreads, Israel pursues, and Saul's rash oath creates crisis.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Michmash and Geba",
+          "Michmash",
+          "Geba",
+          "Bozez and Seneh"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "Saul's crisis with Philistines continued after the Gilgal episode.",
+        "whatIsHappeningNow": "Jonathan and his armor-bearer attack a Philistine outpost, panic spreads, Israel pursues, and Saul's rash oath creates crisis.",
+        "whatHappensAfter": "Saul is later rejected after the Amalek campaign.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "Jonathan's Attack and Saul's Oath ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Michmash and Geba.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Michmash and Geba. Jonathan and his armor-bearer attack a Philistine outpost, panic spreads, Israel pursues, and Saul's rash oath creates crisis.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Jonathan and armor-bearer climbing between rocky crags",
+        "Bozez and Seneh named as cliffs",
+        "Philistine outpost surprised",
+        "Panic in the camp",
+        "Watchmen seeing the multitude melting away",
+        "Hungry soldiers restrained by oath",
+        "Honey on the ground",
+        "Jonathan tasting honey",
+        "People eating with blood until altar built"
+      ],
+      "audioScript": "1 Samuel 14 focuses on Jonathan's Attack and Saul's Oath. Jonathan and his armor-bearer attack a Philistine outpost, panic spreads, Israel pursues, and Saul's rash oath creates crisis. The scene is grounded in Michmash and Geba, with Saul, armor-bearer, Philistines directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-11-saul-at-gilgal"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 14"
+        ],
+        "laterReferences": [
+          "1samuel-13-saul-rejected-amalek"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Jonathan",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-11-saul-at-gilgal",
+        "nextStory": "1samuel-13-saul-rejected-amalek"
+      },
+      "search": {
+        "people": [
+          "Jonathan",
+          "Saul",
+          "armor-bearer",
+          "Philistines"
+        ],
+        "places": [
+          "Michmash and Geba",
+          "Michmash",
+          "Geba",
+          "Bozez and Seneh"
+        ],
+        "events": [
+          "Jonathan's Attack and Saul's Oath",
+          "1 Samuel 14",
+          "Saul",
+          "armor-bearer",
+          "Philistines"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "Jonathan's Attack and Saul's Oath",
+          "1 Samuel 14"
+        ]
+      },
+      "realitySummary": "Jonathan's Attack and Saul's Oath. Jonathan and his armor-bearer attack a Philistine outpost, panic spreads, Israel pursues, and Saul's rash oath creates crisis."
+    }
+  },
+  {
+    "id": "1samuel-13-saul-rejected-amalek",
+    "sourceFile": "1samuel-13-saul-rejected-amalek.json",
+    "searchTerms": [
+      "Saul",
+      "Samuel",
+      "Agag",
+      "Amalekites",
+      "Amalekite territory and Gilgal",
+      "Telaim",
+      "Amalekite territory",
+      "Gilgal",
+      "Saul Is Rejected After the Amalek Campaign",
+      "1 Samuel 15",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Battle",
+      "Judgment",
+      "Royal Rejection",
+      "United Kingdom Formation",
+      "Saul Is Rejected After the Amalek Campaign. Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king."
+    ],
+    "title": "Saul Is Rejected After the Amalek Campaign",
+    "reference": "1 Samuel 15",
+    "kicker": "Study",
+    "eventType": [
+      "Battle",
+      "Judgment",
+      "Royal Rejection"
+    ],
+    "summary": "Saul Is Rejected After the Amalek Campaign. Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Saul"
+      },
+      {
+        "label": "Location",
+        "value": "Amalekite territory and Gilgal"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Southern Judah / Negev region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "Saul Is Rejected After the Amalek Campaign",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "Saul Is Rejected After the Amalek Campaign",
+    "stepIntoStory": "The scene centers on Amalekite territory and Gilgal. Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Muster at Telaim",
+      "Campaign against Amalek",
+      "Kenites warned to depart",
+      "Agag spared alive",
+      "Best sheep and oxen spared",
+      "Samuel confronting Saul at Gilgal",
+      "Saul grabbing Samuel's robe",
+      "Agag brought before Samuel"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Jonathan's attack and Israel's pursuit of the Philistines showed Saul's troubled kingship under pressure."
+      },
+      {
+        "label": "Now",
+        "value": "Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king."
+      },
+      {
+        "label": "Next",
+        "value": "Samuel goes to Bethlehem and anoints David."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Amalekite territory and Gilgal."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Saul",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Samuel",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Agag",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Amalekites",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Amalekite territory and Gilgal",
+        "modernRegion": "Southern Judah / Negev region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Telaim",
+        "modernRegion": "Southern Judah / Negev region",
+        "description": "Muster location"
+      },
+      {
+        "ancientName": "Amalekite territory",
+        "modernRegion": "Southern Judah / Negev region",
+        "description": "Campaign region"
+      },
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Samuel confronts Saul here"
+      }
+    ],
+    "people": [
+      "Saul",
+      "Samuel",
+      "Agag",
+      "Amalekites"
+    ],
+    "places": [
+      "Amalekite territory and Gilgal",
+      "Telaim",
+      "Amalekite territory",
+      "Gilgal"
+    ],
+    "movement": [
+      "Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Amalekite territory and Gilgal",
+      "destination": "Amalekite territory and Gilgal",
+      "route": [
+        "Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Amalekite territory and Gilgal",
+        "Telaim",
+        "Amalekite territory",
+        "Gilgal"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 15 focuses on Saul Is Rejected After the Amalek Campaign. Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king. The scene is grounded in Amalekite territory and Gilgal, with Samuel, Agag, Amalekites directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-12-jonathan-michmash",
+      "1 Samuel 15",
+      "1samuel-14-david-anointed"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-12-jonathan-michmash"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 15"
+      ],
+      "laterReferences": [
+        "1samuel-14-david-anointed"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Saul",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-12-jonathan-michmash",
+      "nextStory": null
+    },
+    "source": {
+      "id": "1samuel-13-saul-rejected-amalek",
+      "reference": "1 Samuel 15",
+      "storyTitle": "Saul Is Rejected After the Amalek Campaign",
+      "eventType": [
+        "Battle",
+        "Judgment",
+        "Royal Rejection"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Saul",
+        "approximateAge": null,
+        "currentLocation": "Amalekite territory and Gilgal",
+        "modernRegion": "Southern Judah / Negev region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Samuel",
+          "Agag",
+          "Amalekites"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Saul",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Samuel",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Agag",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Amalekites",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Amalekite territory and Gilgal",
+          "modernRegion": "Southern Judah / Negev region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Telaim",
+          "modernRegion": "Southern Judah / Negev region",
+          "description": "Muster location"
+        },
+        {
+          "ancientName": "Amalekite territory",
+          "modernRegion": "Southern Judah / Negev region",
+          "description": "Campaign region"
+        },
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Samuel confronts Saul here"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Amalekite territory and Gilgal",
+        "destination": "Amalekite territory and Gilgal",
+        "route": [
+          "Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Amalekite territory and Gilgal",
+          "Telaim",
+          "Amalekite territory",
+          "Gilgal"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "Jonathan's attack and Israel's pursuit of the Philistines showed Saul's troubled kingship under pressure.",
+        "whatIsHappeningNow": "Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king.",
+        "whatHappensAfter": "Samuel goes to Bethlehem and anoints David.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "Saul Is Rejected After the Amalek Campaign ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Amalekite territory and Gilgal.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Amalekite territory and Gilgal. Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Muster at Telaim",
+        "Campaign against Amalek",
+        "Kenites warned to depart",
+        "Agag spared alive",
+        "Best sheep and oxen spared",
+        "Samuel confronting Saul at Gilgal",
+        "Saul grabbing Samuel's robe",
+        "Agag brought before Samuel"
+      ],
+      "audioScript": "1 Samuel 15 focuses on Saul Is Rejected After the Amalek Campaign. Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king. The scene is grounded in Amalekite territory and Gilgal, with Samuel, Agag, Amalekites directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-12-jonathan-michmash"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 15"
+        ],
+        "laterReferences": [
+          "1samuel-14-david-anointed"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Saul",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-12-jonathan-michmash",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Saul",
+          "Samuel",
+          "Agag",
+          "Amalekites"
+        ],
+        "places": [
+          "Amalekite territory and Gilgal",
+          "Telaim",
+          "Amalekite territory",
+          "Gilgal"
+        ],
+        "events": [
+          "Saul Is Rejected After the Amalek Campaign",
+          "1 Samuel 15",
+          "Samuel",
+          "Agag",
+          "Amalekites"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "Saul Is Rejected After the Amalek Campaign",
+          "1 Samuel 15"
+        ]
+      },
+      "realitySummary": "Saul Is Rejected After the Amalek Campaign. Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king."
     }
   }
 ]
