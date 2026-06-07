@@ -79021,5 +79021,1723 @@
       },
       "realitySummary": "Samson and the Philistines. Samson's adult life unfolds through repeated conflicts with Philistines, including Timnah, Lehi, Gaza, Delilah, capture, and his death at a Philistine temple."
     }
+  },
+  {
+    "id": "judges-15-micah-and-dan",
+    "sourceFile": "judges-15-micah-and-dan.json",
+    "searchTerms": [
+      "Micah",
+      "Micah's mother",
+      "Young Levite",
+      "Danite spies",
+      "Danite warriors",
+      "People of Laish",
+      "Ephraim hill country",
+      "Bethlehem in Judah",
+      "Zorah and Eshtaol",
+      "Laish / Dan",
+      "Micah's house",
+      "Micah shrine",
+      "Dan migration",
+      "Laish renamed Dan",
+      "Levite priest",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 17-18",
+      "Micah and the Danites",
+      "Danite migration",
+      "Household Shrine",
+      "Idolatry",
+      "Migration",
+      "Tribal Settlement",
+      "Micah's Shrine and the Migration of Dan",
+      "Micah's Shrine and the Migration of Dan. Micah establishes a household shrine, a Levite becomes his priest, Danite migrants take the shrine objects and priest, and they capture Laish and rename it Dan."
+    ],
+    "title": "Micah's Shrine and the Migration of Dan",
+    "reference": "Judges 17-18",
+    "kicker": "Study",
+    "eventType": [
+      "Household Shrine",
+      "Idolatry",
+      "Migration",
+      "Tribal Settlement"
+    ],
+    "summary": "Micah's Shrine and the Migration of Dan. Micah establishes a household shrine, a Levite becomes his priest, Danite migrants take the shrine objects and priest, and they capture Laish and rename it Dan.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Micah and Danites"
+      },
+      {
+        "label": "Location",
+        "value": "Ephraim hill country and Laish/Dan"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Central hill country / West Bank region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household Shrine and Tribal Migration"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Samson; before the Levite and concubine narrative"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Micah's Shrine and the Migration of Dan",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Micah's Shrine and the Migration of Dan",
+    "stepIntoStory": "The story begins inside a household in Ephraim's hill country, with silver, a mother, a son, and a private shrine.\n\nA young Levite travels from Bethlehem and becomes Micah's priest. Later, Danite spies pass through the same house while searching for land.\n\nThe scale expands from one household to a tribe on the move. Danite warriors take the shrine objects and the Levite, travel north, attack Laish, and rename the city Dan.",
+    "notice": [
+      "Silver weighed and returned in Micah's house.",
+      "A carved image and metal image made.",
+      "Ephod and household gods in a private shrine.",
+      "A Levite traveling from Bethlehem.",
+      "Danite spies lodging at Micah's house.",
+      "Six hundred armed Danites moving from Zorah and Eshtaol.",
+      "Shrine objects stolen during migration.",
+      "Micah pursuing and protesting.",
+      "Laish described as quiet and unsuspecting.",
+      "City captured, burned, rebuilt, and renamed Dan."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Samson's story ended with his death and burial between Zorah and Eshtaol."
+      },
+      {
+        "label": "Now",
+        "value": "Micah establishes a household shrine, a Levite becomes his priest, Danite migrants take the shrine objects and priest, and they capture Laish and rename it Dan."
+      },
+      {
+        "label": "Next",
+        "value": "The next appendix narrative begins with another Levite traveling through the hill country and Gibeah."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This begins the final appendix section of Judges with the repeated notice that there was no king in Israel."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It shows household religion, Levite movement, and tribal migration outside a centralized system."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It explains the origin of Dan's northern settlement in this narrative."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The story begins in Ephraim's hill country, moves to Bethlehem, then follows Danite movement from Zorah and Eshtaol north to Laish."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Laish is described as secure and distant from Sidon, making it a target for migration."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The route links southern Danite pressure with northern relocation."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household shrines could include images, ephod, teraphim, and a private priest in this narrative."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Levites could travel and attach themselves to households or groups."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Tribal migration involves scouting, armed movement, relocation of families, and capture of a town."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This shifts Judges from judge cycles to internal disorder stories.",
+      "It shows Dan's migration through a shrine-theft narrative.",
+      "It introduces the refrain about no king in Israel in a concrete social setting.",
+      "It prepares the reader for the darker Levite narrative that follows."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Micah",
+        "role": "Man in Ephraim's hill country with a household shrine",
+        "relationships": []
+      },
+      {
+        "name": "Micah's mother",
+        "role": "Dedicates silver after it is returned",
+        "relationships": []
+      },
+      {
+        "name": "Young Levite",
+        "role": "Becomes priest for Micah and later for the Danites",
+        "relationships": []
+      },
+      {
+        "name": "Danite spies",
+        "role": "Scout land for the tribe of Dan",
+        "relationships": []
+      },
+      {
+        "name": "Danite warriors",
+        "role": "Take the shrine objects and capture Laish",
+        "relationships": []
+      },
+      {
+        "name": "People of Laish",
+        "role": "City population attacked by Danites",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Ephraim hill country",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Micah's home region"
+      },
+      {
+        "ancientName": "Bethlehem in Judah",
+        "modernRegion": "Southern Israel / Negev and Judah region",
+        "description": "Levite's place of origin before traveling"
+      },
+      {
+        "ancientName": "Zorah and Eshtaol",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Danite starting region"
+      },
+      {
+        "ancientName": "Laish / Dan",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "description": "Northern city captured and renamed by Danites"
+      },
+      {
+        "ancientName": "Micah's house",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Household shrine location"
+      }
+    ],
+    "people": [
+      "Micah",
+      "Micah's mother",
+      "Young Levite",
+      "Danite spies",
+      "Danite warriors",
+      "People of Laish"
+    ],
+    "places": [
+      "Ephraim hill country",
+      "Bethlehem in Judah",
+      "Zorah and Eshtaol",
+      "Laish / Dan",
+      "Micah's house"
+    ],
+    "movement": [
+      "Micah returns silver to his mother",
+      "A carved image and metal image are made",
+      "Micah establishes a household shrine",
+      "A Levite from Bethlehem becomes his priest",
+      "Danite spies lodge at Micah's house",
+      "Danite warriors later take the shrine objects and Levite",
+      "They attack Laish and rename it Dan",
+      "The shrine is set up in Dan"
+    ],
+    "movementDetails": {
+      "startingPoint": "Micah's house in Ephraim",
+      "destination": "Laish renamed Dan",
+      "route": [
+        "Micah returns silver to his mother",
+        "A carved image and metal image are made",
+        "Micah establishes a household shrine",
+        "A Levite from Bethlehem becomes his priest",
+        "Danite spies lodge at Micah's house",
+        "Danite warriors later take the shrine objects and Levite",
+        "They attack Laish and rename it Dan",
+        "The shrine is set up in Dan"
+      ],
+      "majorStops": [
+        "Ephraim hill country",
+        "Bethlehem",
+        "Zorah and Eshtaol",
+        "Micah's house",
+        "Laish/Dan"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 17 and 18 begin the appendix section. Micah, a man in Ephraim's hill country, returns silver to his mother, and a household shrine is made. A young Levite from Bethlehem travels north and becomes Micah's priest. Later, Danite spies searching for land stay at Micah's house. When the Danite warriors come through, they take the shrine objects and the Levite. The story expands from a household shrine to tribal migration. The Danites attack Laish, rebuild it, and rename it Dan.",
+    "crossReferences": [
+      "Judges 16:31",
+      "Joshua 19:40-48",
+      "Judges 17:1-18:31",
+      "1 Kings 12:28-30"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 16:31",
+        "Joshua 19:40-48"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 17:1-18:31"
+      ],
+      "laterReferences": [
+        "1 Kings 12:28-30"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Micah and Danites",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-14-samson-philistines",
+      "nextStory": "judges-16-levite-concubine"
+    },
+    "source": {
+      "id": "judges-15-micah-and-dan",
+      "reference": "Judges 17-18",
+      "storyTitle": "Micah's Shrine and the Migration of Dan",
+      "eventType": [
+        "Household Shrine",
+        "Idolatry",
+        "Migration",
+        "Tribal Settlement"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Micah and Danites",
+        "approximateAge": null,
+        "currentLocation": "Ephraim hill country and Laish/Dan",
+        "modernRegion": "Central hill country / West Bank region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Micah",
+          "Levite",
+          "Danites"
+        ],
+        "sceneScale": "Household Shrine and Tribal Migration",
+        "timeAnchor": "After Samson; before the Levite and concubine narrative",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Micah",
+          "role": "Man in Ephraim's hill country with a household shrine",
+          "relationships": []
+        },
+        {
+          "name": "Micah's mother",
+          "role": "Dedicates silver after it is returned",
+          "relationships": []
+        },
+        {
+          "name": "Young Levite",
+          "role": "Becomes priest for Micah and later for the Danites",
+          "relationships": []
+        },
+        {
+          "name": "Danite spies",
+          "role": "Scout land for the tribe of Dan",
+          "relationships": []
+        },
+        {
+          "name": "Danite warriors",
+          "role": "Take the shrine objects and capture Laish",
+          "relationships": []
+        },
+        {
+          "name": "People of Laish",
+          "role": "City population attacked by Danites",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Ephraim hill country",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Micah's home region"
+        },
+        {
+          "ancientName": "Bethlehem in Judah",
+          "modernRegion": "Southern Israel / Negev and Judah region",
+          "description": "Levite's place of origin before traveling"
+        },
+        {
+          "ancientName": "Zorah and Eshtaol",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Danite starting region"
+        },
+        {
+          "ancientName": "Laish / Dan",
+          "modernRegion": "Northern Israel / Galilee and Jezreel region",
+          "description": "Northern city captured and renamed by Danites"
+        },
+        {
+          "ancientName": "Micah's house",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Household shrine location"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Micah's house in Ephraim",
+        "destination": "Laish renamed Dan",
+        "route": [
+          "Micah returns silver to his mother",
+          "A carved image and metal image are made",
+          "Micah establishes a household shrine",
+          "A Levite from Bethlehem becomes his priest",
+          "Danite spies lodge at Micah's house",
+          "Danite warriors later take the shrine objects and Levite",
+          "They attack Laish and rename it Dan",
+          "The shrine is set up in Dan"
+        ],
+        "majorStops": [
+          "Ephraim hill country",
+          "Bethlehem",
+          "Zorah and Eshtaol",
+          "Micah's house",
+          "Laish/Dan"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Samson's story ended with his death and burial between Zorah and Eshtaol.",
+        "whatIsHappeningNow": "Micah establishes a household shrine, a Levite becomes his priest, Danite migrants take the shrine objects and priest, and they capture Laish and rename it Dan.",
+        "whatHappensAfter": "The next appendix narrative begins with another Levite traveling through the hill country and Gibeah.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Micah's Shrine and the Migration of Dan ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This begins the final appendix section of Judges with the repeated notice that there was no king in Israel.",
+          "It shows household religion, Levite movement, and tribal migration outside a centralized system.",
+          "It explains the origin of Dan's northern settlement in this narrative."
+        ],
+        "geographicContext": [
+          "The story begins in Ephraim's hill country, moves to Bethlehem, then follows Danite movement from Zorah and Eshtaol north to Laish.",
+          "Laish is described as secure and distant from Sidon, making it a target for migration.",
+          "The route links southern Danite pressure with northern relocation."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Household shrines could include images, ephod, teraphim, and a private priest in this narrative.",
+          "Levites could travel and attach themselves to households or groups.",
+          "Tribal migration involves scouting, armed movement, relocation of families, and capture of a town."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This shifts Judges from judge cycles to internal disorder stories.",
+        "It shows Dan's migration through a shrine-theft narrative.",
+        "It introduces the refrain about no king in Israel in a concrete social setting.",
+        "It prepares the reader for the darker Levite narrative that follows."
+      ],
+      "stepIntoTheStory": [
+        "The story begins inside a household in Ephraim's hill country, with silver, a mother, a son, and a private shrine.",
+        "A young Levite travels from Bethlehem and becomes Micah's priest. Later, Danite spies pass through the same house while searching for land.",
+        "The scale expands from one household to a tribe on the move. Danite warriors take the shrine objects and the Levite, travel north, attack Laish, and rename the city Dan."
+      ],
+      "documentaryObservations": [
+        "Silver weighed and returned in Micah's house.",
+        "A carved image and metal image made.",
+        "Ephod and household gods in a private shrine.",
+        "A Levite traveling from Bethlehem.",
+        "Danite spies lodging at Micah's house.",
+        "Six hundred armed Danites moving from Zorah and Eshtaol.",
+        "Shrine objects stolen during migration.",
+        "Micah pursuing and protesting.",
+        "Laish described as quiet and unsuspecting.",
+        "City captured, burned, rebuilt, and renamed Dan."
+      ],
+      "audioScript": "Judges 17 and 18 begin the appendix section. Micah, a man in Ephraim's hill country, returns silver to his mother, and a household shrine is made. A young Levite from Bethlehem travels north and becomes Micah's priest. Later, Danite spies searching for land stay at Micah's house. When the Danite warriors come through, they take the shrine objects and the Levite. The story expands from a household shrine to tribal migration. The Danites attack Laish, rebuild it, and rename it Dan.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 16:31",
+          "Joshua 19:40-48"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 17:1-18:31"
+        ],
+        "laterReferences": [
+          "1 Kings 12:28-30"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Micah and Danites",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-14-samson-philistines",
+        "nextStory": "judges-16-levite-concubine"
+      },
+      "search": {
+        "people": [
+          "Micah",
+          "Micah's mother",
+          "Young Levite",
+          "Danite spies",
+          "Danite warriors",
+          "People of Laish"
+        ],
+        "places": [
+          "Ephraim hill country",
+          "Bethlehem in Judah",
+          "Zorah and Eshtaol",
+          "Laish / Dan",
+          "Micah's house"
+        ],
+        "events": [
+          "Micah shrine",
+          "Dan migration",
+          "Laish renamed Dan",
+          "Levite priest"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 17-18",
+          "Micah and the Danites",
+          "Danite migration"
+        ]
+      },
+      "realitySummary": "Micah's Shrine and the Migration of Dan. Micah establishes a household shrine, a Levite becomes his priest, Danite migrants take the shrine objects and priest, and they capture Laish and rename it Dan."
+    }
+  },
+  {
+    "id": "judges-16-levite-concubine",
+    "sourceFile": "judges-16-levite-concubine.json",
+    "searchTerms": [
+      "Levite",
+      "Concubine",
+      "Woman's father",
+      "Old man in Gibeah",
+      "Men of Gibeah",
+      "Benjaminites",
+      "Ephraim hill country",
+      "Bethlehem in Judah",
+      "Jebus / Jerusalem",
+      "Gibeah of Benjamin",
+      "Ramah",
+      "Levite's house",
+      "Levite concubine",
+      "Gibeah atrocity",
+      "Bethlehem to Gibeah",
+      "civil war trigger",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 19",
+      "Levite and concubine",
+      "Travel",
+      "Hospitality Violation",
+      "Violence",
+      "Death",
+      "Tribal Crisis Trigger",
+      "The Levite and His Concubine at Gibeah",
+      "The Levite and His Concubine at Gibeah. A Levite traveling from Bethlehem to Ephraim lodges in Gibeah, where his concubine is assaulted and dies; he sends her body throughout Israel."
+    ],
+    "title": "The Levite and His Concubine at Gibeah",
+    "reference": "Judges 19",
+    "kicker": "Study",
+    "eventType": [
+      "Travel",
+      "Hospitality Violation",
+      "Violence",
+      "Death",
+      "Tribal Crisis Trigger"
+    ],
+    "summary": "The Levite and His Concubine at Gibeah. A Levite traveling from Bethlehem to Ephraim lodges in Gibeah, where his concubine is assaulted and dies; he sends her body throughout Israel.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Levite"
+      },
+      {
+        "label": "Location",
+        "value": "Bethlehem, Gibeah, and Ephraim hill country"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Central hill country / West Bank region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Travel Crisis and Atrocity"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Micah and Dan; before war against Benjamin"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "The Levite and His Concubine at Gibeah",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "The Levite and His Concubine at Gibeah",
+    "stepIntoStory": "The Levite leaves Ephraim and travels to Bethlehem to bring back his concubine. Her father delays him with repeated hospitality until they leave late in the day.\n\nAs evening approaches, they pass Jebus and stop at Gibeah instead. They sit in the open square until an old man brings them into his house.\n\nThe night turns violent. The concubine is found at the doorway in the morning. The Levite takes her body home, divides it, and sends it throughout Israel, forcing the tribes to respond.",
+    "notice": [
+      "A Levite traveling with saddled donkeys.",
+      "Bethlehem household hospitality over several days.",
+      "A late-day departure from Bethlehem.",
+      "Travelers passing Jebus/Jerusalem.",
+      "Gibeah town square with no one taking them in at first.",
+      "An old man returning from field work.",
+      "A house surrounded by men of the city.",
+      "The concubine at the doorway in the morning.",
+      "The Levite placing her on a donkey.",
+      "Body parts sent through Israel as a summons."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Micah's shrine and Dan's migration showed internal disorder in the hill country and northern settlement."
+      },
+      {
+        "label": "Now",
+        "value": "A Levite traveling from Bethlehem to Ephraim lodges in Gibeah, where his concubine is assaulted and dies; he sends her body throughout Israel."
+      },
+      {
+        "label": "Next",
+        "value": "Israel gathers at Mizpah, demands accountability, and goes to war against Benjamin."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the event that triggers the civil war in Judges 20-21."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It is one of the darkest internal violence narratives in Judges."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It uses travel, hospitality, city lodging, and tribal identity to show disorder before the monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It directly echoes earlier hospitality-at-city-gate scenes in biblical narrative structure, but the profile does not interpret meaning."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The route runs from Bethlehem in Judah northward toward Ephraim, passing near Jebus/Jerusalem and Gibeah of Benjamin."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Gibeah is in Benjaminite territory, turning the local crime into a tribal crisis."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The road, city square, and house interior are key locations."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travelers needed lodging before nightfall, often seeking hospitality in a town square or household."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "City gates and squares were public places where strangers could wait."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Sending body parts throughout Israel functions as a shocking summons to national attention in the narrative world."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This narrative triggers the final civil-war section of Judges.",
+      "It moves the appendix from household shrine disorder to tribal violence.",
+      "It explains why all Israel gathers against Benjamin in the next chapter.",
+      "It displays the book's repeated refrain about no king in Israel through events rather than direct explanation in this chapter."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Levite",
+        "role": "Man from Ephraim's hill country traveling with his concubine",
+        "relationships": []
+      },
+      {
+        "name": "Concubine",
+        "role": "Woman from Bethlehem in Judah who dies after the assault at Gibeah",
+        "relationships": []
+      },
+      {
+        "name": "Woman's father",
+        "role": "Hosts the Levite in Bethlehem for several days",
+        "relationships": []
+      },
+      {
+        "name": "Old man in Gibeah",
+        "role": "Offers hospitality to the travelers",
+        "relationships": []
+      },
+      {
+        "name": "Men of Gibeah",
+        "role": "Surround the house and commit violence",
+        "relationships": []
+      },
+      {
+        "name": "Benjaminites",
+        "role": "Tribe associated with Gibeah",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Ephraim hill country",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Levite's home region"
+      },
+      {
+        "ancientName": "Bethlehem in Judah",
+        "modernRegion": "Southern Israel / Negev and Judah region",
+        "description": "Concubine's father's house"
+      },
+      {
+        "ancientName": "Jebus / Jerusalem",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "City passed by on the route"
+      },
+      {
+        "ancientName": "Gibeah of Benjamin",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Town where the assault occurs"
+      },
+      {
+        "ancientName": "Ramah",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Nearby town on the route"
+      },
+      {
+        "ancientName": "Levite's house",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Place where the body is divided and sent"
+      }
+    ],
+    "people": [
+      "Levite",
+      "Concubine",
+      "Woman's father",
+      "Old man in Gibeah",
+      "Men of Gibeah",
+      "Benjaminites"
+    ],
+    "places": [
+      "Ephraim hill country",
+      "Bethlehem in Judah",
+      "Jebus / Jerusalem",
+      "Gibeah of Benjamin",
+      "Ramah",
+      "Levite's house"
+    ],
+    "movement": [
+      "The Levite goes to Bethlehem to retrieve his concubine",
+      "He stays with her father several days",
+      "They leave late in the day",
+      "They pass Jebus and choose to lodge at Gibeah",
+      "An old man hosts them",
+      "Men of the city surround the house",
+      "The concubine is abused and dies",
+      "The Levite returns home and sends pieces throughout Israel"
+    ],
+    "movementDetails": {
+      "startingPoint": "Ephraim hill country",
+      "destination": "Gibeah and return home",
+      "route": [
+        "The Levite goes to Bethlehem to retrieve his concubine",
+        "He stays with her father several days",
+        "They leave late in the day",
+        "They pass Jebus and choose to lodge at Gibeah",
+        "An old man hosts them",
+        "Men of the city surround the house",
+        "The concubine is abused and dies",
+        "The Levite returns home and sends pieces throughout Israel"
+      ],
+      "majorStops": [
+        "Ephraim hill country",
+        "Bethlehem",
+        "Jebus/Jerusalem",
+        "Gibeah",
+        "Levite's home"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 19 follows a Levite from the hill country of Ephraim to Bethlehem in Judah. He goes to retrieve his concubine and stays several days with her father. When he finally leaves, the day is already far spent. The group passes Jebus and stops at Gibeah of Benjamin. They sit in the open square until an old man offers lodging. During the night, men of the city surround the house, and the concubine is abused and dies. The Levite returns home, divides her body, and sends the pieces throughout Israel, triggering a national crisis.",
+    "crossReferences": [
+      "Judges 17:1-18:31",
+      "Judges 19:1-30",
+      "Judges 20:1-21:25",
+      "Hosea 9:9",
+      "Hosea 10:9"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 17:1-18:31"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 19:1-30"
+      ],
+      "laterReferences": [
+        "Judges 20:1-21:25",
+        "Hosea 9:9",
+        "Hosea 10:9"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Levite",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-15-micah-and-dan",
+      "nextStory": "judges-17-benjamin-war"
+    },
+    "source": {
+      "id": "judges-16-levite-concubine",
+      "reference": "Judges 19",
+      "storyTitle": "The Levite and His Concubine at Gibeah",
+      "eventType": [
+        "Travel",
+        "Hospitality Violation",
+        "Violence",
+        "Death",
+        "Tribal Crisis Trigger"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Levite",
+        "approximateAge": null,
+        "currentLocation": "Bethlehem, Gibeah, and Ephraim hill country",
+        "modernRegion": "Central hill country / West Bank region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "concubine",
+          "old man",
+          "men of Gibeah"
+        ],
+        "sceneScale": "Travel Crisis and Atrocity",
+        "timeAnchor": "After Micah and Dan; before war against Benjamin",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Levite",
+          "role": "Man from Ephraim's hill country traveling with his concubine",
+          "relationships": []
+        },
+        {
+          "name": "Concubine",
+          "role": "Woman from Bethlehem in Judah who dies after the assault at Gibeah",
+          "relationships": []
+        },
+        {
+          "name": "Woman's father",
+          "role": "Hosts the Levite in Bethlehem for several days",
+          "relationships": []
+        },
+        {
+          "name": "Old man in Gibeah",
+          "role": "Offers hospitality to the travelers",
+          "relationships": []
+        },
+        {
+          "name": "Men of Gibeah",
+          "role": "Surround the house and commit violence",
+          "relationships": []
+        },
+        {
+          "name": "Benjaminites",
+          "role": "Tribe associated with Gibeah",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Ephraim hill country",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Levite's home region"
+        },
+        {
+          "ancientName": "Bethlehem in Judah",
+          "modernRegion": "Southern Israel / Negev and Judah region",
+          "description": "Concubine's father's house"
+        },
+        {
+          "ancientName": "Jebus / Jerusalem",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "City passed by on the route"
+        },
+        {
+          "ancientName": "Gibeah of Benjamin",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Town where the assault occurs"
+        },
+        {
+          "ancientName": "Ramah",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Nearby town on the route"
+        },
+        {
+          "ancientName": "Levite's house",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Place where the body is divided and sent"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Ephraim hill country",
+        "destination": "Gibeah and return home",
+        "route": [
+          "The Levite goes to Bethlehem to retrieve his concubine",
+          "He stays with her father several days",
+          "They leave late in the day",
+          "They pass Jebus and choose to lodge at Gibeah",
+          "An old man hosts them",
+          "Men of the city surround the house",
+          "The concubine is abused and dies",
+          "The Levite returns home and sends pieces throughout Israel"
+        ],
+        "majorStops": [
+          "Ephraim hill country",
+          "Bethlehem",
+          "Jebus/Jerusalem",
+          "Gibeah",
+          "Levite's home"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Micah's shrine and Dan's migration showed internal disorder in the hill country and northern settlement.",
+        "whatIsHappeningNow": "A Levite traveling from Bethlehem to Ephraim lodges in Gibeah, where his concubine is assaulted and dies; he sends her body throughout Israel.",
+        "whatHappensAfter": "Israel gathers at Mizpah, demands accountability, and goes to war against Benjamin.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "The Levite and His Concubine at Gibeah ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This is the event that triggers the civil war in Judges 20-21.",
+          "It is one of the darkest internal violence narratives in Judges.",
+          "It uses travel, hospitality, city lodging, and tribal identity to show disorder before the monarchy.",
+          "It directly echoes earlier hospitality-at-city-gate scenes in biblical narrative structure, but the profile does not interpret meaning."
+        ],
+        "geographicContext": [
+          "The route runs from Bethlehem in Judah northward toward Ephraim, passing near Jebus/Jerusalem and Gibeah of Benjamin.",
+          "Gibeah is in Benjaminite territory, turning the local crime into a tribal crisis.",
+          "The road, city square, and house interior are key locations."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Travelers needed lodging before nightfall, often seeking hospitality in a town square or household.",
+          "City gates and squares were public places where strangers could wait.",
+          "Sending body parts throughout Israel functions as a shocking summons to national attention in the narrative world."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This narrative triggers the final civil-war section of Judges.",
+        "It moves the appendix from household shrine disorder to tribal violence.",
+        "It explains why all Israel gathers against Benjamin in the next chapter.",
+        "It displays the book's repeated refrain about no king in Israel through events rather than direct explanation in this chapter."
+      ],
+      "stepIntoTheStory": [
+        "The Levite leaves Ephraim and travels to Bethlehem to bring back his concubine. Her father delays him with repeated hospitality until they leave late in the day.",
+        "As evening approaches, they pass Jebus and stop at Gibeah instead. They sit in the open square until an old man brings them into his house.",
+        "The night turns violent. The concubine is found at the doorway in the morning. The Levite takes her body home, divides it, and sends it throughout Israel, forcing the tribes to respond."
+      ],
+      "documentaryObservations": [
+        "A Levite traveling with saddled donkeys.",
+        "Bethlehem household hospitality over several days.",
+        "A late-day departure from Bethlehem.",
+        "Travelers passing Jebus/Jerusalem.",
+        "Gibeah town square with no one taking them in at first.",
+        "An old man returning from field work.",
+        "A house surrounded by men of the city.",
+        "The concubine at the doorway in the morning.",
+        "The Levite placing her on a donkey.",
+        "Body parts sent through Israel as a summons."
+      ],
+      "audioScript": "Judges 19 follows a Levite from the hill country of Ephraim to Bethlehem in Judah. He goes to retrieve his concubine and stays several days with her father. When he finally leaves, the day is already far spent. The group passes Jebus and stops at Gibeah of Benjamin. They sit in the open square until an old man offers lodging. During the night, men of the city surround the house, and the concubine is abused and dies. The Levite returns home, divides her body, and sends the pieces throughout Israel, triggering a national crisis.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 17:1-18:31"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 19:1-30"
+        ],
+        "laterReferences": [
+          "Judges 20:1-21:25",
+          "Hosea 9:9",
+          "Hosea 10:9"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Levite",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-15-micah-and-dan",
+        "nextStory": "judges-17-benjamin-war"
+      },
+      "search": {
+        "people": [
+          "Levite",
+          "Concubine",
+          "Woman's father",
+          "Old man in Gibeah",
+          "Men of Gibeah",
+          "Benjaminites"
+        ],
+        "places": [
+          "Ephraim hill country",
+          "Bethlehem in Judah",
+          "Jebus / Jerusalem",
+          "Gibeah of Benjamin",
+          "Ramah",
+          "Levite's house"
+        ],
+        "events": [
+          "Levite concubine",
+          "Gibeah atrocity",
+          "Bethlehem to Gibeah",
+          "civil war trigger"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 19",
+          "Levite and concubine",
+          "Gibeah of Benjamin"
+        ]
+      },
+      "realitySummary": "The Levite and His Concubine at Gibeah. A Levite traveling from Bethlehem to Ephraim lodges in Gibeah, where his concubine is assaulted and dies; he sends her body throughout Israel."
+    }
+  },
+  {
+    "id": "judges-17-benjamin-war",
+    "sourceFile": "judges-17-benjamin-war.json",
+    "searchTerms": [
+      "Israelite assembly",
+      "Levite",
+      "Tribe of Benjamin",
+      "Phinehas",
+      "People of Jabesh-gilead",
+      "Daughters of Shiloh",
+      "Mizpah",
+      "Gibeah",
+      "Bethel",
+      "Jabesh-gilead",
+      "Shiloh",
+      "Vineyards of Shiloh",
+      "war against Benjamin",
+      "Gibeah civil war",
+      "daughters of Shiloh",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 20-21",
+      "Benjaminite war",
+      "civil war in Judges",
+      "Assembly",
+      "Civil War",
+      "Battle",
+      "Tribal Crisis",
+      "Restoration",
+      "War Against Benjamin and the Restoration of Benjamin",
+      "War Against Benjamin and the Restoration of Benjamin. Israel gathers, goes to war against Benjamin, nearly destroys the tribe, and then arranges for Benjaminite survivors to receive wives so the tribe will not disappear."
+    ],
+    "title": "War Against Benjamin and the Restoration of Benjamin",
+    "reference": "Judges 20-21",
+    "kicker": "Study",
+    "eventType": [
+      "Assembly",
+      "Civil War",
+      "Battle",
+      "Tribal Crisis",
+      "Restoration"
+    ],
+    "summary": "War Against Benjamin and the Restoration of Benjamin. Israel gathers, goes to war against Benjamin, nearly destroys the tribe, and then arranges for Benjaminite survivors to receive wives so the tribe will not disappear.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Israelite tribes"
+      },
+      {
+        "label": "Location",
+        "value": "Mizpah, Gibeah, Bethel, and Shiloh"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Central hill country / West Bank region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "National Civil War and Tribal Restoration"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Levite sends the body throughout Israel; end of Judges"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "War Against Benjamin and the Restoration of Benjamin",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "War Against Benjamin and the Restoration of Benjamin",
+    "stepIntoStory": "The body pieces sent through Israel bring the tribes to Mizpah. The Levite recounts what happened at Gibeah, and the assembly demands action.\n\nBenjamin refuses to hand over the men of Gibeah. The conflict becomes tribal war. Israel loses men in early battles, then uses an ambush, and Gibeah is burned.\n\nAfter the fighting, the problem reverses. Benjamin has been nearly destroyed, and the assembly searches for a way to preserve the tribe without breaking its oath. The final scenes move from Jabesh-gilead to the vineyards near Shiloh.",
+    "notice": [
+      "All Israel gathered at Mizpah.",
+      "The Levite speaking before the assembly.",
+      "Benjaminite warriors mustering for Gibeah.",
+      "Slingers from Benjamin named as skilled fighters.",
+      "Israel weeping and seeking direction at Bethel.",
+      "Phinehas named before the Ark.",
+      "Ambush set against Gibeah.",
+      "Smoke rising from the city.",
+      "Benjaminites fleeing toward the wilderness rock of Rimmon.",
+      "Jabesh-gilead attacked after not attending the assembly.",
+      "Women taken from Jabesh-gilead.",
+      "Daughters of Shiloh dancing at an annual feast.",
+      "Surviving Benjaminites taking wives from the vineyards.",
+      "Final no-king statement closing the book."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "The Levite sent pieces of his concubine throughout Israel after the violence at Gibeah."
+      },
+      {
+        "label": "Now",
+        "value": "Israel gathers, goes to war against Benjamin, nearly destroys the tribe, and then arranges for Benjaminite survivors to receive wives so the tribe will not disappear."
+      },
+      {
+        "label": "Next",
+        "value": "Ruth and 1 Samuel continue the broader pre-monarchy world, with Samuel eventually leading toward Israel's first king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the final narrative in Judges and its largest internal tribal conflict."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It shows Israel fighting itself rather than an outside oppressor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It brings Mizpah, Bethel, Gibeah, Jabesh-gilead, and Shiloh into one crisis sequence."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It ends the book with the repeated statement that there was no king in Israel."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The conflict centers in Benjaminite hill country around Gibeah."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Mizpah and Bethel serve as assembly and inquiry locations."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Jabesh-gilead east of the Jordan and Shiloh in the hill country become part of the restoration solution."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Tribal musters could gather large fighting forces from across Israel."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Ambush tactics are used again, now in civil war."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Oaths made by the assembly create a later crisis over wives for Benjamin."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Annual feasts at Shiloh provide the setting for the final wife-taking arrangement."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This closes Judges with civil war rather than deliverance from a foreign enemy.",
+      "It shows the deepest internal fragmentation in the book.",
+      "It explains the near-loss and preservation of Benjamin in the narrative.",
+      "It ends with the book's central social condition stated directly: no king in Israel, everyone doing what was right in his own eyes."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Israelite assembly",
+        "role": "Tribes gather to respond to Gibeah",
+        "relationships": []
+      },
+      {
+        "name": "Levite",
+        "role": "Recounts the events at Gibeah before the assembly",
+        "relationships": []
+      },
+      {
+        "name": "Tribe of Benjamin",
+        "role": "Refuses to hand over the guilty men of Gibeah and fights Israel",
+        "relationships": []
+      },
+      {
+        "name": "Phinehas",
+        "role": "Priest present before the Ark at Bethel",
+        "relationships": [
+          "Son of Eleazar",
+          "son of Aaron"
+        ]
+      },
+      {
+        "name": "People of Jabesh-gilead",
+        "role": "Targeted because they did not come to the assembly",
+        "relationships": []
+      },
+      {
+        "name": "Daughters of Shiloh",
+        "role": "Taken as wives for surviving Benjaminites in the final arrangement",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Mizpah",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Assembly location for Israel"
+      },
+      {
+        "ancientName": "Gibeah",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Benjaminite town at the center of the conflict"
+      },
+      {
+        "ancientName": "Bethel",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Place where Israel goes before Elohim and where Phinehas is named"
+      },
+      {
+        "ancientName": "Jabesh-gilead",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Town attacked because it did not join the assembly"
+      },
+      {
+        "ancientName": "Shiloh",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Location of annual feast and final wife-provision episode"
+      },
+      {
+        "ancientName": "Vineyards of Shiloh",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Place where daughters of Shiloh are taken"
+      }
+    ],
+    "people": [
+      "Israelite assembly",
+      "Levite",
+      "Tribe of Benjamin",
+      "Phinehas",
+      "People of Jabesh-gilead",
+      "Daughters of Shiloh"
+    ],
+    "places": [
+      "Mizpah",
+      "Gibeah",
+      "Bethel",
+      "Jabesh-gilead",
+      "Shiloh",
+      "Vineyards of Shiloh"
+    ],
+    "movement": [
+      "Israel gathers at Mizpah",
+      "The Levite recounts the Gibeah event",
+      "Benjamin refuses to surrender the guilty men",
+      "Israel fights Benjamin and suffers losses",
+      "Israel seeks direction at Bethel",
+      "An ambush leads to Gibeah's destruction",
+      "Benjamin is nearly wiped out",
+      "Israel grieves over the missing tribe",
+      "Jabesh-gilead is attacked for not joining the assembly",
+      "Women are taken from Jabesh-gilead and later from Shiloh for Benjaminite survivors",
+      "The book ends with the no-king refrain"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israel receiving the body pieces",
+      "destination": "Benjamin's survival and unresolved ending",
+      "route": [
+        "Israel gathers at Mizpah",
+        "The Levite recounts the Gibeah event",
+        "Benjamin refuses to surrender the guilty men",
+        "Israel fights Benjamin and suffers losses",
+        "Israel seeks direction at Bethel",
+        "An ambush leads to Gibeah's destruction",
+        "Benjamin is nearly wiped out",
+        "Israel grieves over the missing tribe",
+        "Jabesh-gilead is attacked for not joining the assembly",
+        "Women are taken from Jabesh-gilead and later from Shiloh for Benjaminite survivors",
+        "The book ends with the no-king refrain"
+      ],
+      "majorStops": [
+        "Mizpah",
+        "Gibeah",
+        "Bethel",
+        "Baal-tamar",
+        "Jabesh-gilead",
+        "Shiloh",
+        "vineyards"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 20 and 21 close the book with civil war. Israel gathers at Mizpah after the Levite's summons, and the event at Gibeah is recounted before the assembly. Benjamin refuses to surrender the guilty men, and Israel goes to war against its own tribe. After severe losses and repeated inquiry at Bethel, Israel uses an ambush, and Gibeah is destroyed. Benjamin is nearly wiped out. The final chapter turns from war to survival: Israel seeks wives for the remaining Benjaminites through Jabesh-gilead and the daughters of Shiloh. The book ends with the statement that there was no king in Israel.",
+    "crossReferences": [
+      "Judges 19:1-30",
+      "Judges 20:1-21:25",
+      "1 Samuel 10:20-27",
+      "Hosea 9:9",
+      "Hosea 10:9"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 19:1-30"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 20:1-21:25"
+      ],
+      "laterReferences": [
+        "1 Samuel 10:20-27",
+        "Hosea 9:9",
+        "Hosea 10:9"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Israelite tribes",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-16-levite-concubine",
+      "nextStory": null
+    },
+    "source": {
+      "id": "judges-17-benjamin-war",
+      "reference": "Judges 20-21",
+      "storyTitle": "War Against Benjamin and the Restoration of Benjamin",
+      "eventType": [
+        "Assembly",
+        "Civil War",
+        "Battle",
+        "Tribal Crisis",
+        "Restoration"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Israelite tribes",
+        "approximateAge": null,
+        "currentLocation": "Mizpah, Gibeah, Bethel, and Shiloh",
+        "modernRegion": "Central hill country / West Bank region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Benjamin",
+          "Levite",
+          "Phinehas",
+          "women of Jabesh-gilead",
+          "daughters of Shiloh"
+        ],
+        "sceneScale": "National Civil War and Tribal Restoration",
+        "timeAnchor": "After the Levite sends the body throughout Israel; end of Judges",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Israelite assembly",
+          "role": "Tribes gather to respond to Gibeah",
+          "relationships": []
+        },
+        {
+          "name": "Levite",
+          "role": "Recounts the events at Gibeah before the assembly",
+          "relationships": []
+        },
+        {
+          "name": "Tribe of Benjamin",
+          "role": "Refuses to hand over the guilty men of Gibeah and fights Israel",
+          "relationships": []
+        },
+        {
+          "name": "Phinehas",
+          "role": "Priest present before the Ark at Bethel",
+          "relationships": [
+            "Son of Eleazar",
+            "son of Aaron"
+          ]
+        },
+        {
+          "name": "People of Jabesh-gilead",
+          "role": "Targeted because they did not come to the assembly",
+          "relationships": []
+        },
+        {
+          "name": "Daughters of Shiloh",
+          "role": "Taken as wives for surviving Benjaminites in the final arrangement",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Mizpah",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Assembly location for Israel"
+        },
+        {
+          "ancientName": "Gibeah",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Benjaminite town at the center of the conflict"
+        },
+        {
+          "ancientName": "Bethel",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Place where Israel goes before Elohim and where Phinehas is named"
+        },
+        {
+          "ancientName": "Jabesh-gilead",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Town attacked because it did not join the assembly"
+        },
+        {
+          "ancientName": "Shiloh",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Location of annual feast and final wife-provision episode"
+        },
+        {
+          "ancientName": "Vineyards of Shiloh",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Place where daughters of Shiloh are taken"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israel receiving the body pieces",
+        "destination": "Benjamin's survival and unresolved ending",
+        "route": [
+          "Israel gathers at Mizpah",
+          "The Levite recounts the Gibeah event",
+          "Benjamin refuses to surrender the guilty men",
+          "Israel fights Benjamin and suffers losses",
+          "Israel seeks direction at Bethel",
+          "An ambush leads to Gibeah's destruction",
+          "Benjamin is nearly wiped out",
+          "Israel grieves over the missing tribe",
+          "Jabesh-gilead is attacked for not joining the assembly",
+          "Women are taken from Jabesh-gilead and later from Shiloh for Benjaminite survivors",
+          "The book ends with the no-king refrain"
+        ],
+        "majorStops": [
+          "Mizpah",
+          "Gibeah",
+          "Bethel",
+          "Baal-tamar",
+          "Jabesh-gilead",
+          "Shiloh",
+          "vineyards"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "The Levite sent pieces of his concubine throughout Israel after the violence at Gibeah.",
+        "whatIsHappeningNow": "Israel gathers, goes to war against Benjamin, nearly destroys the tribe, and then arranges for Benjaminite survivors to receive wives so the tribe will not disappear.",
+        "whatHappensAfter": "Ruth and 1 Samuel continue the broader pre-monarchy world, with Samuel eventually leading toward Israel's first king.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "War Against Benjamin and the Restoration of Benjamin ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This is the final narrative in Judges and its largest internal tribal conflict.",
+          "It shows Israel fighting itself rather than an outside oppressor.",
+          "It brings Mizpah, Bethel, Gibeah, Jabesh-gilead, and Shiloh into one crisis sequence.",
+          "It ends the book with the repeated statement that there was no king in Israel."
+        ],
+        "geographicContext": [
+          "The conflict centers in Benjaminite hill country around Gibeah.",
+          "Mizpah and Bethel serve as assembly and inquiry locations.",
+          "Jabesh-gilead east of the Jordan and Shiloh in the hill country become part of the restoration solution."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Tribal musters could gather large fighting forces from across Israel.",
+          "Ambush tactics are used again, now in civil war.",
+          "Oaths made by the assembly create a later crisis over wives for Benjamin.",
+          "Annual feasts at Shiloh provide the setting for the final wife-taking arrangement."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This closes Judges with civil war rather than deliverance from a foreign enemy.",
+        "It shows the deepest internal fragmentation in the book.",
+        "It explains the near-loss and preservation of Benjamin in the narrative.",
+        "It ends with the book's central social condition stated directly: no king in Israel, everyone doing what was right in his own eyes."
+      ],
+      "stepIntoTheStory": [
+        "The body pieces sent through Israel bring the tribes to Mizpah. The Levite recounts what happened at Gibeah, and the assembly demands action.",
+        "Benjamin refuses to hand over the men of Gibeah. The conflict becomes tribal war. Israel loses men in early battles, then uses an ambush, and Gibeah is burned.",
+        "After the fighting, the problem reverses. Benjamin has been nearly destroyed, and the assembly searches for a way to preserve the tribe without breaking its oath. The final scenes move from Jabesh-gilead to the vineyards near Shiloh."
+      ],
+      "documentaryObservations": [
+        "All Israel gathered at Mizpah.",
+        "The Levite speaking before the assembly.",
+        "Benjaminite warriors mustering for Gibeah.",
+        "Slingers from Benjamin named as skilled fighters.",
+        "Israel weeping and seeking direction at Bethel.",
+        "Phinehas named before the Ark.",
+        "Ambush set against Gibeah.",
+        "Smoke rising from the city.",
+        "Benjaminites fleeing toward the wilderness rock of Rimmon.",
+        "Jabesh-gilead attacked after not attending the assembly.",
+        "Women taken from Jabesh-gilead.",
+        "Daughters of Shiloh dancing at an annual feast.",
+        "Surviving Benjaminites taking wives from the vineyards.",
+        "Final no-king statement closing the book."
+      ],
+      "audioScript": "Judges 20 and 21 close the book with civil war. Israel gathers at Mizpah after the Levite's summons, and the event at Gibeah is recounted before the assembly. Benjamin refuses to surrender the guilty men, and Israel goes to war against its own tribe. After severe losses and repeated inquiry at Bethel, Israel uses an ambush, and Gibeah is destroyed. Benjamin is nearly wiped out. The final chapter turns from war to survival: Israel seeks wives for the remaining Benjaminites through Jabesh-gilead and the daughters of Shiloh. The book ends with the statement that there was no king in Israel.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 19:1-30"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 20:1-21:25"
+        ],
+        "laterReferences": [
+          "1 Samuel 10:20-27",
+          "Hosea 9:9",
+          "Hosea 10:9"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Israelite tribes",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-16-levite-concubine",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Israelite assembly",
+          "Levite",
+          "Tribe of Benjamin",
+          "Phinehas",
+          "People of Jabesh-gilead",
+          "Daughters of Shiloh"
+        ],
+        "places": [
+          "Mizpah",
+          "Gibeah",
+          "Bethel",
+          "Jabesh-gilead",
+          "Shiloh",
+          "Vineyards of Shiloh"
+        ],
+        "events": [
+          "war against Benjamin",
+          "Gibeah civil war",
+          "Jabesh-gilead",
+          "daughters of Shiloh"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 20-21",
+          "Benjaminite war",
+          "civil war in Judges"
+        ]
+      },
+      "realitySummary": "War Against Benjamin and the Restoration of Benjamin. Israel gathers, goes to war against Benjamin, nearly destroys the tribe, and then arranges for Benjaminite survivors to receive wives so the tribe will not disappear."
+    }
   }
 ]
