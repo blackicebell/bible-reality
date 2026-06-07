@@ -1,5 +1,5 @@
 import { useCallback, useState } from "react";
-import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Pressable, ScrollView, StyleSheet, Text, useWindowDimensions, View } from "react-native";
 import { Link, router, useFocusEffect } from "expo-router";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
@@ -8,6 +8,7 @@ import { BottomNav } from "@/components/BottomNav";
 import { colors } from "@/theme/colors";
 import { spacing } from "@/theme/spacing";
 import { typography } from "@/theme/typography";
+import { premiumColumnWidth } from "@/utils/layout";
 import { getAllRealityProfiles, getRealityProfileById } from "@/utils/realityProfiles";
 import { deleteStudyNote, getSavedItems, getStudyNotes, removeSavedItem, SavedItem, StudyNote } from "@/utils/storage";
 
@@ -26,6 +27,8 @@ function subtitleForNote(note: StudyNote) {
 export default function SavedScreen() {
   const [savedStudies, setSavedStudies] = useState<SavedItem[]>([]);
   const [notes, setNotes] = useState<StudyNote[]>([]);
+  const { width } = useWindowDimensions();
+  const contentWidth = premiumColumnWidth(width);
 
   const refresh = useCallback(() => {
     getSavedItems().then((items) => setSavedStudies(items.filter((item) => item.type === "passage")));
@@ -46,7 +49,7 @@ export default function SavedScreen() {
 
   return (
     <SafeAreaView edges={["top"]} style={styles.safe}>
-      <ScrollView contentContainerStyle={styles.container} showsVerticalScrollIndicator={false}>
+      <ScrollView contentContainerStyle={[styles.container, { width: contentWidth }]} showsVerticalScrollIndicator={false}>
         <View style={styles.masthead}>
           <Text style={styles.brand}>Bible Reality</Text>
           <Text style={styles.volume}>SAVED</Text>

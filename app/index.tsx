@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Pressable, ScrollView, StyleSheet, Text, useWindowDimensions, View } from "react-native";
 import { Link, router, useFocusEffect } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
 import { SafeAreaView } from "react-native-safe-area-context";
@@ -8,6 +8,7 @@ import { BottomNav } from "@/components/BottomNav";
 import { spacing } from "@/theme/spacing";
 import { useThemeMode } from "@/theme/themeMode";
 import { typography } from "@/theme/typography";
+import { premiumColumnWidth } from "@/utils/layout";
 import { getAllRealityProfiles, searchRealityProfiles } from "@/utils/realityProfiles";
 import { getRecentProfiles, hasSeenOnboarding, type RecentProfile } from "@/utils/storage";
 
@@ -47,7 +48,9 @@ const guidedPaths = [
 export default function StudyHomeScreen() {
   const [recent, setRecent] = useState<RecentProfile[]>([]);
   const { palette } = useThemeMode();
+  const { width } = useWindowDimensions();
   const latestStudy = recent[0];
+  const contentWidth = premiumColumnWidth(width);
 
   const libraryCount = useMemo(() => allProfiles.length, []);
 
@@ -67,7 +70,7 @@ export default function StudyHomeScreen() {
 
   return (
     <SafeAreaView edges={["top"]} style={[styles.safe, { backgroundColor: palette.background }]}>
-      <ScrollView contentContainerStyle={styles.container} showsVerticalScrollIndicator={false}>
+      <ScrollView contentContainerStyle={[styles.container, { width: contentWidth }]} showsVerticalScrollIndicator={false}>
         <View style={[styles.masthead, { borderBottomColor: palette.divider }]}>
           <Text style={[styles.brand, { color: palette.text }]}>Bible Reality</Text>
           <Text style={[styles.volume, { color: palette.textMuted }]}>HOME</Text>

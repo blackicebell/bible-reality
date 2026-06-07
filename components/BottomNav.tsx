@@ -1,8 +1,9 @@
-import { Pressable, StyleSheet, Text, View } from "react-native";
+import { Pressable, StyleSheet, Text, useWindowDimensions, View } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import { Href, router, usePathname } from "expo-router";
 
 import { useThemeMode } from "@/theme/themeMode";
+import { premiumColumnWidth } from "@/utils/layout";
 
 type IconName = keyof typeof Ionicons.glyphMap;
 type MainRoute = "/" | "/search" | "/saved" | "/settings";
@@ -17,12 +18,14 @@ const items: Array<{ href: MainRoute; icon: IconName; label: string; match: Main
 export function BottomNav() {
   const pathname = usePathname();
   const { mode, palette } = useThemeMode();
+  const { width } = useWindowDimensions();
+  const navWidth = premiumColumnWidth(width);
   const navBackground = mode === "dark" ? "#070605" : palette.ink;
   const activeColor = "#FFFDF8";
   const inactiveColor = mode === "dark" ? "rgba(255,253,248,0.72)" : "rgba(255,253,248,0.7)";
 
   return (
-    <View style={[styles.nav, { backgroundColor: navBackground, borderColor: mode === "dark" ? "rgba(255,253,248,0.16)" : "rgba(255,253,248,0.08)", shadowColor: palette.shadow }]}>
+    <View style={[styles.nav, { backgroundColor: navBackground, borderColor: mode === "dark" ? "rgba(255,253,248,0.16)" : "rgba(255,253,248,0.08)", shadowColor: palette.shadow, width: navWidth }]}>
       {items.map((item) => {
         const active = pathname === item.match;
         return (
@@ -47,13 +50,11 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     height: 78,
     justifyContent: "space-around",
-    maxWidth: 384,
     paddingHorizontal: 10,
     position: "absolute",
     shadowOffset: { width: 0, height: 12 },
     shadowOpacity: 0.22,
-    shadowRadius: 22,
-    width: "88%"
+    shadowRadius: 22
   },
   item: {
     alignItems: "center",

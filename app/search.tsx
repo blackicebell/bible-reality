@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Pressable, ScrollView, StyleSheet, Text, TextInput, View } from "react-native";
+import { Pressable, ScrollView, StyleSheet, Text, TextInput, useWindowDimensions, View } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import { Link } from "expo-router";
 import { SafeAreaView } from "react-native-safe-area-context";
@@ -9,6 +9,7 @@ import { bibleBooks } from "@/data/bibleBooks";
 import { spacing } from "@/theme/spacing";
 import { useThemeMode } from "@/theme/themeMode";
 import { typography } from "@/theme/typography";
+import { premiumColumnWidth } from "@/utils/layout";
 import { getAllRealityProfiles, searchRealityProfiles } from "@/utils/realityProfiles";
 
 const examples = ["Babel", "Noah", "Eden", "Abram"];
@@ -28,6 +29,8 @@ export default function SearchScreen() {
   const [bookQuery, setBookQuery] = useState("");
   const [selectedBook, setSelectedBook] = useState("Genesis");
   const { palette } = useThemeMode();
+  const { width } = useWindowDimensions();
+  const contentWidth = premiumColumnWidth(width);
   const results = query.trim() ? searchRealityProfiles(query) : allProfiles;
   const visibleResults = results.slice(0, query.trim() ? 12 : 6);
   const hasSearchQuery = query.trim().length > 0;
@@ -111,7 +114,7 @@ export default function SearchScreen() {
 
   return (
     <SafeAreaView edges={["top"]} style={[styles.safe, { backgroundColor: palette.background }]}>
-      <ScrollView contentContainerStyle={styles.container} showsVerticalScrollIndicator={false}>
+      <ScrollView contentContainerStyle={[styles.container, { width: contentWidth }]} showsVerticalScrollIndicator={false}>
         <View style={[styles.masthead, { borderBottomColor: palette.divider }]}>
           <Text style={[styles.brand, { color: palette.text }]}>Bible Reality</Text>
           <Text style={[styles.volume, { color: palette.textMuted }]}>SEARCH</Text>

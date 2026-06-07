@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { ScrollView, StyleSheet, Text, View } from "react-native";
+import { ScrollView, StyleSheet, Text, useWindowDimensions, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 
 import { AppearanceToggle } from "@/components/AppearanceToggle";
@@ -8,6 +8,7 @@ import { SacredNamesToggle } from "@/components/SacredNamesToggle";
 import { spacing } from "@/theme/spacing";
 import { useThemeMode } from "@/theme/themeMode";
 import { typography } from "@/theme/typography";
+import { premiumColumnWidth } from "@/utils/layout";
 import {
   defaultCustomSacredNames,
   getCustomSacredNames,
@@ -22,6 +23,8 @@ export default function SettingsScreen() {
   const [sacredNameStyle, setSacredNameStyleState] = useState<SacredNameStyle>("traditional");
   const [customNames, setCustomNames] = useState<SacredNameMap>(defaultCustomSacredNames);
   const { palette } = useThemeMode();
+  const { width } = useWindowDimensions();
+  const contentWidth = premiumColumnWidth(width);
 
   useEffect(() => {
     getSacredNameStyle().then(setSacredNameStyleState);
@@ -41,7 +44,7 @@ export default function SettingsScreen() {
 
   return (
     <SafeAreaView edges={["top"]} style={[styles.safe, { backgroundColor: palette.background }]}>
-      <ScrollView contentContainerStyle={styles.container} showsVerticalScrollIndicator={false}>
+      <ScrollView contentContainerStyle={[styles.container, { width: contentWidth }]} showsVerticalScrollIndicator={false}>
         <View style={[styles.masthead, { borderBottomColor: palette.divider }]}>
           <Text style={[styles.brand, { color: palette.text }]}>Bible Reality</Text>
           <Text style={[styles.volume, { color: palette.textMuted }]}>SETTINGS</Text>

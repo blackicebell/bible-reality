@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Pressable, ScrollView, StyleSheet, Text, useWindowDimensions, View } from "react-native";
 import { Stack, useLocalSearchParams } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
 import { SafeAreaView } from "react-native-safe-area-context";
@@ -18,6 +18,7 @@ import { StudyNotesCard } from "@/components/StudyNotesCard";
 import { colors } from "@/theme/colors";
 import { spacing } from "@/theme/spacing";
 import { typography } from "@/theme/typography";
+import { premiumColumnWidth } from "@/utils/layout";
 import { getMapById } from "@/utils/mapHelpers";
 import { applySacredNames } from "@/utils/sacredNames";
 import { getAllRealityProfiles, getRealityProfileById } from "@/utils/realityProfiles";
@@ -47,6 +48,7 @@ function toObservableNarrative(items: string[]) {
 
 export default function StudyDetailScreen() {
   const { openRef, passage } = useLocalSearchParams<{ openRef?: string; passage: string }>();
+  const { width } = useWindowDimensions();
   const profile = getRealityProfileById(passage ?? "") ?? getAllRealityProfiles()[0];
   const map = profile.mapId ? getMapById(profile.mapId) : undefined;
   const [sacredNameStyle, setSacredNameStyle] = useState<SacredNameStyle>("traditional");
@@ -56,6 +58,8 @@ export default function StudyDetailScreen() {
   const sacred = (text: string | undefined) => applySacredNames(text, sacredNameStyle, customNames);
   const observableReality = sacred(toObservableNarrative(profile.notice));
   const primaryPlace = profile.placesDetails[0];
+  const isCompact = width < 600;
+  const contentWidth = premiumColumnWidth(width);
 
   useEffect(() => {
     getSacredNameStyle().then(setSacredNameStyle);
@@ -81,19 +85,19 @@ export default function StudyDetailScreen() {
   return (
     <SafeAreaView edges={["top"]} style={styles.safe}>
       <Stack.Screen options={{ title: profile.title }} />
-      <ScrollView contentContainerStyle={styles.container} showsVerticalScrollIndicator={false}>
+      <ScrollView contentContainerStyle={[styles.container, { width: contentWidth }]} showsVerticalScrollIndicator={false}>
         <View style={styles.masthead}>
           <Text style={styles.brand}>Bible Reality</Text>
           <Text style={styles.volume}>{sacred(profile.reference)}</Text>
         </View>
 
-        <View style={styles.header}>
+        <View style={[styles.header, isCompact ? styles.headerCompact : null]}>
           <View style={styles.headerCopy}>
             <Text style={styles.reference}>{sacred(profile.reference)}</Text>
             <Text style={styles.title}>{sacred(profile.title)}</Text>
             <Text style={styles.summary}>{sacred(profile.summary)}</Text>
           </View>
-          <View style={styles.headerActions}>
+          <View style={[styles.headerActions, isCompact ? styles.headerActionsCompact : null]}>
             <Pressable accessibilityLabel="Share passage" onPress={() => setShareVisible(true)} style={styles.saveButton}>
               <Ionicons color={colors.navy} name="share-outline" size={21} />
             </Pressable>
@@ -175,6 +179,9 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     paddingBottom: spacing.xl
   },
+  headerCompact: {
+    flexDirection: "column"
+  },
   headerCopy: {
     flex: 1
   },
@@ -207,6 +214,9 @@ const styles = StyleSheet.create({
   headerActions: {
     flexShrink: 0,
     gap: spacing.sm
+  },
+  headerActionsCompact: {
+    flexDirection: "row"
   },
   savedButton: {
     backgroundColor: colors.ink,

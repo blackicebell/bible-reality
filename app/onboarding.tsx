@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Pressable, ScrollView, StyleSheet, Text, useWindowDimensions, View } from "react-native";
 import { router } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
 import { SafeAreaView } from "react-native-safe-area-context";
@@ -7,6 +7,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import { spacing } from "@/theme/spacing";
 import { useThemeMode } from "@/theme/themeMode";
 import { typography } from "@/theme/typography";
+import { premiumColumnWidth } from "@/utils/layout";
 import { getAllRealityProfiles, searchRealityProfiles } from "@/utils/realityProfiles";
 import { markOnboardingSeen } from "@/utils/storage";
 
@@ -31,8 +32,10 @@ const slides = [
 export default function OnboardingScreen() {
   const [index, setIndex] = useState(0);
   const { palette } = useThemeMode();
+  const { width } = useWindowDimensions();
   const slide = slides[index];
   const creation = searchRealityProfiles("Creation")[0] ?? getAllRealityProfiles()[0];
+  const contentWidth = premiumColumnWidth(width);
 
   async function finish(destination: "home" | "search" | "creation") {
     await markOnboardingSeen();
@@ -49,7 +52,7 @@ export default function OnboardingScreen() {
 
   return (
     <SafeAreaView edges={["top", "bottom"]} style={[styles.safe, { backgroundColor: palette.background }]}>
-      <ScrollView contentContainerStyle={styles.container} showsVerticalScrollIndicator={false}>
+      <ScrollView contentContainerStyle={[styles.container, { width: contentWidth }]} showsVerticalScrollIndicator={false}>
         <View style={[styles.masthead, { borderBottomColor: palette.divider }]}>
           <Text style={[styles.brand, { color: palette.text }]}>Bible Reality</Text>
           <Pressable onPress={() => finish("home")}>
