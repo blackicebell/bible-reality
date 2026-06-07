@@ -10,9 +10,14 @@
     "newArchEnabled": true,
     "ios": {
       "icon": "./assets/icon.png",
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.blackicebell.biblereality",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
+      "package": "com.blackicebell.biblereality",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#F8F5EF"
@@ -28,6 +33,12 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "d24a1863-5727-40f7-8514-c240dae55d06"
+      }
     }
   }
 }
