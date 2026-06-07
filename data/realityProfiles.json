@@ -91044,7 +91044,7 @@
       "character": "David",
       "arc": "Samuel, Saul, and David",
       "previousStory": "1samuel-15-david-and-goliath",
-      "nextStory": null
+      "nextStory": "1samuel-17-david-flees-nob-gath"
     },
     "source": {
       "id": "1samuel-16-david-and-jonathan",
@@ -91238,6 +91238,1835 @@
         ]
       },
       "realitySummary": "David, Jonathan, and Saul's Hostility. David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test."
+    }
+  },
+  {
+    "id": "1samuel-17-david-flees-nob-gath",
+    "sourceFile": "1samuel-17-david-flees-nob-gath.json",
+    "searchTerms": [
+      "David",
+      "Ahimelech",
+      "Achish",
+      "Nob and Gath",
+      "Nob",
+      "Gath",
+      "David Flees to Nob and Gath",
+      "1 Samuel 21",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Flight",
+      "Provision",
+      "Enemy Territory",
+      "United Kingdom Formation",
+      "David Flees to Nob and Gath. David flees to Ahimelech at Nob, receives bread and Goliath's sword, then goes to Achish of Gath and feigns madness."
+    ],
+    "title": "David Flees to Nob and Gath",
+    "reference": "1 Samuel 21",
+    "kicker": "Study",
+    "eventType": [
+      "Flight",
+      "Provision",
+      "Enemy Territory"
+    ],
+    "summary": "David Flees to Nob and Gath. David flees to Ahimelech at Nob, receives bread and Goliath's sword, then goes to Achish of Gath and feigns madness.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "David"
+      },
+      {
+        "label": "Location",
+        "value": "Nob and Gath"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Central hill country / Israel-West Bank region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "David Flees to Nob and Gath",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "David Flees to Nob and Gath",
+    "stepIntoStory": "The scene centers on Nob and Gath. David flees to Ahimelech at Nob, receives bread and Goliath's sword, then goes to Achish of Gath and feigns madness.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "David arriving alone at Nob",
+      "Ahimelech trembling to meet him",
+      "Holy bread given to David",
+      "Doeg the Edomite present",
+      "Goliath's sword kept wrapped behind the ephod",
+      "David going to Gath",
+      "Servants of Achish recognizing David",
+      "David scratching on doors and drooling"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "David parted from Jonathan and fled Saul's court."
+      },
+      {
+        "label": "Now",
+        "value": "David flees to Ahimelech at Nob, receives bread and Goliath's sword, then goes to Achish of Gath and feigns madness."
+      },
+      {
+        "label": "Next",
+        "value": "David gathers followers at Adullam, and Saul kills the priests of Nob."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Nob and Gath."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "David",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Ahimelech",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Achish",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Nob and Gath",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Nob",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Priestly town where Ahimelech serves"
+      },
+      {
+        "ancientName": "Gath",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Philistine city ruled by Achish"
+      }
+    ],
+    "people": [
+      "David",
+      "Ahimelech",
+      "Achish"
+    ],
+    "places": [
+      "Nob and Gath",
+      "Nob",
+      "Gath"
+    ],
+    "movement": [
+      "David flees to Ahimelech at Nob, receives bread and Goliath's sword, then goes to Achish of Gath and feigns madness.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Nob and Gath",
+      "destination": "Nob and Gath",
+      "route": [
+        "David flees to Ahimelech at Nob, receives bread and Goliath's sword, then goes to Achish of Gath and feigns madness.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Nob and Gath",
+        "Nob",
+        "Gath"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 21 focuses on David Flees to Nob and Gath. David flees to Ahimelech at Nob, receives bread and Goliath's sword, then goes to Achish of Gath and feigns madness. The scene is grounded in Nob and Gath, with Ahimelech, Achish directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-16-david-and-jonathan",
+      "1 Samuel 21",
+      "1samuel-18-adullam-and-nob-massacre",
+      "Matthew 12:3-4",
+      "Mark 2:25-26",
+      "Luke 6:3-4"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-16-david-and-jonathan"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 21"
+      ],
+      "laterReferences": [
+        "1samuel-18-adullam-and-nob-massacre"
+      ],
+      "newTestamentReferences": [
+        "Matthew 12:3-4",
+        "Mark 2:25-26",
+        "Luke 6:3-4"
+      ]
+    },
+    "series": {
+      "character": "David",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-16-david-and-jonathan",
+      "nextStory": "1samuel-18-adullam-and-nob-massacre"
+    },
+    "source": {
+      "id": "1samuel-17-david-flees-nob-gath",
+      "reference": "1 Samuel 21",
+      "storyTitle": "David Flees to Nob and Gath",
+      "eventType": [
+        "Flight",
+        "Provision",
+        "Enemy Territory"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "David",
+        "approximateAge": null,
+        "currentLocation": "Nob and Gath",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Ahimelech",
+          "Achish"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "David",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Ahimelech",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Achish",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Nob and Gath",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Nob",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Priestly town where Ahimelech serves"
+        },
+        {
+          "ancientName": "Gath",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Philistine city ruled by Achish"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Nob and Gath",
+        "destination": "Nob and Gath",
+        "route": [
+          "David flees to Ahimelech at Nob, receives bread and Goliath's sword, then goes to Achish of Gath and feigns madness.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Nob and Gath",
+          "Nob",
+          "Gath"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "David parted from Jonathan and fled Saul's court.",
+        "whatIsHappeningNow": "David flees to Ahimelech at Nob, receives bread and Goliath's sword, then goes to Achish of Gath and feigns madness.",
+        "whatHappensAfter": "David gathers followers at Adullam, and Saul kills the priests of Nob.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "David Flees to Nob and Gath ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Nob and Gath.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Nob and Gath. David flees to Ahimelech at Nob, receives bread and Goliath's sword, then goes to Achish of Gath and feigns madness.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "David arriving alone at Nob",
+        "Ahimelech trembling to meet him",
+        "Holy bread given to David",
+        "Doeg the Edomite present",
+        "Goliath's sword kept wrapped behind the ephod",
+        "David going to Gath",
+        "Servants of Achish recognizing David",
+        "David scratching on doors and drooling"
+      ],
+      "audioScript": "1 Samuel 21 focuses on David Flees to Nob and Gath. David flees to Ahimelech at Nob, receives bread and Goliath's sword, then goes to Achish of Gath and feigns madness. The scene is grounded in Nob and Gath, with Ahimelech, Achish directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-16-david-and-jonathan"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 21"
+        ],
+        "laterReferences": [
+          "1samuel-18-adullam-and-nob-massacre"
+        ],
+        "newTestamentReferences": [
+          "Matthew 12:3-4",
+          "Mark 2:25-26",
+          "Luke 6:3-4"
+        ]
+      },
+      "series": {
+        "character": "David",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-16-david-and-jonathan",
+        "nextStory": "1samuel-18-adullam-and-nob-massacre"
+      },
+      "search": {
+        "people": [
+          "David",
+          "Ahimelech",
+          "Achish"
+        ],
+        "places": [
+          "Nob and Gath",
+          "Nob",
+          "Gath"
+        ],
+        "events": [
+          "David Flees to Nob and Gath",
+          "1 Samuel 21",
+          "Ahimelech",
+          "Achish"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "David Flees to Nob and Gath",
+          "1 Samuel 21"
+        ]
+      },
+      "realitySummary": "David Flees to Nob and Gath. David flees to Ahimelech at Nob, receives bread and Goliath's sword, then goes to Achish of Gath and feigns madness."
+    }
+  },
+  {
+    "id": "1samuel-18-adullam-and-nob-massacre",
+    "sourceFile": "1samuel-18-adullam-and-nob-massacre.json",
+    "searchTerms": [
+      "David and Saul",
+      "David's family",
+      "Doeg",
+      "Abiathar",
+      "Adullam, Mizpah, Gibeah, and Nob",
+      "Cave of Adullam",
+      "Nob",
+      "Gibeah",
+      "David at Adullam and Saul Kills the Priests of Nob",
+      "1 Samuel 22",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Flight",
+      "Refuge",
+      "Massacre",
+      "United Kingdom Formation",
+      "David at Adullam and Saul Kills the Priests of Nob. David gathers distressed followers at Adullam, Saul accuses his servants, and Doeg kills the priests of Nob; Abiathar escapes to David."
+    ],
+    "title": "David at Adullam and Saul Kills the Priests of Nob",
+    "reference": "1 Samuel 22",
+    "kicker": "Study",
+    "eventType": [
+      "Flight",
+      "Refuge",
+      "Massacre"
+    ],
+    "summary": "David at Adullam and Saul Kills the Priests of Nob. David gathers distressed followers at Adullam, Saul accuses his servants, and Doeg kills the priests of Nob; Abiathar escapes to David.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "David and Saul"
+      },
+      {
+        "label": "Location",
+        "value": "Adullam, Mizpah, Gibeah, and Nob"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Judah / southern hill country region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "David at Adullam and Saul Kills the Priests of Nob",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "David at Adullam and Saul Kills the Priests of Nob",
+    "stepIntoStory": "The scene centers on Adullam, Mizpah, Gibeah, and Nob. David gathers distressed followers at Adullam, Saul accuses his servants, and Doeg kills the priests of Nob; Abiathar escapes to David.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Cave of Adullam as refuge",
+      "David's family coming down to him",
+      "About four hundred men gathering to David",
+      "David taking parents to Moab",
+      "Saul sitting under tamarisk with spear",
+      "Priests summoned from Nob",
+      "Doeg killing priests",
+      "Abiathar escaping with ephod"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "David fled to Nob and Gath."
+      },
+      {
+        "label": "Now",
+        "value": "David gathers distressed followers at Adullam, Saul accuses his servants, and Doeg kills the priests of Nob; Abiathar escapes to David."
+      },
+      {
+        "label": "Next",
+        "value": "David rescues Keilah and continues fleeing Saul."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Adullam, Mizpah, Gibeah, and Nob."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "David and Saul",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "David's family",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Doeg",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Abiathar",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Adullam, Mizpah, Gibeah, and Nob",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Cave of Adullam",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "David's refuge"
+      },
+      {
+        "ancientName": "Nob",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Priestly town destroyed by Saul's order"
+      },
+      {
+        "ancientName": "Gibeah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Saul's royal setting"
+      }
+    ],
+    "people": [
+      "David and Saul",
+      "David's family",
+      "Doeg",
+      "Abiathar"
+    ],
+    "places": [
+      "Adullam, Mizpah, Gibeah, and Nob",
+      "Cave of Adullam",
+      "Nob",
+      "Gibeah"
+    ],
+    "movement": [
+      "David gathers distressed followers at Adullam, Saul accuses his servants, and Doeg kills the priests of Nob; Abiathar escapes to David.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Adullam, Mizpah, Gibeah, and Nob",
+      "destination": "Adullam, Mizpah, Gibeah, and Nob",
+      "route": [
+        "David gathers distressed followers at Adullam, Saul accuses his servants, and Doeg kills the priests of Nob; Abiathar escapes to David.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Adullam, Mizpah, Gibeah, and Nob",
+        "Cave of Adullam",
+        "Nob",
+        "Gibeah"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 22 focuses on David at Adullam and Saul Kills the Priests of Nob. David gathers distressed followers at Adullam, Saul accuses his servants, and Doeg kills the priests of Nob; Abiathar escapes to David. The scene is grounded in Adullam, Mizpah, Gibeah, and Nob, with David's family, Doeg, Abiathar directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-17-david-flees-nob-gath",
+      "1 Samuel 22",
+      "1samuel-19-david-saves-keilah"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-17-david-flees-nob-gath"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 22"
+      ],
+      "laterReferences": [
+        "1samuel-19-david-saves-keilah"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "David and Saul",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-17-david-flees-nob-gath",
+      "nextStory": "1samuel-19-david-saves-keilah"
+    },
+    "source": {
+      "id": "1samuel-18-adullam-and-nob-massacre",
+      "reference": "1 Samuel 22",
+      "storyTitle": "David at Adullam and Saul Kills the Priests of Nob",
+      "eventType": [
+        "Flight",
+        "Refuge",
+        "Massacre"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "David and Saul",
+        "approximateAge": null,
+        "currentLocation": "Adullam, Mizpah, Gibeah, and Nob",
+        "modernRegion": "Judah / southern hill country region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "David's family",
+          "Doeg",
+          "Abiathar"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "David and Saul",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "David's family",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Doeg",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Abiathar",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Adullam, Mizpah, Gibeah, and Nob",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Cave of Adullam",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "David's refuge"
+        },
+        {
+          "ancientName": "Nob",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Priestly town destroyed by Saul's order"
+        },
+        {
+          "ancientName": "Gibeah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Saul's royal setting"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Adullam, Mizpah, Gibeah, and Nob",
+        "destination": "Adullam, Mizpah, Gibeah, and Nob",
+        "route": [
+          "David gathers distressed followers at Adullam, Saul accuses his servants, and Doeg kills the priests of Nob; Abiathar escapes to David.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Adullam, Mizpah, Gibeah, and Nob",
+          "Cave of Adullam",
+          "Nob",
+          "Gibeah"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "David fled to Nob and Gath.",
+        "whatIsHappeningNow": "David gathers distressed followers at Adullam, Saul accuses his servants, and Doeg kills the priests of Nob; Abiathar escapes to David.",
+        "whatHappensAfter": "David rescues Keilah and continues fleeing Saul.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "David at Adullam and Saul Kills the Priests of Nob ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Adullam, Mizpah, Gibeah, and Nob.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Adullam, Mizpah, Gibeah, and Nob. David gathers distressed followers at Adullam, Saul accuses his servants, and Doeg kills the priests of Nob; Abiathar escapes to David.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Cave of Adullam as refuge",
+        "David's family coming down to him",
+        "About four hundred men gathering to David",
+        "David taking parents to Moab",
+        "Saul sitting under tamarisk with spear",
+        "Priests summoned from Nob",
+        "Doeg killing priests",
+        "Abiathar escaping with ephod"
+      ],
+      "audioScript": "1 Samuel 22 focuses on David at Adullam and Saul Kills the Priests of Nob. David gathers distressed followers at Adullam, Saul accuses his servants, and Doeg kills the priests of Nob; Abiathar escapes to David. The scene is grounded in Adullam, Mizpah, Gibeah, and Nob, with David's family, Doeg, Abiathar directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-17-david-flees-nob-gath"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 22"
+        ],
+        "laterReferences": [
+          "1samuel-19-david-saves-keilah"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "David and Saul",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-17-david-flees-nob-gath",
+        "nextStory": "1samuel-19-david-saves-keilah"
+      },
+      "search": {
+        "people": [
+          "David and Saul",
+          "David's family",
+          "Doeg",
+          "Abiathar"
+        ],
+        "places": [
+          "Adullam, Mizpah, Gibeah, and Nob",
+          "Cave of Adullam",
+          "Nob",
+          "Gibeah"
+        ],
+        "events": [
+          "David at Adullam and Saul Kills the Priests of Nob",
+          "1 Samuel 22",
+          "David's family",
+          "Doeg",
+          "Abiathar"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "David at Adullam and Saul Kills the Priests of Nob",
+          "1 Samuel 22"
+        ]
+      },
+      "realitySummary": "David at Adullam and Saul Kills the Priests of Nob. David gathers distressed followers at Adullam, Saul accuses his servants, and Doeg kills the priests of Nob; Abiathar escapes to David."
+    }
+  },
+  {
+    "id": "1samuel-19-david-saves-keilah",
+    "sourceFile": "1samuel-19-david-saves-keilah.json",
+    "searchTerms": [
+      "David",
+      "Saul",
+      "Jonathan",
+      "Abiathar",
+      "Keilah, Ziph, and Maon",
+      "Keilah",
+      "Ziph",
+      "Maon",
+      "David Saves Keilah and Escapes Saul",
+      "1 Samuel 23",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Flight",
+      "Rescue",
+      "Wilderness Pursuit",
+      "United Kingdom Formation",
+      "David Saves Keilah and Escapes Saul. David rescues Keilah from Philistines, learns Saul will come, flees through strongholds, and escapes near Maon."
+    ],
+    "title": "David Saves Keilah and Escapes Saul",
+    "reference": "1 Samuel 23",
+    "kicker": "Study",
+    "eventType": [
+      "Flight",
+      "Rescue",
+      "Wilderness Pursuit"
+    ],
+    "summary": "David Saves Keilah and Escapes Saul. David rescues Keilah from Philistines, learns Saul will come, flees through strongholds, and escapes near Maon.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "David"
+      },
+      {
+        "label": "Location",
+        "value": "Keilah, Ziph, and Maon"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Judah / southern hill country region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "David Saves Keilah and Escapes Saul",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "David Saves Keilah and Escapes Saul",
+    "stepIntoStory": "The scene centers on Keilah, Ziph, and Maon. David rescues Keilah from Philistines, learns Saul will come, flees through strongholds, and escapes near Maon.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Philistines attacking Keilah's threshing floors",
+      "David inquiring through Abiathar",
+      "Keilah saved",
+      "Saul planning to trap David in a walled town",
+      "David moving through wilderness strongholds",
+      "Jonathan meeting David at Horesh",
+      "Ziphites reporting David to Saul",
+      "Saul on one side of mountain, David on the other",
+      "Messenger calling Saul away"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Abiathar escaped to David after the massacre at Nob."
+      },
+      {
+        "label": "Now",
+        "value": "David rescues Keilah from Philistines, learns Saul will come, flees through strongholds, and escapes near Maon."
+      },
+      {
+        "label": "Next",
+        "value": "David spares Saul in a cave at En-gedi."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Keilah, Ziph, and Maon."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "David",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Saul",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Jonathan",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Abiathar",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Keilah, Ziph, and Maon",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Keilah",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Town David rescues"
+      },
+      {
+        "ancientName": "Ziph",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Wilderness region where David hides"
+      },
+      {
+        "ancientName": "Maon",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Wilderness pursuit setting"
+      }
+    ],
+    "people": [
+      "David",
+      "Saul",
+      "Jonathan",
+      "Abiathar"
+    ],
+    "places": [
+      "Keilah, Ziph, and Maon",
+      "Keilah",
+      "Ziph",
+      "Maon"
+    ],
+    "movement": [
+      "David rescues Keilah from Philistines, learns Saul will come, flees through strongholds, and escapes near Maon.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Keilah, Ziph, and Maon",
+      "destination": "Keilah, Ziph, and Maon",
+      "route": [
+        "David rescues Keilah from Philistines, learns Saul will come, flees through strongholds, and escapes near Maon.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Keilah, Ziph, and Maon",
+        "Keilah",
+        "Ziph",
+        "Maon"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 23 focuses on David Saves Keilah and Escapes Saul. David rescues Keilah from Philistines, learns Saul will come, flees through strongholds, and escapes near Maon. The scene is grounded in Keilah, Ziph, and Maon, with Saul, Jonathan, Abiathar directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-18-adullam-and-nob-massacre",
+      "1 Samuel 23",
+      "1samuel-20-david-spares-saul-cave"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-18-adullam-and-nob-massacre"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 23"
+      ],
+      "laterReferences": [
+        "1samuel-20-david-spares-saul-cave"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "David",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-18-adullam-and-nob-massacre",
+      "nextStory": "1samuel-20-david-spares-saul-cave"
+    },
+    "source": {
+      "id": "1samuel-19-david-saves-keilah",
+      "reference": "1 Samuel 23",
+      "storyTitle": "David Saves Keilah and Escapes Saul",
+      "eventType": [
+        "Flight",
+        "Rescue",
+        "Wilderness Pursuit"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "David",
+        "approximateAge": null,
+        "currentLocation": "Keilah, Ziph, and Maon",
+        "modernRegion": "Judah / southern hill country region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Saul",
+          "Jonathan",
+          "Abiathar"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "David",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Saul",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Jonathan",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Abiathar",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Keilah, Ziph, and Maon",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Keilah",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Town David rescues"
+        },
+        {
+          "ancientName": "Ziph",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Wilderness region where David hides"
+        },
+        {
+          "ancientName": "Maon",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Wilderness pursuit setting"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Keilah, Ziph, and Maon",
+        "destination": "Keilah, Ziph, and Maon",
+        "route": [
+          "David rescues Keilah from Philistines, learns Saul will come, flees through strongholds, and escapes near Maon.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Keilah, Ziph, and Maon",
+          "Keilah",
+          "Ziph",
+          "Maon"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "Abiathar escaped to David after the massacre at Nob.",
+        "whatIsHappeningNow": "David rescues Keilah from Philistines, learns Saul will come, flees through strongholds, and escapes near Maon.",
+        "whatHappensAfter": "David spares Saul in a cave at En-gedi.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "David Saves Keilah and Escapes Saul ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Keilah, Ziph, and Maon.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Keilah, Ziph, and Maon. David rescues Keilah from Philistines, learns Saul will come, flees through strongholds, and escapes near Maon.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Philistines attacking Keilah's threshing floors",
+        "David inquiring through Abiathar",
+        "Keilah saved",
+        "Saul planning to trap David in a walled town",
+        "David moving through wilderness strongholds",
+        "Jonathan meeting David at Horesh",
+        "Ziphites reporting David to Saul",
+        "Saul on one side of mountain, David on the other",
+        "Messenger calling Saul away"
+      ],
+      "audioScript": "1 Samuel 23 focuses on David Saves Keilah and Escapes Saul. David rescues Keilah from Philistines, learns Saul will come, flees through strongholds, and escapes near Maon. The scene is grounded in Keilah, Ziph, and Maon, with Saul, Jonathan, Abiathar directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-18-adullam-and-nob-massacre"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 23"
+        ],
+        "laterReferences": [
+          "1samuel-20-david-spares-saul-cave"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "David",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-18-adullam-and-nob-massacre",
+        "nextStory": "1samuel-20-david-spares-saul-cave"
+      },
+      "search": {
+        "people": [
+          "David",
+          "Saul",
+          "Jonathan",
+          "Abiathar"
+        ],
+        "places": [
+          "Keilah, Ziph, and Maon",
+          "Keilah",
+          "Ziph",
+          "Maon"
+        ],
+        "events": [
+          "David Saves Keilah and Escapes Saul",
+          "1 Samuel 23",
+          "Saul",
+          "Jonathan",
+          "Abiathar"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "David Saves Keilah and Escapes Saul",
+          "1 Samuel 23"
+        ]
+      },
+      "realitySummary": "David Saves Keilah and Escapes Saul. David rescues Keilah from Philistines, learns Saul will come, flees through strongholds, and escapes near Maon."
+    }
+  },
+  {
+    "id": "1samuel-20-david-spares-saul-cave",
+    "sourceFile": "1samuel-20-david-spares-saul-cave.json",
+    "searchTerms": [
+      "David",
+      "Saul",
+      "David's men",
+      "En-gedi wilderness",
+      "En-gedi",
+      "Cave",
+      "David Spares Saul in the Cave at En-gedi",
+      "1 Samuel 24",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Flight",
+      "Cave Encounter",
+      "Sparing Life",
+      "United Kingdom Formation",
+      "David Spares Saul in the Cave at En-gedi. David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him."
+    ],
+    "title": "David Spares Saul in the Cave at En-gedi",
+    "reference": "1 Samuel 24",
+    "kicker": "Study",
+    "eventType": [
+      "Flight",
+      "Cave Encounter",
+      "Sparing Life"
+    ],
+    "summary": "David Spares Saul in the Cave at En-gedi. David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "David"
+      },
+      {
+        "label": "Location",
+        "value": "En-gedi wilderness"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Judah / southern hill country region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "David Spares Saul in the Cave at En-gedi",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "David Spares Saul in the Cave at En-gedi",
+    "stepIntoStory": "The scene centers on En-gedi wilderness. David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Wilderness of En-gedi",
+      "Wild goat rocks and strongholds",
+      "Saul entering cave to relieve himself",
+      "David's men hidden deep in cave",
+      "David cutting corner of Saul's robe",
+      "David calling after Saul outside cave",
+      "Saul lifting his voice and weeping",
+      "Request concerning Saul's descendants"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "David escaped Saul near Maon when Saul was called away."
+      },
+      {
+        "label": "Now",
+        "value": "David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him."
+      },
+      {
+        "label": "Next",
+        "value": "Samuel dies, and David encounters Nabal and Abigail."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is En-gedi wilderness."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "David",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Saul",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "David's men",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "En-gedi wilderness",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "En-gedi",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Wilderness oasis region near Dead Sea"
+      },
+      {
+        "ancientName": "Cave",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Place where David's men hide and Saul enters"
+      }
+    ],
+    "people": [
+      "David",
+      "Saul",
+      "David's men"
+    ],
+    "places": [
+      "En-gedi wilderness",
+      "En-gedi",
+      "Cave"
+    ],
+    "movement": [
+      "David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "En-gedi wilderness",
+      "destination": "En-gedi wilderness",
+      "route": [
+        "David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "En-gedi wilderness",
+        "En-gedi",
+        "Cave"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 24 focuses on David Spares Saul in the Cave at En-gedi. David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him. The scene is grounded in En-gedi wilderness, with Saul, David's men directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-19-david-saves-keilah",
+      "1 Samuel 24",
+      "1samuel-21-samuel-dies-and-abigail"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-19-david-saves-keilah"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 24"
+      ],
+      "laterReferences": [
+        "1samuel-21-samuel-dies-and-abigail"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "David",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-19-david-saves-keilah",
+      "nextStory": null
+    },
+    "source": {
+      "id": "1samuel-20-david-spares-saul-cave",
+      "reference": "1 Samuel 24",
+      "storyTitle": "David Spares Saul in the Cave at En-gedi",
+      "eventType": [
+        "Flight",
+        "Cave Encounter",
+        "Sparing Life"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "David",
+        "approximateAge": null,
+        "currentLocation": "En-gedi wilderness",
+        "modernRegion": "Judah / southern hill country region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Saul",
+          "David's men"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "David",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Saul",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "David's men",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "En-gedi wilderness",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "En-gedi",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Wilderness oasis region near Dead Sea"
+        },
+        {
+          "ancientName": "Cave",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Place where David's men hide and Saul enters"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "En-gedi wilderness",
+        "destination": "En-gedi wilderness",
+        "route": [
+          "David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "En-gedi wilderness",
+          "En-gedi",
+          "Cave"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "David escaped Saul near Maon when Saul was called away.",
+        "whatIsHappeningNow": "David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him.",
+        "whatHappensAfter": "Samuel dies, and David encounters Nabal and Abigail.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "David Spares Saul in the Cave at En-gedi ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is En-gedi wilderness.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on En-gedi wilderness. David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Wilderness of En-gedi",
+        "Wild goat rocks and strongholds",
+        "Saul entering cave to relieve himself",
+        "David's men hidden deep in cave",
+        "David cutting corner of Saul's robe",
+        "David calling after Saul outside cave",
+        "Saul lifting his voice and weeping",
+        "Request concerning Saul's descendants"
+      ],
+      "audioScript": "1 Samuel 24 focuses on David Spares Saul in the Cave at En-gedi. David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him. The scene is grounded in En-gedi wilderness, with Saul, David's men directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-19-david-saves-keilah"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 24"
+        ],
+        "laterReferences": [
+          "1samuel-21-samuel-dies-and-abigail"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "David",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-19-david-saves-keilah",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "David",
+          "Saul",
+          "David's men"
+        ],
+        "places": [
+          "En-gedi wilderness",
+          "En-gedi",
+          "Cave"
+        ],
+        "events": [
+          "David Spares Saul in the Cave at En-gedi",
+          "1 Samuel 24",
+          "Saul",
+          "David's men"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "David Spares Saul in the Cave at En-gedi",
+          "1 Samuel 24"
+        ]
+      },
+      "realitySummary": "David Spares Saul in the Cave at En-gedi. David finds Saul in a cave at En-gedi, cuts Saul's robe, and refuses to kill him."
     }
   }
 ]
