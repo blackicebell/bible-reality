@@ -89655,7 +89655,7 @@
       "character": "Saul",
       "arc": "Samuel, Saul, and David",
       "previousStory": "1samuel-12-jonathan-michmash",
-      "nextStory": null
+      "nextStory": "1samuel-14-david-anointed"
     },
     "source": {
       "id": "1samuel-13-saul-rejected-amalek",
@@ -89856,6 +89856,1388 @@
         ]
       },
       "realitySummary": "Saul Is Rejected After the Amalek Campaign. Saul campaigns against Amalek, spares Agag and animals, and Samuel announces that Saul is rejected as king."
+    }
+  },
+  {
+    "id": "1samuel-14-david-anointed",
+    "sourceFile": "1samuel-14-david-anointed.json",
+    "searchTerms": [
+      "David",
+      "Samuel",
+      "Jesse",
+      "Saul",
+      "Bethlehem and Saul's court",
+      "Bethlehem",
+      "Saul's court",
+      "David Is Anointed and Enters Saul's Service",
+      "1 Samuel 16",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Anointing",
+      "Royal Court",
+      "Leadership Transition",
+      "United Kingdom Formation",
+      "David Is Anointed and Enters Saul's Service. Samuel goes to Bethlehem, anoints David among Jesse's sons, and David later enters Saul's service as musician and armor-bearer."
+    ],
+    "title": "David Is Anointed and Enters Saul's Service",
+    "reference": "1 Samuel 16",
+    "kicker": "Study",
+    "eventType": [
+      "Anointing",
+      "Royal Court",
+      "Leadership Transition"
+    ],
+    "summary": "David Is Anointed and Enters Saul's Service. Samuel goes to Bethlehem, anoints David among Jesse's sons, and David later enters Saul's service as musician and armor-bearer.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "David"
+      },
+      {
+        "label": "Location",
+        "value": "Bethlehem and Saul's court"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Judah / southern hill country region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "David Is Anointed and Enters Saul's Service",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "David Is Anointed and Enters Saul's Service",
+    "stepIntoStory": "The scene centers on Bethlehem and Saul's court. Samuel goes to Bethlehem, anoints David among Jesse's sons, and David later enters Saul's service as musician and armor-bearer.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Samuel going to Bethlehem with a heifer",
+      "Elders of Bethlehem trembling",
+      "Jesse's sons passing before Samuel",
+      "David brought from keeping sheep",
+      "Horn of oil used for anointing",
+      "David playing lyre before Saul",
+      "Saul refreshed by David's music"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Saul was rejected after the Amalek campaign."
+      },
+      {
+        "label": "Now",
+        "value": "Samuel goes to Bethlehem, anoints David among Jesse's sons, and David later enters Saul's service as musician and armor-bearer."
+      },
+      {
+        "label": "Next",
+        "value": "David comes to the Valley of Elah and fights Goliath."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Bethlehem and Saul's court."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "David",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Samuel",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Jesse",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Saul",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Bethlehem and Saul's court",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Bethlehem",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "David's family town"
+      },
+      {
+        "ancientName": "Saul's court",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Royal setting where David serves"
+      }
+    ],
+    "people": [
+      "David",
+      "Samuel",
+      "Jesse",
+      "Saul"
+    ],
+    "places": [
+      "Bethlehem and Saul's court",
+      "Bethlehem",
+      "Saul's court"
+    ],
+    "movement": [
+      "Samuel goes to Bethlehem, anoints David among Jesse's sons, and David later enters Saul's service as musician and armor-bearer.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Bethlehem and Saul's court",
+      "destination": "Bethlehem and Saul's court",
+      "route": [
+        "Samuel goes to Bethlehem, anoints David among Jesse's sons, and David later enters Saul's service as musician and armor-bearer.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Bethlehem and Saul's court",
+        "Bethlehem",
+        "Saul's court"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 16 focuses on David Is Anointed and Enters Saul's Service. Samuel goes to Bethlehem, anoints David among Jesse's sons, and David later enters Saul's service as musician and armor-bearer. The scene is grounded in Bethlehem and Saul's court, with Samuel, Jesse, Saul directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-13-saul-rejected-amalek",
+      "1 Samuel 16",
+      "1samuel-15-david-and-goliath",
+      "Acts 13:22"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-13-saul-rejected-amalek"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 16"
+      ],
+      "laterReferences": [
+        "1samuel-15-david-and-goliath"
+      ],
+      "newTestamentReferences": [
+        "Acts 13:22"
+      ]
+    },
+    "series": {
+      "character": "David",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-13-saul-rejected-amalek",
+      "nextStory": "1samuel-15-david-and-goliath"
+    },
+    "source": {
+      "id": "1samuel-14-david-anointed",
+      "reference": "1 Samuel 16",
+      "storyTitle": "David Is Anointed and Enters Saul's Service",
+      "eventType": [
+        "Anointing",
+        "Royal Court",
+        "Leadership Transition"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "David",
+        "approximateAge": null,
+        "currentLocation": "Bethlehem and Saul's court",
+        "modernRegion": "Judah / southern hill country region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Samuel",
+          "Jesse",
+          "Saul"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "David",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Samuel",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Jesse",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Saul",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Bethlehem and Saul's court",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Bethlehem",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "David's family town"
+        },
+        {
+          "ancientName": "Saul's court",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Royal setting where David serves"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Bethlehem and Saul's court",
+        "destination": "Bethlehem and Saul's court",
+        "route": [
+          "Samuel goes to Bethlehem, anoints David among Jesse's sons, and David later enters Saul's service as musician and armor-bearer.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Bethlehem and Saul's court",
+          "Bethlehem",
+          "Saul's court"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "Saul was rejected after the Amalek campaign.",
+        "whatIsHappeningNow": "Samuel goes to Bethlehem, anoints David among Jesse's sons, and David later enters Saul's service as musician and armor-bearer.",
+        "whatHappensAfter": "David comes to the Valley of Elah and fights Goliath.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "David Is Anointed and Enters Saul's Service ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Bethlehem and Saul's court.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Bethlehem and Saul's court. Samuel goes to Bethlehem, anoints David among Jesse's sons, and David later enters Saul's service as musician and armor-bearer.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Samuel going to Bethlehem with a heifer",
+        "Elders of Bethlehem trembling",
+        "Jesse's sons passing before Samuel",
+        "David brought from keeping sheep",
+        "Horn of oil used for anointing",
+        "David playing lyre before Saul",
+        "Saul refreshed by David's music"
+      ],
+      "audioScript": "1 Samuel 16 focuses on David Is Anointed and Enters Saul's Service. Samuel goes to Bethlehem, anoints David among Jesse's sons, and David later enters Saul's service as musician and armor-bearer. The scene is grounded in Bethlehem and Saul's court, with Samuel, Jesse, Saul directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-13-saul-rejected-amalek"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 16"
+        ],
+        "laterReferences": [
+          "1samuel-15-david-and-goliath"
+        ],
+        "newTestamentReferences": [
+          "Acts 13:22"
+        ]
+      },
+      "series": {
+        "character": "David",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-13-saul-rejected-amalek",
+        "nextStory": "1samuel-15-david-and-goliath"
+      },
+      "search": {
+        "people": [
+          "David",
+          "Samuel",
+          "Jesse",
+          "Saul"
+        ],
+        "places": [
+          "Bethlehem and Saul's court",
+          "Bethlehem",
+          "Saul's court"
+        ],
+        "events": [
+          "David Is Anointed and Enters Saul's Service",
+          "1 Samuel 16",
+          "Samuel",
+          "Jesse",
+          "Saul"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "David Is Anointed and Enters Saul's Service",
+          "1 Samuel 16"
+        ]
+      },
+      "realitySummary": "David Is Anointed and Enters Saul's Service. Samuel goes to Bethlehem, anoints David among Jesse's sons, and David later enters Saul's service as musician and armor-bearer."
+    }
+  },
+  {
+    "id": "1samuel-15-david-and-goliath",
+    "sourceFile": "1samuel-15-david-and-goliath.json",
+    "searchTerms": [
+      "David",
+      "Saul",
+      "Goliath",
+      "Jesse's sons",
+      "Valley of Elah",
+      "Socoh/Azekah",
+      "Gath",
+      "David and Goliath in the Valley of Elah",
+      "1 Samuel 17",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Battle",
+      "Single Combat",
+      "Military Deliverance",
+      "United Kingdom Formation",
+      "David and Goliath in the Valley of Elah. David comes from Bethlehem to the battle lines, confronts Goliath, and Israel pursues the Philistines."
+    ],
+    "title": "David and Goliath in the Valley of Elah",
+    "reference": "1 Samuel 17",
+    "kicker": "Study",
+    "eventType": [
+      "Battle",
+      "Single Combat",
+      "Military Deliverance"
+    ],
+    "summary": "David and Goliath in the Valley of Elah. David comes from Bethlehem to the battle lines, confronts Goliath, and Israel pursues the Philistines.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "David"
+      },
+      {
+        "label": "Location",
+        "value": "Valley of Elah"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Judah / southern hill country region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "David and Goliath in the Valley of Elah",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "David and Goliath in the Valley of Elah",
+    "stepIntoStory": "The scene centers on Valley of Elah. David comes from Bethlehem to the battle lines, confronts Goliath, and Israel pursues the Philistines.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Opposing armies on two hillsides",
+      "Valley between Israel and Philistines",
+      "Goliath's armor and spear described",
+      "David carrying provisions from Jesse",
+      "David selecting five smooth stones",
+      "Sling and stone used in combat",
+      "Philistines fleeing toward Gath and Ekron"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "David was anointed in Bethlehem and entered Saul's service."
+      },
+      {
+        "label": "Now",
+        "value": "David comes from Bethlehem to the battle lines, confronts Goliath, and Israel pursues the Philistines."
+      },
+      {
+        "label": "Next",
+        "value": "David's relationship with Jonathan begins, and Saul's hostility grows."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Valley of Elah."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "David",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Saul",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Goliath",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Jesse's sons",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Valley of Elah",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Valley of Elah",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Battlefield between Israel and Philistines"
+      },
+      {
+        "ancientName": "Socoh/Azekah",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Philistine camp area references"
+      },
+      {
+        "ancientName": "Gath",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Goliath's city association"
+      }
+    ],
+    "people": [
+      "David",
+      "Saul",
+      "Goliath",
+      "Jesse's sons"
+    ],
+    "places": [
+      "Valley of Elah",
+      "Valley of Elah",
+      "Socoh/Azekah",
+      "Gath"
+    ],
+    "movement": [
+      "David comes from Bethlehem to the battle lines, confronts Goliath, and Israel pursues the Philistines.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Valley of Elah",
+      "destination": "Valley of Elah",
+      "route": [
+        "David comes from Bethlehem to the battle lines, confronts Goliath, and Israel pursues the Philistines.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Valley of Elah",
+        "Valley of Elah",
+        "Socoh/Azekah",
+        "Gath"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 17 focuses on David and Goliath in the Valley of Elah. David comes from Bethlehem to the battle lines, confronts Goliath, and Israel pursues the Philistines. The scene is grounded in Valley of Elah, with Saul, Goliath, Jesse's sons directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-14-david-anointed",
+      "1 Samuel 17",
+      "1samuel-16-david-and-jonathan",
+      "Hebrews 11:32"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-14-david-anointed"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 17"
+      ],
+      "laterReferences": [
+        "1samuel-16-david-and-jonathan"
+      ],
+      "newTestamentReferences": [
+        "Hebrews 11:32"
+      ]
+    },
+    "series": {
+      "character": "David",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-14-david-anointed",
+      "nextStory": "1samuel-16-david-and-jonathan"
+    },
+    "source": {
+      "id": "1samuel-15-david-and-goliath",
+      "reference": "1 Samuel 17",
+      "storyTitle": "David and Goliath in the Valley of Elah",
+      "eventType": [
+        "Battle",
+        "Single Combat",
+        "Military Deliverance"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "David",
+        "approximateAge": null,
+        "currentLocation": "Valley of Elah",
+        "modernRegion": "Judah / southern hill country region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Saul",
+          "Goliath",
+          "Jesse's sons"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "David",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Saul",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Goliath",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Jesse's sons",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Valley of Elah",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Valley of Elah",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Battlefield between Israel and Philistines"
+        },
+        {
+          "ancientName": "Socoh/Azekah",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Philistine camp area references"
+        },
+        {
+          "ancientName": "Gath",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Goliath's city association"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Valley of Elah",
+        "destination": "Valley of Elah",
+        "route": [
+          "David comes from Bethlehem to the battle lines, confronts Goliath, and Israel pursues the Philistines.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Valley of Elah",
+          "Valley of Elah",
+          "Socoh/Azekah",
+          "Gath"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "David was anointed in Bethlehem and entered Saul's service.",
+        "whatIsHappeningNow": "David comes from Bethlehem to the battle lines, confronts Goliath, and Israel pursues the Philistines.",
+        "whatHappensAfter": "David's relationship with Jonathan begins, and Saul's hostility grows.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "David and Goliath in the Valley of Elah ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Valley of Elah.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Valley of Elah. David comes from Bethlehem to the battle lines, confronts Goliath, and Israel pursues the Philistines.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Opposing armies on two hillsides",
+        "Valley between Israel and Philistines",
+        "Goliath's armor and spear described",
+        "David carrying provisions from Jesse",
+        "David selecting five smooth stones",
+        "Sling and stone used in combat",
+        "Philistines fleeing toward Gath and Ekron"
+      ],
+      "audioScript": "1 Samuel 17 focuses on David and Goliath in the Valley of Elah. David comes from Bethlehem to the battle lines, confronts Goliath, and Israel pursues the Philistines. The scene is grounded in Valley of Elah, with Saul, Goliath, Jesse's sons directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-14-david-anointed"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 17"
+        ],
+        "laterReferences": [
+          "1samuel-16-david-and-jonathan"
+        ],
+        "newTestamentReferences": [
+          "Hebrews 11:32"
+        ]
+      },
+      "series": {
+        "character": "David",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-14-david-anointed",
+        "nextStory": "1samuel-16-david-and-jonathan"
+      },
+      "search": {
+        "people": [
+          "David",
+          "Saul",
+          "Goliath",
+          "Jesse's sons"
+        ],
+        "places": [
+          "Valley of Elah",
+          "Valley of Elah",
+          "Socoh/Azekah",
+          "Gath"
+        ],
+        "events": [
+          "David and Goliath in the Valley of Elah",
+          "1 Samuel 17",
+          "Saul",
+          "Goliath",
+          "Jesse's sons"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "David and Goliath in the Valley of Elah",
+          "1 Samuel 17"
+        ]
+      },
+      "realitySummary": "David and Goliath in the Valley of Elah. David comes from Bethlehem to the battle lines, confronts Goliath, and Israel pursues the Philistines."
+    }
+  },
+  {
+    "id": "1samuel-16-david-and-jonathan",
+    "sourceFile": "1samuel-16-david-and-jonathan.json",
+    "searchTerms": [
+      "David",
+      "Jonathan",
+      "Saul",
+      "Michal",
+      "Saul's court and field near Gibeah",
+      "Gibeah",
+      "field near Gibeah",
+      "David, Jonathan, and Saul's Hostility",
+      "1 Samuel 18-20",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Court Conflict",
+      "Friendship",
+      "Flight",
+      "United Kingdom Formation",
+      "David, Jonathan, and Saul's Hostility. David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test."
+    ],
+    "title": "David, Jonathan, and Saul's Hostility",
+    "reference": "1 Samuel 18-20",
+    "kicker": "Study",
+    "eventType": [
+      "Court Conflict",
+      "Friendship",
+      "Flight"
+    ],
+    "summary": "David, Jonathan, and Saul's Hostility. David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "David"
+      },
+      {
+        "label": "Location",
+        "value": "Saul's court and field near Gibeah"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Central hill country / Israel-West Bank region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "David, Jonathan, and Saul's Hostility",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "David, Jonathan, and Saul's Hostility",
+    "stepIntoStory": "The scene centers on Saul's court and field near Gibeah. David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Women singing after battle",
+      "Jonathan giving robe and weapons to David",
+      "Saul throwing spear",
+      "David commanding troops successfully",
+      "Michal helping David escape through a window",
+      "New moon feast seating",
+      "Jonathan shooting arrows as signal",
+      "David and Jonathan parting in the field"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "David defeated Goliath and Israel pursued the Philistines."
+      },
+      {
+        "label": "Now",
+        "value": "David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test."
+      },
+      {
+        "label": "Next",
+        "value": "David flees to Nob and then to Gath."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Saul's court and field near Gibeah."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "David",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Jonathan",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Saul",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Michal",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Saul's court and field near Gibeah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Gibeah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Saul's court region"
+      },
+      {
+        "ancientName": "field near Gibeah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Place of Jonathan's arrow signal"
+      }
+    ],
+    "people": [
+      "David",
+      "Jonathan",
+      "Saul",
+      "Michal"
+    ],
+    "places": [
+      "Saul's court and field near Gibeah",
+      "Gibeah",
+      "field near Gibeah"
+    ],
+    "movement": [
+      "David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Saul's court and field near Gibeah",
+      "destination": "Saul's court and field near Gibeah",
+      "route": [
+        "David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Saul's court and field near Gibeah",
+        "Gibeah",
+        "field near Gibeah"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 18-20 focuses on David, Jonathan, and Saul's Hostility. David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test. The scene is grounded in Saul's court and field near Gibeah, with Jonathan, Saul, Michal directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-15-david-and-goliath",
+      "1 Samuel 18-20",
+      "1samuel-17-david-flees-nob-gath"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-15-david-and-goliath"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 18-20"
+      ],
+      "laterReferences": [
+        "1samuel-17-david-flees-nob-gath"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "David",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-15-david-and-goliath",
+      "nextStory": null
+    },
+    "source": {
+      "id": "1samuel-16-david-and-jonathan",
+      "reference": "1 Samuel 18-20",
+      "storyTitle": "David, Jonathan, and Saul's Hostility",
+      "eventType": [
+        "Court Conflict",
+        "Friendship",
+        "Flight"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "David",
+        "approximateAge": null,
+        "currentLocation": "Saul's court and field near Gibeah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Jonathan",
+          "Saul",
+          "Michal"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "David",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Jonathan",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Saul",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Michal",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Saul's court and field near Gibeah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Gibeah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Saul's court region"
+        },
+        {
+          "ancientName": "field near Gibeah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Place of Jonathan's arrow signal"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Saul's court and field near Gibeah",
+        "destination": "Saul's court and field near Gibeah",
+        "route": [
+          "David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Saul's court and field near Gibeah",
+          "Gibeah",
+          "field near Gibeah"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "David defeated Goliath and Israel pursued the Philistines.",
+        "whatIsHappeningNow": "David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test.",
+        "whatHappensAfter": "David flees to Nob and then to Gath.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "David, Jonathan, and Saul's Hostility ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Saul's court and field near Gibeah.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Saul's court and field near Gibeah. David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Women singing after battle",
+        "Jonathan giving robe and weapons to David",
+        "Saul throwing spear",
+        "David commanding troops successfully",
+        "Michal helping David escape through a window",
+        "New moon feast seating",
+        "Jonathan shooting arrows as signal",
+        "David and Jonathan parting in the field"
+      ],
+      "audioScript": "1 Samuel 18-20 focuses on David, Jonathan, and Saul's Hostility. David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test. The scene is grounded in Saul's court and field near Gibeah, with Jonathan, Saul, Michal directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-15-david-and-goliath"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 18-20"
+        ],
+        "laterReferences": [
+          "1samuel-17-david-flees-nob-gath"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "David",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-15-david-and-goliath",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "David",
+          "Jonathan",
+          "Saul",
+          "Michal"
+        ],
+        "places": [
+          "Saul's court and field near Gibeah",
+          "Gibeah",
+          "field near Gibeah"
+        ],
+        "events": [
+          "David, Jonathan, and Saul's Hostility",
+          "1 Samuel 18-20",
+          "Jonathan",
+          "Saul",
+          "Michal"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "David, Jonathan, and Saul's Hostility",
+          "1 Samuel 18-20"
+        ]
+      },
+      "realitySummary": "David, Jonathan, and Saul's Hostility. David rises in Saul's court, Jonathan binds himself to David, Saul tries to kill David, and David flees after the new moon test."
     }
   }
 ]
