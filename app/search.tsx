@@ -328,7 +328,10 @@ const styles = StyleSheet.create({
     fontWeight: "800"
   },
   bookCount: {
-    ...typography.micro,
+    fontSize: 10,
+    fontWeight: "800",
+    letterSpacing: 0,
+    lineHeight: 14,
     marginTop: spacing.xs,
     textTransform: "uppercase"
   },
