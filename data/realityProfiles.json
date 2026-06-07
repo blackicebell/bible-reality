@@ -85045,7 +85045,7 @@
       "character": "Samuel",
       "arc": "Samuel, Saul, and David",
       "previousStory": "1samuel-02-eli-sons-and-samuel",
-      "nextStory": null
+      "nextStory": "1samuel-04-ark-captured-and-eli-dies"
     },
     "source": {
       "id": "1samuel-03-samuel-called",
@@ -85216,6 +85216,1438 @@
         ]
       },
       "realitySummary": "Samuel Is Called at Night in Shiloh. Samuel hears Yahweh call him at night and receives a word concerning Eli's house; afterward Samuel is recognized throughout Israel."
+    }
+  },
+  {
+    "id": "1samuel-04-ark-captured-and-eli-dies",
+    "sourceFile": "1samuel-04-ark-captured-and-eli-dies.json",
+    "searchTerms": [
+      "Eli and Israel",
+      "Hophni",
+      "Phinehas",
+      "Philistines",
+      "Ark of the Covenant",
+      "Ebenezer, Aphek, and Shiloh",
+      "Ebenezer",
+      "Aphek",
+      "Shiloh",
+      "The Ark Is Captured and Eli's House Falls",
+      "1 Samuel 4",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Battle",
+      "Ark Capture",
+      "Death",
+      "United Kingdom Formation",
+      "The Ark Is Captured and Eli's House Falls. Israel is defeated by Philistines, the Ark is captured, Hophni and Phinehas die, Eli dies, and Ichabod is born."
+    ],
+    "title": "The Ark Is Captured and Eli's House Falls",
+    "reference": "1 Samuel 4",
+    "kicker": "Study",
+    "eventType": [
+      "Battle",
+      "Ark Capture",
+      "Death"
+    ],
+    "summary": "The Ark Is Captured and Eli's House Falls. Israel is defeated by Philistines, the Ark is captured, Hophni and Phinehas die, Eli dies, and Ichabod is born.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Eli and Israel"
+      },
+      {
+        "label": "Location",
+        "value": "Ebenezer, Aphek, and Shiloh"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Central hill country / Israel-West Bank region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "The Ark Is Captured and Eli's House Falls",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "The Ark Is Captured and Eli's House Falls",
+    "stepIntoStory": "The scene centers on Ebenezer, Aphek, and Shiloh. Israel is defeated by Philistines, the Ark is captured, Hophni and Phinehas die, Eli dies, and Ichabod is born.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Israel camped at Ebenezer",
+      "Philistines camped at Aphek",
+      "Ark carried from Shiloh into battle camp",
+      "Israel shouting when Ark arrives",
+      "Philistines alarmed",
+      "Hophni and Phinehas dying same day",
+      "Messenger running to Shiloh with torn clothes and dust",
+      "Eli seated by road waiting for news",
+      "Ichabod named during childbirth"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Samuel was established as prophet after receiving the word concerning Eli's house."
+      },
+      {
+        "label": "Now",
+        "value": "Israel is defeated by Philistines, the Ark is captured, Hophni and Phinehas die, Eli dies, and Ichabod is born."
+      },
+      {
+        "label": "Next",
+        "value": "The Ark is taken into Philistine territory and placed in Dagon's temple."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Ebenezer, Aphek, and Shiloh."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Eli and Israel",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Hophni",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Phinehas",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Philistines",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Ark of the Covenant",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Ebenezer, Aphek, and Shiloh",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Ebenezer",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Israelite battle camp"
+      },
+      {
+        "ancientName": "Aphek",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Philistine camp in this battle"
+      },
+      {
+        "ancientName": "Shiloh",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Where Eli receives the news"
+      }
+    ],
+    "people": [
+      "Eli and Israel",
+      "Hophni",
+      "Phinehas",
+      "Philistines",
+      "Ark of the Covenant"
+    ],
+    "places": [
+      "Ebenezer, Aphek, and Shiloh",
+      "Ebenezer",
+      "Aphek",
+      "Shiloh"
+    ],
+    "movement": [
+      "Israel is defeated by Philistines, the Ark is captured, Hophni and Phinehas die, Eli dies, and Ichabod is born.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Ebenezer, Aphek, and Shiloh",
+      "destination": "Ebenezer, Aphek, and Shiloh",
+      "route": [
+        "Israel is defeated by Philistines, the Ark is captured, Hophni and Phinehas die, Eli dies, and Ichabod is born.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Ebenezer, Aphek, and Shiloh",
+        "Ebenezer",
+        "Aphek",
+        "Shiloh"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 4 focuses on The Ark Is Captured and Eli's House Falls. Israel is defeated by Philistines, the Ark is captured, Hophni and Phinehas die, Eli dies, and Ichabod is born. The scene is grounded in Ebenezer, Aphek, and Shiloh, with Hophni, Phinehas, Philistines directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-03-samuel-called",
+      "1 Samuel 4",
+      "1samuel-05-ark-among-philistines"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-03-samuel-called"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 4"
+      ],
+      "laterReferences": [
+        "1samuel-05-ark-among-philistines"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Eli and Israel",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-03-samuel-called",
+      "nextStory": "1samuel-05-ark-among-philistines"
+    },
+    "source": {
+      "id": "1samuel-04-ark-captured-and-eli-dies",
+      "reference": "1 Samuel 4",
+      "storyTitle": "The Ark Is Captured and Eli's House Falls",
+      "eventType": [
+        "Battle",
+        "Ark Capture",
+        "Death"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Eli and Israel",
+        "approximateAge": null,
+        "currentLocation": "Ebenezer, Aphek, and Shiloh",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Hophni",
+          "Phinehas",
+          "Philistines",
+          "Ark of the Covenant"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Eli and Israel",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Hophni",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Phinehas",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Philistines",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Ark of the Covenant",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Ebenezer, Aphek, and Shiloh",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Ebenezer",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Israelite battle camp"
+        },
+        {
+          "ancientName": "Aphek",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Philistine camp in this battle"
+        },
+        {
+          "ancientName": "Shiloh",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Where Eli receives the news"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Ebenezer, Aphek, and Shiloh",
+        "destination": "Ebenezer, Aphek, and Shiloh",
+        "route": [
+          "Israel is defeated by Philistines, the Ark is captured, Hophni and Phinehas die, Eli dies, and Ichabod is born.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Ebenezer, Aphek, and Shiloh",
+          "Ebenezer",
+          "Aphek",
+          "Shiloh"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "Samuel was established as prophet after receiving the word concerning Eli's house.",
+        "whatIsHappeningNow": "Israel is defeated by Philistines, the Ark is captured, Hophni and Phinehas die, Eli dies, and Ichabod is born.",
+        "whatHappensAfter": "The Ark is taken into Philistine territory and placed in Dagon's temple.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "The Ark Is Captured and Eli's House Falls ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Ebenezer, Aphek, and Shiloh.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Ebenezer, Aphek, and Shiloh. Israel is defeated by Philistines, the Ark is captured, Hophni and Phinehas die, Eli dies, and Ichabod is born.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Israel camped at Ebenezer",
+        "Philistines camped at Aphek",
+        "Ark carried from Shiloh into battle camp",
+        "Israel shouting when Ark arrives",
+        "Philistines alarmed",
+        "Hophni and Phinehas dying same day",
+        "Messenger running to Shiloh with torn clothes and dust",
+        "Eli seated by road waiting for news",
+        "Ichabod named during childbirth"
+      ],
+      "audioScript": "1 Samuel 4 focuses on The Ark Is Captured and Eli's House Falls. Israel is defeated by Philistines, the Ark is captured, Hophni and Phinehas die, Eli dies, and Ichabod is born. The scene is grounded in Ebenezer, Aphek, and Shiloh, with Hophni, Phinehas, Philistines directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-03-samuel-called"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 4"
+        ],
+        "laterReferences": [
+          "1samuel-05-ark-among-philistines"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Eli and Israel",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-03-samuel-called",
+        "nextStory": "1samuel-05-ark-among-philistines"
+      },
+      "search": {
+        "people": [
+          "Eli and Israel",
+          "Hophni",
+          "Phinehas",
+          "Philistines",
+          "Ark of the Covenant"
+        ],
+        "places": [
+          "Ebenezer, Aphek, and Shiloh",
+          "Ebenezer",
+          "Aphek",
+          "Shiloh"
+        ],
+        "events": [
+          "The Ark Is Captured and Eli's House Falls",
+          "1 Samuel 4",
+          "Hophni",
+          "Phinehas",
+          "Philistines",
+          "Ark of the Covenant"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "The Ark Is Captured and Eli's House Falls",
+          "1 Samuel 4"
+        ]
+      },
+      "realitySummary": "The Ark Is Captured and Eli's House Falls. Israel is defeated by Philistines, the Ark is captured, Hophni and Phinehas die, Eli dies, and Ichabod is born."
+    }
+  },
+  {
+    "id": "1samuel-05-ark-among-philistines",
+    "sourceFile": "1samuel-05-ark-among-philistines.json",
+    "searchTerms": [
+      "Ark of the Covenant",
+      "Philistines",
+      "Dagon",
+      "Beth-shemeshites",
+      "Ashdod, Gath, Ekron, and Beth-shemesh",
+      "Ashdod",
+      "Gath",
+      "Ekron",
+      "Beth-shemesh",
+      "The Ark Among the Philistines and Its Return",
+      "1 Samuel 5-6",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Ark Captivity",
+      "Plague",
+      "Return",
+      "Offering",
+      "United Kingdom Formation",
+      "The Ark Among the Philistines and Its Return. The Ark is taken through Philistine cities, calamities follow, and the Philistines return it on a cart to Beth-shemesh."
+    ],
+    "title": "The Ark Among the Philistines and Its Return",
+    "reference": "1 Samuel 5-6",
+    "kicker": "Study",
+    "eventType": [
+      "Ark Captivity",
+      "Plague",
+      "Return",
+      "Offering"
+    ],
+    "summary": "The Ark Among the Philistines and Its Return. The Ark is taken through Philistine cities, calamities follow, and the Philistines return it on a cart to Beth-shemesh.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Ark of the Covenant"
+      },
+      {
+        "label": "Location",
+        "value": "Ashdod, Gath, Ekron, and Beth-shemesh"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Coastal plain / Philistine region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "The Ark Among the Philistines and Its Return",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "The Ark Among the Philistines and Its Return",
+    "stepIntoStory": "The scene centers on Ashdod, Gath, Ekron, and Beth-shemesh. The Ark is taken through Philistine cities, calamities follow, and the Philistines return it on a cart to Beth-shemesh.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Ark placed in Dagon's temple at Ashdod",
+      "Dagon fallen before the Ark",
+      "Tumors and panic in Philistine cities",
+      "Ark moved to Gath and Ekron",
+      "Golden guilt offering items prepared",
+      "New cart used for return",
+      "Milk cows pulling cart toward Beth-shemesh",
+      "Wheat harvest in valley",
+      "Ark placed on a large stone"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "The Ark was captured in battle and Eli's sons died."
+      },
+      {
+        "label": "Now",
+        "value": "The Ark is taken through Philistine cities, calamities follow, and the Philistines return it on a cart to Beth-shemesh."
+      },
+      {
+        "label": "Next",
+        "value": "Samuel later gathers Israel at Mizpah during another Philistine crisis."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Ashdod, Gath, Ekron, and Beth-shemesh."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Ark of the Covenant",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Philistines",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Dagon",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Beth-shemeshites",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Ashdod, Gath, Ekron, and Beth-shemesh",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Ashdod",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Philistine city with Dagon temple"
+      },
+      {
+        "ancientName": "Gath",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Philistine city"
+      },
+      {
+        "ancientName": "Ekron",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Philistine city"
+      },
+      {
+        "ancientName": "Beth-shemesh",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Israelite town where Ark returns"
+      }
+    ],
+    "people": [
+      "Ark of the Covenant",
+      "Philistines",
+      "Dagon",
+      "Beth-shemeshites"
+    ],
+    "places": [
+      "Ashdod, Gath, Ekron, and Beth-shemesh",
+      "Ashdod",
+      "Gath",
+      "Ekron",
+      "Beth-shemesh"
+    ],
+    "movement": [
+      "The Ark is taken through Philistine cities, calamities follow, and the Philistines return it on a cart to Beth-shemesh.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Ashdod, Gath, Ekron, and Beth-shemesh",
+      "destination": "Ashdod, Gath, Ekron, and Beth-shemesh",
+      "route": [
+        "The Ark is taken through Philistine cities, calamities follow, and the Philistines return it on a cart to Beth-shemesh.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Ashdod, Gath, Ekron, and Beth-shemesh",
+        "Ashdod",
+        "Gath",
+        "Ekron",
+        "Beth-shemesh"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 5-6 focuses on The Ark Among the Philistines and Its Return. The Ark is taken through Philistine cities, calamities follow, and the Philistines return it on a cart to Beth-shemesh. The scene is grounded in Ashdod, Gath, Ekron, and Beth-shemesh, with Philistines, Dagon, Beth-shemeshites directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-04-ark-captured-and-eli-dies",
+      "1 Samuel 5-6",
+      "1samuel-06-samuel-at-mizpah"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-04-ark-captured-and-eli-dies"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 5-6"
+      ],
+      "laterReferences": [
+        "1samuel-06-samuel-at-mizpah"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Ark of the Covenant",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-04-ark-captured-and-eli-dies",
+      "nextStory": "1samuel-06-samuel-at-mizpah"
+    },
+    "source": {
+      "id": "1samuel-05-ark-among-philistines",
+      "reference": "1 Samuel 5-6",
+      "storyTitle": "The Ark Among the Philistines and Its Return",
+      "eventType": [
+        "Ark Captivity",
+        "Plague",
+        "Return",
+        "Offering"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Ark of the Covenant",
+        "approximateAge": null,
+        "currentLocation": "Ashdod, Gath, Ekron, and Beth-shemesh",
+        "modernRegion": "Coastal plain / Philistine region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Philistines",
+          "Dagon",
+          "Beth-shemeshites"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Ark of the Covenant",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Philistines",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Dagon",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Beth-shemeshites",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Ashdod, Gath, Ekron, and Beth-shemesh",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Ashdod",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Philistine city with Dagon temple"
+        },
+        {
+          "ancientName": "Gath",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Philistine city"
+        },
+        {
+          "ancientName": "Ekron",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Philistine city"
+        },
+        {
+          "ancientName": "Beth-shemesh",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Israelite town where Ark returns"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Ashdod, Gath, Ekron, and Beth-shemesh",
+        "destination": "Ashdod, Gath, Ekron, and Beth-shemesh",
+        "route": [
+          "The Ark is taken through Philistine cities, calamities follow, and the Philistines return it on a cart to Beth-shemesh.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Ashdod, Gath, Ekron, and Beth-shemesh",
+          "Ashdod",
+          "Gath",
+          "Ekron",
+          "Beth-shemesh"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "The Ark was captured in battle and Eli's sons died.",
+        "whatIsHappeningNow": "The Ark is taken through Philistine cities, calamities follow, and the Philistines return it on a cart to Beth-shemesh.",
+        "whatHappensAfter": "Samuel later gathers Israel at Mizpah during another Philistine crisis.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "The Ark Among the Philistines and Its Return ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Ashdod, Gath, Ekron, and Beth-shemesh.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Ashdod, Gath, Ekron, and Beth-shemesh. The Ark is taken through Philistine cities, calamities follow, and the Philistines return it on a cart to Beth-shemesh.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Ark placed in Dagon's temple at Ashdod",
+        "Dagon fallen before the Ark",
+        "Tumors and panic in Philistine cities",
+        "Ark moved to Gath and Ekron",
+        "Golden guilt offering items prepared",
+        "New cart used for return",
+        "Milk cows pulling cart toward Beth-shemesh",
+        "Wheat harvest in valley",
+        "Ark placed on a large stone"
+      ],
+      "audioScript": "1 Samuel 5-6 focuses on The Ark Among the Philistines and Its Return. The Ark is taken through Philistine cities, calamities follow, and the Philistines return it on a cart to Beth-shemesh. The scene is grounded in Ashdod, Gath, Ekron, and Beth-shemesh, with Philistines, Dagon, Beth-shemeshites directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-04-ark-captured-and-eli-dies"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 5-6"
+        ],
+        "laterReferences": [
+          "1samuel-06-samuel-at-mizpah"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Ark of the Covenant",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-04-ark-captured-and-eli-dies",
+        "nextStory": "1samuel-06-samuel-at-mizpah"
+      },
+      "search": {
+        "people": [
+          "Ark of the Covenant",
+          "Philistines",
+          "Dagon",
+          "Beth-shemeshites"
+        ],
+        "places": [
+          "Ashdod, Gath, Ekron, and Beth-shemesh",
+          "Ashdod",
+          "Gath",
+          "Ekron",
+          "Beth-shemesh"
+        ],
+        "events": [
+          "The Ark Among the Philistines and Its Return",
+          "1 Samuel 5-6",
+          "Philistines",
+          "Dagon",
+          "Beth-shemeshites"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "The Ark Among the Philistines and Its Return",
+          "1 Samuel 5-6"
+        ]
+      },
+      "realitySummary": "The Ark Among the Philistines and Its Return. The Ark is taken through Philistine cities, calamities follow, and the Philistines return it on a cart to Beth-shemesh."
+    }
+  },
+  {
+    "id": "1samuel-06-samuel-at-mizpah",
+    "sourceFile": "1samuel-06-samuel-at-mizpah.json",
+    "searchTerms": [
+      "Samuel",
+      "Israelites",
+      "Philistines",
+      "Mizpah and Ebenezer",
+      "Mizpah",
+      "Ebenezer",
+      "Ramah",
+      "Samuel at Mizpah and Victory Over the Philistines",
+      "1 Samuel 7",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Assembly",
+      "Battle",
+      "Deliverance",
+      "Judgeship",
+      "United Kingdom Formation",
+      "Samuel at Mizpah and Victory Over the Philistines. Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit."
+    ],
+    "title": "Samuel at Mizpah and Victory Over the Philistines",
+    "reference": "1 Samuel 7",
+    "kicker": "Study",
+    "eventType": [
+      "Assembly",
+      "Battle",
+      "Deliverance",
+      "Judgeship"
+    ],
+    "summary": "Samuel at Mizpah and Victory Over the Philistines. Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Samuel"
+      },
+      {
+        "label": "Location",
+        "value": "Mizpah and Ebenezer"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Central hill country / Israel-West Bank region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "Samuel at Mizpah and Victory Over the Philistines",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "Samuel at Mizpah and Victory Over the Philistines",
+    "stepIntoStory": "The scene centers on Mizpah and Ebenezer. Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Israel gathered at Mizpah",
+      "Water poured out before Yahweh",
+      "Fasting at the assembly",
+      "Philistines coming up to attack",
+      "Samuel offering a nursing lamb",
+      "Thunder confusing Philistines",
+      "Stone named Ebenezer",
+      "Samuel's circuit through Bethel, Gilgal, Mizpah, and Ramah"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "The Ark returned from Philistine territory and remained in Israelite territory."
+      },
+      {
+        "label": "Now",
+        "value": "Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit."
+      },
+      {
+        "label": "Next",
+        "value": "Israel's elders ask Samuel for a king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Mizpah and Ebenezer."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Samuel",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Philistines",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Mizpah and Ebenezer",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Mizpah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Assembly location"
+      },
+      {
+        "ancientName": "Ebenezer",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Stone named after the victory"
+      },
+      {
+        "ancientName": "Ramah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Samuel's home"
+      }
+    ],
+    "people": [
+      "Samuel",
+      "Israelites",
+      "Philistines"
+    ],
+    "places": [
+      "Mizpah and Ebenezer",
+      "Mizpah",
+      "Ebenezer",
+      "Ramah"
+    ],
+    "movement": [
+      "Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Mizpah and Ebenezer",
+      "destination": "Mizpah and Ebenezer",
+      "route": [
+        "Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Mizpah and Ebenezer",
+        "Mizpah",
+        "Ebenezer",
+        "Ramah"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 7 focuses on Samuel at Mizpah and Victory Over the Philistines. Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit. The scene is grounded in Mizpah and Ebenezer, with Israelites, Philistines directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-05-ark-among-philistines",
+      "1 Samuel 7",
+      "1samuel-07-israel-asks-for-king"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-05-ark-among-philistines"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 7"
+      ],
+      "laterReferences": [
+        "1samuel-07-israel-asks-for-king"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Samuel",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-05-ark-among-philistines",
+      "nextStory": null
+    },
+    "source": {
+      "id": "1samuel-06-samuel-at-mizpah",
+      "reference": "1 Samuel 7",
+      "storyTitle": "Samuel at Mizpah and Victory Over the Philistines",
+      "eventType": [
+        "Assembly",
+        "Battle",
+        "Deliverance",
+        "Judgeship"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Samuel",
+        "approximateAge": null,
+        "currentLocation": "Mizpah and Ebenezer",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Israelites",
+          "Philistines"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Samuel",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Philistines",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Mizpah and Ebenezer",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Mizpah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Assembly location"
+        },
+        {
+          "ancientName": "Ebenezer",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Stone named after the victory"
+        },
+        {
+          "ancientName": "Ramah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Samuel's home"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Mizpah and Ebenezer",
+        "destination": "Mizpah and Ebenezer",
+        "route": [
+          "Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Mizpah and Ebenezer",
+          "Mizpah",
+          "Ebenezer",
+          "Ramah"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "The Ark returned from Philistine territory and remained in Israelite territory.",
+        "whatIsHappeningNow": "Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit.",
+        "whatHappensAfter": "Israel's elders ask Samuel for a king.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "Samuel at Mizpah and Victory Over the Philistines ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Mizpah and Ebenezer.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Mizpah and Ebenezer. Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Israel gathered at Mizpah",
+        "Water poured out before Yahweh",
+        "Fasting at the assembly",
+        "Philistines coming up to attack",
+        "Samuel offering a nursing lamb",
+        "Thunder confusing Philistines",
+        "Stone named Ebenezer",
+        "Samuel's circuit through Bethel, Gilgal, Mizpah, and Ramah"
+      ],
+      "audioScript": "1 Samuel 7 focuses on Samuel at Mizpah and Victory Over the Philistines. Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit. The scene is grounded in Mizpah and Ebenezer, with Israelites, Philistines directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-05-ark-among-philistines"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 7"
+        ],
+        "laterReferences": [
+          "1samuel-07-israel-asks-for-king"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Samuel",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-05-ark-among-philistines",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Samuel",
+          "Israelites",
+          "Philistines"
+        ],
+        "places": [
+          "Mizpah and Ebenezer",
+          "Mizpah",
+          "Ebenezer",
+          "Ramah"
+        ],
+        "events": [
+          "Samuel at Mizpah and Victory Over the Philistines",
+          "1 Samuel 7",
+          "Israelites",
+          "Philistines"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "Samuel at Mizpah and Victory Over the Philistines",
+          "1 Samuel 7"
+        ]
+      },
+      "realitySummary": "Samuel at Mizpah and Victory Over the Philistines. Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit."
     }
   }
 ]
