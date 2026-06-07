@@ -76765,5 +76765,1643 @@
       },
       "realitySummary": "Abimelech's Rise and Fall at Shechem. Abimelech seizes power through Shechem, kills his brothers, faces Jotham's parable, fights Shechem, and dies at Thebez."
     }
+  },
+  {
+    "id": "judges-11-jephthah-and-ammon",
+    "sourceFile": "judges-11-jephthah-and-ammon.json",
+    "searchTerms": [
+      "Tola",
+      "Jair",
+      "Jephthah",
+      "Elders of Gilead",
+      "King of Ammon",
+      "Jephthah's daughter",
+      "Ephraimites",
+      "Shamir",
+      "Gilead",
+      "Tob",
+      "Mizpah of Gilead",
+      "Ammon",
+      "Fords of the Jordan",
+      "Ammonites",
+      "Jephthah vow",
+      "Shibboleth",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 10-12 Jephthah",
+      "Jephthah and Ammon",
+      "Minor Judge Notice",
+      "Oppression",
+      "Negotiation",
+      "Battle",
+      "Vow",
+      "Intertribal Conflict",
+      "Tola, Jair, Jephthah, and the Ammonite Conflict",
+      "Judges 10:1-12:7",
+      "Tola, Jair, Jephthah, and the Ammonite Conflict. Tola and Jair are briefly named; then Jephthah is brought from Tob to lead Gilead against Ammon, makes a vow, defeats Ammon, and later fights Ephraim at the Jordan fords."
+    ],
+    "title": "Tola, Jair, Jephthah, and the Ammonite Conflict",
+    "reference": "Judges 10:1-12:7",
+    "kicker": "Study",
+    "eventType": [
+      "Minor Judge Notice",
+      "Oppression",
+      "Negotiation",
+      "Battle",
+      "Vow",
+      "Intertribal Conflict"
+    ],
+    "summary": "Tola, Jair, Jephthah, and the Ammonite Conflict. Tola and Jair are briefly named; then Jephthah is brought from Tob to lead Gilead against Ammon, makes a vow, defeats Ammon, and later fights Ephraim at the Jordan fords.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Jephthah"
+      },
+      {
+        "label": "Location",
+        "value": "Gilead and Ammonite frontier"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan Valley / Transjordan region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Regional Transjordan Conflict"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Abimelech; before Ibzan, Elon, and Abdon"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Tola, Jair, Jephthah, and the Ammonite Conflict",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Tola, Jair, Jephthah, and the Ammonite Conflict",
+    "stepIntoStory": "The story begins with brief notices of Tola and Jair, then slows down in Gilead. Ammonite pressure brings the elders to Jephthah, a man once driven away from his family.\n\nJephthah first speaks before he fights. Messages go back and forth with the king of Ammon, reviewing land, borders, and Israel's journey history.\n\nAfter victory, the scene turns toward Jephthah's house. His daughter comes out with tambourines and dances. The story then turns again to civil conflict, with Gileadites seizing the Jordan fords against Ephraim.",
+    "notice": [
+      "Jair's thirty sons riding thirty donkeys and holding thirty towns.",
+      "Jephthah living in Tob with a group of men.",
+      "Elders of Gilead negotiating with Jephthah.",
+      "Messages sent to the king of Ammon.",
+      "Mizpah as Jephthah's base.",
+      "Jephthah's daughter coming out with tambourines and dances.",
+      "Two months in the mountains with companions.",
+      "Jordan fords seized by Gileadites.",
+      "The word test involving Shibboleth/Sibboleth.",
+      "Forty-two thousand Ephraimites killed according to the text."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Abimelech's violent rule and death at Thebez closed the Gideon-Abimelech sequence."
+      },
+      {
+        "label": "Now",
+        "value": "Tola and Jair are briefly named; then Jephthah is brought from Tob to lead Gilead against Ammon, makes a vow, defeats Ammon, and later fights Ephraim at the Jordan fords."
+      },
+      {
+        "label": "Next",
+        "value": "Ibzan, Elon, and Abdon are briefly named, followed by the beginning of the Samson cycle."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the major Transjordan deliverance narrative in Judges."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Jephthah's story includes diplomacy, history review, battle, vow, family tragedy, and intertribal conflict."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Jordan fords reappear as strategic crossing points, now in conflict between Israelites."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It shows increasing internal fragmentation after earlier judge cycles."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Gilead and Ammon place the story east of the Jordan."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Tob functions as Jephthah's exile/outlaw region before he is recalled."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Jordan fords become a military choke point in the later Ephraim conflict."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Elders negotiate leadership in crisis."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Outcast warriors could gather bands around them outside settled clan structures."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Diplomatic messages between leaders review territorial claims and travel history."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Vows, household celebrations, and victory returns shape the family scene."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is one of the longest judge stories after Gideon.",
+      "It shifts the major conflict to Gilead and Ammon east of the Jordan.",
+      "It records both external deliverance and internal tribal violence.",
+      "It prepares the book's movement toward increasingly fractured narratives."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Tola",
+        "role": "Minor judge after Abimelech",
+        "relationships": [
+          "Son of Puah"
+        ]
+      },
+      {
+        "name": "Jair",
+        "role": "Gileadite judge with thirty sons and towns",
+        "relationships": []
+      },
+      {
+        "name": "Jephthah",
+        "role": "Gileadite warrior who leads against Ammon",
+        "relationships": []
+      },
+      {
+        "name": "Elders of Gilead",
+        "role": "Ask Jephthah to lead them",
+        "relationships": []
+      },
+      {
+        "name": "King of Ammon",
+        "role": "Receives Jephthah's diplomatic message",
+        "relationships": []
+      },
+      {
+        "name": "Jephthah's daughter",
+        "role": "Comes out to meet him after his vow",
+        "relationships": []
+      },
+      {
+        "name": "Ephraimites",
+        "role": "Fight Jephthah after the Ammonite conflict",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Shamir",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Location associated with Tola"
+      },
+      {
+        "ancientName": "Gilead",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Transjordan region central to Jair and Jephthah"
+      },
+      {
+        "ancientName": "Tob",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Region where Jephthah lives after being driven away"
+      },
+      {
+        "ancientName": "Mizpah of Gilead",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Jephthah's base and vow setting"
+      },
+      {
+        "ancientName": "Ammon",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Enemy region east of the Jordan"
+      },
+      {
+        "ancientName": "Fords of the Jordan",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Crossing points where Ephraimites are intercepted"
+      }
+    ],
+    "people": [
+      "Tola",
+      "Jair",
+      "Jephthah",
+      "Elders of Gilead",
+      "King of Ammon",
+      "Jephthah's daughter",
+      "Ephraimites"
+    ],
+    "places": [
+      "Shamir",
+      "Gilead",
+      "Tob",
+      "Mizpah of Gilead",
+      "Ammon",
+      "Fords of the Jordan"
+    ],
+    "movement": [
+      "Tola judges Israel",
+      "Jair judges in Gilead",
+      "Ammon oppresses Israel",
+      "Elders of Gilead bring Jephthah from Tob",
+      "Jephthah negotiates with the king of Ammon",
+      "Jephthah fights Ammon",
+      "Jephthah's daughter comes out to meet him",
+      "Ephraim confronts Jephthah",
+      "Gileadites seize Jordan fords"
+    ],
+    "movementDetails": {
+      "startingPoint": "Minor judge notices after Abimelech",
+      "destination": "Jephthah's victory and conflict with Ephraim",
+      "route": [
+        "Tola judges Israel",
+        "Jair judges in Gilead",
+        "Ammon oppresses Israel",
+        "Elders of Gilead bring Jephthah from Tob",
+        "Jephthah negotiates with the king of Ammon",
+        "Jephthah fights Ammon",
+        "Jephthah's daughter comes out to meet him",
+        "Ephraim confronts Jephthah",
+        "Gileadites seize Jordan fords"
+      ],
+      "majorStops": [
+        "Shamir",
+        "Gilead",
+        "Tob",
+        "Mizpah",
+        "Ammonite territory",
+        "Jordan fords"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 10 through 12:7 moves into Gilead, east of the Jordan. After brief notices about Tola and Jair, Ammonite oppression brings the elders of Gilead to Jephthah in Tob. Jephthah negotiates with the king of Ammon, reviewing the history of the land dispute, then leads Gilead in battle. His vow brings the story into his own household when his daughter comes out with tambourines and dances. After the Ammonite conflict, Ephraim confronts Jephthah, and the fighting moves to the fords of the Jordan.",
+    "crossReferences": [
+      "Judges 9:1-57",
+      "Numbers 21:21-35",
+      "Judges 10:1-12:7",
+      "Judges 12:8-15",
+      "1 Samuel 12:11",
+      "Hebrews 11:32"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 9:1-57",
+        "Numbers 21:21-35"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 10:1-12:7"
+      ],
+      "laterReferences": [
+        "Judges 12:8-15",
+        "1 Samuel 12:11"
+      ],
+      "newTestamentReferences": [
+        "Hebrews 11:32"
+      ]
+    },
+    "series": {
+      "character": "Jephthah",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-10-abimelech",
+      "nextStory": "judges-12-ibzan-elon-abdon"
+    },
+    "source": {
+      "id": "judges-11-jephthah-and-ammon",
+      "reference": "Judges 10:1-12:7",
+      "storyTitle": "Tola, Jair, Jephthah, and the Ammonite Conflict",
+      "eventType": [
+        "Minor Judge Notice",
+        "Oppression",
+        "Negotiation",
+        "Battle",
+        "Vow",
+        "Intertribal Conflict"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Jephthah",
+        "approximateAge": null,
+        "currentLocation": "Gilead and Ammonite frontier",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Gileadites",
+          "Ammonites",
+          "Ephraimites",
+          "Jephthah's daughter"
+        ],
+        "sceneScale": "Regional Transjordan Conflict",
+        "timeAnchor": "After Abimelech; before Ibzan, Elon, and Abdon",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Tola",
+          "role": "Minor judge after Abimelech",
+          "relationships": [
+            "Son of Puah"
+          ]
+        },
+        {
+          "name": "Jair",
+          "role": "Gileadite judge with thirty sons and towns",
+          "relationships": []
+        },
+        {
+          "name": "Jephthah",
+          "role": "Gileadite warrior who leads against Ammon",
+          "relationships": []
+        },
+        {
+          "name": "Elders of Gilead",
+          "role": "Ask Jephthah to lead them",
+          "relationships": []
+        },
+        {
+          "name": "King of Ammon",
+          "role": "Receives Jephthah's diplomatic message",
+          "relationships": []
+        },
+        {
+          "name": "Jephthah's daughter",
+          "role": "Comes out to meet him after his vow",
+          "relationships": []
+        },
+        {
+          "name": "Ephraimites",
+          "role": "Fight Jephthah after the Ammonite conflict",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Shamir",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Location associated with Tola"
+        },
+        {
+          "ancientName": "Gilead",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Transjordan region central to Jair and Jephthah"
+        },
+        {
+          "ancientName": "Tob",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Region where Jephthah lives after being driven away"
+        },
+        {
+          "ancientName": "Mizpah of Gilead",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Jephthah's base and vow setting"
+        },
+        {
+          "ancientName": "Ammon",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Enemy region east of the Jordan"
+        },
+        {
+          "ancientName": "Fords of the Jordan",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Crossing points where Ephraimites are intercepted"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Minor judge notices after Abimelech",
+        "destination": "Jephthah's victory and conflict with Ephraim",
+        "route": [
+          "Tola judges Israel",
+          "Jair judges in Gilead",
+          "Ammon oppresses Israel",
+          "Elders of Gilead bring Jephthah from Tob",
+          "Jephthah negotiates with the king of Ammon",
+          "Jephthah fights Ammon",
+          "Jephthah's daughter comes out to meet him",
+          "Ephraim confronts Jephthah",
+          "Gileadites seize Jordan fords"
+        ],
+        "majorStops": [
+          "Shamir",
+          "Gilead",
+          "Tob",
+          "Mizpah",
+          "Ammonite territory",
+          "Jordan fords"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Abimelech's violent rule and death at Thebez closed the Gideon-Abimelech sequence.",
+        "whatIsHappeningNow": "Tola and Jair are briefly named; then Jephthah is brought from Tob to lead Gilead against Ammon, makes a vow, defeats Ammon, and later fights Ephraim at the Jordan fords.",
+        "whatHappensAfter": "Ibzan, Elon, and Abdon are briefly named, followed by the beginning of the Samson cycle.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Tola, Jair, Jephthah, and the Ammonite Conflict ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This is the major Transjordan deliverance narrative in Judges.",
+          "Jephthah's story includes diplomacy, history review, battle, vow, family tragedy, and intertribal conflict.",
+          "The Jordan fords reappear as strategic crossing points, now in conflict between Israelites.",
+          "It shows increasing internal fragmentation after earlier judge cycles."
+        ],
+        "geographicContext": [
+          "Gilead and Ammon place the story east of the Jordan.",
+          "Tob functions as Jephthah's exile/outlaw region before he is recalled.",
+          "The Jordan fords become a military choke point in the later Ephraim conflict."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Elders negotiate leadership in crisis.",
+          "Outcast warriors could gather bands around them outside settled clan structures.",
+          "Diplomatic messages between leaders review territorial claims and travel history.",
+          "Vows, household celebrations, and victory returns shape the family scene."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is one of the longest judge stories after Gideon.",
+        "It shifts the major conflict to Gilead and Ammon east of the Jordan.",
+        "It records both external deliverance and internal tribal violence.",
+        "It prepares the book's movement toward increasingly fractured narratives."
+      ],
+      "stepIntoTheStory": [
+        "The story begins with brief notices of Tola and Jair, then slows down in Gilead. Ammonite pressure brings the elders to Jephthah, a man once driven away from his family.",
+        "Jephthah first speaks before he fights. Messages go back and forth with the king of Ammon, reviewing land, borders, and Israel's journey history.",
+        "After victory, the scene turns toward Jephthah's house. His daughter comes out with tambourines and dances. The story then turns again to civil conflict, with Gileadites seizing the Jordan fords against Ephraim."
+      ],
+      "documentaryObservations": [
+        "Jair's thirty sons riding thirty donkeys and holding thirty towns.",
+        "Jephthah living in Tob with a group of men.",
+        "Elders of Gilead negotiating with Jephthah.",
+        "Messages sent to the king of Ammon.",
+        "Mizpah as Jephthah's base.",
+        "Jephthah's daughter coming out with tambourines and dances.",
+        "Two months in the mountains with companions.",
+        "Jordan fords seized by Gileadites.",
+        "The word test involving Shibboleth/Sibboleth.",
+        "Forty-two thousand Ephraimites killed according to the text."
+      ],
+      "audioScript": "Judges 10 through 12:7 moves into Gilead, east of the Jordan. After brief notices about Tola and Jair, Ammonite oppression brings the elders of Gilead to Jephthah in Tob. Jephthah negotiates with the king of Ammon, reviewing the history of the land dispute, then leads Gilead in battle. His vow brings the story into his own household when his daughter comes out with tambourines and dances. After the Ammonite conflict, Ephraim confronts Jephthah, and the fighting moves to the fords of the Jordan.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 9:1-57",
+          "Numbers 21:21-35"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 10:1-12:7"
+        ],
+        "laterReferences": [
+          "Judges 12:8-15",
+          "1 Samuel 12:11"
+        ],
+        "newTestamentReferences": [
+          "Hebrews 11:32"
+        ]
+      },
+      "series": {
+        "character": "Jephthah",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-10-abimelech",
+        "nextStory": "judges-12-ibzan-elon-abdon"
+      },
+      "search": {
+        "people": [
+          "Tola",
+          "Jair",
+          "Jephthah",
+          "Elders of Gilead",
+          "King of Ammon",
+          "Jephthah's daughter",
+          "Ephraimites"
+        ],
+        "places": [
+          "Shamir",
+          "Gilead",
+          "Tob",
+          "Mizpah of Gilead",
+          "Ammon",
+          "Fords of the Jordan"
+        ],
+        "events": [
+          "Jephthah",
+          "Ammonites",
+          "Jephthah vow",
+          "Shibboleth",
+          "Gilead"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 10-12 Jephthah",
+          "Jephthah and Ammon",
+          "Jephthah's daughter"
+        ]
+      },
+      "realitySummary": "Tola, Jair, Jephthah, and the Ammonite Conflict. Tola and Jair are briefly named; then Jephthah is brought from Tob to lead Gilead against Ammon, makes a vow, defeats Ammon, and later fights Ephraim at the Jordan fords."
+    }
+  },
+  {
+    "id": "judges-12-ibzan-elon-abdon",
+    "sourceFile": "judges-12-ibzan-elon-abdon.json",
+    "searchTerms": [
+      "Ibzan",
+      "Elon",
+      "Abdon",
+      "Sons and daughters of Ibzan",
+      "Sons and grandsons of Abdon",
+      "Bethlehem",
+      "Zebulun",
+      "Aijalon in Zebulun",
+      "Pirathon",
+      "Amalekite hill country",
+      "minor judges",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 12 minor judges",
+      "Ibzan Elon Abdon",
+      "Minor Judge Notice",
+      "Leadership Summary",
+      "Genealogy-Like Notice",
+      "Ibzan, Elon, and Abdon",
+      "Judges 12:8-15",
+      "Ibzan, Elon, and Abdon. Ibzan, Elon, and Abdon are briefly named as judges, with family and burial details."
+    ],
+    "title": "Ibzan, Elon, and Abdon",
+    "reference": "Judges 12:8-15",
+    "kicker": "Study",
+    "eventType": [
+      "Minor Judge Notice",
+      "Leadership Summary",
+      "Genealogy-Like Notice"
+    ],
+    "summary": "Ibzan, Elon, and Abdon. Ibzan, Elon, and Abdon are briefly named as judges, with family and burial details.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Ibzan, Elon, and Abdon"
+      },
+      {
+        "label": "Location",
+        "value": "Bethlehem, Zebulun, and Ephraim regions"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Brief Judge Notices"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Jephthah; before Samson's birth"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Ibzan, Elon, and Abdon",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Ibzan, Elon, and Abdon",
+    "stepIntoStory": "After Jephthah, the pace becomes brief. Ibzan is named with many sons and daughters, Elon is named from Zebulun, and Abdon is named with sons and grandsons riding donkeys.\n\nThe notices do not describe a battle. They preserve names, years, family scale, region, and burial places.\n\nThe effect is transitional: the reader moves from Gilead and Jephthah toward the Philistine setting of Samson.",
+    "notice": [
+      "Ibzan associated with Bethlehem.",
+      "Thirty sons and thirty daughters named for Ibzan's household network.",
+      "Elon associated with Zebulun.",
+      "Aijalon named as Elon's burial place.",
+      "Abdon associated with Pirathon.",
+      "Forty sons and thirty grandsons riding seventy donkeys.",
+      "Burial notices closing each judge's memory.",
+      "No major battle scene included."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Jephthah judged Israel after the Ammonite conflict and the fighting with Ephraim."
+      },
+      {
+        "label": "Now",
+        "value": "Ibzan, Elon, and Abdon are briefly named as judges, with family and burial details."
+      },
+      {
+        "label": "Next",
+        "value": "Israel is delivered into Philistine hands, and Samson's birth is announced."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "These notices create a transition between Jephthah and Samson."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "They preserve regional judge memories without extended battle narratives."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The family details suggest social status and household scale in the period."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The notices move through several tribal regions, including Bethlehem, Zebulun, and Ephraim-associated hill country."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Burial locations anchor each figure geographically."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "No battlefield route is described."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Large families and donkey-riding sons/grandsons imply household wealth or status in the narrative world."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Burial notices are important ending markers for judges."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Not all judges are linked to a named enemy or battle in the text."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This keeps the sequence of judges moving between major narratives.",
+      "It marks a quieter transition before the Philistine oppression and Samson cycle.",
+      "It shows that Judges includes both extended stories and compact leadership notices."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Ibzan",
+        "role": "Judge from Bethlehem with many sons and daughters",
+        "relationships": []
+      },
+      {
+        "name": "Elon",
+        "role": "Zebulunite judge",
+        "relationships": []
+      },
+      {
+        "name": "Abdon",
+        "role": "Judge from Pirathon with many sons and grandsons",
+        "relationships": []
+      },
+      {
+        "name": "Sons and daughters of Ibzan",
+        "role": "Family network noted in Ibzan's notice",
+        "relationships": []
+      },
+      {
+        "name": "Sons and grandsons of Abdon",
+        "role": "Ride on seventy donkeys according to the notice",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Bethlehem",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Town associated with Ibzan; exact Bethlehem debated by some due to regional context"
+      },
+      {
+        "ancientName": "Zebulun",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "description": "Tribal region associated with Elon"
+      },
+      {
+        "ancientName": "Aijalon in Zebulun",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "description": "Burial place of Elon"
+      },
+      {
+        "ancientName": "Pirathon",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Town associated with Abdon"
+      },
+      {
+        "ancientName": "Amalekite hill country",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Region mentioned with Abdon's burial place"
+      }
+    ],
+    "people": [
+      "Ibzan",
+      "Elon",
+      "Abdon",
+      "Sons and daughters of Ibzan",
+      "Sons and grandsons of Abdon"
+    ],
+    "places": [
+      "Bethlehem",
+      "Zebulun",
+      "Aijalon in Zebulun",
+      "Pirathon",
+      "Amalekite hill country"
+    ],
+    "movement": [
+      "Ibzan judges Israel and is buried",
+      "Elon judges Israel and is buried",
+      "Abdon judges Israel and is buried",
+      "The narrative then moves toward the Samson cycle"
+    ],
+    "movementDetails": {
+      "startingPoint": "After Jephthah's death",
+      "destination": "Transition to Philistine oppression and Samson",
+      "route": [
+        "Ibzan judges Israel and is buried",
+        "Elon judges Israel and is buried",
+        "Abdon judges Israel and is buried",
+        "The narrative then moves toward the Samson cycle"
+      ],
+      "majorStops": [
+        "Bethlehem",
+        "Zebulun",
+        "Aijalon",
+        "Pirathon"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 12:8-15 gives three brief judge notices. Ibzan of Bethlehem judges Israel and is remembered for thirty sons and thirty daughters. Elon the Zebulunite judges Israel and is buried at Aijalon in Zebulun. Abdon son of Hillel judges Israel and is remembered for forty sons and thirty grandsons who ride on seventy donkeys. These notices provide a quieter transition between Jephthah's conflict and the beginning of the Samson cycle.",
+    "crossReferences": [
+      "Judges 10:1-12:7",
+      "Judges 12:8-15",
+      "Judges 13:1"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 10:1-12:7"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 12:8-15"
+      ],
+      "laterReferences": [
+        "Judges 13:1"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Ibzan, Elon, and Abdon",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-11-jephthah-and-ammon",
+      "nextStory": "judges-13-samson-birth"
+    },
+    "source": {
+      "id": "judges-12-ibzan-elon-abdon",
+      "reference": "Judges 12:8-15",
+      "storyTitle": "Ibzan, Elon, and Abdon",
+      "eventType": [
+        "Minor Judge Notice",
+        "Leadership Summary",
+        "Genealogy-Like Notice"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Ibzan, Elon, and Abdon",
+        "approximateAge": null,
+        "currentLocation": "Bethlehem, Zebulun, and Ephraim regions",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "families",
+          "sons and daughters"
+        ],
+        "sceneScale": "Brief Judge Notices",
+        "timeAnchor": "After Jephthah; before Samson's birth",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Ibzan",
+          "role": "Judge from Bethlehem with many sons and daughters",
+          "relationships": []
+        },
+        {
+          "name": "Elon",
+          "role": "Zebulunite judge",
+          "relationships": []
+        },
+        {
+          "name": "Abdon",
+          "role": "Judge from Pirathon with many sons and grandsons",
+          "relationships": []
+        },
+        {
+          "name": "Sons and daughters of Ibzan",
+          "role": "Family network noted in Ibzan's notice",
+          "relationships": []
+        },
+        {
+          "name": "Sons and grandsons of Abdon",
+          "role": "Ride on seventy donkeys according to the notice",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Bethlehem",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Town associated with Ibzan; exact Bethlehem debated by some due to regional context"
+        },
+        {
+          "ancientName": "Zebulun",
+          "modernRegion": "Northern Israel / Galilee and Jezreel region",
+          "description": "Tribal region associated with Elon"
+        },
+        {
+          "ancientName": "Aijalon in Zebulun",
+          "modernRegion": "Northern Israel / Galilee and Jezreel region",
+          "description": "Burial place of Elon"
+        },
+        {
+          "ancientName": "Pirathon",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Town associated with Abdon"
+        },
+        {
+          "ancientName": "Amalekite hill country",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Region mentioned with Abdon's burial place"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "After Jephthah's death",
+        "destination": "Transition to Philistine oppression and Samson",
+        "route": [
+          "Ibzan judges Israel and is buried",
+          "Elon judges Israel and is buried",
+          "Abdon judges Israel and is buried",
+          "The narrative then moves toward the Samson cycle"
+        ],
+        "majorStops": [
+          "Bethlehem",
+          "Zebulun",
+          "Aijalon",
+          "Pirathon"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Jephthah judged Israel after the Ammonite conflict and the fighting with Ephraim.",
+        "whatIsHappeningNow": "Ibzan, Elon, and Abdon are briefly named as judges, with family and burial details.",
+        "whatHappensAfter": "Israel is delivered into Philistine hands, and Samson's birth is announced.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Ibzan, Elon, and Abdon ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "These notices create a transition between Jephthah and Samson.",
+          "They preserve regional judge memories without extended battle narratives.",
+          "The family details suggest social status and household scale in the period."
+        ],
+        "geographicContext": [
+          "The notices move through several tribal regions, including Bethlehem, Zebulun, and Ephraim-associated hill country.",
+          "Burial locations anchor each figure geographically.",
+          "No battlefield route is described."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Large families and donkey-riding sons/grandsons imply household wealth or status in the narrative world.",
+          "Burial notices are important ending markers for judges.",
+          "Not all judges are linked to a named enemy or battle in the text."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This keeps the sequence of judges moving between major narratives.",
+        "It marks a quieter transition before the Philistine oppression and Samson cycle.",
+        "It shows that Judges includes both extended stories and compact leadership notices."
+      ],
+      "stepIntoTheStory": [
+        "After Jephthah, the pace becomes brief. Ibzan is named with many sons and daughters, Elon is named from Zebulun, and Abdon is named with sons and grandsons riding donkeys.",
+        "The notices do not describe a battle. They preserve names, years, family scale, region, and burial places.",
+        "The effect is transitional: the reader moves from Gilead and Jephthah toward the Philistine setting of Samson."
+      ],
+      "documentaryObservations": [
+        "Ibzan associated with Bethlehem.",
+        "Thirty sons and thirty daughters named for Ibzan's household network.",
+        "Elon associated with Zebulun.",
+        "Aijalon named as Elon's burial place.",
+        "Abdon associated with Pirathon.",
+        "Forty sons and thirty grandsons riding seventy donkeys.",
+        "Burial notices closing each judge's memory.",
+        "No major battle scene included."
+      ],
+      "audioScript": "Judges 12:8-15 gives three brief judge notices. Ibzan of Bethlehem judges Israel and is remembered for thirty sons and thirty daughters. Elon the Zebulunite judges Israel and is buried at Aijalon in Zebulun. Abdon son of Hillel judges Israel and is remembered for forty sons and thirty grandsons who ride on seventy donkeys. These notices provide a quieter transition between Jephthah's conflict and the beginning of the Samson cycle.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 10:1-12:7"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 12:8-15"
+        ],
+        "laterReferences": [
+          "Judges 13:1"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Ibzan, Elon, and Abdon",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-11-jephthah-and-ammon",
+        "nextStory": "judges-13-samson-birth"
+      },
+      "search": {
+        "people": [
+          "Ibzan",
+          "Elon",
+          "Abdon",
+          "Sons and daughters of Ibzan",
+          "Sons and grandsons of Abdon"
+        ],
+        "places": [
+          "Bethlehem",
+          "Zebulun",
+          "Aijalon in Zebulun",
+          "Pirathon",
+          "Amalekite hill country"
+        ],
+        "events": [
+          "Ibzan",
+          "Elon",
+          "Abdon",
+          "minor judges"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 12 minor judges",
+          "Ibzan Elon Abdon"
+        ]
+      },
+      "realitySummary": "Ibzan, Elon, and Abdon. Ibzan, Elon, and Abdon are briefly named as judges, with family and burial details."
+    }
+  },
+  {
+    "id": "judges-13-samson-birth",
+    "sourceFile": "judges-13-samson-birth.json",
+    "searchTerms": [
+      "Manoah",
+      "Manoah's wife",
+      "Messenger of Yahweh",
+      "Samson",
+      "Philistines",
+      "Zorah",
+      "Danite territory",
+      "Field",
+      "Altar/rock setting",
+      "Samson birth",
+      "Nazirite from womb",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 13",
+      "birth of Samson",
+      "Manoah and his wife",
+      "Birth Announcement",
+      "Instruction Received",
+      "Nazirite",
+      "Family Encounter",
+      "The Birth Announcement of Samson",
+      "The Birth Announcement of Samson. Samson's birth is announced to Manoah's wife during Philistine oppression, instructions are given, and Samson is born."
+    ],
+    "title": "The Birth Announcement of Samson",
+    "reference": "Judges 13",
+    "kicker": "Study",
+    "eventType": [
+      "Birth Announcement",
+      "Instruction Received",
+      "Nazirite",
+      "Family Encounter"
+    ],
+    "summary": "The Birth Announcement of Samson. Samson's birth is announced to Manoah's wife during Philistine oppression, instructions are given, and Samson is born.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Samson's parents"
+      },
+      {
+        "label": "Location",
+        "value": "Zorah and Danite territory"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Family Birth Announcement"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "During Philistine oppression; before Samson's adult conflicts"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "The Birth Announcement of Samson",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "The Birth Announcement of Samson",
+    "stepIntoStory": "The Samson story begins quietly in a household, not on a battlefield. Israel is under Philistine oppression, but the first scene is Manoah's wife receiving a message.\n\nThe location is Zorah in Danite territory, near the border world where Israelite and Philistine life will collide in the next chapters.\n\nManoah asks for more instruction, and the messenger appears again in the field. The chapter ends with Samson born and beginning to grow between Zorah and Eshtaol.",
+    "notice": [
+      "Philistine oppression lasting forty years.",
+      "A barren woman receiving a birth announcement.",
+      "Instructions about wine, unclean food, and hair.",
+      "Manoah asking for the messenger to return.",
+      "A field setting for the second appearance.",
+      "A young goat and grain offering prepared.",
+      "Flame rising from the rock/altar.",
+      "Messenger ascending in the flame.",
+      "Samson born at Zorah.",
+      "The Spirit beginning to stir him between Zorah and Eshtaol."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Ibzan, Elon, and Abdon were briefly named as judges."
+      },
+      {
+        "label": "Now",
+        "value": "Samson's birth is announced to Manoah's wife during Philistine oppression, instructions are given, and Samson is born."
+      },
+      {
+        "label": "Next",
+        "value": "Samson goes down to Timnah and begins conflict with the Philistines."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This begins the Samson cycle before Samson is an adult."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces Philistine oppression as the major background for the next chapters."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It connects Samson with Nazirite-like restrictions from birth."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It grounds the story in a family household in Danite territory."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Zorah is associated with Danite territory near the border zone between Israelite and Philistine areas."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Samson narratives often move between Danite hill-country towns and Philistine settlements."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The field and offering site create local, household-level settings before public conflict begins."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Birth announcements shape family expectations before public action begins."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Dietary and hair restrictions mark Samson from before birth in the narrative."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Family consultation, hospitality, offerings, and field work appear in the domestic setting."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This introduces Samson as the next major judge figure.",
+      "It frames his story under Philistine oppression from the beginning.",
+      "It establishes his family, location, and special restrictions before any battle occurs.",
+      "It leads into his adult movements toward Philistine territory."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Manoah",
+        "role": "Danite man from Zorah and father of Samson",
+        "relationships": []
+      },
+      {
+        "name": "Manoah's wife",
+        "role": "Unnamed woman who receives the birth announcement",
+        "relationships": []
+      },
+      {
+        "name": "Messenger of Yahweh",
+        "role": "Appears with instructions concerning the child",
+        "relationships": []
+      },
+      {
+        "name": "Samson",
+        "role": "Child announced and later born",
+        "relationships": []
+      },
+      {
+        "name": "Philistines",
+        "role": "Oppress Israel during the period",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Zorah",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Town in Danite territory associated with Samson's family"
+      },
+      {
+        "ancientName": "Danite territory",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Tribal region connected to Manoah"
+      },
+      {
+        "ancientName": "Field",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Setting where the messenger appears to Manoah's wife again"
+      },
+      {
+        "ancientName": "Altar/rock setting",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Place where Manoah offers and the messenger ascends in the flame"
+      }
+    ],
+    "people": [
+      "Manoah",
+      "Manoah's wife",
+      "Messenger of Yahweh",
+      "Samson",
+      "Philistines"
+    ],
+    "places": [
+      "Zorah",
+      "Danite territory",
+      "Field",
+      "Altar/rock setting"
+    ],
+    "movement": [
+      "Israel is under Philistine oppression forty years",
+      "The messenger appears to Manoah's wife",
+      "Instructions are given concerning the child",
+      "Manoah prays for further instruction",
+      "The messenger appears again in the field",
+      "Manoah offers on the rock",
+      "Samson is born and grows",
+      "The Spirit begins to stir him between Zorah and Eshtaol"
+    ],
+    "movementDetails": {
+      "startingPoint": "Philistine oppression",
+      "destination": "Samson's birth at Zorah",
+      "route": [
+        "Israel is under Philistine oppression forty years",
+        "The messenger appears to Manoah's wife",
+        "Instructions are given concerning the child",
+        "Manoah prays for further instruction",
+        "The messenger appears again in the field",
+        "Manoah offers on the rock",
+        "Samson is born and grows",
+        "The Spirit begins to stir him between Zorah and Eshtaol"
+      ],
+      "majorStops": [
+        "Zorah",
+        "field",
+        "offering rock",
+        "between Zorah and Eshtaol"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 13 begins the Samson cycle during Philistine oppression. The story opens in Zorah, in Danite territory, with Manoah and his wife. The messenger of Yahweh appears to Manoah's wife and announces the birth of a son, giving instructions connected to the child before birth. Manoah asks for further instruction, and the messenger appears again in the field. Manoah prepares an offering, and the messenger ascends in the flame. Samson is born, grows, and the chapter ends with movement beginning between Zorah and Eshtaol.",
+    "crossReferences": [
+      "Numbers 6:1-21",
+      "Judges 12:8-15",
+      "Judges 13:1-25",
+      "Judges 14:1-20",
+      "Judges 16:31",
+      "Hebrews 11:32"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Numbers 6:1-21",
+        "Judges 12:8-15"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 13:1-25"
+      ],
+      "laterReferences": [
+        "Judges 14:1-20",
+        "Judges 16:31"
+      ],
+      "newTestamentReferences": [
+        "Hebrews 11:32"
+      ]
+    },
+    "series": {
+      "character": "Samson's parents",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-12-ibzan-elon-abdon",
+      "nextStory": null
+    },
+    "source": {
+      "id": "judges-13-samson-birth",
+      "reference": "Judges 13",
+      "storyTitle": "The Birth Announcement of Samson",
+      "eventType": [
+        "Birth Announcement",
+        "Instruction Received",
+        "Nazirite",
+        "Family Encounter"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Samson's parents",
+        "approximateAge": null,
+        "currentLocation": "Zorah and Danite territory",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Manoah",
+          "Manoah's wife",
+          "messenger of Yahweh",
+          "Philistines"
+        ],
+        "sceneScale": "Family Birth Announcement",
+        "timeAnchor": "During Philistine oppression; before Samson's adult conflicts",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Manoah",
+          "role": "Danite man from Zorah and father of Samson",
+          "relationships": []
+        },
+        {
+          "name": "Manoah's wife",
+          "role": "Unnamed woman who receives the birth announcement",
+          "relationships": []
+        },
+        {
+          "name": "Messenger of Yahweh",
+          "role": "Appears with instructions concerning the child",
+          "relationships": []
+        },
+        {
+          "name": "Samson",
+          "role": "Child announced and later born",
+          "relationships": []
+        },
+        {
+          "name": "Philistines",
+          "role": "Oppress Israel during the period",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Zorah",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Town in Danite territory associated with Samson's family"
+        },
+        {
+          "ancientName": "Danite territory",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Tribal region connected to Manoah"
+        },
+        {
+          "ancientName": "Field",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Setting where the messenger appears to Manoah's wife again"
+        },
+        {
+          "ancientName": "Altar/rock setting",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Place where Manoah offers and the messenger ascends in the flame"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Philistine oppression",
+        "destination": "Samson's birth at Zorah",
+        "route": [
+          "Israel is under Philistine oppression forty years",
+          "The messenger appears to Manoah's wife",
+          "Instructions are given concerning the child",
+          "Manoah prays for further instruction",
+          "The messenger appears again in the field",
+          "Manoah offers on the rock",
+          "Samson is born and grows",
+          "The Spirit begins to stir him between Zorah and Eshtaol"
+        ],
+        "majorStops": [
+          "Zorah",
+          "field",
+          "offering rock",
+          "between Zorah and Eshtaol"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Ibzan, Elon, and Abdon were briefly named as judges.",
+        "whatIsHappeningNow": "Samson's birth is announced to Manoah's wife during Philistine oppression, instructions are given, and Samson is born.",
+        "whatHappensAfter": "Samson goes down to Timnah and begins conflict with the Philistines.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "The Birth Announcement of Samson ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This begins the Samson cycle before Samson is an adult.",
+          "It introduces Philistine oppression as the major background for the next chapters.",
+          "It connects Samson with Nazirite-like restrictions from birth.",
+          "It grounds the story in a family household in Danite territory."
+        ],
+        "geographicContext": [
+          "Zorah is associated with Danite territory near the border zone between Israelite and Philistine areas.",
+          "The Samson narratives often move between Danite hill-country towns and Philistine settlements.",
+          "The field and offering site create local, household-level settings before public conflict begins."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Birth announcements shape family expectations before public action begins.",
+          "Dietary and hair restrictions mark Samson from before birth in the narrative.",
+          "Family consultation, hospitality, offerings, and field work appear in the domestic setting."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This introduces Samson as the next major judge figure.",
+        "It frames his story under Philistine oppression from the beginning.",
+        "It establishes his family, location, and special restrictions before any battle occurs.",
+        "It leads into his adult movements toward Philistine territory."
+      ],
+      "stepIntoTheStory": [
+        "The Samson story begins quietly in a household, not on a battlefield. Israel is under Philistine oppression, but the first scene is Manoah's wife receiving a message.",
+        "The location is Zorah in Danite territory, near the border world where Israelite and Philistine life will collide in the next chapters.",
+        "Manoah asks for more instruction, and the messenger appears again in the field. The chapter ends with Samson born and beginning to grow between Zorah and Eshtaol."
+      ],
+      "documentaryObservations": [
+        "Philistine oppression lasting forty years.",
+        "A barren woman receiving a birth announcement.",
+        "Instructions about wine, unclean food, and hair.",
+        "Manoah asking for the messenger to return.",
+        "A field setting for the second appearance.",
+        "A young goat and grain offering prepared.",
+        "Flame rising from the rock/altar.",
+        "Messenger ascending in the flame.",
+        "Samson born at Zorah.",
+        "The Spirit beginning to stir him between Zorah and Eshtaol."
+      ],
+      "audioScript": "Judges 13 begins the Samson cycle during Philistine oppression. The story opens in Zorah, in Danite territory, with Manoah and his wife. The messenger of Yahweh appears to Manoah's wife and announces the birth of a son, giving instructions connected to the child before birth. Manoah asks for further instruction, and the messenger appears again in the field. Manoah prepares an offering, and the messenger ascends in the flame. Samson is born, grows, and the chapter ends with movement beginning between Zorah and Eshtaol.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Numbers 6:1-21",
+          "Judges 12:8-15"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 13:1-25"
+        ],
+        "laterReferences": [
+          "Judges 14:1-20",
+          "Judges 16:31"
+        ],
+        "newTestamentReferences": [
+          "Hebrews 11:32"
+        ]
+      },
+      "series": {
+        "character": "Samson's parents",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-12-ibzan-elon-abdon",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Manoah",
+          "Manoah's wife",
+          "Messenger of Yahweh",
+          "Samson",
+          "Philistines"
+        ],
+        "places": [
+          "Zorah",
+          "Danite territory",
+          "Field",
+          "Altar/rock setting"
+        ],
+        "events": [
+          "Samson birth",
+          "Manoah",
+          "Zorah",
+          "Nazirite from womb"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 13",
+          "birth of Samson",
+          "Manoah and his wife"
+        ]
+      },
+      "realitySummary": "The Birth Announcement of Samson. Samson's birth is announced to Manoah's wife during Philistine oppression, instructions are given, and Samson is born."
+    }
   }
 ]
