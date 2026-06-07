@@ -78403,5 +78403,623 @@
       },
       "realitySummary": "The Birth Announcement of Samson. Samson's birth is announced to Manoah's wife during Philistine oppression, instructions are given, and Samson is born."
     }
+  },
+  {
+    "id": "judges-14-samson-philistines",
+    "sourceFile": "judges-14-samson-philistines.json",
+    "searchTerms": [
+      "Samson",
+      "Samson's father and mother",
+      "Philistine woman of Timnah",
+      "Delilah",
+      "Philistine rulers",
+      "Philistines",
+      "Zorah",
+      "Timnah",
+      "Vineyards of Timnah",
+      "Ashkelon",
+      "Gaza",
+      "Valley of Sorek",
+      "Temple of Dagon",
+      "Zorah and Eshtaol",
+      "Gaza gates",
+      "temple of Dagon",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 14-16",
+      "Samson and Delilah",
+      "Samson and the Philistines",
+      "Conflict",
+      "Marriage Feast",
+      "Riddle",
+      "Revenge",
+      "Capture",
+      "Death",
+      "Samson and the Philistines. Samson's adult life unfolds through repeated conflicts with Philistines, including Timnah, Lehi, Gaza, Delilah, capture, and his death at a Philistine temple."
+    ],
+    "title": "Samson and the Philistines",
+    "reference": "Judges 14-16",
+    "kicker": "Study",
+    "eventType": [
+      "Conflict",
+      "Marriage Feast",
+      "Riddle",
+      "Revenge",
+      "Capture",
+      "Death"
+    ],
+    "summary": "Samson and the Philistines. Samson's adult life unfolds through repeated conflicts with Philistines, including Timnah, Lehi, Gaza, Delilah, capture, and his death at a Philistine temple.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Samson"
+      },
+      {
+        "label": "Location",
+        "value": "Zorah, Timnah, Gaza, and Philistine territory"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Coastal plain / Philistine region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Regional Conflict with Philistines"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Samson's birth; before Micah and Dan appendix"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Samson and the Philistines",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Samson and the Philistines",
+    "stepIntoStory": "Samson's movements repeatedly go down from his home region toward Philistine territory. Timnah, vineyards, feasts, riddles, and conflict define the early scenes.\n\nThe story then becomes a chain of retaliations: fields burned, men struck, jawbone used at Lehi, gates carried from Gaza.\n\nThe final movement is inward and downward: Samson is captured, blinded, bound with bronze shackles, and made to grind in prison. In the temple of Dagon, he stands between pillars as Philistine rulers and crowds gather above and around him.",
+    "notice": [
+      "Samson going down to Timnah.",
+      "A lion in the vineyards of Timnah.",
+      "Honey found later in the lion's carcass.",
+      "A seven-day marriage feast and riddle.",
+      "Thirty linen garments and changes of clothes.",
+      "Foxes or jackals with torches burning fields.",
+      "Jawbone used at Lehi.",
+      "Gaza's city gate doors carried away.",
+      "Delilah pressing Samson in the Sorek Valley.",
+      "Hair cut from Samson's head.",
+      "Bronze shackles and prison grinding.",
+      "Philistine rulers gathered in Dagon's temple.",
+      "Samson between two central pillars.",
+      "Burial between Zorah and Eshtaol."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Samson's birth was announced in Zorah during Philistine oppression."
+      },
+      {
+        "label": "Now",
+        "value": "Samson's adult life unfolds through repeated conflicts with Philistines, including Timnah, Lehi, Gaza, Delilah, capture, and his death at a Philistine temple."
+      },
+      {
+        "label": "Next",
+        "value": "The book shifts to appendix narratives about Micah, Dan, and tribal disorder."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the longest sustained Philistine conflict sequence in Judges."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samson's story is highly regional, moving along the Israelite-Philistine border zone."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It includes personal conflict, marriage customs, riddles, agricultural retaliation, city gates, imprisonment, and temple collapse."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It ends Samson's judge cycle with his death and burial."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Samson moves between Danite territory and Philistine towns in the coastal plain and border valleys."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Timnah, Gaza, and the Sorek Valley place the story in the contested borderland between hill country and Philistine areas."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Agricultural fields, vineyards, city gates, and temple architecture are central settings."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Marriage feasts, riddles, garments, field burning, grinding in prison, and public temple festivals appear as daily and civic details."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "City gates symbolize security and access; Samson carrying Gaza's gate doors is a highly visible act."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Hair, bonds, bronze shackles, mill grinding, and temple pillars make the final scenes tangible."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This completes the Samson cycle begun in Judges 13.",
+      "It gives the fullest Philistine-focused judge narrative in the book.",
+      "It transitions from judge cycles to the final appendix stories showing internal disorder.",
+      "It closes with Samson's burial in his family region."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Samson",
+        "role": "Danite judge whose conflicts focus on Philistines",
+        "relationships": []
+      },
+      {
+        "name": "Samson's father and mother",
+        "role": "Travel with him to Timnah in the marriage episode",
+        "relationships": []
+      },
+      {
+        "name": "Philistine woman of Timnah",
+        "role": "Woman Samson seeks to marry",
+        "relationships": []
+      },
+      {
+        "name": "Delilah",
+        "role": "Woman in the Sorek Valley connected to Samson's capture",
+        "relationships": []
+      },
+      {
+        "name": "Philistine rulers",
+        "role": "Offer silver to Delilah and gather at the temple of Dagon",
+        "relationships": []
+      },
+      {
+        "name": "Philistines",
+        "role": "Primary enemy group in the Samson cycle",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Zorah",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Samson's home region"
+      },
+      {
+        "ancientName": "Timnah",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Philistine-area town connected to Samson's marriage"
+      },
+      {
+        "ancientName": "Vineyards of Timnah",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Place where Samson encounters the lion"
+      },
+      {
+        "ancientName": "Ashkelon",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Philistine city where Samson kills thirty men"
+      },
+      {
+        "ancientName": "Gaza",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Philistine city where Samson carries away gates"
+      },
+      {
+        "ancientName": "Valley of Sorek",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Region associated with Delilah"
+      },
+      {
+        "ancientName": "Temple of Dagon",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Philistine temple where Samson dies"
+      },
+      {
+        "ancientName": "Zorah and Eshtaol",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Burial region for Samson"
+      }
+    ],
+    "people": [
+      "Samson",
+      "Samson's father and mother",
+      "Philistine woman of Timnah",
+      "Delilah",
+      "Philistine rulers",
+      "Philistines"
+    ],
+    "places": [
+      "Zorah",
+      "Timnah",
+      "Vineyards of Timnah",
+      "Ashkelon",
+      "Gaza",
+      "Valley of Sorek",
+      "Temple of Dagon",
+      "Zorah and Eshtaol"
+    ],
+    "movement": [
+      "Samson goes down to Timnah",
+      "He encounters a lion in the vineyards",
+      "The marriage feast and riddle lead to conflict",
+      "He burns Philistine fields using foxes/jackals and torches",
+      "He strikes Philistines at Lehi",
+      "He goes to Gaza and carries away its gate doors",
+      "Delilah in the Sorek Valley presses him about his strength",
+      "His hair is cut and he is captured, blinded, and taken to Gaza",
+      "He dies at the temple of Dagon and is buried between Zorah and Eshtaol"
+    ],
+    "movementDetails": {
+      "startingPoint": "Zorah",
+      "destination": "Philistine cities and Samson's burial",
+      "route": [
+        "Samson goes down to Timnah",
+        "He encounters a lion in the vineyards",
+        "The marriage feast and riddle lead to conflict",
+        "He burns Philistine fields using foxes/jackals and torches",
+        "He strikes Philistines at Lehi",
+        "He goes to Gaza and carries away its gate doors",
+        "Delilah in the Sorek Valley presses him about his strength",
+        "His hair is cut and he is captured, blinded, and taken to Gaza",
+        "He dies at the temple of Dagon and is buried between Zorah and Eshtaol"
+      ],
+      "majorStops": [
+        "Zorah",
+        "Timnah",
+        "vineyards",
+        "Ashkelon",
+        "Lehi",
+        "Gaza",
+        "Sorek Valley",
+        "temple of Dagon",
+        "burial place"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 14 through 16 follows Samson's adult conflicts with the Philistines. He goes down to Timnah, encounters a lion in the vineyards, and enters a marriage feast that turns into a riddle conflict. The story moves through retaliation, burned fields, Lehi, and Gaza, where Samson carries away the city gate doors. In the Sorek Valley, Delilah presses him until his hair is cut. He is captured, blinded, bound with bronze shackles, and taken to Gaza. His final scene is in the temple of Dagon, where he dies among the Philistines and is later buried between Zorah and Eshtaol.",
+    "crossReferences": [
+      "Judges 13:1-25",
+      "Judges 14:1-16:31",
+      "1 Samuel 4:1-10",
+      "1 Samuel 5:1-5",
+      "Hebrews 11:32"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 13:1-25"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 14:1-16:31"
+      ],
+      "laterReferences": [
+        "1 Samuel 4:1-10",
+        "1 Samuel 5:1-5"
+      ],
+      "newTestamentReferences": [
+        "Hebrews 11:32"
+      ]
+    },
+    "series": {
+      "character": "Samson",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-13-samson-birth",
+      "nextStory": null
+    },
+    "source": {
+      "id": "judges-14-samson-philistines",
+      "reference": "Judges 14-16",
+      "storyTitle": "Samson and the Philistines",
+      "eventType": [
+        "Conflict",
+        "Marriage Feast",
+        "Riddle",
+        "Revenge",
+        "Capture",
+        "Death"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Samson",
+        "approximateAge": null,
+        "currentLocation": "Zorah, Timnah, Gaza, and Philistine territory",
+        "modernRegion": "Coastal plain / Philistine region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Philistines",
+          "Delilah",
+          "Samson's parents"
+        ],
+        "sceneScale": "Regional Conflict with Philistines",
+        "timeAnchor": "After Samson's birth; before Micah and Dan appendix",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Samson",
+          "role": "Danite judge whose conflicts focus on Philistines",
+          "relationships": []
+        },
+        {
+          "name": "Samson's father and mother",
+          "role": "Travel with him to Timnah in the marriage episode",
+          "relationships": []
+        },
+        {
+          "name": "Philistine woman of Timnah",
+          "role": "Woman Samson seeks to marry",
+          "relationships": []
+        },
+        {
+          "name": "Delilah",
+          "role": "Woman in the Sorek Valley connected to Samson's capture",
+          "relationships": []
+        },
+        {
+          "name": "Philistine rulers",
+          "role": "Offer silver to Delilah and gather at the temple of Dagon",
+          "relationships": []
+        },
+        {
+          "name": "Philistines",
+          "role": "Primary enemy group in the Samson cycle",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Zorah",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Samson's home region"
+        },
+        {
+          "ancientName": "Timnah",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Philistine-area town connected to Samson's marriage"
+        },
+        {
+          "ancientName": "Vineyards of Timnah",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Place where Samson encounters the lion"
+        },
+        {
+          "ancientName": "Ashkelon",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Philistine city where Samson kills thirty men"
+        },
+        {
+          "ancientName": "Gaza",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Philistine city where Samson carries away gates"
+        },
+        {
+          "ancientName": "Valley of Sorek",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Region associated with Delilah"
+        },
+        {
+          "ancientName": "Temple of Dagon",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Philistine temple where Samson dies"
+        },
+        {
+          "ancientName": "Zorah and Eshtaol",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Burial region for Samson"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Zorah",
+        "destination": "Philistine cities and Samson's burial",
+        "route": [
+          "Samson goes down to Timnah",
+          "He encounters a lion in the vineyards",
+          "The marriage feast and riddle lead to conflict",
+          "He burns Philistine fields using foxes/jackals and torches",
+          "He strikes Philistines at Lehi",
+          "He goes to Gaza and carries away its gate doors",
+          "Delilah in the Sorek Valley presses him about his strength",
+          "His hair is cut and he is captured, blinded, and taken to Gaza",
+          "He dies at the temple of Dagon and is buried between Zorah and Eshtaol"
+        ],
+        "majorStops": [
+          "Zorah",
+          "Timnah",
+          "vineyards",
+          "Ashkelon",
+          "Lehi",
+          "Gaza",
+          "Sorek Valley",
+          "temple of Dagon",
+          "burial place"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Samson's birth was announced in Zorah during Philistine oppression.",
+        "whatIsHappeningNow": "Samson's adult life unfolds through repeated conflicts with Philistines, including Timnah, Lehi, Gaza, Delilah, capture, and his death at a Philistine temple.",
+        "whatHappensAfter": "The book shifts to appendix narratives about Micah, Dan, and tribal disorder.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Samson and the Philistines ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This is the longest sustained Philistine conflict sequence in Judges.",
+          "Samson's story is highly regional, moving along the Israelite-Philistine border zone.",
+          "It includes personal conflict, marriage customs, riddles, agricultural retaliation, city gates, imprisonment, and temple collapse.",
+          "It ends Samson's judge cycle with his death and burial."
+        ],
+        "geographicContext": [
+          "Samson moves between Danite territory and Philistine towns in the coastal plain and border valleys.",
+          "Timnah, Gaza, and the Sorek Valley place the story in the contested borderland between hill country and Philistine areas.",
+          "Agricultural fields, vineyards, city gates, and temple architecture are central settings."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Marriage feasts, riddles, garments, field burning, grinding in prison, and public temple festivals appear as daily and civic details.",
+          "City gates symbolize security and access; Samson carrying Gaza's gate doors is a highly visible act.",
+          "Hair, bonds, bronze shackles, mill grinding, and temple pillars make the final scenes tangible."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This completes the Samson cycle begun in Judges 13.",
+        "It gives the fullest Philistine-focused judge narrative in the book.",
+        "It transitions from judge cycles to the final appendix stories showing internal disorder.",
+        "It closes with Samson's burial in his family region."
+      ],
+      "stepIntoTheStory": [
+        "Samson's movements repeatedly go down from his home region toward Philistine territory. Timnah, vineyards, feasts, riddles, and conflict define the early scenes.",
+        "The story then becomes a chain of retaliations: fields burned, men struck, jawbone used at Lehi, gates carried from Gaza.",
+        "The final movement is inward and downward: Samson is captured, blinded, bound with bronze shackles, and made to grind in prison. In the temple of Dagon, he stands between pillars as Philistine rulers and crowds gather above and around him."
+      ],
+      "documentaryObservations": [
+        "Samson going down to Timnah.",
+        "A lion in the vineyards of Timnah.",
+        "Honey found later in the lion's carcass.",
+        "A seven-day marriage feast and riddle.",
+        "Thirty linen garments and changes of clothes.",
+        "Foxes or jackals with torches burning fields.",
+        "Jawbone used at Lehi.",
+        "Gaza's city gate doors carried away.",
+        "Delilah pressing Samson in the Sorek Valley.",
+        "Hair cut from Samson's head.",
+        "Bronze shackles and prison grinding.",
+        "Philistine rulers gathered in Dagon's temple.",
+        "Samson between two central pillars.",
+        "Burial between Zorah and Eshtaol."
+      ],
+      "audioScript": "Judges 14 through 16 follows Samson's adult conflicts with the Philistines. He goes down to Timnah, encounters a lion in the vineyards, and enters a marriage feast that turns into a riddle conflict. The story moves through retaliation, burned fields, Lehi, and Gaza, where Samson carries away the city gate doors. In the Sorek Valley, Delilah presses him until his hair is cut. He is captured, blinded, bound with bronze shackles, and taken to Gaza. His final scene is in the temple of Dagon, where he dies among the Philistines and is later buried between Zorah and Eshtaol.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 13:1-25"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 14:1-16:31"
+        ],
+        "laterReferences": [
+          "1 Samuel 4:1-10",
+          "1 Samuel 5:1-5"
+        ],
+        "newTestamentReferences": [
+          "Hebrews 11:32"
+        ]
+      },
+      "series": {
+        "character": "Samson",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-13-samson-birth",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Samson",
+          "Samson's father and mother",
+          "Philistine woman of Timnah",
+          "Delilah",
+          "Philistine rulers",
+          "Philistines"
+        ],
+        "places": [
+          "Zorah",
+          "Timnah",
+          "Vineyards of Timnah",
+          "Ashkelon",
+          "Gaza",
+          "Valley of Sorek",
+          "Temple of Dagon",
+          "Zorah and Eshtaol"
+        ],
+        "events": [
+          "Samson",
+          "Delilah",
+          "Philistines",
+          "Gaza gates",
+          "temple of Dagon"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 14-16",
+          "Samson and Delilah",
+          "Samson and the Philistines"
+        ]
+      },
+      "realitySummary": "Samson and the Philistines. Samson's adult life unfolds through repeated conflicts with Philistines, including Timnah, Lehi, Gaza, Delilah, capture, and his death at a Philistine temple."
+    }
   }
 ]
