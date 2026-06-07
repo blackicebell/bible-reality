@@ -16,7 +16,7 @@ function variableName(file) {
 }
 
 const imports = files
-  .map((file) => `import ${variableName(file)} from "@/data/bibles/books/kjv/${file}";`)
+  .map((file) => `import ${variableName(file)} from "../data/bibles/books/kjv/${file}";`)
   .join("\n");
 const entries = files.map(variableName).join(",\n  ");
 
