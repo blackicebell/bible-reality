@@ -2,11 +2,20 @@ import { Modal, Pressable, ScrollView, StyleSheet, Text, View } from "react-nati
 import { Ionicons } from "@expo/vector-icons";
 import { useEffect, useState } from "react";
 
+import { ShareCardSheet } from "@/components/ShareCardSheet";
 import { StudyCard } from "@/components/StudyCard";
 import { colors } from "@/theme/colors";
 import { spacing } from "@/theme/spacing";
 import { typography } from "@/theme/typography";
 import { getKjvPassage, type KjvPassage } from "@/utils/kjvPassages";
+import { applySacredNames } from "@/utils/sacredNames";
+import {
+  defaultCustomSacredNames,
+  getCustomSacredNames,
+  getSacredNameStyle,
+  type SacredNameMap,
+  type SacredNameStyle
+} from "@/utils/storage";
 
 type CrossReferenceGroups = Record<string, string[]>;
 
@@ -19,7 +28,16 @@ const labels: Record<string, string> = {
 
 export function CrossReferenceGroupsCard({ groups, initialReference }: { groups: CrossReferenceGroups; initialReference?: string }) {
   const [selected, setSelected] = useState<KjvPassage | null>(null);
+  const [shareVisible, setShareVisible] = useState(false);
+  const [sacredNameStyle, setSacredNameStyle] = useState<SacredNameStyle>("traditional");
+  const [customNames, setCustomNames] = useState<SacredNameMap>(defaultCustomSacredNames);
   const entries = Object.entries(groups).filter(([, refs]) => refs.length);
+  const selectedExcerpt = applySacredNames(selected?.excerpt, sacredNameStyle, customNames);
+
+  useEffect(() => {
+    getSacredNameStyle().then(setSacredNameStyle);
+    getCustomSacredNames().then(setCustomNames);
+  }, []);
 
   useEffect(() => {
     if (initialReference) {
@@ -36,8 +54,8 @@ export function CrossReferenceGroupsCard({ groups, initialReference }: { groups:
       getKjvPassage(ref) ?? {
         reference: ref,
         translation: "KJV",
-        excerpt: "This passage is ready to connect once the full offline KJV dataset is added.",
-        note: "The tap behavior is wired. The remaining work is adding the complete KJV text file."
+        excerpt: "This connected item is an internal study reference rather than a KJV scripture reference.",
+        note: "Open it from Search or the study list to view the full reality profile."
       }
     );
   }
@@ -73,17 +91,29 @@ export function CrossReferenceGroupsCard({ groups, initialReference }: { groups:
                 <Text style={styles.sheetLabel}>{selected?.translation}</Text>
                 <Text style={styles.sheetTitle}>{selected?.reference}</Text>
               </View>
-              <Pressable accessibilityLabel="Close passage" onPress={() => setSelected(null)} style={styles.closeButton}>
-                <Ionicons color={colors.text} name="close" size={20} />
-              </Pressable>
+              <View style={styles.sheetActions}>
+                <Pressable accessibilityLabel="Share passage" onPress={() => setShareVisible(true)} style={styles.closeButton}>
+                  <Ionicons color={colors.text} name="share-outline" size={19} />
+                </Pressable>
+                <Pressable accessibilityLabel="Close passage" onPress={() => setSelected(null)} style={styles.closeButton}>
+                  <Ionicons color={colors.text} name="close" size={20} />
+                </Pressable>
+              </View>
             </View>
             <ScrollView showsVerticalScrollIndicator={false}>
-              <Text style={styles.scripture}>{selected?.excerpt}</Text>
+              <Text style={styles.scripture}>{selectedExcerpt}</Text>
               <Text style={styles.note}>{selected?.note}</Text>
             </ScrollView>
           </View>
         </View>
       </Modal>
+      <ShareCardSheet
+        body={selectedExcerpt}
+        onClose={() => setShareVisible(false)}
+        reference={selected?.reference ?? ""}
+        title={selected?.translation}
+        visible={shareVisible}
+      />
     </>
   );
 }
@@ -176,6 +206,11 @@ const styles = StyleSheet.create({
     height: 38,
     justifyContent: "center",
     width: 38
+  },
+  sheetActions: {
+    flexDirection: "row",
+    flexShrink: 0,
+    gap: spacing.sm
   },
   scripture: {
     ...typography.quote,

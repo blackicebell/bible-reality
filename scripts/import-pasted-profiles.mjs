@@ -118,7 +118,6 @@ function normalize(raw, sourceFile) {
     "people",
     "places",
     "movementJourney",
-    "storyPosition",
     "realityContext",
     "stepIntoTheStory",
     "documentaryObservations",

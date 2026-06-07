@@ -14,7 +14,7 @@ const slides = [
   {
     kicker: "Bible Reality",
     title: "Read with the world of the passage in view.",
-    copy: "Each study gives you story position, people, places, modern orientation, connected passages, and notes without needing a live map."
+    copy: "Each study gives you people, places, modern orientation, connected passages, and notes without needing a live map."
   },
   {
     kicker: "Start Anywhere",

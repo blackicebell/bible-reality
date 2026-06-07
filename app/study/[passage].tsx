@@ -11,8 +11,8 @@ import { NoticeCard } from "@/components/NoticeCard";
 import { ModernLocationCue } from "@/components/ModernLocationCue";
 import { ProfilePeopleCard } from "@/components/ProfilePeopleCard";
 import { ProfilePlacesCard } from "@/components/ProfilePlacesCard";
+import { ShareCardSheet } from "@/components/ShareCardSheet";
 import { StepIntoStoryCard } from "@/components/StepIntoStoryCard";
-import { StoryPositionStrip } from "@/components/StoryPositionStrip";
 import { StudyCard } from "@/components/StudyCard";
 import { StudyNotesCard } from "@/components/StudyNotesCard";
 import { colors } from "@/theme/colors";
@@ -52,6 +52,7 @@ export default function StudyDetailScreen() {
   const [sacredNameStyle, setSacredNameStyle] = useState<SacredNameStyle>("traditional");
   const [customNames, setCustomNames] = useState<SacredNameMap>(defaultCustomSacredNames);
   const [saved, setSaved] = useState(false);
+  const [shareVisible, setShareVisible] = useState(false);
   const sacred = (text: string | undefined) => applySacredNames(text, sacredNameStyle, customNames);
   const observableReality = sacred(toObservableNarrative(profile.notice));
   const primaryPlace = profile.placesDetails[0];
@@ -92,13 +93,17 @@ export default function StudyDetailScreen() {
             <Text style={styles.title}>{sacred(profile.title)}</Text>
             <Text style={styles.summary}>{sacred(profile.summary)}</Text>
           </View>
-          <Pressable accessibilityLabel="Save passage" onPress={toggleSaved} style={saved ? { ...styles.saveButton, ...styles.savedButton } : styles.saveButton}>
-            <Ionicons color={saved ? colors.surface : colors.navy} name={saved ? "bookmark" : "bookmark-outline"} size={22} />
-          </Pressable>
+          <View style={styles.headerActions}>
+            <Pressable accessibilityLabel="Share passage" onPress={() => setShareVisible(true)} style={styles.saveButton}>
+              <Ionicons color={colors.navy} name="share-outline" size={21} />
+            </Pressable>
+            <Pressable accessibilityLabel="Save passage" onPress={toggleSaved} style={saved ? { ...styles.saveButton, ...styles.savedButton } : styles.saveButton}>
+              <Ionicons color={saved ? colors.surface : colors.navy} name={saved ? "bookmark" : "bookmark-outline"} size={22} />
+            </Pressable>
+          </View>
         </View>
 
         {primaryPlace ? <ModernLocationCue ancientPlace={primaryPlace.ancientName} modernRegion={primaryPlace.modernRegion} /> : null}
-        <StoryPositionStrip currentStory={profile.currentStory} items={profile.storyPosition} />
         <StepIntoStoryCard narration={sacred(profile.audioScript)} text={sacred(profile.stepIntoStory)} />
         <NoticeCard text={observableReality} />
         {profile.whyThisMattersInTheStory.length ? (
@@ -114,6 +119,13 @@ export default function StudyDetailScreen() {
         <CrossReferenceGroupsCard groups={profile.crossReferenceGroups} initialReference={typeof openRef === "string" ? openRef : undefined} />
         <StudyNotesCard passageId={profile.id} />
       </ScrollView>
+      <ShareCardSheet
+        body={sacred(profile.summary)}
+        onClose={() => setShareVisible(false)}
+        reference={sacred(profile.reference)}
+        title={sacred(profile.title)}
+        visible={shareVisible}
+      />
       <BottomNav />
     </SafeAreaView>
   );
@@ -191,6 +203,10 @@ const styles = StyleSheet.create({
     height: 48,
     justifyContent: "center",
     width: 48
+  },
+  headerActions: {
+    flexShrink: 0,
+    gap: spacing.sm
   },
   savedButton: {
     backgroundColor: colors.ink,
