@@ -75030,5 +75030,1740 @@
       },
       "realitySummary": "Deborah, Barak, Sisera, and the Song. Deborah summons Barak, Israel fights Sisera near the Kishon, Jael kills Sisera, and Judges 5 preserves a victory song."
     }
+  },
+  {
+    "id": "judges-08-gideon-called",
+    "sourceFile": "judges-08-gideon-called.json",
+    "searchTerms": [
+      "Gideon",
+      "Midianites",
+      "Amalekites and people of the east",
+      "Messenger of Yahweh",
+      "Joash",
+      "Ophrah",
+      "Winepress",
+      "Oak at Ophrah",
+      "Valley of Jezreel",
+      "Midian",
+      "Gideon called",
+      "Midianite oppression",
+      "winepress",
+      "fleece",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 6",
+      "Gideon at Ophrah",
+      "Gideon winepress",
+      "Oppression",
+      "Calling",
+      "Sign",
+      "Altar",
+      "Family Conflict",
+      "Gideon Is Called During Midianite Oppression",
+      "Gideon Is Called During Midianite Oppression. Midianite oppression devastates Israel, Gideon is called at Ophrah, tears down his father's altar, and begins mustering tribes."
+    ],
+    "title": "Gideon Is Called During Midianite Oppression",
+    "reference": "Judges 6",
+    "kicker": "Study",
+    "eventType": [
+      "Oppression",
+      "Calling",
+      "Sign",
+      "Altar",
+      "Family Conflict"
+    ],
+    "summary": "Gideon Is Called During Midianite Oppression. Midianite oppression devastates Israel, Gideon is called at Ophrah, tears down his father's altar, and begins mustering tribes.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Gideon"
+      },
+      {
+        "label": "Location",
+        "value": "Ophrah and Midianite-affected Israel"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Regional Oppression and Calling"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Deborah and Barak; before Gideon's battle"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Gideon Is Called During Midianite Oppression",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Gideon Is Called During Midianite Oppression",
+    "stepIntoStory": "Israel is not first shown on a battlefield but hiding from raiders. Midianite groups come up and ruin crops, leaving people in caves and strongholds.\n\nGideon is threshing wheat in a winepress, an unusual and concealed place for that task. The messenger appears under the oak at Ophrah.\n\nThe first public confrontation is local: Gideon tears down his father's altar at night, and the men of the town respond in the morning. Only after this does the scene widen toward the Midianite camp in the Jezreel Valley.",
+    "notice": [
+      "People hiding in caves, dens, and strongholds.",
+      "Midianite raiders coming with livestock and tents.",
+      "Crops destroyed across the land.",
+      "Gideon threshing wheat in a winepress.",
+      "Messenger under the oak at Ophrah.",
+      "Offering placed on a rock.",
+      "Altar torn down at night.",
+      "Town men reacting in the morning.",
+      "Midian and allies camped in the Jezreel Valley.",
+      "Fleece signs requested before battle."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Deborah and Barak's victory ended with forty years of rest."
+      },
+      {
+        "label": "Now",
+        "value": "Midianite oppression devastates Israel, Gideon is called at Ophrah, tears down his father's altar, and begins mustering tribes."
+      },
+      {
+        "label": "Next",
+        "value": "Gideon reduces his army and attacks the Midianite camp."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This begins the Gideon cycle, one of the longest judge narratives."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It shows oppression as agricultural devastation rather than only military occupation."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces Gideon in a hidden, domestic, and clan setting before battlefield action."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It sets up the conflict with Midian in the Jezreel Valley."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Midianite raids affect fields, produce, and livestock across Israelite areas."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Ophrah is Gideon's local setting, while the Jezreel Valley becomes the regional military staging area."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "A winepress used for threshing wheat suggests hiding agricultural work from raiders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Raiders could destroy crops and livestock, forcing people into caves, dens, and strongholds."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Threshing wheat normally requires open air, so doing it in a winepress is a tangible sign of pressure."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Family altars and town reactions show local religious and social structures."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This introduces Gideon before he becomes a military deliverer.",
+      "It grounds Midianite oppression in daily agricultural loss.",
+      "It moves from private calling to public clan conflict.",
+      "It prepares for the reduced-army battle in Judges 7."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Gideon",
+        "role": "Man from Manasseh called during Midianite oppression",
+        "relationships": [
+          "Son of Joash"
+        ]
+      },
+      {
+        "name": "Midianites",
+        "role": "Raiders who devastate Israel's produce",
+        "relationships": []
+      },
+      {
+        "name": "Amalekites and people of the east",
+        "role": "Groups associated with the raids",
+        "relationships": []
+      },
+      {
+        "name": "Messenger of Yahweh",
+        "role": "Appears to Gideon at Ophrah",
+        "relationships": []
+      },
+      {
+        "name": "Joash",
+        "role": "Gideon's father who owns the Baal altar",
+        "relationships": [
+          "Father of Gideon"
+        ]
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Ophrah",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Gideon's hometown; exact location debated"
+      },
+      {
+        "ancientName": "Winepress",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Place where Gideon threshes wheat"
+      },
+      {
+        "ancientName": "Oak at Ophrah",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Location of the messenger encounter"
+      },
+      {
+        "ancientName": "Valley of Jezreel",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "description": "Region where Midian and allies later camp"
+      },
+      {
+        "ancientName": "Midian",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Region/group east or southeast associated with raiders"
+      }
+    ],
+    "people": [
+      "Gideon",
+      "Midianites",
+      "Amalekites and people of the east",
+      "Messenger of Yahweh",
+      "Joash"
+    ],
+    "places": [
+      "Ophrah",
+      "Winepress",
+      "Oak at Ophrah",
+      "Valley of Jezreel",
+      "Midian"
+    ],
+    "movement": [
+      "Midianite raids impoverish Israel",
+      "Gideon threshes wheat in a winepress",
+      "The messenger appears at Ophrah",
+      "Gideon prepares an offering and receives a sign",
+      "Gideon tears down his father's Baal altar at night",
+      "He is named Jerubbaal",
+      "Midian and allies cross and camp in Jezreel",
+      "Gideon summons tribes and asks for fleece signs"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israel under Midianite raids",
+      "destination": "Gideon mustering tribes",
+      "route": [
+        "Midianite raids impoverish Israel",
+        "Gideon threshes wheat in a winepress",
+        "The messenger appears at Ophrah",
+        "Gideon prepares an offering and receives a sign",
+        "Gideon tears down his father's Baal altar at night",
+        "He is named Jerubbaal",
+        "Midian and allies cross and camp in Jezreel",
+        "Gideon summons tribes and asks for fleece signs"
+      ],
+      "majorStops": [
+        "hiding places",
+        "Ophrah",
+        "winepress",
+        "oak",
+        "Baal altar",
+        "Jezreel Valley"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 6 begins the Gideon story under Midianite oppression. The raids are agricultural: crops and livestock are devastated, and Israelites hide in caves and strongholds. Gideon is introduced threshing wheat in a winepress, away from open fields. At Ophrah, the messenger of Yahweh appears to him under an oak. Gideon prepares an offering and later tears down his father's Baal altar at night. The local conflict at Ophrah leads into a wider military crisis as Midian, Amalek, and eastern groups camp in the Jezreel Valley.",
+    "crossReferences": [
+      "Judges 4:1-5:31",
+      "Judges 6:1-40",
+      "Judges 7:1-8:35",
+      "Hebrews 11:32"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 4:1-5:31"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 6:1-40"
+      ],
+      "laterReferences": [
+        "Judges 7:1-8:35"
+      ],
+      "newTestamentReferences": [
+        "Hebrews 11:32"
+      ]
+    },
+    "series": {
+      "character": "Gideon",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-07-deborah-and-barak",
+      "nextStory": "judges-09-gideons-victory"
+    },
+    "source": {
+      "id": "judges-08-gideon-called",
+      "reference": "Judges 6",
+      "storyTitle": "Gideon Is Called During Midianite Oppression",
+      "eventType": [
+        "Oppression",
+        "Calling",
+        "Sign",
+        "Altar",
+        "Family Conflict"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Gideon",
+        "approximateAge": null,
+        "currentLocation": "Ophrah and Midianite-affected Israel",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Midianites",
+          "messenger of Yahweh",
+          "Joash"
+        ],
+        "sceneScale": "Regional Oppression and Calling",
+        "timeAnchor": "After Deborah and Barak; before Gideon's battle",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Gideon",
+          "role": "Man from Manasseh called during Midianite oppression",
+          "relationships": [
+            "Son of Joash"
+          ]
+        },
+        {
+          "name": "Midianites",
+          "role": "Raiders who devastate Israel's produce",
+          "relationships": []
+        },
+        {
+          "name": "Amalekites and people of the east",
+          "role": "Groups associated with the raids",
+          "relationships": []
+        },
+        {
+          "name": "Messenger of Yahweh",
+          "role": "Appears to Gideon at Ophrah",
+          "relationships": []
+        },
+        {
+          "name": "Joash",
+          "role": "Gideon's father who owns the Baal altar",
+          "relationships": [
+            "Father of Gideon"
+          ]
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Ophrah",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Gideon's hometown; exact location debated"
+        },
+        {
+          "ancientName": "Winepress",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Place where Gideon threshes wheat"
+        },
+        {
+          "ancientName": "Oak at Ophrah",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Location of the messenger encounter"
+        },
+        {
+          "ancientName": "Valley of Jezreel",
+          "modernRegion": "Northern Israel / Galilee and Jezreel region",
+          "description": "Region where Midian and allies later camp"
+        },
+        {
+          "ancientName": "Midian",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Region/group east or southeast associated with raiders"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israel under Midianite raids",
+        "destination": "Gideon mustering tribes",
+        "route": [
+          "Midianite raids impoverish Israel",
+          "Gideon threshes wheat in a winepress",
+          "The messenger appears at Ophrah",
+          "Gideon prepares an offering and receives a sign",
+          "Gideon tears down his father's Baal altar at night",
+          "He is named Jerubbaal",
+          "Midian and allies cross and camp in Jezreel",
+          "Gideon summons tribes and asks for fleece signs"
+        ],
+        "majorStops": [
+          "hiding places",
+          "Ophrah",
+          "winepress",
+          "oak",
+          "Baal altar",
+          "Jezreel Valley"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Deborah and Barak's victory ended with forty years of rest.",
+        "whatIsHappeningNow": "Midianite oppression devastates Israel, Gideon is called at Ophrah, tears down his father's altar, and begins mustering tribes.",
+        "whatHappensAfter": "Gideon reduces his army and attacks the Midianite camp.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Gideon Is Called During Midianite Oppression ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This begins the Gideon cycle, one of the longest judge narratives.",
+          "It shows oppression as agricultural devastation rather than only military occupation.",
+          "It introduces Gideon in a hidden, domestic, and clan setting before battlefield action.",
+          "It sets up the conflict with Midian in the Jezreel Valley."
+        ],
+        "geographicContext": [
+          "Midianite raids affect fields, produce, and livestock across Israelite areas.",
+          "Ophrah is Gideon's local setting, while the Jezreel Valley becomes the regional military staging area.",
+          "A winepress used for threshing wheat suggests hiding agricultural work from raiders."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Raiders could destroy crops and livestock, forcing people into caves, dens, and strongholds.",
+          "Threshing wheat normally requires open air, so doing it in a winepress is a tangible sign of pressure.",
+          "Family altars and town reactions show local religious and social structures."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This introduces Gideon before he becomes a military deliverer.",
+        "It grounds Midianite oppression in daily agricultural loss.",
+        "It moves from private calling to public clan conflict.",
+        "It prepares for the reduced-army battle in Judges 7."
+      ],
+      "stepIntoTheStory": [
+        "Israel is not first shown on a battlefield but hiding from raiders. Midianite groups come up and ruin crops, leaving people in caves and strongholds.",
+        "Gideon is threshing wheat in a winepress, an unusual and concealed place for that task. The messenger appears under the oak at Ophrah.",
+        "The first public confrontation is local: Gideon tears down his father's altar at night, and the men of the town respond in the morning. Only after this does the scene widen toward the Midianite camp in the Jezreel Valley."
+      ],
+      "documentaryObservations": [
+        "People hiding in caves, dens, and strongholds.",
+        "Midianite raiders coming with livestock and tents.",
+        "Crops destroyed across the land.",
+        "Gideon threshing wheat in a winepress.",
+        "Messenger under the oak at Ophrah.",
+        "Offering placed on a rock.",
+        "Altar torn down at night.",
+        "Town men reacting in the morning.",
+        "Midian and allies camped in the Jezreel Valley.",
+        "Fleece signs requested before battle."
+      ],
+      "audioScript": "Judges 6 begins the Gideon story under Midianite oppression. The raids are agricultural: crops and livestock are devastated, and Israelites hide in caves and strongholds. Gideon is introduced threshing wheat in a winepress, away from open fields. At Ophrah, the messenger of Yahweh appears to him under an oak. Gideon prepares an offering and later tears down his father's Baal altar at night. The local conflict at Ophrah leads into a wider military crisis as Midian, Amalek, and eastern groups camp in the Jezreel Valley.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 4:1-5:31"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 6:1-40"
+        ],
+        "laterReferences": [
+          "Judges 7:1-8:35"
+        ],
+        "newTestamentReferences": [
+          "Hebrews 11:32"
+        ]
+      },
+      "series": {
+        "character": "Gideon",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-07-deborah-and-barak",
+        "nextStory": "judges-09-gideons-victory"
+      },
+      "search": {
+        "people": [
+          "Gideon",
+          "Midianites",
+          "Amalekites and people of the east",
+          "Messenger of Yahweh",
+          "Joash"
+        ],
+        "places": [
+          "Ophrah",
+          "Winepress",
+          "Oak at Ophrah",
+          "Valley of Jezreel",
+          "Midian"
+        ],
+        "events": [
+          "Gideon called",
+          "Midianite oppression",
+          "winepress",
+          "Ophrah",
+          "fleece"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 6",
+          "Gideon at Ophrah",
+          "Gideon winepress"
+        ]
+      },
+      "realitySummary": "Gideon Is Called During Midianite Oppression. Midianite oppression devastates Israel, Gideon is called at Ophrah, tears down his father's altar, and begins mustering tribes."
+    }
+  },
+  {
+    "id": "judges-09-gideons-victory",
+    "sourceFile": "judges-09-gideons-victory.json",
+    "searchTerms": [
+      "Gideon",
+      "Three hundred men",
+      "Midianites",
+      "Zebah and Zalmunna",
+      "Ephraimites",
+      "Men of Succoth and Penuel",
+      "Spring of Harod",
+      "Hill of Moreh",
+      "Midianite camp",
+      "Jordan River",
+      "Succoth",
+      "Penuel",
+      "Ophrah",
+      "Gideon victory",
+      "three hundred men",
+      "Midian defeated",
+      "Succoth Penuel",
+      "Gideon's ephod",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 7-8",
+      "Gideon and Midian",
+      "Gideon's 300",
+      "Battle",
+      "Deliverance",
+      "Pursuit",
+      "Intertribal Conflict",
+      "Aftermath",
+      "Gideon's Victory Over Midian and Later Years",
+      "Gideon's Victory Over Midian and Later Years. Gideon attacks Midian with three hundred men, pursues the kings east of the Jordan, deals with Succoth and Penuel, refuses kingship language, and makes an ephod at Ophrah."
+    ],
+    "title": "Gideon's Victory Over Midian and Later Years",
+    "reference": "Judges 7-8",
+    "kicker": "Study",
+    "eventType": [
+      "Battle",
+      "Deliverance",
+      "Pursuit",
+      "Intertribal Conflict",
+      "Aftermath"
+    ],
+    "summary": "Gideon's Victory Over Midian and Later Years. Gideon attacks Midian with three hundred men, pursues the kings east of the Jordan, deals with Succoth and Penuel, refuses kingship language, and makes an ephod at Ophrah.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Gideon"
+      },
+      {
+        "label": "Location",
+        "value": "Jezreel Valley, Jordan, and Midian pursuit route"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Northern Israel / Galilee and Jezreel region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Regional Battle and Pursuit"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Gideon is called; before Abimelech"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Gideon's Victory Over Midian and Later Years",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Gideon's Victory Over Midian and Later Years",
+    "stepIntoStory": "The army is reduced before the battle, leaving Gideon with three hundred men. The scene is set at night above the Midianite camp.\n\nEach man carries a trumpet, an empty jar, and a torch. When the jars break and the trumpets sound, the camp below erupts into confusion.\n\nThe story then becomes a chase across the Jordan. Gideon pursues kings, confronts towns that refused food, and returns home to Ophrah. The victory ends with an ephod and a household that will matter in the next story.",
+    "notice": [
+      "Three hundred men selected from a larger army.",
+      "Men lapping water during the selection test.",
+      "Midianite camp spread in the valley below.",
+      "Trumpets in every man's hand.",
+      "Empty jars broken at night.",
+      "Torches revealed suddenly.",
+      "Midianite camp thrown into confusion.",
+      "Ephraim seizing waters and crossings.",
+      "Exhausted men pursuing across the Jordan.",
+      "Succoth and Penuel refusing bread.",
+      "Golden earrings and ornaments collected.",
+      "Ephod placed in Ophrah."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Gideon was called at Ophrah and began mustering tribes against Midian."
+      },
+      {
+        "label": "Now",
+        "value": "Gideon attacks Midian with three hundred men, pursues the kings east of the Jordan, deals with Succoth and Penuel, refuses kingship language, and makes an ephod at Ophrah."
+      },
+      {
+        "label": "Next",
+        "value": "Abimelech, Gideon's son, seeks power at Shechem."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This completes the Gideon deliverance cycle."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It includes one of the most visual battle scenes in Judges: torches, jars, trumpets, and night confusion."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It also shows tensions inside Israel after victory, including Ephraim, Succoth, and Penuel."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It sets up Abimelech through Gideon's household and many sons."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The battle begins near the Jezreel Valley and moves into pursuit across the Jordan."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Succoth and Penuel are Transjordan towns on the pursuit route."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Ophrah returns as Gideon's home base at the end of the cycle."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Night attacks create confusion in large camps."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Trumpets, jars, and torches function as sound-and-light signals in the narrative."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Pursuit requires food support, which Succoth and Penuel refuse."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Victory spoils include ornaments, crescents, pendants, and garments."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the high point of Gideon's military deliverance.",
+      "It transitions from deliverance to problematic aftermath within Gideon's household and hometown.",
+      "It shows regional deliverance producing internal tribal tensions.",
+      "It prepares the reader for Abimelech's violent rise."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Gideon",
+        "role": "Leads a reduced force against Midian and later pursues kings",
+        "relationships": [
+          "Also called Jerubbaal"
+        ]
+      },
+      {
+        "name": "Three hundred men",
+        "role": "Reduced fighting force selected before the attack",
+        "relationships": []
+      },
+      {
+        "name": "Midianites",
+        "role": "Enemy camp attacked at night",
+        "relationships": []
+      },
+      {
+        "name": "Zebah and Zalmunna",
+        "role": "Midianite kings captured and killed",
+        "relationships": []
+      },
+      {
+        "name": "Ephraimites",
+        "role": "Confront Gideon after the battle",
+        "relationships": []
+      },
+      {
+        "name": "Men of Succoth and Penuel",
+        "role": "Refuse support during Gideon's pursuit",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Spring of Harod",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "description": "Gideon's camp area before force reduction"
+      },
+      {
+        "ancientName": "Hill of Moreh",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "description": "Area associated with the Midianite camp"
+      },
+      {
+        "ancientName": "Midianite camp",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "description": "Night attack location"
+      },
+      {
+        "ancientName": "Jordan River",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Crossed during Gideon's pursuit"
+      },
+      {
+        "ancientName": "Succoth",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Town that refuses bread to Gideon's men"
+      },
+      {
+        "ancientName": "Penuel",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Town that refuses support"
+      },
+      {
+        "ancientName": "Ophrah",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Gideon's home where the ephod is later placed"
+      }
+    ],
+    "people": [
+      "Gideon",
+      "Three hundred men",
+      "Midianites",
+      "Zebah and Zalmunna",
+      "Ephraimites",
+      "Men of Succoth and Penuel"
+    ],
+    "places": [
+      "Spring of Harod",
+      "Hill of Moreh",
+      "Midianite camp",
+      "Jordan River",
+      "Succoth",
+      "Penuel",
+      "Ophrah"
+    ],
+    "movement": [
+      "Gideon's army is reduced",
+      "Three hundred men approach the Midianite camp by night",
+      "Trumpets, jars, and torches are used",
+      "Midianites flee",
+      "Ephraim is called to seize crossings",
+      "Gideon pursues Zebah and Zalmunna across the Jordan",
+      "Succoth and Penuel refuse support",
+      "Gideon captures and kills the kings",
+      "He returns to Ophrah and makes an ephod"
+    ],
+    "movementDetails": {
+      "startingPoint": "Gideon's camp near the spring of Harod",
+      "destination": "Midianite defeat and Gideon's home at Ophrah",
+      "route": [
+        "Gideon's army is reduced",
+        "Three hundred men approach the Midianite camp by night",
+        "Trumpets, jars, and torches are used",
+        "Midianites flee",
+        "Ephraim is called to seize crossings",
+        "Gideon pursues Zebah and Zalmunna across the Jordan",
+        "Succoth and Penuel refuse support",
+        "Gideon captures and kills the kings",
+        "He returns to Ophrah and makes an ephod"
+      ],
+      "majorStops": [
+        "Spring of Harod",
+        "Midianite camp",
+        "Jordan crossings",
+        "Succoth",
+        "Penuel",
+        "Karkor",
+        "Ophrah"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 7 and 8 complete Gideon's cycle. Gideon's force is reduced to three hundred men near the spring of Harod. At night, they surround the Midianite camp with trumpets, jars, and torches. When the jars break and the trumpets sound, the camp is thrown into confusion and Midian flees. Gideon pursues Zebah and Zalmunna across the Jordan, passing Succoth and Penuel, whose men refuse support. After the victory, Gideon returns to Ophrah and makes an ephod. His many sons and household set the stage for Abimelech.",
+    "crossReferences": [
+      "Judges 6:1-40",
+      "Judges 7:1-8:35",
+      "Judges 9:1-57",
+      "Hebrews 11:32"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 6:1-40"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 7:1-8:35"
+      ],
+      "laterReferences": [
+        "Judges 9:1-57"
+      ],
+      "newTestamentReferences": [
+        "Hebrews 11:32"
+      ]
+    },
+    "series": {
+      "character": "Gideon",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-08-gideon-called",
+      "nextStory": "judges-10-abimelech"
+    },
+    "source": {
+      "id": "judges-09-gideons-victory",
+      "reference": "Judges 7-8",
+      "storyTitle": "Gideon's Victory Over Midian and Later Years",
+      "eventType": [
+        "Battle",
+        "Deliverance",
+        "Pursuit",
+        "Intertribal Conflict",
+        "Aftermath"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Gideon",
+        "approximateAge": null,
+        "currentLocation": "Jezreel Valley, Jordan, and Midian pursuit route",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Midianites",
+          "three hundred men",
+          "Ephraim",
+          "Succoth",
+          "Penuel"
+        ],
+        "sceneScale": "Regional Battle and Pursuit",
+        "timeAnchor": "After Gideon is called; before Abimelech",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Gideon",
+          "role": "Leads a reduced force against Midian and later pursues kings",
+          "relationships": [
+            "Also called Jerubbaal"
+          ]
+        },
+        {
+          "name": "Three hundred men",
+          "role": "Reduced fighting force selected before the attack",
+          "relationships": []
+        },
+        {
+          "name": "Midianites",
+          "role": "Enemy camp attacked at night",
+          "relationships": []
+        },
+        {
+          "name": "Zebah and Zalmunna",
+          "role": "Midianite kings captured and killed",
+          "relationships": []
+        },
+        {
+          "name": "Ephraimites",
+          "role": "Confront Gideon after the battle",
+          "relationships": []
+        },
+        {
+          "name": "Men of Succoth and Penuel",
+          "role": "Refuse support during Gideon's pursuit",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Spring of Harod",
+          "modernRegion": "Northern Israel / Galilee and Jezreel region",
+          "description": "Gideon's camp area before force reduction"
+        },
+        {
+          "ancientName": "Hill of Moreh",
+          "modernRegion": "Northern Israel / Galilee and Jezreel region",
+          "description": "Area associated with the Midianite camp"
+        },
+        {
+          "ancientName": "Midianite camp",
+          "modernRegion": "Northern Israel / Galilee and Jezreel region",
+          "description": "Night attack location"
+        },
+        {
+          "ancientName": "Jordan River",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Crossed during Gideon's pursuit"
+        },
+        {
+          "ancientName": "Succoth",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Town that refuses bread to Gideon's men"
+        },
+        {
+          "ancientName": "Penuel",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Town that refuses support"
+        },
+        {
+          "ancientName": "Ophrah",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Gideon's home where the ephod is later placed"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Gideon's camp near the spring of Harod",
+        "destination": "Midianite defeat and Gideon's home at Ophrah",
+        "route": [
+          "Gideon's army is reduced",
+          "Three hundred men approach the Midianite camp by night",
+          "Trumpets, jars, and torches are used",
+          "Midianites flee",
+          "Ephraim is called to seize crossings",
+          "Gideon pursues Zebah and Zalmunna across the Jordan",
+          "Succoth and Penuel refuse support",
+          "Gideon captures and kills the kings",
+          "He returns to Ophrah and makes an ephod"
+        ],
+        "majorStops": [
+          "Spring of Harod",
+          "Midianite camp",
+          "Jordan crossings",
+          "Succoth",
+          "Penuel",
+          "Karkor",
+          "Ophrah"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Gideon was called at Ophrah and began mustering tribes against Midian.",
+        "whatIsHappeningNow": "Gideon attacks Midian with three hundred men, pursues the kings east of the Jordan, deals with Succoth and Penuel, refuses kingship language, and makes an ephod at Ophrah.",
+        "whatHappensAfter": "Abimelech, Gideon's son, seeks power at Shechem.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Gideon's Victory Over Midian and Later Years ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This completes the Gideon deliverance cycle.",
+          "It includes one of the most visual battle scenes in Judges: torches, jars, trumpets, and night confusion.",
+          "It also shows tensions inside Israel after victory, including Ephraim, Succoth, and Penuel.",
+          "It sets up Abimelech through Gideon's household and many sons."
+        ],
+        "geographicContext": [
+          "The battle begins near the Jezreel Valley and moves into pursuit across the Jordan.",
+          "Succoth and Penuel are Transjordan towns on the pursuit route.",
+          "Ophrah returns as Gideon's home base at the end of the cycle."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Night attacks create confusion in large camps.",
+          "Trumpets, jars, and torches function as sound-and-light signals in the narrative.",
+          "Pursuit requires food support, which Succoth and Penuel refuse.",
+          "Victory spoils include ornaments, crescents, pendants, and garments."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the high point of Gideon's military deliverance.",
+        "It transitions from deliverance to problematic aftermath within Gideon's household and hometown.",
+        "It shows regional deliverance producing internal tribal tensions.",
+        "It prepares the reader for Abimelech's violent rise."
+      ],
+      "stepIntoTheStory": [
+        "The army is reduced before the battle, leaving Gideon with three hundred men. The scene is set at night above the Midianite camp.",
+        "Each man carries a trumpet, an empty jar, and a torch. When the jars break and the trumpets sound, the camp below erupts into confusion.",
+        "The story then becomes a chase across the Jordan. Gideon pursues kings, confronts towns that refused food, and returns home to Ophrah. The victory ends with an ephod and a household that will matter in the next story."
+      ],
+      "documentaryObservations": [
+        "Three hundred men selected from a larger army.",
+        "Men lapping water during the selection test.",
+        "Midianite camp spread in the valley below.",
+        "Trumpets in every man's hand.",
+        "Empty jars broken at night.",
+        "Torches revealed suddenly.",
+        "Midianite camp thrown into confusion.",
+        "Ephraim seizing waters and crossings.",
+        "Exhausted men pursuing across the Jordan.",
+        "Succoth and Penuel refusing bread.",
+        "Golden earrings and ornaments collected.",
+        "Ephod placed in Ophrah."
+      ],
+      "audioScript": "Judges 7 and 8 complete Gideon's cycle. Gideon's force is reduced to three hundred men near the spring of Harod. At night, they surround the Midianite camp with trumpets, jars, and torches. When the jars break and the trumpets sound, the camp is thrown into confusion and Midian flees. Gideon pursues Zebah and Zalmunna across the Jordan, passing Succoth and Penuel, whose men refuse support. After the victory, Gideon returns to Ophrah and makes an ephod. His many sons and household set the stage for Abimelech.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 6:1-40"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 7:1-8:35"
+        ],
+        "laterReferences": [
+          "Judges 9:1-57"
+        ],
+        "newTestamentReferences": [
+          "Hebrews 11:32"
+        ]
+      },
+      "series": {
+        "character": "Gideon",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-08-gideon-called",
+        "nextStory": "judges-10-abimelech"
+      },
+      "search": {
+        "people": [
+          "Gideon",
+          "Three hundred men",
+          "Midianites",
+          "Zebah and Zalmunna",
+          "Ephraimites",
+          "Men of Succoth and Penuel"
+        ],
+        "places": [
+          "Spring of Harod",
+          "Hill of Moreh",
+          "Midianite camp",
+          "Jordan River",
+          "Succoth",
+          "Penuel",
+          "Ophrah"
+        ],
+        "events": [
+          "Gideon victory",
+          "three hundred men",
+          "Midian defeated",
+          "Succoth Penuel",
+          "Gideon's ephod"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 7-8",
+          "Gideon and Midian",
+          "Gideon's 300"
+        ]
+      },
+      "realitySummary": "Gideon's Victory Over Midian and Later Years. Gideon attacks Midian with three hundred men, pursues the kings east of the Jordan, deals with Succoth and Penuel, refuses kingship language, and makes an ephod at Ophrah."
+    }
+  },
+  {
+    "id": "judges-10-abimelech",
+    "sourceFile": "judges-10-abimelech.json",
+    "searchTerms": [
+      "Abimelech",
+      "Jotham",
+      "Leaders of Shechem",
+      "Gaal",
+      "Zebul",
+      "Woman at Thebez",
+      "Shechem",
+      "Ophrah",
+      "Mount Gerizim",
+      "Tower of Shechem",
+      "Thebez",
+      "City gate",
+      "Jotham parable",
+      "Shechem conflict",
+      "Thebez millstone",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 9",
+      "Abimelech king of Shechem",
+      "Jotham and Abimelech",
+      "Power Seizure",
+      "Fratricide",
+      "Parable",
+      "City Conflict",
+      "Death",
+      "Abimelech's Rise and Fall at Shechem",
+      "Abimelech's Rise and Fall at Shechem. Abimelech seizes power through Shechem, kills his brothers, faces Jotham's parable, fights Shechem, and dies at Thebez."
+    ],
+    "title": "Abimelech's Rise and Fall at Shechem",
+    "reference": "Judges 9",
+    "kicker": "Study",
+    "eventType": [
+      "Power Seizure",
+      "Fratricide",
+      "Parable",
+      "City Conflict",
+      "Death"
+    ],
+    "summary": "Abimelech's Rise and Fall at Shechem. Abimelech seizes power through Shechem, kills his brothers, faces Jotham's parable, fights Shechem, and dies at Thebez.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Abimelech"
+      },
+      {
+        "label": "Location",
+        "value": "Shechem and Thebez"
+      },
+      {
+        "label": "Modern Region",
+        "value": "West Bank / Shechem-Nablus region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Local Kingship Attempt and City Conflict"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Gideon's death; before Tola and Jair"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Abimelech's Rise and Fall at Shechem",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Abimelech's Rise and Fall at Shechem",
+    "stepIntoStory": "Abimelech's story begins in Shechem, not on a battlefield against a foreign oppressor. He uses his mother's family ties to win support from the city's leaders.\n\nThe violence moves to Ophrah, where his brothers are killed on one stone. Jotham escapes and speaks from Mount Gerizim, his voice cast over the city below.\n\nThe story spirals into city conflict: ambushes, gates, tower refuge, fire, and finally Thebez, where a woman drops an upper millstone from a tower and Abimelech dies.",
+    "notice": [
+      "Silver taken from the house of Baal-berith.",
+      "Abimelech hiring reckless men.",
+      "Brothers killed on one stone at Ophrah.",
+      "Jotham standing on Mount Gerizim.",
+      "Shechem's gate as a place of city politics.",
+      "Gaal speaking against Abimelech during a feast.",
+      "Ambushes around Shechem.",
+      "Tower of Shechem burned with people inside.",
+      "A woman dropping an upper millstone from Thebez's tower.",
+      "Abimelech asking his armor-bearer to kill him."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Gideon died after many sons were born to him, including Abimelech through a concubine in Shechem."
+      },
+      {
+        "label": "Now",
+        "value": "Abimelech seizes power through Shechem, kills his brothers, faces Jotham's parable, fights Shechem, and dies at Thebez."
+      },
+      {
+        "label": "Next",
+        "value": "Tola and Jair are briefly named before the Jephthah cycle begins."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is not a normal judge-deliverer story; it is a violent local power seizure."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces a failed kingship-like episode before Israel's monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It uses Shechem, Gerizim, tower, gate, and city conflict as the narrative setting."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It follows directly from Gideon's household and aftermath."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Shechem is in the central hill country and is central to Abimelech's maternal connections."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Mount Gerizim overlooks the Shechem area, making Jotham's speech geographically vivid."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Thebez's exact location is debated but is presented as another city Abimelech attacks."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Local power could be built through kinship ties, city leaders, temple funds, hired men, and control of gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Towers function as defensive refuges within or near cities."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Millstones were domestic grinding tools; the upper millstone becomes the object that mortally wounds Abimelech."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This shows the dangerous aftermath of Gideon's household.",
+      "It introduces city-based power politics rather than foreign oppression.",
+      "It anticipates later concerns about kingship without giving Israel a legitimate king.",
+      "It marks one of the darkest internal conflict narratives before the appendix stories."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Abimelech",
+        "role": "Gideon's son who seeks power at Shechem",
+        "relationships": [
+          "Son of Gideon/Jerubbaal and his Shechemite concubine"
+        ]
+      },
+      {
+        "name": "Jotham",
+        "role": "Gideon's surviving son who speaks from Mount Gerizim",
+        "relationships": []
+      },
+      {
+        "name": "Leaders of Shechem",
+        "role": "Support Abimelech and later turn against him",
+        "relationships": []
+      },
+      {
+        "name": "Gaal",
+        "role": "Man who challenges Abimelech's authority in Shechem",
+        "relationships": []
+      },
+      {
+        "name": "Zebul",
+        "role": "Ruler of the city who supports Abimelech",
+        "relationships": []
+      },
+      {
+        "name": "Woman at Thebez",
+        "role": "Drops an upper millstone on Abimelech",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Shechem",
+        "modernRegion": "West Bank / Shechem-Nablus region",
+        "description": "City central to Abimelech's rise and conflict"
+      },
+      {
+        "ancientName": "Ophrah",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Gideon's household location where Abimelech kills his brothers"
+      },
+      {
+        "ancientName": "Mount Gerizim",
+        "modernRegion": "West Bank / Shechem-Nablus region",
+        "description": "Place from which Jotham speaks his parable"
+      },
+      {
+        "ancientName": "Tower of Shechem",
+        "modernRegion": "West Bank / Shechem-Nablus region",
+        "description": "Stronghold burned during Abimelech's attack"
+      },
+      {
+        "ancientName": "Thebez",
+        "modernRegion": "Ancient location uncertain",
+        "description": "City where Abimelech is mortally wounded"
+      },
+      {
+        "ancientName": "City gate",
+        "modernRegion": "West Bank / Shechem-Nablus region",
+        "description": "Place of public movement and conflict in Shechem"
+      }
+    ],
+    "people": [
+      "Abimelech",
+      "Jotham",
+      "Leaders of Shechem",
+      "Gaal",
+      "Zebul",
+      "Woman at Thebez"
+    ],
+    "places": [
+      "Shechem",
+      "Ophrah",
+      "Mount Gerizim",
+      "Tower of Shechem",
+      "Thebez",
+      "City gate"
+    ],
+    "movement": [
+      "Abimelech appeals to his mother's relatives in Shechem",
+      "Shechem funds him with silver from Baal-berith's house",
+      "He kills his brothers at Ophrah except Jotham",
+      "Jotham speaks from Mount Gerizim",
+      "Abimelech rules three years",
+      "Conflict grows between Abimelech and Shechem",
+      "Gaal challenges him",
+      "Abimelech attacks Shechem and burns the tower",
+      "He attacks Thebez and is struck by a millstone",
+      "He has his armor-bearer kill him"
+    ],
+    "movementDetails": {
+      "startingPoint": "Shechem",
+      "destination": "Thebez and Abimelech's death",
+      "route": [
+        "Abimelech appeals to his mother's relatives in Shechem",
+        "Shechem funds him with silver from Baal-berith's house",
+        "He kills his brothers at Ophrah except Jotham",
+        "Jotham speaks from Mount Gerizim",
+        "Abimelech rules three years",
+        "Conflict grows between Abimelech and Shechem",
+        "Gaal challenges him",
+        "Abimelech attacks Shechem and burns the tower",
+        "He attacks Thebez and is struck by a millstone",
+        "He has his armor-bearer kill him"
+      ],
+      "majorStops": [
+        "Shechem",
+        "Ophrah",
+        "Mount Gerizim",
+        "Shechem gate",
+        "Tower of Shechem",
+        "Thebez"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 9 tells the story of Abimelech, Gideon's son. He goes to Shechem, uses his mother's family ties, and receives support from the city's leaders. With silver from the house of Baal-berith, he hires men and kills his brothers at Ophrah. Jotham survives and speaks a parable from Mount Gerizim. After three years, conflict grows between Abimelech and Shechem. The violence spreads through gates, fields, ambushes, and towers. At Thebez, a woman drops an upper millstone on Abimelech, and he dies by his armor-bearer's sword.",
+    "crossReferences": [
+      "Judges 8:29-35",
+      "Judges 9:1-57",
+      "2 Samuel 11:21"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 8:29-35"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 9:1-57"
+      ],
+      "laterReferences": [
+        "2 Samuel 11:21"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Abimelech",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-09-gideons-victory",
+      "nextStory": null
+    },
+    "source": {
+      "id": "judges-10-abimelech",
+      "reference": "Judges 9",
+      "storyTitle": "Abimelech's Rise and Fall at Shechem",
+      "eventType": [
+        "Power Seizure",
+        "Fratricide",
+        "Parable",
+        "City Conflict",
+        "Death"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Abimelech",
+        "approximateAge": null,
+        "currentLocation": "Shechem and Thebez",
+        "modernRegion": "West Bank / Shechem-Nablus region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Shechem leaders",
+          "Jotham",
+          "Gaal"
+        ],
+        "sceneScale": "Local Kingship Attempt and City Conflict",
+        "timeAnchor": "After Gideon's death; before Tola and Jair",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Abimelech",
+          "role": "Gideon's son who seeks power at Shechem",
+          "relationships": [
+            "Son of Gideon/Jerubbaal and his Shechemite concubine"
+          ]
+        },
+        {
+          "name": "Jotham",
+          "role": "Gideon's surviving son who speaks from Mount Gerizim",
+          "relationships": []
+        },
+        {
+          "name": "Leaders of Shechem",
+          "role": "Support Abimelech and later turn against him",
+          "relationships": []
+        },
+        {
+          "name": "Gaal",
+          "role": "Man who challenges Abimelech's authority in Shechem",
+          "relationships": []
+        },
+        {
+          "name": "Zebul",
+          "role": "Ruler of the city who supports Abimelech",
+          "relationships": []
+        },
+        {
+          "name": "Woman at Thebez",
+          "role": "Drops an upper millstone on Abimelech",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Shechem",
+          "modernRegion": "West Bank / Shechem-Nablus region",
+          "description": "City central to Abimelech's rise and conflict"
+        },
+        {
+          "ancientName": "Ophrah",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Gideon's household location where Abimelech kills his brothers"
+        },
+        {
+          "ancientName": "Mount Gerizim",
+          "modernRegion": "West Bank / Shechem-Nablus region",
+          "description": "Place from which Jotham speaks his parable"
+        },
+        {
+          "ancientName": "Tower of Shechem",
+          "modernRegion": "West Bank / Shechem-Nablus region",
+          "description": "Stronghold burned during Abimelech's attack"
+        },
+        {
+          "ancientName": "Thebez",
+          "modernRegion": "Ancient location uncertain",
+          "description": "City where Abimelech is mortally wounded"
+        },
+        {
+          "ancientName": "City gate",
+          "modernRegion": "West Bank / Shechem-Nablus region",
+          "description": "Place of public movement and conflict in Shechem"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Shechem",
+        "destination": "Thebez and Abimelech's death",
+        "route": [
+          "Abimelech appeals to his mother's relatives in Shechem",
+          "Shechem funds him with silver from Baal-berith's house",
+          "He kills his brothers at Ophrah except Jotham",
+          "Jotham speaks from Mount Gerizim",
+          "Abimelech rules three years",
+          "Conflict grows between Abimelech and Shechem",
+          "Gaal challenges him",
+          "Abimelech attacks Shechem and burns the tower",
+          "He attacks Thebez and is struck by a millstone",
+          "He has his armor-bearer kill him"
+        ],
+        "majorStops": [
+          "Shechem",
+          "Ophrah",
+          "Mount Gerizim",
+          "Shechem gate",
+          "Tower of Shechem",
+          "Thebez"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Gideon died after many sons were born to him, including Abimelech through a concubine in Shechem.",
+        "whatIsHappeningNow": "Abimelech seizes power through Shechem, kills his brothers, faces Jotham's parable, fights Shechem, and dies at Thebez.",
+        "whatHappensAfter": "Tola and Jair are briefly named before the Jephthah cycle begins.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Abimelech's Rise and Fall at Shechem ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This is not a normal judge-deliverer story; it is a violent local power seizure.",
+          "It introduces a failed kingship-like episode before Israel's monarchy.",
+          "It uses Shechem, Gerizim, tower, gate, and city conflict as the narrative setting.",
+          "It follows directly from Gideon's household and aftermath."
+        ],
+        "geographicContext": [
+          "Shechem is in the central hill country and is central to Abimelech's maternal connections.",
+          "Mount Gerizim overlooks the Shechem area, making Jotham's speech geographically vivid.",
+          "Thebez's exact location is debated but is presented as another city Abimelech attacks."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Local power could be built through kinship ties, city leaders, temple funds, hired men, and control of gates.",
+          "Towers function as defensive refuges within or near cities.",
+          "Millstones were domestic grinding tools; the upper millstone becomes the object that mortally wounds Abimelech."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This shows the dangerous aftermath of Gideon's household.",
+        "It introduces city-based power politics rather than foreign oppression.",
+        "It anticipates later concerns about kingship without giving Israel a legitimate king.",
+        "It marks one of the darkest internal conflict narratives before the appendix stories."
+      ],
+      "stepIntoTheStory": [
+        "Abimelech's story begins in Shechem, not on a battlefield against a foreign oppressor. He uses his mother's family ties to win support from the city's leaders.",
+        "The violence moves to Ophrah, where his brothers are killed on one stone. Jotham escapes and speaks from Mount Gerizim, his voice cast over the city below.",
+        "The story spirals into city conflict: ambushes, gates, tower refuge, fire, and finally Thebez, where a woman drops an upper millstone from a tower and Abimelech dies."
+      ],
+      "documentaryObservations": [
+        "Silver taken from the house of Baal-berith.",
+        "Abimelech hiring reckless men.",
+        "Brothers killed on one stone at Ophrah.",
+        "Jotham standing on Mount Gerizim.",
+        "Shechem's gate as a place of city politics.",
+        "Gaal speaking against Abimelech during a feast.",
+        "Ambushes around Shechem.",
+        "Tower of Shechem burned with people inside.",
+        "A woman dropping an upper millstone from Thebez's tower.",
+        "Abimelech asking his armor-bearer to kill him."
+      ],
+      "audioScript": "Judges 9 tells the story of Abimelech, Gideon's son. He goes to Shechem, uses his mother's family ties, and receives support from the city's leaders. With silver from the house of Baal-berith, he hires men and kills his brothers at Ophrah. Jotham survives and speaks a parable from Mount Gerizim. After three years, conflict grows between Abimelech and Shechem. The violence spreads through gates, fields, ambushes, and towers. At Thebez, a woman drops an upper millstone on Abimelech, and he dies by his armor-bearer's sword.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 8:29-35"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 9:1-57"
+        ],
+        "laterReferences": [
+          "2 Samuel 11:21"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Abimelech",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-09-gideons-victory",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Abimelech",
+          "Jotham",
+          "Leaders of Shechem",
+          "Gaal",
+          "Zebul",
+          "Woman at Thebez"
+        ],
+        "places": [
+          "Shechem",
+          "Ophrah",
+          "Mount Gerizim",
+          "Tower of Shechem",
+          "Thebez",
+          "City gate"
+        ],
+        "events": [
+          "Abimelech",
+          "Jotham parable",
+          "Shechem conflict",
+          "Thebez millstone"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 9",
+          "Abimelech king of Shechem",
+          "Jotham and Abimelech"
+        ]
+      },
+      "realitySummary": "Abimelech's Rise and Fall at Shechem. Abimelech seizes power through Shechem, kills his brothers, faces Jotham's parable, fights Shechem, and dies at Thebez."
+    }
   }
 ]
