@@ -80739,5 +80739,3122 @@
       },
       "realitySummary": "War Against Benjamin and the Restoration of Benjamin. Israel gathers, goes to war against Benjamin, nearly destroys the tribe, and then arranges for Benjaminite survivors to receive wives so the tribe will not disappear."
     }
+  },
+  {
+    "id": "ruth-01-famine-migration-and-family-loss",
+    "sourceFile": "ruth-01-famine-migration-and-family-loss.json",
+    "searchTerms": [
+      "Naomi",
+      "Elimelech",
+      "Mahlon",
+      "Chilion",
+      "Ruth",
+      "Orpah",
+      "Bethlehem",
+      "Judah",
+      "Moab",
+      "Ruth opening",
+      "famine in Bethlehem",
+      "Naomi in Moab",
+      "Elimelech dies",
+      "Judges",
+      "Before the monarchy",
+      "Ruth 1:1-5",
+      "Naomi and Elimelech",
+      "Famine",
+      "Migration",
+      "Death",
+      "Family Crisis",
+      "Famine, Migration to Moab, and Family Loss",
+      "Famine, Migration to Moab, and Family Loss. A Bethlehem household leaves Judah during famine, settles in Moab, and Naomi loses her husband and two sons."
+    ],
+    "title": "Famine, Migration to Moab, and Family Loss",
+    "reference": "Ruth 1:1-5",
+    "kicker": "Study",
+    "eventType": [
+      "Famine",
+      "Migration",
+      "Death",
+      "Family Crisis"
+    ],
+    "summary": "Famine, Migration to Moab, and Family Loss. A Bethlehem household leaves Judah during famine, settles in Moab, and Naomi loses her husband and two sons.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Naomi"
+      },
+      {
+        "label": "Location",
+        "value": "Bethlehem and Moab"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Bethlehem region / Moab region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Family Migration"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "During the days of the judges; before the monarchy; before David"
+      }
+    ],
+    "situation": "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival.",
+    "storyPosition": [
+      "Joshua",
+      "Judges Era",
+      "Famine in Bethlehem",
+      "Naomi and Ruth Return",
+      "Ruth Gleans",
+      "Boaz Redeems",
+      "Famine, Migration to Moab, and Family Loss",
+      "David",
+      "Monarchy"
+    ],
+    "currentStory": "Famine, Migration to Moab, and Family Loss",
+    "stepIntoStory": "The story opens in Bethlehem, but the town is under famine. A household leaves its land and kinship setting to survive in Moab.\n\nThe family does not simply visit Moab; they remain there. The sons marry Moabite women, Ruth and Orpah, tying the household to the region where they have settled.\n\nThen the household collapses. Elimelech dies, and later both sons die. Naomi remains with two daughters-in-law and no husband or sons.",
+    "notice": [
+      "Bethlehem affected by famine.",
+      "A family leaving Judah for Moab.",
+      "Travel from hill country toward a neighboring eastern region.",
+      "A household settling outside its home territory.",
+      "Moabite marriages for Mahlon and Chilion.",
+      "Naomi left without husband or sons.",
+      "Three widows at the center of the opening crisis."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Judges ends with repeated disorder before Israel has a king; Ruth opens in that same general era."
+      },
+      {
+        "label": "Now",
+        "value": "A Bethlehem household leaves Judah during famine, settles in Moab, and Naomi loses her husband and two sons."
+      },
+      {
+        "label": "Next",
+        "value": "Naomi hears that food has returned to Judah and begins the journey back with Ruth and Orpah."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Ruth takes place during the era of the Judges, before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The story is set after Israel has settled in the land but before the monarchy begins."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book moves from household loss and migration to land, harvest, redemption, and genealogy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The final genealogy connects the story to David, who comes later in Israel's narrative."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This opening explains why Naomi is in Moab and why Ruth enters the story."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It places a Bethlehem family outside Judah during the judges era."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It creates the household crisis that drives the return journey and later redemption scenes."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Bethlehem sits in the hill country of Judah, while Moab lies east of the Dead Sea."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The story begins with food scarcity in Judah and movement toward a neighboring region."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The text does not describe the exact route between Bethlehem and Moab, only the migration."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel between Bethlehem and Moab required crossing regional terrain around the Dead Sea area, though the exact route is not given."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Harvest scenes include reaping, gleaning, sheaves, threshing, grain, and daily labor in fields."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Legal and community matters are handled publicly at the town gate with elders and witnesses."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Famine could force households to relocate for survival."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Family identity, land, marriage, and widowhood are central to the story's social world."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Naomi's loss of husband and sons leaves her household without its male providers and heirs in the immediate narrative situation."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This establishes the crisis behind the entire book.",
+      "It introduces Bethlehem, Moab, Naomi, Ruth, and the family losses that shape the plot.",
+      "It explains why the later return to Bethlehem matters within the narrative.",
+      "It sets the story during the judges era while pointing forward to David through the book's ending."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Naomi",
+        "role": "Israelite woman from Bethlehem whose household migrates to Moab",
+        "relationships": []
+      },
+      {
+        "name": "Elimelech",
+        "role": "Naomi's husband who takes the family from Bethlehem to Moab",
+        "relationships": []
+      },
+      {
+        "name": "Mahlon",
+        "role": "Son of Naomi and Elimelech; later husband of Ruth",
+        "relationships": []
+      },
+      {
+        "name": "Chilion",
+        "role": "Son of Naomi and Elimelech; later husband of Orpah",
+        "relationships": []
+      },
+      {
+        "name": "Ruth",
+        "role": "Moabite woman who marries Mahlon",
+        "relationships": []
+      },
+      {
+        "name": "Orpah",
+        "role": "Moabite woman who marries Chilion",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Bethlehem",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Town in Judah whose name is connected with bread but is experiencing famine in the opening scene"
+      },
+      {
+        "ancientName": "Judah",
+        "modernRegion": "Judah / southern hill country region",
+        "description": "Southern tribal region where Bethlehem is located"
+      },
+      {
+        "ancientName": "Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Region east of the Dead Sea where Elimelech's family migrates"
+      }
+    ],
+    "people": [
+      "Naomi",
+      "Elimelech",
+      "Mahlon",
+      "Chilion",
+      "Ruth",
+      "Orpah"
+    ],
+    "places": [
+      "Bethlehem",
+      "Judah",
+      "Moab"
+    ],
+    "movement": [
+      "A famine occurs in Bethlehem during the days of the judges",
+      "Elimelech takes Naomi and their two sons from Bethlehem into Moab",
+      "The family remains in Moab",
+      "Elimelech dies",
+      "Mahlon and Chilion marry Moabite women",
+      "The two sons die, leaving Naomi without husband or sons"
+    ],
+    "movementDetails": {
+      "startingPoint": "Bethlehem in Judah",
+      "destination": "Moab",
+      "route": [
+        "A famine occurs in Bethlehem during the days of the judges",
+        "Elimelech takes Naomi and their two sons from Bethlehem into Moab",
+        "The family remains in Moab",
+        "Elimelech dies",
+        "Mahlon and Chilion marry Moabite women",
+        "The two sons die, leaving Naomi without husband or sons"
+      ],
+      "majorStops": [
+        "Bethlehem",
+        "Judah",
+        "Moab"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Ruth begins during the days of the judges. A famine strikes Bethlehem in Judah, and Elimelech takes his wife Naomi and their two sons to live in Moab. The move is a household survival decision in a time of food scarcity. In Moab, Elimelech dies. Naomi's sons marry Moabite women, Ruth and Orpah, but after about ten years the sons also die. The opening scene leaves Naomi with no husband and no sons, living outside Judah with two Moabite daughters-in-law.",
+    "crossReferences": [
+      "Judges 21:25",
+      "Ruth 1:1-5",
+      "Ruth 1:6-22",
+      "Ruth 4:9-10",
+      "Matthew 1:5"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 21:25"
+      ],
+      "directlyRelatedEvents": [
+        "Ruth 1:1-5"
+      ],
+      "laterReferences": [
+        "Ruth 1:6-22",
+        "Ruth 4:9-10"
+      ],
+      "newTestamentReferences": [
+        "Matthew 1:5"
+      ]
+    },
+    "series": {
+      "character": "Naomi",
+      "arc": "Naomi, Ruth, Boaz, and the Line to David",
+      "previousStory": "judges-17-benjamin-war",
+      "nextStory": "ruth-02-naomi-ruth-and-orpah-on-the-road"
+    },
+    "source": {
+      "id": "ruth-01-famine-migration-and-family-loss",
+      "reference": "Ruth 1:1-5",
+      "storyTitle": "Famine, Migration to Moab, and Family Loss",
+      "eventType": [
+        "Famine",
+        "Migration",
+        "Death",
+        "Family Crisis"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Naomi",
+        "approximateAge": null,
+        "currentLocation": "Bethlehem and Moab",
+        "modernRegion": "Bethlehem region / Moab region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Elimelech",
+          "Mahlon",
+          "Chilion",
+          "Ruth",
+          "Orpah"
+        ],
+        "sceneScale": "Family Migration",
+        "timeAnchor": "During the days of the judges; before the monarchy; before David",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Naomi",
+          "role": "Israelite woman from Bethlehem whose household migrates to Moab",
+          "relationships": []
+        },
+        {
+          "name": "Elimelech",
+          "role": "Naomi's husband who takes the family from Bethlehem to Moab",
+          "relationships": []
+        },
+        {
+          "name": "Mahlon",
+          "role": "Son of Naomi and Elimelech; later husband of Ruth",
+          "relationships": []
+        },
+        {
+          "name": "Chilion",
+          "role": "Son of Naomi and Elimelech; later husband of Orpah",
+          "relationships": []
+        },
+        {
+          "name": "Ruth",
+          "role": "Moabite woman who marries Mahlon",
+          "relationships": []
+        },
+        {
+          "name": "Orpah",
+          "role": "Moabite woman who marries Chilion",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Bethlehem",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Town in Judah whose name is connected with bread but is experiencing famine in the opening scene"
+        },
+        {
+          "ancientName": "Judah",
+          "modernRegion": "Judah / southern hill country region",
+          "description": "Southern tribal region where Bethlehem is located"
+        },
+        {
+          "ancientName": "Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Region east of the Dead Sea where Elimelech's family migrates"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Bethlehem in Judah",
+        "destination": "Moab",
+        "route": [
+          "A famine occurs in Bethlehem during the days of the judges",
+          "Elimelech takes Naomi and their two sons from Bethlehem into Moab",
+          "The family remains in Moab",
+          "Elimelech dies",
+          "Mahlon and Chilion marry Moabite women",
+          "The two sons die, leaving Naomi without husband or sons"
+        ],
+        "majorStops": [
+          "Bethlehem",
+          "Judah",
+          "Moab"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Judges ends with repeated disorder before Israel has a king; Ruth opens in that same general era.",
+        "whatIsHappeningNow": "A Bethlehem household leaves Judah during famine, settles in Moab, and Naomi loses her husband and two sons.",
+        "whatHappensAfter": "Naomi hears that food has returned to Judah and begins the journey back with Ruth and Orpah.",
+        "storyPositionStrip": [
+          "Joshua",
+          "Judges Era",
+          "Famine in Bethlehem",
+          "Naomi and Ruth Return",
+          "Ruth Gleans",
+          "Boaz Redeems",
+          "Famine, Migration to Moab, and Family Loss ← YOU ARE HERE",
+          "David",
+          "Monarchy"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Ruth takes place during the era of the Judges, before Israel has a human king.",
+          "The story is set after Israel has settled in the land but before the monarchy begins.",
+          "The book moves from household loss and migration to land, harvest, redemption, and genealogy.",
+          "The Jerusalem Temple does not yet exist.",
+          "The final genealogy connects the story to David, who comes later in Israel's narrative.",
+          "This opening explains why Naomi is in Moab and why Ruth enters the story.",
+          "It places a Bethlehem family outside Judah during the judges era.",
+          "It creates the household crisis that drives the return journey and later redemption scenes."
+        ],
+        "geographicContext": [
+          "Bethlehem sits in the hill country of Judah, while Moab lies east of the Dead Sea.",
+          "The story begins with food scarcity in Judah and movement toward a neighboring region.",
+          "The text does not describe the exact route between Bethlehem and Moab, only the migration."
+        ],
+        "dailyLifeContext": [
+          "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival.",
+          "Travel between Bethlehem and Moab required crossing regional terrain around the Dead Sea area, though the exact route is not given.",
+          "Harvest scenes include reaping, gleaning, sheaves, threshing, grain, and daily labor in fields.",
+          "Legal and community matters are handled publicly at the town gate with elders and witnesses.",
+          "Famine could force households to relocate for survival.",
+          "Family identity, land, marriage, and widowhood are central to the story's social world.",
+          "Naomi's loss of husband and sons leaves her household without its male providers and heirs in the immediate narrative situation."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This establishes the crisis behind the entire book.",
+        "It introduces Bethlehem, Moab, Naomi, Ruth, and the family losses that shape the plot.",
+        "It explains why the later return to Bethlehem matters within the narrative.",
+        "It sets the story during the judges era while pointing forward to David through the book's ending."
+      ],
+      "stepIntoTheStory": [
+        "The story opens in Bethlehem, but the town is under famine. A household leaves its land and kinship setting to survive in Moab.",
+        "The family does not simply visit Moab; they remain there. The sons marry Moabite women, Ruth and Orpah, tying the household to the region where they have settled.",
+        "Then the household collapses. Elimelech dies, and later both sons die. Naomi remains with two daughters-in-law and no husband or sons."
+      ],
+      "documentaryObservations": [
+        "Bethlehem affected by famine.",
+        "A family leaving Judah for Moab.",
+        "Travel from hill country toward a neighboring eastern region.",
+        "A household settling outside its home territory.",
+        "Moabite marriages for Mahlon and Chilion.",
+        "Naomi left without husband or sons.",
+        "Three widows at the center of the opening crisis."
+      ],
+      "audioScript": "Ruth begins during the days of the judges. A famine strikes Bethlehem in Judah, and Elimelech takes his wife Naomi and their two sons to live in Moab. The move is a household survival decision in a time of food scarcity. In Moab, Elimelech dies. Naomi's sons marry Moabite women, Ruth and Orpah, but after about ten years the sons also die. The opening scene leaves Naomi with no husband and no sons, living outside Judah with two Moabite daughters-in-law.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 21:25"
+        ],
+        "directlyRelatedEvents": [
+          "Ruth 1:1-5"
+        ],
+        "laterReferences": [
+          "Ruth 1:6-22",
+          "Ruth 4:9-10"
+        ],
+        "newTestamentReferences": [
+          "Matthew 1:5"
+        ]
+      },
+      "series": {
+        "character": "Naomi",
+        "arc": "Naomi, Ruth, Boaz, and the Line to David",
+        "previousStory": "judges-17-benjamin-war",
+        "nextStory": "ruth-02-naomi-ruth-and-orpah-on-the-road"
+      },
+      "search": {
+        "people": [
+          "Naomi",
+          "Elimelech",
+          "Mahlon",
+          "Chilion",
+          "Ruth",
+          "Orpah"
+        ],
+        "places": [
+          "Bethlehem",
+          "Judah",
+          "Moab"
+        ],
+        "events": [
+          "Ruth opening",
+          "famine in Bethlehem",
+          "Naomi in Moab",
+          "Elimelech dies"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Bethlehem"
+        ],
+        "alternateNames": [
+          "Ruth 1:1-5",
+          "Naomi and Elimelech",
+          "famine in Bethlehem"
+        ]
+      },
+      "realitySummary": "Famine, Migration to Moab, and Family Loss. A Bethlehem household leaves Judah during famine, settles in Moab, and Naomi loses her husband and two sons."
+    }
+  },
+  {
+    "id": "ruth-02-naomi-ruth-and-orpah-on-the-road",
+    "sourceFile": "ruth-02-naomi-ruth-and-orpah-on-the-road.json",
+    "searchTerms": [
+      "Naomi",
+      "Ruth",
+      "Orpah",
+      "Women of Bethlehem",
+      "Moab",
+      "Bethlehem",
+      "Road from Moab to Judah",
+      "Naomi returns",
+      "Ruth and Orpah",
+      "Ruth goes to Bethlehem",
+      "barley harvest",
+      "Judges",
+      "Before the monarchy",
+      "Ruth 1:6-22",
+      "Ruth clings to Naomi",
+      "Naomi returns to Bethlehem",
+      "Return",
+      "Journey",
+      "Family Separation",
+      "Arrival",
+      "Naomi, Ruth, and Orpah on the Road to Bethlehem",
+      "Naomi, Ruth, and Orpah on the Road to Bethlehem. Naomi starts back to Bethlehem, Orpah returns to Moab, Ruth stays with Naomi, and the two women arrive in Bethlehem at barley harvest."
+    ],
+    "title": "Naomi, Ruth, and Orpah on the Road to Bethlehem",
+    "reference": "Ruth 1:6-22",
+    "kicker": "Study",
+    "eventType": [
+      "Return",
+      "Journey",
+      "Family Separation",
+      "Arrival"
+    ],
+    "summary": "Naomi, Ruth, and Orpah on the Road to Bethlehem. Naomi starts back to Bethlehem, Orpah returns to Moab, Ruth stays with Naomi, and the two women arrive in Bethlehem at barley harvest.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Naomi"
+      },
+      {
+        "label": "Location",
+        "value": "Road from Moab to Bethlehem"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Moab / Bethlehem region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Family Return Journey"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After family deaths in Moab; at the beginning of barley harvest in Bethlehem"
+      }
+    ],
+    "situation": "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival.",
+    "storyPosition": [
+      "Joshua",
+      "Judges Era",
+      "Famine in Bethlehem",
+      "Naomi and Ruth Return",
+      "Ruth Gleans",
+      "Boaz Redeems",
+      "Naomi, Ruth, and Orpah on the Road to Bethlehem",
+      "David",
+      "Monarchy"
+    ],
+    "currentStory": "Naomi, Ruth, and Orpah on the Road to Bethlehem",
+    "stepIntoStory": "Naomi leaves Moab after hearing that food has returned to Judah. Ruth and Orpah begin the journey with her.\n\nThe road becomes a family separation scene. Naomi urges both women to return to their mothers' houses. Orpah turns back, but Ruth stays with Naomi.\n\nWhen Naomi and Ruth arrive in Bethlehem, the town notices them. The timing matters: they enter the town at the beginning of barley harvest.",
+    "notice": [
+      "Three widows beginning the road from Moab.",
+      "Naomi urging Ruth and Orpah to return.",
+      "Orpah turning back toward Moab.",
+      "Ruth continuing with Naomi toward Judah.",
+      "Bethlehem women recognizing Naomi.",
+      "Naomi and Ruth entering town together.",
+      "Arrival timed to the beginning of barley harvest.",
+      "A household returning without its men."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Naomi's husband and sons died in Moab, leaving Naomi with Ruth and Orpah."
+      },
+      {
+        "label": "Now",
+        "value": "Naomi starts back to Bethlehem, Orpah returns to Moab, Ruth stays with Naomi, and the two women arrive in Bethlehem at barley harvest."
+      },
+      {
+        "label": "Next",
+        "value": "Ruth goes to glean in a field and comes to the field of Boaz."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Ruth takes place during the era of the Judges, before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The story is set after Israel has settled in the land but before the monarchy begins."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book moves from household loss and migration to land, harvest, redemption, and genealogy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The final genealogy connects the story to David, who comes later in Israel's narrative."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This brings Ruth from Moab into Bethlehem."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It separates Ruth from Orpah in the narrative."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It places Naomi and Ruth in Bethlehem at the beginning of barley harvest, which sets up the field scenes."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The movement is from Moab east of the Dead Sea back toward Bethlehem in Judah."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Bethlehem becomes the main setting for the rest of the book."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The arrival at barley harvest connects the journey to agricultural time."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel between Bethlehem and Moab required crossing regional terrain around the Dead Sea area, though the exact route is not given."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Harvest scenes include reaping, gleaning, sheaves, threshing, grain, and daily labor in fields."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Legal and community matters are handled publicly at the town gate with elders and witnesses."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Widows traveling without husbands or sons were in a vulnerable social position."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Harvest timing mattered because gleaning could provide food for the poor and foreigner."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Town recognition of Naomi shows Bethlehem as a community where her earlier identity is remembered."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the major return scene of the book.",
+      "It places Ruth inside Naomi's Bethlehem world.",
+      "It introduces the barley harvest as the immediate daily-life setting for the next event.",
+      "It makes the story local again after the Moab migration."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Naomi",
+        "role": "Widow returning from Moab to Bethlehem",
+        "relationships": []
+      },
+      {
+        "name": "Ruth",
+        "role": "Moabite daughter-in-law who remains with Naomi",
+        "relationships": []
+      },
+      {
+        "name": "Orpah",
+        "role": "Moabite daughter-in-law who returns to her people",
+        "relationships": []
+      },
+      {
+        "name": "Women of Bethlehem",
+        "role": "Recognize Naomi when she arrives",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Moab",
+        "modernRegion": "Jordan / Dead Sea eastern region",
+        "description": "Region where Naomi has been living after leaving Bethlehem"
+      },
+      {
+        "ancientName": "Bethlehem",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Naomi's hometown in Judah and the destination of the return"
+      },
+      {
+        "ancientName": "Road from Moab to Judah",
+        "modernRegion": "Moab/Judah route; exact route not given",
+        "description": "Travel setting where Naomi urges Ruth and Orpah to return"
+      }
+    ],
+    "people": [
+      "Naomi",
+      "Ruth",
+      "Orpah",
+      "Women of Bethlehem"
+    ],
+    "places": [
+      "Moab",
+      "Bethlehem",
+      "Road from Moab to Judah"
+    ],
+    "movement": [
+      "Naomi hears that food has returned to Judah",
+      "Naomi leaves Moab with Ruth and Orpah",
+      "Naomi urges both daughters-in-law to return",
+      "Orpah turns back",
+      "Ruth remains with Naomi",
+      "Naomi and Ruth arrive in Bethlehem at the beginning of barley harvest"
+    ],
+    "movementDetails": {
+      "startingPoint": "Moab",
+      "destination": "Bethlehem in Judah",
+      "route": [
+        "Naomi hears that food has returned to Judah",
+        "Naomi leaves Moab with Ruth and Orpah",
+        "Naomi urges both daughters-in-law to return",
+        "Orpah turns back",
+        "Ruth remains with Naomi",
+        "Naomi and Ruth arrive in Bethlehem at the beginning of barley harvest"
+      ],
+      "majorStops": [
+        "Moab",
+        "road to Judah",
+        "Bethlehem"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Naomi hears that food has returned to Judah and leaves Moab. Ruth and Orpah begin the journey with her, but Naomi urges both women to return to their mothers' houses. Orpah turns back. Ruth remains with Naomi and continues toward Bethlehem. When the two women arrive, the town reacts because Naomi is recognized. Their arrival is timed to the beginning of barley harvest, setting the next scene in the fields around Bethlehem.",
+    "crossReferences": [
+      "Ruth 1:1-5",
+      "Ruth 1:6-22",
+      "Ruth 2:1-23",
+      "Matthew 1:5"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Ruth 1:1-5"
+      ],
+      "directlyRelatedEvents": [
+        "Ruth 1:6-22"
+      ],
+      "laterReferences": [
+        "Ruth 2:1-23"
+      ],
+      "newTestamentReferences": [
+        "Matthew 1:5"
+      ]
+    },
+    "series": {
+      "character": "Naomi",
+      "arc": "Naomi, Ruth, Boaz, and the Line to David",
+      "previousStory": "ruth-01-famine-migration-and-family-loss",
+      "nextStory": "ruth-03-ruth-gleans-in-boaz-field"
+    },
+    "source": {
+      "id": "ruth-02-naomi-ruth-and-orpah-on-the-road",
+      "reference": "Ruth 1:6-22",
+      "storyTitle": "Naomi, Ruth, and Orpah on the Road to Bethlehem",
+      "eventType": [
+        "Return",
+        "Journey",
+        "Family Separation",
+        "Arrival"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Naomi",
+        "approximateAge": null,
+        "currentLocation": "Road from Moab to Bethlehem",
+        "modernRegion": "Moab / Bethlehem region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Ruth",
+          "Orpah"
+        ],
+        "sceneScale": "Family Return Journey",
+        "timeAnchor": "After family deaths in Moab; at the beginning of barley harvest in Bethlehem",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Naomi",
+          "role": "Widow returning from Moab to Bethlehem",
+          "relationships": []
+        },
+        {
+          "name": "Ruth",
+          "role": "Moabite daughter-in-law who remains with Naomi",
+          "relationships": []
+        },
+        {
+          "name": "Orpah",
+          "role": "Moabite daughter-in-law who returns to her people",
+          "relationships": []
+        },
+        {
+          "name": "Women of Bethlehem",
+          "role": "Recognize Naomi when she arrives",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Moab",
+          "modernRegion": "Jordan / Dead Sea eastern region",
+          "description": "Region where Naomi has been living after leaving Bethlehem"
+        },
+        {
+          "ancientName": "Bethlehem",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Naomi's hometown in Judah and the destination of the return"
+        },
+        {
+          "ancientName": "Road from Moab to Judah",
+          "modernRegion": "Moab/Judah route; exact route not given",
+          "description": "Travel setting where Naomi urges Ruth and Orpah to return"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Moab",
+        "destination": "Bethlehem in Judah",
+        "route": [
+          "Naomi hears that food has returned to Judah",
+          "Naomi leaves Moab with Ruth and Orpah",
+          "Naomi urges both daughters-in-law to return",
+          "Orpah turns back",
+          "Ruth remains with Naomi",
+          "Naomi and Ruth arrive in Bethlehem at the beginning of barley harvest"
+        ],
+        "majorStops": [
+          "Moab",
+          "road to Judah",
+          "Bethlehem"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Naomi's husband and sons died in Moab, leaving Naomi with Ruth and Orpah.",
+        "whatIsHappeningNow": "Naomi starts back to Bethlehem, Orpah returns to Moab, Ruth stays with Naomi, and the two women arrive in Bethlehem at barley harvest.",
+        "whatHappensAfter": "Ruth goes to glean in a field and comes to the field of Boaz.",
+        "storyPositionStrip": [
+          "Joshua",
+          "Judges Era",
+          "Famine in Bethlehem",
+          "Naomi and Ruth Return",
+          "Ruth Gleans",
+          "Boaz Redeems",
+          "Naomi, Ruth, and Orpah on the Road to Bethlehem ← YOU ARE HERE",
+          "David",
+          "Monarchy"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Ruth takes place during the era of the Judges, before Israel has a human king.",
+          "The story is set after Israel has settled in the land but before the monarchy begins.",
+          "The book moves from household loss and migration to land, harvest, redemption, and genealogy.",
+          "The Jerusalem Temple does not yet exist.",
+          "The final genealogy connects the story to David, who comes later in Israel's narrative.",
+          "This brings Ruth from Moab into Bethlehem.",
+          "It separates Ruth from Orpah in the narrative.",
+          "It places Naomi and Ruth in Bethlehem at the beginning of barley harvest, which sets up the field scenes."
+        ],
+        "geographicContext": [
+          "The movement is from Moab east of the Dead Sea back toward Bethlehem in Judah.",
+          "Bethlehem becomes the main setting for the rest of the book.",
+          "The arrival at barley harvest connects the journey to agricultural time."
+        ],
+        "dailyLifeContext": [
+          "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival.",
+          "Travel between Bethlehem and Moab required crossing regional terrain around the Dead Sea area, though the exact route is not given.",
+          "Harvest scenes include reaping, gleaning, sheaves, threshing, grain, and daily labor in fields.",
+          "Legal and community matters are handled publicly at the town gate with elders and witnesses.",
+          "Widows traveling without husbands or sons were in a vulnerable social position.",
+          "Harvest timing mattered because gleaning could provide food for the poor and foreigner.",
+          "Town recognition of Naomi shows Bethlehem as a community where her earlier identity is remembered."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the major return scene of the book.",
+        "It places Ruth inside Naomi's Bethlehem world.",
+        "It introduces the barley harvest as the immediate daily-life setting for the next event.",
+        "It makes the story local again after the Moab migration."
+      ],
+      "stepIntoTheStory": [
+        "Naomi leaves Moab after hearing that food has returned to Judah. Ruth and Orpah begin the journey with her.",
+        "The road becomes a family separation scene. Naomi urges both women to return to their mothers' houses. Orpah turns back, but Ruth stays with Naomi.",
+        "When Naomi and Ruth arrive in Bethlehem, the town notices them. The timing matters: they enter the town at the beginning of barley harvest."
+      ],
+      "documentaryObservations": [
+        "Three widows beginning the road from Moab.",
+        "Naomi urging Ruth and Orpah to return.",
+        "Orpah turning back toward Moab.",
+        "Ruth continuing with Naomi toward Judah.",
+        "Bethlehem women recognizing Naomi.",
+        "Naomi and Ruth entering town together.",
+        "Arrival timed to the beginning of barley harvest.",
+        "A household returning without its men."
+      ],
+      "audioScript": "Naomi hears that food has returned to Judah and leaves Moab. Ruth and Orpah begin the journey with her, but Naomi urges both women to return to their mothers' houses. Orpah turns back. Ruth remains with Naomi and continues toward Bethlehem. When the two women arrive, the town reacts because Naomi is recognized. Their arrival is timed to the beginning of barley harvest, setting the next scene in the fields around Bethlehem.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Ruth 1:1-5"
+        ],
+        "directlyRelatedEvents": [
+          "Ruth 1:6-22"
+        ],
+        "laterReferences": [
+          "Ruth 2:1-23"
+        ],
+        "newTestamentReferences": [
+          "Matthew 1:5"
+        ]
+      },
+      "series": {
+        "character": "Naomi",
+        "arc": "Naomi, Ruth, Boaz, and the Line to David",
+        "previousStory": "ruth-01-famine-migration-and-family-loss",
+        "nextStory": "ruth-03-ruth-gleans-in-boaz-field"
+      },
+      "search": {
+        "people": [
+          "Naomi",
+          "Ruth",
+          "Orpah",
+          "Women of Bethlehem"
+        ],
+        "places": [
+          "Moab",
+          "Bethlehem",
+          "Road from Moab to Judah"
+        ],
+        "events": [
+          "Naomi returns",
+          "Ruth and Orpah",
+          "Ruth goes to Bethlehem",
+          "barley harvest"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Bethlehem"
+        ],
+        "alternateNames": [
+          "Ruth 1:6-22",
+          "Ruth clings to Naomi",
+          "Naomi returns to Bethlehem"
+        ]
+      },
+      "realitySummary": "Naomi, Ruth, and Orpah on the Road to Bethlehem. Naomi starts back to Bethlehem, Orpah returns to Moab, Ruth stays with Naomi, and the two women arrive in Bethlehem at barley harvest."
+    }
+  },
+  {
+    "id": "ruth-03-ruth-gleans-in-boaz-field",
+    "sourceFile": "ruth-03-ruth-gleans-in-boaz-field.json",
+    "searchTerms": [
+      "Ruth",
+      "Naomi",
+      "Boaz",
+      "Servant overseeing reapers",
+      "Reapers",
+      "Young women of Boaz",
+      "Bethlehem",
+      "Boaz's field",
+      "House of Naomi",
+      "Ruth gleans",
+      "Boaz field",
+      "barley harvest",
+      "close relative",
+      "Judges",
+      "Before the monarchy",
+      "Ruth 2",
+      "Ruth in Boaz's field",
+      "Ruth gleaning",
+      "Gleaning",
+      "Harvest",
+      "Provision",
+      "First Meeting",
+      "Ruth Gleans in the Field of Boaz",
+      "Ruth Gleans in the Field of Boaz. Ruth gleans in Boaz's field, receives protection and food, and returns to Naomi with grain."
+    ],
+    "title": "Ruth Gleans in the Field of Boaz",
+    "reference": "Ruth 2",
+    "kicker": "Study",
+    "eventType": [
+      "Gleaning",
+      "Harvest",
+      "Provision",
+      "First Meeting"
+    ],
+    "summary": "Ruth Gleans in the Field of Boaz. Ruth gleans in Boaz's field, receives protection and food, and returns to Naomi with grain.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Ruth"
+      },
+      {
+        "label": "Location",
+        "value": "Fields near Bethlehem"
+      },
+      {
+        "label": "Modern Region",
+        "value": "West Bank / Bethlehem region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Harvest Field Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "At the beginning of harvest after Naomi and Ruth return to Bethlehem"
+      }
+    ],
+    "situation": "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival.",
+    "storyPosition": [
+      "Joshua",
+      "Judges Era",
+      "Famine in Bethlehem",
+      "Naomi and Ruth Return",
+      "Ruth Gleans",
+      "Boaz Redeems",
+      "Ruth Gleans in the Field of Boaz",
+      "David",
+      "Monarchy"
+    ],
+    "currentStory": "Ruth Gleans in the Field of Boaz",
+    "stepIntoStory": "Ruth leaves Naomi's house and enters the harvest fields around Bethlehem. She is not a landowner or hired worker; she is gleaning behind the reapers.\n\nBoaz arrives from Bethlehem and notices her. The field has structure: workers cutting grain, a servant overseeing them, young women, water vessels, and a place where food is shared.\n\nBy evening, Ruth beats out what she has gathered and carries grain back to Naomi. The household that returned empty from Moab now has food from a field belonging to a close relative.",
+    "notice": [
+      "Ruth walking from Naomi's house to the fields.",
+      "Reapers cutting barley in the field.",
+      "Gleaners gathering leftover grain behind workers.",
+      "Boaz arriving from Bethlehem.",
+      "A foreman or servant identifying Ruth.",
+      "Water vessels used by the workers.",
+      "Ruth eating roasted grain at mealtime.",
+      "Extra stalks intentionally left for Ruth.",
+      "Ruth beating out barley after gleaning.",
+      "Naomi seeing the amount of grain Ruth brings home."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Naomi and Ruth arrived in Bethlehem at the beginning of barley harvest."
+      },
+      {
+        "label": "Now",
+        "value": "Ruth gleans in Boaz's field, receives protection and food, and returns to Naomi with grain."
+      },
+      {
+        "label": "Next",
+        "value": "Naomi instructs Ruth to approach Boaz at the threshing floor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Ruth takes place during the era of the Judges, before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The story is set after Israel has settled in the land but before the monarchy begins."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book moves from household loss and migration to land, harvest, redemption, and genealogy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The final genealogy connects the story to David, who comes later in Israel's narrative."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This introduces Boaz, the key male relative in the rest of the story."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It moves the plot from return and emptiness to food and field access."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It connects Ruth's foreign identity, widowhood, and work in the harvest setting."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces the kinship language that will matter in the redemption scene."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The scene takes place in agricultural land around Bethlehem."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Fields, harvest rows, reapers, water vessels, and grain processing shape the visible setting."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Bethlehem remains the town center, while the field is the daily work location."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel between Bethlehem and Moab required crossing regional terrain around the Dead Sea area, though the exact route is not given."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Harvest scenes include reaping, gleaning, sheaves, threshing, grain, and daily labor in fields."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Legal and community matters are handled publicly at the town gate with elders and witnesses."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Gleaning allowed vulnerable people to gather leftover grain after reapers."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Harvest work involved cutting, gathering, eating in the field, and beating out grain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Landowners, overseers, male workers, and young women appear as part of the field labor structure."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "An ephah of barley represents a significant amount of grain for Naomi and Ruth's household."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the first meeting between Ruth and Boaz.",
+      "It shifts the story from travel to daily survival in Bethlehem.",
+      "It introduces Boaz as a close relative connected to Elimelech's family.",
+      "It sets up Naomi's later plan at the threshing floor."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Ruth",
+        "role": "Moabite widow who goes to glean for food",
+        "relationships": []
+      },
+      {
+        "name": "Naomi",
+        "role": "Ruth's mother-in-law waiting at home in Bethlehem",
+        "relationships": []
+      },
+      {
+        "name": "Boaz",
+        "role": "Wealthy man from Elimelech's clan who owns the field",
+        "relationships": []
+      },
+      {
+        "name": "Servant overseeing reapers",
+        "role": "Identifies Ruth to Boaz",
+        "relationships": []
+      },
+      {
+        "name": "Reapers",
+        "role": "Workers harvesting Boaz's field",
+        "relationships": []
+      },
+      {
+        "name": "Young women of Boaz",
+        "role": "Female workers among whom Ruth is told to stay",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Bethlehem",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Town where Naomi and Ruth are living"
+      },
+      {
+        "ancientName": "Boaz's field",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Harvest field where Ruth gleans"
+      },
+      {
+        "ancientName": "House of Naomi",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Place where Ruth returns with grain and reports to Naomi"
+      }
+    ],
+    "people": [
+      "Ruth",
+      "Naomi",
+      "Boaz",
+      "Servant overseeing reapers",
+      "Reapers",
+      "Young women of Boaz"
+    ],
+    "places": [
+      "Bethlehem",
+      "Boaz's field",
+      "House of Naomi"
+    ],
+    "movement": [
+      "Ruth asks Naomi for permission to glean",
+      "Ruth goes to the fields",
+      "She comes to the field belonging to Boaz",
+      "Boaz arrives from Bethlehem and speaks with the reapers",
+      "Boaz speaks with Ruth and protects her access to the field",
+      "Ruth eats with the workers and continues gleaning",
+      "She beats out the grain and returns to Naomi",
+      "Naomi identifies Boaz as a close relative"
+    ],
+    "movementDetails": {
+      "startingPoint": "Naomi's household in Bethlehem",
+      "destination": "Boaz's field and return home",
+      "route": [
+        "Ruth asks Naomi for permission to glean",
+        "Ruth goes to the fields",
+        "She comes to the field belonging to Boaz",
+        "Boaz arrives from Bethlehem and speaks with the reapers",
+        "Boaz speaks with Ruth and protects her access to the field",
+        "Ruth eats with the workers and continues gleaning",
+        "She beats out the grain and returns to Naomi",
+        "Naomi identifies Boaz as a close relative"
+      ],
+      "majorStops": [
+        "Naomi's house",
+        "fields near Bethlehem",
+        "Boaz's field",
+        "harvest meal area",
+        "Naomi's house"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Ruth 2 moves into the barley fields around Bethlehem. Ruth asks Naomi to let her glean, and she comes to the field of Boaz, a man from Elimelech's clan. The field is active with reapers, young women, an overseer, water vessels, and workers eating during the day. Boaz notices Ruth, speaks with her, and instructs his workers to let her glean safely. By evening, Ruth beats out the barley and brings it home to Naomi. Naomi recognizes Boaz as a close relative, setting up the next movement of the story.",
+    "crossReferences": [
+      "Leviticus 19:9-10",
+      "Deuteronomy 24:19",
+      "Ruth 1:19-22",
+      "Ruth 2:1-23",
+      "Ruth 3:1-18",
+      "Ruth 4:1-10",
+      "Matthew 1:5"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Leviticus 19:9-10",
+        "Deuteronomy 24:19",
+        "Ruth 1:19-22"
+      ],
+      "directlyRelatedEvents": [
+        "Ruth 2:1-23"
+      ],
+      "laterReferences": [
+        "Ruth 3:1-18",
+        "Ruth 4:1-10"
+      ],
+      "newTestamentReferences": [
+        "Matthew 1:5"
+      ]
+    },
+    "series": {
+      "character": "Ruth",
+      "arc": "Naomi, Ruth, Boaz, and the Line to David",
+      "previousStory": "ruth-02-naomi-ruth-and-orpah-on-the-road",
+      "nextStory": "ruth-04-ruth-and-boaz-at-the-threshing-floor"
+    },
+    "source": {
+      "id": "ruth-03-ruth-gleans-in-boaz-field",
+      "reference": "Ruth 2",
+      "storyTitle": "Ruth Gleans in the Field of Boaz",
+      "eventType": [
+        "Gleaning",
+        "Harvest",
+        "Provision",
+        "First Meeting"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Ruth",
+        "approximateAge": null,
+        "currentLocation": "Fields near Bethlehem",
+        "modernRegion": "West Bank / Bethlehem region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Naomi",
+          "Boaz",
+          "reapers",
+          "servant overseeing reapers"
+        ],
+        "sceneScale": "Harvest Field Event",
+        "timeAnchor": "At the beginning of harvest after Naomi and Ruth return to Bethlehem",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Ruth",
+          "role": "Moabite widow who goes to glean for food",
+          "relationships": []
+        },
+        {
+          "name": "Naomi",
+          "role": "Ruth's mother-in-law waiting at home in Bethlehem",
+          "relationships": []
+        },
+        {
+          "name": "Boaz",
+          "role": "Wealthy man from Elimelech's clan who owns the field",
+          "relationships": []
+        },
+        {
+          "name": "Servant overseeing reapers",
+          "role": "Identifies Ruth to Boaz",
+          "relationships": []
+        },
+        {
+          "name": "Reapers",
+          "role": "Workers harvesting Boaz's field",
+          "relationships": []
+        },
+        {
+          "name": "Young women of Boaz",
+          "role": "Female workers among whom Ruth is told to stay",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Bethlehem",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Town where Naomi and Ruth are living"
+        },
+        {
+          "ancientName": "Boaz's field",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Harvest field where Ruth gleans"
+        },
+        {
+          "ancientName": "House of Naomi",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Place where Ruth returns with grain and reports to Naomi"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Naomi's household in Bethlehem",
+        "destination": "Boaz's field and return home",
+        "route": [
+          "Ruth asks Naomi for permission to glean",
+          "Ruth goes to the fields",
+          "She comes to the field belonging to Boaz",
+          "Boaz arrives from Bethlehem and speaks with the reapers",
+          "Boaz speaks with Ruth and protects her access to the field",
+          "Ruth eats with the workers and continues gleaning",
+          "She beats out the grain and returns to Naomi",
+          "Naomi identifies Boaz as a close relative"
+        ],
+        "majorStops": [
+          "Naomi's house",
+          "fields near Bethlehem",
+          "Boaz's field",
+          "harvest meal area",
+          "Naomi's house"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Naomi and Ruth arrived in Bethlehem at the beginning of barley harvest.",
+        "whatIsHappeningNow": "Ruth gleans in Boaz's field, receives protection and food, and returns to Naomi with grain.",
+        "whatHappensAfter": "Naomi instructs Ruth to approach Boaz at the threshing floor.",
+        "storyPositionStrip": [
+          "Joshua",
+          "Judges Era",
+          "Famine in Bethlehem",
+          "Naomi and Ruth Return",
+          "Ruth Gleans",
+          "Boaz Redeems",
+          "Ruth Gleans in the Field of Boaz ← YOU ARE HERE",
+          "David",
+          "Monarchy"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Ruth takes place during the era of the Judges, before Israel has a human king.",
+          "The story is set after Israel has settled in the land but before the monarchy begins.",
+          "The book moves from household loss and migration to land, harvest, redemption, and genealogy.",
+          "The Jerusalem Temple does not yet exist.",
+          "The final genealogy connects the story to David, who comes later in Israel's narrative.",
+          "This introduces Boaz, the key male relative in the rest of the story.",
+          "It moves the plot from return and emptiness to food and field access.",
+          "It connects Ruth's foreign identity, widowhood, and work in the harvest setting.",
+          "It introduces the kinship language that will matter in the redemption scene."
+        ],
+        "geographicContext": [
+          "The scene takes place in agricultural land around Bethlehem.",
+          "Fields, harvest rows, reapers, water vessels, and grain processing shape the visible setting.",
+          "Bethlehem remains the town center, while the field is the daily work location."
+        ],
+        "dailyLifeContext": [
+          "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival.",
+          "Travel between Bethlehem and Moab required crossing regional terrain around the Dead Sea area, though the exact route is not given.",
+          "Harvest scenes include reaping, gleaning, sheaves, threshing, grain, and daily labor in fields.",
+          "Legal and community matters are handled publicly at the town gate with elders and witnesses.",
+          "Gleaning allowed vulnerable people to gather leftover grain after reapers.",
+          "Harvest work involved cutting, gathering, eating in the field, and beating out grain.",
+          "Landowners, overseers, male workers, and young women appear as part of the field labor structure.",
+          "An ephah of barley represents a significant amount of grain for Naomi and Ruth's household."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the first meeting between Ruth and Boaz.",
+        "It shifts the story from travel to daily survival in Bethlehem.",
+        "It introduces Boaz as a close relative connected to Elimelech's family.",
+        "It sets up Naomi's later plan at the threshing floor."
+      ],
+      "stepIntoTheStory": [
+        "Ruth leaves Naomi's house and enters the harvest fields around Bethlehem. She is not a landowner or hired worker; she is gleaning behind the reapers.",
+        "Boaz arrives from Bethlehem and notices her. The field has structure: workers cutting grain, a servant overseeing them, young women, water vessels, and a place where food is shared.",
+        "By evening, Ruth beats out what she has gathered and carries grain back to Naomi. The household that returned empty from Moab now has food from a field belonging to a close relative."
+      ],
+      "documentaryObservations": [
+        "Ruth walking from Naomi's house to the fields.",
+        "Reapers cutting barley in the field.",
+        "Gleaners gathering leftover grain behind workers.",
+        "Boaz arriving from Bethlehem.",
+        "A foreman or servant identifying Ruth.",
+        "Water vessels used by the workers.",
+        "Ruth eating roasted grain at mealtime.",
+        "Extra stalks intentionally left for Ruth.",
+        "Ruth beating out barley after gleaning.",
+        "Naomi seeing the amount of grain Ruth brings home."
+      ],
+      "audioScript": "Ruth 2 moves into the barley fields around Bethlehem. Ruth asks Naomi to let her glean, and she comes to the field of Boaz, a man from Elimelech's clan. The field is active with reapers, young women, an overseer, water vessels, and workers eating during the day. Boaz notices Ruth, speaks with her, and instructs his workers to let her glean safely. By evening, Ruth beats out the barley and brings it home to Naomi. Naomi recognizes Boaz as a close relative, setting up the next movement of the story.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Leviticus 19:9-10",
+          "Deuteronomy 24:19",
+          "Ruth 1:19-22"
+        ],
+        "directlyRelatedEvents": [
+          "Ruth 2:1-23"
+        ],
+        "laterReferences": [
+          "Ruth 3:1-18",
+          "Ruth 4:1-10"
+        ],
+        "newTestamentReferences": [
+          "Matthew 1:5"
+        ]
+      },
+      "series": {
+        "character": "Ruth",
+        "arc": "Naomi, Ruth, Boaz, and the Line to David",
+        "previousStory": "ruth-02-naomi-ruth-and-orpah-on-the-road",
+        "nextStory": "ruth-04-ruth-and-boaz-at-the-threshing-floor"
+      },
+      "search": {
+        "people": [
+          "Ruth",
+          "Naomi",
+          "Boaz",
+          "Servant overseeing reapers",
+          "Reapers",
+          "Young women of Boaz"
+        ],
+        "places": [
+          "Bethlehem",
+          "Boaz's field",
+          "House of Naomi"
+        ],
+        "events": [
+          "Ruth gleans",
+          "Boaz field",
+          "barley harvest",
+          "close relative"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Bethlehem"
+        ],
+        "alternateNames": [
+          "Ruth 2",
+          "Ruth in Boaz's field",
+          "Ruth gleaning"
+        ]
+      },
+      "realitySummary": "Ruth Gleans in the Field of Boaz. Ruth gleans in Boaz's field, receives protection and food, and returns to Naomi with grain."
+    }
+  },
+  {
+    "id": "ruth-04-ruth-and-boaz-at-the-threshing-floor",
+    "sourceFile": "ruth-04-ruth-and-boaz-at-the-threshing-floor.json",
+    "searchTerms": [
+      "Naomi",
+      "Ruth",
+      "Boaz",
+      "Closer redeemer",
+      "Naomi's house",
+      "Threshing floor",
+      "Bethlehem",
+      "Ruth threshing floor",
+      "Boaz redeemer",
+      "closer redeemer",
+      "six measures barley",
+      "Judges",
+      "Before the monarchy",
+      "Ruth 3",
+      "Ruth and Boaz threshing floor",
+      "Boaz at threshing floor",
+      "Instruction",
+      "Threshing Floor",
+      "Kinship Request",
+      "Night Encounter",
+      "Ruth and Boaz at the Threshing Floor",
+      "Ruth and Boaz at the Threshing Floor. Naomi sends Ruth to the threshing floor, Ruth makes a kinship request to Boaz, and Boaz promises to settle the matter after addressing the closer redeemer."
+    ],
+    "title": "Ruth and Boaz at the Threshing Floor",
+    "reference": "Ruth 3",
+    "kicker": "Study",
+    "eventType": [
+      "Instruction",
+      "Threshing Floor",
+      "Kinship Request",
+      "Night Encounter"
+    ],
+    "summary": "Ruth and Boaz at the Threshing Floor. Naomi sends Ruth to the threshing floor, Ruth makes a kinship request to Boaz, and Boaz promises to settle the matter after addressing the closer redeemer.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Ruth"
+      },
+      {
+        "label": "Location",
+        "value": "Threshing floor near Bethlehem"
+      },
+      {
+        "label": "Modern Region",
+        "value": "West Bank / Bethlehem region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Threshing Floor Encounter"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "During barley harvest after Ruth gleans in Boaz's field"
+      }
+    ],
+    "situation": "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival.",
+    "storyPosition": [
+      "Joshua",
+      "Judges Era",
+      "Famine in Bethlehem",
+      "Naomi and Ruth Return",
+      "Ruth Gleans",
+      "Boaz Redeems",
+      "Ruth and Boaz at the Threshing Floor",
+      "David",
+      "Monarchy"
+    ],
+    "currentStory": "Ruth and Boaz at the Threshing Floor",
+    "stepIntoStory": "Naomi's plan moves Ruth from daytime gleaning to a nighttime threshing-floor scene. The harvest is no longer standing in the field; it has been cut, processed, and gathered.\n\nBoaz eats, drinks, and lies down near the grain pile. Ruth approaches quietly, waits until midnight, and makes her request.\n\nBoaz does not resolve the matter in private. He sends Ruth back with barley and goes to handle the legal question in the town.",
+    "notice": [
+      "Naomi giving Ruth precise instructions.",
+      "Ruth washing, anointing, and changing garments.",
+      "Boaz winnowing barley at the threshing floor.",
+      "A grain heap at the threshing floor.",
+      "Boaz sleeping near the grain.",
+      "A midnight awakening.",
+      "Ruth speaking directly to Boaz.",
+      "A closer redeemer named as an obstacle.",
+      "Six measures of barley carried back to Naomi.",
+      "Naomi waiting for the matter to be settled."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Ruth gleaned in Boaz's field through the harvest, and Naomi identified Boaz as a close relative."
+      },
+      {
+        "label": "Now",
+        "value": "Naomi sends Ruth to the threshing floor, Ruth makes a kinship request to Boaz, and Boaz promises to settle the matter after addressing the closer redeemer."
+      },
+      {
+        "label": "Next",
+        "value": "Boaz goes to the town gate and resolves the redemption matter publicly."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Ruth takes place during the era of the Judges, before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The story is set after Israel has settled in the land but before the monarchy begins."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book moves from household loss and migration to land, harvest, redemption, and genealogy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The final genealogy connects the story to David, who comes later in Israel's narrative."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This moves the story from field provision to the legal question of redemption."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces the closer redeemer as the final obstacle before Boaz can act."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It connects harvest activity to the threshing floor, where grain is processed and guarded."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It sets up the public gate scene of Ruth 4."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The threshing floor is near Bethlehem and connected to harvest processing."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Threshing floors were open work areas where grain could be threshed and winnowed."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The next setting will be the town gate, shifting from private nighttime request to public legal action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel between Bethlehem and Moab required crossing regional terrain around the Dead Sea area, though the exact route is not given."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Harvest scenes include reaping, gleaning, sheaves, threshing, grain, and daily labor in fields."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Legal and community matters are handled publicly at the town gate with elders and witnesses."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Threshing and winnowing were harvest processing activities often done after cutting grain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Grain piles needed protection, which explains Boaz sleeping near the harvest."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Kinship redemption required public resolution, not only private willingness."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A garment or cloak could be used to carry grain back to Naomi."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the turning point between Ruth's gleaning and Boaz's legal action.",
+      "It clarifies that Boaz is willing but not first in line as redeemer.",
+      "It moves the plot toward public resolution at the gate.",
+      "It keeps Naomi's household future tied to land, kinship, and offspring."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Naomi",
+        "role": "Instructs Ruth about approaching Boaz",
+        "relationships": []
+      },
+      {
+        "name": "Ruth",
+        "role": "Follows Naomi's instructions and speaks with Boaz at the threshing floor",
+        "relationships": []
+      },
+      {
+        "name": "Boaz",
+        "role": "Sleeps at the threshing floor and responds to Ruth's request",
+        "relationships": []
+      },
+      {
+        "name": "Closer redeemer",
+        "role": "Unnamed man Boaz says has prior claim",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Naomi's house",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Place where Naomi gives instructions to Ruth"
+      },
+      {
+        "ancientName": "Threshing floor",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Place where Boaz winnows barley and sleeps near the grain"
+      },
+      {
+        "ancientName": "Bethlehem",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Town where Boaz will go to settle the matter"
+      }
+    ],
+    "people": [
+      "Naomi",
+      "Ruth",
+      "Boaz",
+      "Closer redeemer"
+    ],
+    "places": [
+      "Naomi's house",
+      "Threshing floor",
+      "Bethlehem"
+    ],
+    "movement": [
+      "Naomi gives Ruth instructions",
+      "Boaz winnows barley at the threshing floor",
+      "Ruth goes after Boaz has eaten and lain down",
+      "Ruth uncovers his feet and lies down",
+      "Boaz wakes at midnight",
+      "Ruth identifies herself and asks him to act as redeemer",
+      "Boaz explains that a closer redeemer exists",
+      "Ruth remains until morning and returns to Naomi with barley"
+    ],
+    "movementDetails": {
+      "startingPoint": "Naomi's house",
+      "destination": "Threshing floor and return to Naomi",
+      "route": [
+        "Naomi gives Ruth instructions",
+        "Boaz winnows barley at the threshing floor",
+        "Ruth goes after Boaz has eaten and lain down",
+        "Ruth uncovers his feet and lies down",
+        "Boaz wakes at midnight",
+        "Ruth identifies herself and asks him to act as redeemer",
+        "Boaz explains that a closer redeemer exists",
+        "Ruth remains until morning and returns to Naomi with barley"
+      ],
+      "majorStops": [
+        "Naomi's house",
+        "threshing floor",
+        "Boaz's sleeping place",
+        "Naomi's house"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Ruth 3 takes place after Ruth has been gleaning in Boaz's fields. Naomi sends her to the threshing floor, where Boaz is winnowing barley. After he eats and lies down near the grain, Ruth approaches quietly. At midnight, Boaz wakes and finds her there. Ruth identifies herself and asks him to act as redeemer. Boaz says there is a closer redeemer who must be addressed first. Before dawn, he sends Ruth back to Naomi with barley. The private threshing-floor scene now requires public settlement at the town gate.",
+    "crossReferences": [
+      "Ruth 2:1-23",
+      "Deuteronomy 25:5-10",
+      "Ruth 3:1-18",
+      "Ruth 4:1-12",
+      "Matthew 1:5"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Ruth 2:1-23",
+        "Deuteronomy 25:5-10"
+      ],
+      "directlyRelatedEvents": [
+        "Ruth 3:1-18"
+      ],
+      "laterReferences": [
+        "Ruth 4:1-12"
+      ],
+      "newTestamentReferences": [
+        "Matthew 1:5"
+      ]
+    },
+    "series": {
+      "character": "Ruth",
+      "arc": "Naomi, Ruth, Boaz, and the Line to David",
+      "previousStory": "ruth-03-ruth-gleans-in-boaz-field",
+      "nextStory": "ruth-05-boaz-redeems-naomi-land-and-marries-ruth"
+    },
+    "source": {
+      "id": "ruth-04-ruth-and-boaz-at-the-threshing-floor",
+      "reference": "Ruth 3",
+      "storyTitle": "Ruth and Boaz at the Threshing Floor",
+      "eventType": [
+        "Instruction",
+        "Threshing Floor",
+        "Kinship Request",
+        "Night Encounter"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Ruth",
+        "approximateAge": null,
+        "currentLocation": "Threshing floor near Bethlehem",
+        "modernRegion": "West Bank / Bethlehem region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Naomi",
+          "Boaz"
+        ],
+        "sceneScale": "Threshing Floor Encounter",
+        "timeAnchor": "During barley harvest after Ruth gleans in Boaz's field",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Naomi",
+          "role": "Instructs Ruth about approaching Boaz",
+          "relationships": []
+        },
+        {
+          "name": "Ruth",
+          "role": "Follows Naomi's instructions and speaks with Boaz at the threshing floor",
+          "relationships": []
+        },
+        {
+          "name": "Boaz",
+          "role": "Sleeps at the threshing floor and responds to Ruth's request",
+          "relationships": []
+        },
+        {
+          "name": "Closer redeemer",
+          "role": "Unnamed man Boaz says has prior claim",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Naomi's house",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Place where Naomi gives instructions to Ruth"
+        },
+        {
+          "ancientName": "Threshing floor",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Place where Boaz winnows barley and sleeps near the grain"
+        },
+        {
+          "ancientName": "Bethlehem",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Town where Boaz will go to settle the matter"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Naomi's house",
+        "destination": "Threshing floor and return to Naomi",
+        "route": [
+          "Naomi gives Ruth instructions",
+          "Boaz winnows barley at the threshing floor",
+          "Ruth goes after Boaz has eaten and lain down",
+          "Ruth uncovers his feet and lies down",
+          "Boaz wakes at midnight",
+          "Ruth identifies herself and asks him to act as redeemer",
+          "Boaz explains that a closer redeemer exists",
+          "Ruth remains until morning and returns to Naomi with barley"
+        ],
+        "majorStops": [
+          "Naomi's house",
+          "threshing floor",
+          "Boaz's sleeping place",
+          "Naomi's house"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Ruth gleaned in Boaz's field through the harvest, and Naomi identified Boaz as a close relative.",
+        "whatIsHappeningNow": "Naomi sends Ruth to the threshing floor, Ruth makes a kinship request to Boaz, and Boaz promises to settle the matter after addressing the closer redeemer.",
+        "whatHappensAfter": "Boaz goes to the town gate and resolves the redemption matter publicly.",
+        "storyPositionStrip": [
+          "Joshua",
+          "Judges Era",
+          "Famine in Bethlehem",
+          "Naomi and Ruth Return",
+          "Ruth Gleans",
+          "Boaz Redeems",
+          "Ruth and Boaz at the Threshing Floor ← YOU ARE HERE",
+          "David",
+          "Monarchy"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Ruth takes place during the era of the Judges, before Israel has a human king.",
+          "The story is set after Israel has settled in the land but before the monarchy begins.",
+          "The book moves from household loss and migration to land, harvest, redemption, and genealogy.",
+          "The Jerusalem Temple does not yet exist.",
+          "The final genealogy connects the story to David, who comes later in Israel's narrative.",
+          "This moves the story from field provision to the legal question of redemption.",
+          "It introduces the closer redeemer as the final obstacle before Boaz can act.",
+          "It connects harvest activity to the threshing floor, where grain is processed and guarded.",
+          "It sets up the public gate scene of Ruth 4."
+        ],
+        "geographicContext": [
+          "The threshing floor is near Bethlehem and connected to harvest processing.",
+          "Threshing floors were open work areas where grain could be threshed and winnowed.",
+          "The next setting will be the town gate, shifting from private nighttime request to public legal action."
+        ],
+        "dailyLifeContext": [
+          "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival.",
+          "Travel between Bethlehem and Moab required crossing regional terrain around the Dead Sea area, though the exact route is not given.",
+          "Harvest scenes include reaping, gleaning, sheaves, threshing, grain, and daily labor in fields.",
+          "Legal and community matters are handled publicly at the town gate with elders and witnesses.",
+          "Threshing and winnowing were harvest processing activities often done after cutting grain.",
+          "Grain piles needed protection, which explains Boaz sleeping near the harvest.",
+          "Kinship redemption required public resolution, not only private willingness.",
+          "A garment or cloak could be used to carry grain back to Naomi."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the turning point between Ruth's gleaning and Boaz's legal action.",
+        "It clarifies that Boaz is willing but not first in line as redeemer.",
+        "It moves the plot toward public resolution at the gate.",
+        "It keeps Naomi's household future tied to land, kinship, and offspring."
+      ],
+      "stepIntoTheStory": [
+        "Naomi's plan moves Ruth from daytime gleaning to a nighttime threshing-floor scene. The harvest is no longer standing in the field; it has been cut, processed, and gathered.",
+        "Boaz eats, drinks, and lies down near the grain pile. Ruth approaches quietly, waits until midnight, and makes her request.",
+        "Boaz does not resolve the matter in private. He sends Ruth back with barley and goes to handle the legal question in the town."
+      ],
+      "documentaryObservations": [
+        "Naomi giving Ruth precise instructions.",
+        "Ruth washing, anointing, and changing garments.",
+        "Boaz winnowing barley at the threshing floor.",
+        "A grain heap at the threshing floor.",
+        "Boaz sleeping near the grain.",
+        "A midnight awakening.",
+        "Ruth speaking directly to Boaz.",
+        "A closer redeemer named as an obstacle.",
+        "Six measures of barley carried back to Naomi.",
+        "Naomi waiting for the matter to be settled."
+      ],
+      "audioScript": "Ruth 3 takes place after Ruth has been gleaning in Boaz's fields. Naomi sends her to the threshing floor, where Boaz is winnowing barley. After he eats and lies down near the grain, Ruth approaches quietly. At midnight, Boaz wakes and finds her there. Ruth identifies herself and asks him to act as redeemer. Boaz says there is a closer redeemer who must be addressed first. Before dawn, he sends Ruth back to Naomi with barley. The private threshing-floor scene now requires public settlement at the town gate.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Ruth 2:1-23",
+          "Deuteronomy 25:5-10"
+        ],
+        "directlyRelatedEvents": [
+          "Ruth 3:1-18"
+        ],
+        "laterReferences": [
+          "Ruth 4:1-12"
+        ],
+        "newTestamentReferences": [
+          "Matthew 1:5"
+        ]
+      },
+      "series": {
+        "character": "Ruth",
+        "arc": "Naomi, Ruth, Boaz, and the Line to David",
+        "previousStory": "ruth-03-ruth-gleans-in-boaz-field",
+        "nextStory": "ruth-05-boaz-redeems-naomi-land-and-marries-ruth"
+      },
+      "search": {
+        "people": [
+          "Naomi",
+          "Ruth",
+          "Boaz",
+          "Closer redeemer"
+        ],
+        "places": [
+          "Naomi's house",
+          "Threshing floor",
+          "Bethlehem"
+        ],
+        "events": [
+          "Ruth threshing floor",
+          "Boaz redeemer",
+          "closer redeemer",
+          "six measures barley"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Bethlehem"
+        ],
+        "alternateNames": [
+          "Ruth 3",
+          "Ruth and Boaz threshing floor",
+          "Boaz at threshing floor"
+        ]
+      },
+      "realitySummary": "Ruth and Boaz at the Threshing Floor. Naomi sends Ruth to the threshing floor, Ruth makes a kinship request to Boaz, and Boaz promises to settle the matter after addressing the closer redeemer."
+    }
+  },
+  {
+    "id": "ruth-05-boaz-redeems-naomi-land-and-marries-ruth",
+    "sourceFile": "ruth-05-boaz-redeems-naomi-land-and-marries-ruth.json",
+    "searchTerms": [
+      "Boaz",
+      "Closer redeemer",
+      "Ruth",
+      "Naomi",
+      "Ten elders",
+      "People at the gate",
+      "Bethlehem",
+      "Town gate",
+      "Naomi's family land",
+      "Boaz redeems Ruth",
+      "town gate legal proceeding",
+      "sandal custom",
+      "Ruth marriage",
+      "Judges",
+      "Before the monarchy",
+      "Ruth 4:1-12",
+      "Boaz redeemer",
+      "Boaz marries Ruth",
+      "Legal Proceeding",
+      "Redemption",
+      "Marriage",
+      "Town Gate",
+      "Boaz Redeems Naomi's Land and Marries Ruth",
+      "Boaz Redeems Naomi's Land and Marries Ruth. Boaz resolves the matter at the town gate, the closer redeemer declines, and Boaz redeems the land connected to Naomi's household and marries Ruth."
+    ],
+    "title": "Boaz Redeems Naomi's Land and Marries Ruth",
+    "reference": "Ruth 4:1-12",
+    "kicker": "Study",
+    "eventType": [
+      "Legal Proceeding",
+      "Redemption",
+      "Marriage",
+      "Town Gate"
+    ],
+    "summary": "Boaz Redeems Naomi's Land and Marries Ruth. Boaz resolves the matter at the town gate, the closer redeemer declines, and Boaz redeems the land connected to Naomi's household and marries Ruth.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Boaz"
+      },
+      {
+        "label": "Location",
+        "value": "Bethlehem town gate"
+      },
+      {
+        "label": "Modern Region",
+        "value": "West Bank / Bethlehem region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Town Gate Legal Proceeding"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the threshing-floor request; before Obed's birth"
+      }
+    ],
+    "situation": "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival.",
+    "storyPosition": [
+      "Joshua",
+      "Judges Era",
+      "Famine in Bethlehem",
+      "Naomi and Ruth Return",
+      "Ruth Gleans",
+      "Boaz Redeems",
+      "Boaz Redeems Naomi's Land and Marries Ruth",
+      "David",
+      "Monarchy"
+    ],
+    "currentStory": "Boaz Redeems Naomi's Land and Marries Ruth",
+    "stepIntoStory": "Boaz goes to the gate in Bethlehem, where people pass in and out and elders can be gathered.\n\nThe unnamed closer redeemer arrives, and Boaz calls him to sit. Ten elders are brought in, making the matter public.\n\nThe issue begins with land connected to Naomi, but Boaz includes Ruth and the responsibility tied to the deceased. The closer redeemer declines, the sandal is exchanged, and Boaz becomes the redeemer in front of witnesses.",
+    "notice": [
+      "Boaz sitting at Bethlehem's gate.",
+      "The closer redeemer passing by.",
+      "Ten elders gathered as witnesses.",
+      "Naomi's land publicly discussed.",
+      "Ruth named in the legal proceeding.",
+      "The closer redeemer declining the responsibility.",
+      "A sandal removed as transaction sign.",
+      "People and elders giving witness.",
+      "Boaz publicly taking Ruth as wife."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Ruth asked Boaz to act as redeemer at the threshing floor, and Boaz said a closer redeemer had to be addressed first."
+      },
+      {
+        "label": "Now",
+        "value": "Boaz resolves the matter at the town gate, the closer redeemer declines, and Boaz redeems the land connected to Naomi's household and marries Ruth."
+      },
+      {
+        "label": "Next",
+        "value": "Ruth bears Obed, and the book closes with the genealogy leading to David."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Ruth takes place during the era of the Judges, before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The story is set after Israel has settled in the land but before the monarchy begins."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book moves from household loss and migration to land, harvest, redemption, and genealogy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The final genealogy connects the story to David, who comes later in Israel's narrative."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the public legal resolution of the book's central household crisis."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It connects land, widowhood, kinship responsibility, and marriage in one gate proceeding."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It moves Ruth from Moabite widow and gleaner to wife of Boaz."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It prepares directly for the birth of Obed."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The gate of Bethlehem is the public civic setting."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Town gates functioned as places where elders, witnesses, and legal matters could gather."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The land in question is connected to Naomi's deceased husband Elimelech and his household."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel between Bethlehem and Moab required crossing regional terrain around the Dead Sea area, though the exact route is not given."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Harvest scenes include reaping, gleaning, sheaves, threshing, grain, and daily labor in fields."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Legal and community matters are handled publicly at the town gate with elders and witnesses."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public legal transactions required witnesses."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Elders sat at the gate as recognized community figures."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The sandal custom in the text serves as visible confirmation of the transaction."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Marriage and land redemption are connected to preserving a household line in the narrative."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This scene settles the question raised at the threshing floor.",
+      "It restores Naomi's household through a public legal act.",
+      "It establishes Boaz and Ruth as the parents of the child who will continue the family line.",
+      "It moves the story from private field and threshing-floor scenes into public civic resolution."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Boaz",
+        "role": "Acts at the town gate to redeem the land and marry Ruth",
+        "relationships": []
+      },
+      {
+        "name": "Closer redeemer",
+        "role": "Unnamed relative who declines the full redemption responsibility",
+        "relationships": []
+      },
+      {
+        "name": "Ruth",
+        "role": "Moabite widow whom Boaz takes as wife",
+        "relationships": []
+      },
+      {
+        "name": "Naomi",
+        "role": "Widow whose family land is part of the redemption matter",
+        "relationships": []
+      },
+      {
+        "name": "Ten elders",
+        "role": "Public witnesses at the town gate",
+        "relationships": []
+      },
+      {
+        "name": "People at the gate",
+        "role": "Witnesses to the transaction and blessing",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Bethlehem",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Town where the legal proceeding occurs"
+      },
+      {
+        "ancientName": "Town gate",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Public legal and civic location for the redemption transaction"
+      },
+      {
+        "ancientName": "Naomi's family land",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Land connected to Elimelech's family and redemption issue"
+      }
+    ],
+    "people": [
+      "Boaz",
+      "Closer redeemer",
+      "Ruth",
+      "Naomi",
+      "Ten elders",
+      "People at the gate"
+    ],
+    "places": [
+      "Bethlehem",
+      "Town gate",
+      "Naomi's family land"
+    ],
+    "movement": [
+      "Boaz goes up to the town gate",
+      "The closer redeemer passes by",
+      "Boaz gathers ten elders",
+      "Boaz presents the land matter involving Naomi",
+      "Boaz adds the responsibility involving Ruth",
+      "The closer redeemer declines",
+      "The sandal custom confirms the transaction",
+      "Boaz publicly redeems the land and takes Ruth as wife"
+    ],
+    "movementDetails": {
+      "startingPoint": "Boaz leaving the threshing-floor matter unresolved",
+      "destination": "Public legal resolution at Bethlehem's gate",
+      "route": [
+        "Boaz goes up to the town gate",
+        "The closer redeemer passes by",
+        "Boaz gathers ten elders",
+        "Boaz presents the land matter involving Naomi",
+        "Boaz adds the responsibility involving Ruth",
+        "The closer redeemer declines",
+        "The sandal custom confirms the transaction",
+        "Boaz publicly redeems the land and takes Ruth as wife"
+      ],
+      "majorStops": [
+        "Bethlehem town gate",
+        "elders' seating place",
+        "public witness setting"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Ruth 4:1-12 moves to the town gate of Bethlehem. Boaz sits there and calls the closer redeemer aside when he passes by. Ten elders sit as witnesses. Boaz first raises the land connected to Naomi and Elimelech, then adds the matter of Ruth, the Moabite widow. The closer redeemer declines. A sandal is removed as the visible sign of the transaction, and Boaz publicly takes on the role of redeemer and takes Ruth as wife. The private request from the threshing floor is now resolved in public.",
+    "crossReferences": [
+      "Ruth 3:1-18",
+      "Deuteronomy 25:5-10",
+      "Ruth 4:1-12",
+      "Ruth 4:13-22",
+      "Matthew 1:5"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Ruth 3:1-18",
+        "Deuteronomy 25:5-10"
+      ],
+      "directlyRelatedEvents": [
+        "Ruth 4:1-12"
+      ],
+      "laterReferences": [
+        "Ruth 4:13-22"
+      ],
+      "newTestamentReferences": [
+        "Matthew 1:5"
+      ]
+    },
+    "series": {
+      "character": "Boaz",
+      "arc": "Naomi, Ruth, Boaz, and the Line to David",
+      "previousStory": "ruth-04-ruth-and-boaz-at-the-threshing-floor",
+      "nextStory": "ruth-06-obed-born-and-david-genealogy"
+    },
+    "source": {
+      "id": "ruth-05-boaz-redeems-naomi-land-and-marries-ruth",
+      "reference": "Ruth 4:1-12",
+      "storyTitle": "Boaz Redeems Naomi's Land and Marries Ruth",
+      "eventType": [
+        "Legal Proceeding",
+        "Redemption",
+        "Marriage",
+        "Town Gate"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Boaz",
+        "approximateAge": null,
+        "currentLocation": "Bethlehem town gate",
+        "modernRegion": "West Bank / Bethlehem region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Ruth",
+          "Naomi",
+          "closer redeemer",
+          "elders"
+        ],
+        "sceneScale": "Town Gate Legal Proceeding",
+        "timeAnchor": "After the threshing-floor request; before Obed's birth",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Boaz",
+          "role": "Acts at the town gate to redeem the land and marry Ruth",
+          "relationships": []
+        },
+        {
+          "name": "Closer redeemer",
+          "role": "Unnamed relative who declines the full redemption responsibility",
+          "relationships": []
+        },
+        {
+          "name": "Ruth",
+          "role": "Moabite widow whom Boaz takes as wife",
+          "relationships": []
+        },
+        {
+          "name": "Naomi",
+          "role": "Widow whose family land is part of the redemption matter",
+          "relationships": []
+        },
+        {
+          "name": "Ten elders",
+          "role": "Public witnesses at the town gate",
+          "relationships": []
+        },
+        {
+          "name": "People at the gate",
+          "role": "Witnesses to the transaction and blessing",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Bethlehem",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Town where the legal proceeding occurs"
+        },
+        {
+          "ancientName": "Town gate",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Public legal and civic location for the redemption transaction"
+        },
+        {
+          "ancientName": "Naomi's family land",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Land connected to Elimelech's family and redemption issue"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Boaz leaving the threshing-floor matter unresolved",
+        "destination": "Public legal resolution at Bethlehem's gate",
+        "route": [
+          "Boaz goes up to the town gate",
+          "The closer redeemer passes by",
+          "Boaz gathers ten elders",
+          "Boaz presents the land matter involving Naomi",
+          "Boaz adds the responsibility involving Ruth",
+          "The closer redeemer declines",
+          "The sandal custom confirms the transaction",
+          "Boaz publicly redeems the land and takes Ruth as wife"
+        ],
+        "majorStops": [
+          "Bethlehem town gate",
+          "elders' seating place",
+          "public witness setting"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Ruth asked Boaz to act as redeemer at the threshing floor, and Boaz said a closer redeemer had to be addressed first.",
+        "whatIsHappeningNow": "Boaz resolves the matter at the town gate, the closer redeemer declines, and Boaz redeems the land connected to Naomi's household and marries Ruth.",
+        "whatHappensAfter": "Ruth bears Obed, and the book closes with the genealogy leading to David.",
+        "storyPositionStrip": [
+          "Joshua",
+          "Judges Era",
+          "Famine in Bethlehem",
+          "Naomi and Ruth Return",
+          "Ruth Gleans",
+          "Boaz Redeems",
+          "Boaz Redeems Naomi's Land and Marries Ruth ← YOU ARE HERE",
+          "David",
+          "Monarchy"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Ruth takes place during the era of the Judges, before Israel has a human king.",
+          "The story is set after Israel has settled in the land but before the monarchy begins.",
+          "The book moves from household loss and migration to land, harvest, redemption, and genealogy.",
+          "The Jerusalem Temple does not yet exist.",
+          "The final genealogy connects the story to David, who comes later in Israel's narrative.",
+          "This is the public legal resolution of the book's central household crisis.",
+          "It connects land, widowhood, kinship responsibility, and marriage in one gate proceeding.",
+          "It moves Ruth from Moabite widow and gleaner to wife of Boaz.",
+          "It prepares directly for the birth of Obed."
+        ],
+        "geographicContext": [
+          "The gate of Bethlehem is the public civic setting.",
+          "Town gates functioned as places where elders, witnesses, and legal matters could gather.",
+          "The land in question is connected to Naomi's deceased husband Elimelech and his household."
+        ],
+        "dailyLifeContext": [
+          "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival.",
+          "Travel between Bethlehem and Moab required crossing regional terrain around the Dead Sea area, though the exact route is not given.",
+          "Harvest scenes include reaping, gleaning, sheaves, threshing, grain, and daily labor in fields.",
+          "Legal and community matters are handled publicly at the town gate with elders and witnesses.",
+          "Public legal transactions required witnesses.",
+          "Elders sat at the gate as recognized community figures.",
+          "The sandal custom in the text serves as visible confirmation of the transaction.",
+          "Marriage and land redemption are connected to preserving a household line in the narrative."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This scene settles the question raised at the threshing floor.",
+        "It restores Naomi's household through a public legal act.",
+        "It establishes Boaz and Ruth as the parents of the child who will continue the family line.",
+        "It moves the story from private field and threshing-floor scenes into public civic resolution."
+      ],
+      "stepIntoTheStory": [
+        "Boaz goes to the gate in Bethlehem, where people pass in and out and elders can be gathered.",
+        "The unnamed closer redeemer arrives, and Boaz calls him to sit. Ten elders are brought in, making the matter public.",
+        "The issue begins with land connected to Naomi, but Boaz includes Ruth and the responsibility tied to the deceased. The closer redeemer declines, the sandal is exchanged, and Boaz becomes the redeemer in front of witnesses."
+      ],
+      "documentaryObservations": [
+        "Boaz sitting at Bethlehem's gate.",
+        "The closer redeemer passing by.",
+        "Ten elders gathered as witnesses.",
+        "Naomi's land publicly discussed.",
+        "Ruth named in the legal proceeding.",
+        "The closer redeemer declining the responsibility.",
+        "A sandal removed as transaction sign.",
+        "People and elders giving witness.",
+        "Boaz publicly taking Ruth as wife."
+      ],
+      "audioScript": "Ruth 4:1-12 moves to the town gate of Bethlehem. Boaz sits there and calls the closer redeemer aside when he passes by. Ten elders sit as witnesses. Boaz first raises the land connected to Naomi and Elimelech, then adds the matter of Ruth, the Moabite widow. The closer redeemer declines. A sandal is removed as the visible sign of the transaction, and Boaz publicly takes on the role of redeemer and takes Ruth as wife. The private request from the threshing floor is now resolved in public.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Ruth 3:1-18",
+          "Deuteronomy 25:5-10"
+        ],
+        "directlyRelatedEvents": [
+          "Ruth 4:1-12"
+        ],
+        "laterReferences": [
+          "Ruth 4:13-22"
+        ],
+        "newTestamentReferences": [
+          "Matthew 1:5"
+        ]
+      },
+      "series": {
+        "character": "Boaz",
+        "arc": "Naomi, Ruth, Boaz, and the Line to David",
+        "previousStory": "ruth-04-ruth-and-boaz-at-the-threshing-floor",
+        "nextStory": "ruth-06-obed-born-and-david-genealogy"
+      },
+      "search": {
+        "people": [
+          "Boaz",
+          "Closer redeemer",
+          "Ruth",
+          "Naomi",
+          "Ten elders",
+          "People at the gate"
+        ],
+        "places": [
+          "Bethlehem",
+          "Town gate",
+          "Naomi's family land"
+        ],
+        "events": [
+          "Boaz redeems Ruth",
+          "town gate legal proceeding",
+          "sandal custom",
+          "Ruth marriage"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Bethlehem"
+        ],
+        "alternateNames": [
+          "Ruth 4:1-12",
+          "Boaz redeemer",
+          "Boaz marries Ruth"
+        ]
+      },
+      "realitySummary": "Boaz Redeems Naomi's Land and Marries Ruth. Boaz resolves the matter at the town gate, the closer redeemer declines, and Boaz redeems the land connected to Naomi's household and marries Ruth."
+    }
+  },
+  {
+    "id": "ruth-06-obed-born-and-david-genealogy",
+    "sourceFile": "ruth-06-obed-born-and-david-genealogy.json",
+    "searchTerms": [
+      "Boaz",
+      "Ruth",
+      "Naomi",
+      "Obed",
+      "Women of Bethlehem",
+      "Jesse",
+      "David",
+      "Bethlehem",
+      "Naomi's household",
+      "Bethlehem community",
+      "Obed born",
+      "Ruth genealogy",
+      "Boaz Ruth Obed",
+      "David genealogy",
+      "Judges",
+      "Before the monarchy",
+      "Ruth 4:13-22",
+      "birth of Obed",
+      "Ruth and David genealogy",
+      "Birth",
+      "Genealogy",
+      "Family Restoration",
+      "Narrative Closure",
+      "Obed Is Born and the Line Leads to David",
+      "Obed Is Born and the Line Leads to David. Ruth bears Obed, Naomi's household is restored in the Bethlehem community, and the genealogy traces the line to David."
+    ],
+    "title": "Obed Is Born and the Line Leads to David",
+    "reference": "Ruth 4:13-22",
+    "kicker": "Study",
+    "eventType": [
+      "Birth",
+      "Genealogy",
+      "Family Restoration",
+      "Narrative Closure"
+    ],
+    "summary": "Obed Is Born and the Line Leads to David. Ruth bears Obed, Naomi's household is restored in the Bethlehem community, and the genealogy traces the line to David.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Obed"
+      },
+      {
+        "label": "Location",
+        "value": "Bethlehem"
+      },
+      {
+        "label": "Modern Region",
+        "value": "West Bank / Bethlehem region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household Birth and Genealogy"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Boaz redeems the land and marries Ruth; before David's later story"
+      }
+    ],
+    "situation": "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival.",
+    "storyPosition": [
+      "Joshua",
+      "Judges Era",
+      "Famine in Bethlehem",
+      "Naomi and Ruth Return",
+      "Ruth Gleans",
+      "Boaz Redeems",
+      "Obed Is Born and the Line Leads to David",
+      "David",
+      "Monarchy"
+    ],
+    "currentStory": "Obed Is Born and the Line Leads to David",
+    "stepIntoStory": "The final scene is domestic and communal. Ruth bears a son, and the women of Bethlehem speak to Naomi about what has happened to her household.\n\nNaomi, who returned to Bethlehem without husband or sons, now has a child placed in her lap. The story's scale narrows to a household moment before widening into genealogy.\n\nThe last verses move through names: Perez, Hezron, Ram, Amminadab, Nahshon, Salmon, Boaz, Obed, Jesse, and David. A local harvest story now points forward to Israel's later king.",
+    "notice": [
+      "Ruth bearing a son in Bethlehem.",
+      "Women of Bethlehem speaking to Naomi.",
+      "Naomi taking the child into her lap.",
+      "Obed named in connection with Naomi.",
+      "The household restored through a child.",
+      "Genealogy listed from Perez to David.",
+      "Boaz and Ruth placed in David's family line.",
+      "Bethlehem becoming the closing setting of the story."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Boaz redeemed Naomi's family land and married Ruth through a public town-gate proceeding."
+      },
+      {
+        "label": "Now",
+        "value": "Ruth bears Obed, Naomi's household is restored in the Bethlehem community, and the genealogy traces the line to David."
+      },
+      {
+        "label": "Next",
+        "value": "The biblical narrative later continues with David in Samuel."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Ruth takes place during the era of the Judges, before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The story is set after Israel has settled in the land but before the monarchy begins."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book moves from household loss and migration to land, harvest, redemption, and genealogy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Jerusalem Temple does not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The final genealogy connects the story to David, who comes later in Israel's narrative."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This closes Ruth's household story with birth rather than migration or loss."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It reverses Naomi's empty return by placing a child in her household scene."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It connects the Bethlehem story to David through genealogy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It makes Ruth part of the family line that later leads to Israel's monarchy."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Bethlehem remains the setting from Ruth's arrival through the birth of Obed."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The final movement is not geographical but genealogical."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The story moves from a local Bethlehem household to the broader narrative horizon of David."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel between Bethlehem and Moab required crossing regional terrain around the Dead Sea area, though the exact route is not given."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Harvest scenes include reaping, gleaning, sheaves, threshing, grain, and daily labor in fields."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Legal and community matters are handled publicly at the town gate with elders and witnesses."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Birth, naming, nursing/caregiving, and community speech are part of household restoration."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Women of the town function as public voices interpreting Naomi's household situation within the narrative."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Genealogies connect household events to later generations."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The child Obed links Boaz and Ruth to Jesse and David."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is the narrative resolution of Naomi and Ruth's story.",
+      "It connects the local Bethlehem events to the later Davidic line.",
+      "It closes the movement from famine and death to birth and genealogy.",
+      "It prepares readers for the later importance of Bethlehem in the Samuel narrative."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Boaz",
+        "role": "Husband of Ruth and father of Obed",
+        "relationships": []
+      },
+      {
+        "name": "Ruth",
+        "role": "Wife of Boaz and mother of Obed",
+        "relationships": []
+      },
+      {
+        "name": "Naomi",
+        "role": "Receives the child into her care in the narrative scene",
+        "relationships": []
+      },
+      {
+        "name": "Obed",
+        "role": "Son of Boaz and Ruth; father of Jesse",
+        "relationships": []
+      },
+      {
+        "name": "Women of Bethlehem",
+        "role": "Name the child in relation to Naomi's household",
+        "relationships": []
+      },
+      {
+        "name": "Jesse",
+        "role": "Son of Obed and father of David",
+        "relationships": []
+      },
+      {
+        "name": "David",
+        "role": "Future king named at the end of the genealogy",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Bethlehem",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Town where Ruth and Boaz's household is established"
+      },
+      {
+        "ancientName": "Naomi's household",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Domestic setting where Obed is placed in Naomi's lap"
+      },
+      {
+        "ancientName": "Bethlehem community",
+        "modernRegion": "West Bank / Bethlehem region",
+        "description": "Women of the town speak over Naomi's restored household"
+      }
+    ],
+    "people": [
+      "Boaz",
+      "Ruth",
+      "Naomi",
+      "Obed",
+      "Women of Bethlehem",
+      "Jesse",
+      "David"
+    ],
+    "places": [
+      "Bethlehem",
+      "Naomi's household",
+      "Bethlehem community"
+    ],
+    "movement": [
+      "Boaz marries Ruth",
+      "Ruth bears a son",
+      "Women speak to Naomi about the child",
+      "Naomi takes the child and becomes his nurse/caregiver in the narrative",
+      "The child is named Obed",
+      "The genealogy moves from Perez to Boaz, Obed, Jesse, and David"
+    ],
+    "movementDetails": {
+      "startingPoint": "Boaz and Ruth's marriage",
+      "destination": "Genealogy leading to David",
+      "route": [
+        "Boaz marries Ruth",
+        "Ruth bears a son",
+        "Women speak to Naomi about the child",
+        "Naomi takes the child and becomes his nurse/caregiver in the narrative",
+        "The child is named Obed",
+        "The genealogy moves from Perez to Boaz, Obed, Jesse, and David"
+      ],
+      "majorStops": [
+        "Bethlehem household",
+        "Naomi with the child",
+        "genealogy to David"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Ruth 4:13-22 closes the book in Bethlehem. Boaz marries Ruth, and Ruth bears a son. The women of the town speak to Naomi, and Naomi takes the child into her lap. The child is named Obed. The story that began with famine, migration, and death ends with birth and household continuity. The final verses widen the view through genealogy: Obed becomes the father of Jesse, and Jesse becomes the father of David.",
+    "crossReferences": [
+      "Ruth 4:1-12",
+      "Genesis 38:27-30",
+      "Ruth 4:13-22",
+      "1 Samuel 16:1-13",
+      "2 Samuel 7:8-16",
+      "Matthew 1:3-6",
+      "Luke 3:31-33"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Ruth 4:1-12",
+        "Genesis 38:27-30"
+      ],
+      "directlyRelatedEvents": [
+        "Ruth 4:13-22"
+      ],
+      "laterReferences": [
+        "1 Samuel 16:1-13",
+        "2 Samuel 7:8-16"
+      ],
+      "newTestamentReferences": [
+        "Matthew 1:3-6",
+        "Luke 3:31-33"
+      ]
+    },
+    "series": {
+      "character": "Obed",
+      "arc": "Naomi, Ruth, Boaz, and the Line to David",
+      "previousStory": "ruth-05-boaz-redeems-naomi-land-and-marries-ruth",
+      "nextStory": null
+    },
+    "source": {
+      "id": "ruth-06-obed-born-and-david-genealogy",
+      "reference": "Ruth 4:13-22",
+      "storyTitle": "Obed Is Born and the Line Leads to David",
+      "eventType": [
+        "Birth",
+        "Genealogy",
+        "Family Restoration",
+        "Narrative Closure"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Obed",
+        "approximateAge": null,
+        "currentLocation": "Bethlehem",
+        "modernRegion": "West Bank / Bethlehem region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Ruth",
+          "Boaz",
+          "Naomi",
+          "women of Bethlehem",
+          "David"
+        ],
+        "sceneScale": "Household Birth and Genealogy",
+        "timeAnchor": "After Boaz redeems the land and marries Ruth; before David's later story",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Boaz",
+          "role": "Husband of Ruth and father of Obed",
+          "relationships": []
+        },
+        {
+          "name": "Ruth",
+          "role": "Wife of Boaz and mother of Obed",
+          "relationships": []
+        },
+        {
+          "name": "Naomi",
+          "role": "Receives the child into her care in the narrative scene",
+          "relationships": []
+        },
+        {
+          "name": "Obed",
+          "role": "Son of Boaz and Ruth; father of Jesse",
+          "relationships": []
+        },
+        {
+          "name": "Women of Bethlehem",
+          "role": "Name the child in relation to Naomi's household",
+          "relationships": []
+        },
+        {
+          "name": "Jesse",
+          "role": "Son of Obed and father of David",
+          "relationships": []
+        },
+        {
+          "name": "David",
+          "role": "Future king named at the end of the genealogy",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Bethlehem",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Town where Ruth and Boaz's household is established"
+        },
+        {
+          "ancientName": "Naomi's household",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Domestic setting where Obed is placed in Naomi's lap"
+        },
+        {
+          "ancientName": "Bethlehem community",
+          "modernRegion": "West Bank / Bethlehem region",
+          "description": "Women of the town speak over Naomi's restored household"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Boaz and Ruth's marriage",
+        "destination": "Genealogy leading to David",
+        "route": [
+          "Boaz marries Ruth",
+          "Ruth bears a son",
+          "Women speak to Naomi about the child",
+          "Naomi takes the child and becomes his nurse/caregiver in the narrative",
+          "The child is named Obed",
+          "The genealogy moves from Perez to Boaz, Obed, Jesse, and David"
+        ],
+        "majorStops": [
+          "Bethlehem household",
+          "Naomi with the child",
+          "genealogy to David"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Boaz redeemed Naomi's family land and married Ruth through a public town-gate proceeding.",
+        "whatIsHappeningNow": "Ruth bears Obed, Naomi's household is restored in the Bethlehem community, and the genealogy traces the line to David.",
+        "whatHappensAfter": "The biblical narrative later continues with David in Samuel.",
+        "storyPositionStrip": [
+          "Joshua",
+          "Judges Era",
+          "Famine in Bethlehem",
+          "Naomi and Ruth Return",
+          "Ruth Gleans",
+          "Boaz Redeems",
+          "Obed Is Born and the Line Leads to David ← YOU ARE HERE",
+          "David",
+          "Monarchy"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Ruth takes place during the era of the Judges, before Israel has a human king.",
+          "The story is set after Israel has settled in the land but before the monarchy begins.",
+          "The book moves from household loss and migration to land, harvest, redemption, and genealogy.",
+          "The Jerusalem Temple does not yet exist.",
+          "The final genealogy connects the story to David, who comes later in Israel's narrative.",
+          "This closes Ruth's household story with birth rather than migration or loss.",
+          "It reverses Naomi's empty return by placing a child in her household scene.",
+          "It connects the Bethlehem story to David through genealogy.",
+          "It makes Ruth part of the family line that later leads to Israel's monarchy."
+        ],
+        "geographicContext": [
+          "Bethlehem remains the setting from Ruth's arrival through the birth of Obed.",
+          "The final movement is not geographical but genealogical.",
+          "The story moves from a local Bethlehem household to the broader narrative horizon of David."
+        ],
+        "dailyLifeContext": [
+          "The story assumes ordinary village life: famine, migration, widows, fields, harvest labor, town gates, elders, kinship obligations, and household survival.",
+          "Travel between Bethlehem and Moab required crossing regional terrain around the Dead Sea area, though the exact route is not given.",
+          "Harvest scenes include reaping, gleaning, sheaves, threshing, grain, and daily labor in fields.",
+          "Legal and community matters are handled publicly at the town gate with elders and witnesses.",
+          "Birth, naming, nursing/caregiving, and community speech are part of household restoration.",
+          "Women of the town function as public voices interpreting Naomi's household situation within the narrative.",
+          "Genealogies connect household events to later generations.",
+          "The child Obed links Boaz and Ruth to Jesse and David."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is the narrative resolution of Naomi and Ruth's story.",
+        "It connects the local Bethlehem events to the later Davidic line.",
+        "It closes the movement from famine and death to birth and genealogy.",
+        "It prepares readers for the later importance of Bethlehem in the Samuel narrative."
+      ],
+      "stepIntoTheStory": [
+        "The final scene is domestic and communal. Ruth bears a son, and the women of Bethlehem speak to Naomi about what has happened to her household.",
+        "Naomi, who returned to Bethlehem without husband or sons, now has a child placed in her lap. The story's scale narrows to a household moment before widening into genealogy.",
+        "The last verses move through names: Perez, Hezron, Ram, Amminadab, Nahshon, Salmon, Boaz, Obed, Jesse, and David. A local harvest story now points forward to Israel's later king."
+      ],
+      "documentaryObservations": [
+        "Ruth bearing a son in Bethlehem.",
+        "Women of Bethlehem speaking to Naomi.",
+        "Naomi taking the child into her lap.",
+        "Obed named in connection with Naomi.",
+        "The household restored through a child.",
+        "Genealogy listed from Perez to David.",
+        "Boaz and Ruth placed in David's family line.",
+        "Bethlehem becoming the closing setting of the story."
+      ],
+      "audioScript": "Ruth 4:13-22 closes the book in Bethlehem. Boaz marries Ruth, and Ruth bears a son. The women of the town speak to Naomi, and Naomi takes the child into her lap. The child is named Obed. The story that began with famine, migration, and death ends with birth and household continuity. The final verses widen the view through genealogy: Obed becomes the father of Jesse, and Jesse becomes the father of David.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Ruth 4:1-12",
+          "Genesis 38:27-30"
+        ],
+        "directlyRelatedEvents": [
+          "Ruth 4:13-22"
+        ],
+        "laterReferences": [
+          "1 Samuel 16:1-13",
+          "2 Samuel 7:8-16"
+        ],
+        "newTestamentReferences": [
+          "Matthew 1:3-6",
+          "Luke 3:31-33"
+        ]
+      },
+      "series": {
+        "character": "Obed",
+        "arc": "Naomi, Ruth, Boaz, and the Line to David",
+        "previousStory": "ruth-05-boaz-redeems-naomi-land-and-marries-ruth",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Boaz",
+          "Ruth",
+          "Naomi",
+          "Obed",
+          "Women of Bethlehem",
+          "Jesse",
+          "David"
+        ],
+        "places": [
+          "Bethlehem",
+          "Naomi's household",
+          "Bethlehem community"
+        ],
+        "events": [
+          "Obed born",
+          "Ruth genealogy",
+          "Boaz Ruth Obed",
+          "David genealogy"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Bethlehem"
+        ],
+        "alternateNames": [
+          "Ruth 4:13-22",
+          "birth of Obed",
+          "Ruth and David genealogy"
+        ]
+      },
+      "realitySummary": "Obed Is Born and the Line Leads to David. Ruth bears Obed, Naomi's household is restored in the Bethlehem community, and the genealogy traces the line to David."
+    }
   }
 ]
