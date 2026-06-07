@@ -6,6 +6,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 
 import { AtlasMapCard } from "@/components/AtlasMapCard";
 import { BottomNav } from "@/components/BottomNav";
+import { BrandWordmark } from "@/components/BrandWordmark";
 import { CrossReferenceGroupsCard } from "@/components/CrossReferenceGroupsCard";
 import { NoticeCard } from "@/components/NoticeCard";
 import { ModernLocationCue } from "@/components/ModernLocationCue";
@@ -87,7 +88,7 @@ export default function StudyDetailScreen() {
       <Stack.Screen options={{ title: profile.title }} />
       <ScrollView contentContainerStyle={[styles.container, { width: contentWidth }]} showsVerticalScrollIndicator={false}>
         <View style={styles.masthead}>
-          <Text style={styles.brand}>Bible Reality</Text>
+          <BrandWordmark color={colors.text} />
           <Text style={styles.volume}>{sacred(profile.reference)}</Text>
         </View>
 
@@ -143,10 +144,10 @@ const styles = StyleSheet.create({
   container: {
     alignSelf: "center",
     gap: spacing.xl,
-    maxWidth: 384,
+    maxWidth: 430,
     paddingHorizontal: 0,
     paddingTop: spacing.lg,
-    paddingBottom: 104,
+    paddingBottom: 128,
     width: "88%"
   },
   masthead: {
@@ -157,13 +158,6 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     paddingBottom: spacing.lg,
     paddingTop: spacing.xl
-  },
-  brand: {
-    color: colors.text,
-    fontFamily: "Georgia",
-    fontSize: 18,
-    fontStyle: "italic",
-    lineHeight: 24
   },
   volume: {
     ...typography.micro,

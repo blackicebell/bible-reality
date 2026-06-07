@@ -7,6 +7,7 @@ import { StudyCard } from "@/components/StudyCard";
 import { colors } from "@/theme/colors";
 import { spacing } from "@/theme/spacing";
 import { typography } from "@/theme/typography";
+import { getNarrationSpeechOptions } from "@/utils/speech";
 
 export function AudioNarrationCard({ script, title }: { script: string; title: string }) {
   const [playing, setPlaying] = useState(false);
@@ -19,9 +20,9 @@ export function AudioNarrationCard({ script, title }: { script: string; title: s
     }
 
     setPlaying(true);
+    const narrationOptions = await getNarrationSpeechOptions();
     Speech.speak(script, {
-      pitch: 0.95,
-      rate: 0.86,
+      ...narrationOptions,
       onDone: () => setPlaying(false),
       onStopped: () => setPlaying(false),
       onError: () => setPlaying(false)

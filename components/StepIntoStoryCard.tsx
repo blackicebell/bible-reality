@@ -6,6 +6,7 @@ import * as Speech from "expo-speech";
 import { colors } from "@/theme/colors";
 import { spacing } from "@/theme/spacing";
 import { typography } from "@/theme/typography";
+import { getNarrationSpeechOptions } from "@/utils/speech";
 
 type StepIntoStoryCardProps = {
   narration: string;
@@ -15,7 +16,7 @@ type StepIntoStoryCardProps = {
 export function StepIntoStoryCard({ narration, text }: StepIntoStoryCardProps) {
   const [playing, setPlaying] = useState(false);
 
-  function toggleAudio() {
+  async function toggleAudio() {
     if (playing) {
       Speech.stop();
       setPlaying(false);
@@ -23,9 +24,9 @@ export function StepIntoStoryCard({ narration, text }: StepIntoStoryCardProps) {
     }
 
     setPlaying(true);
+    const narrationOptions = await getNarrationSpeechOptions();
     Speech.speak(narration, {
-      pitch: 0.95,
-      rate: 0.86,
+      ...narrationOptions,
       onDone: () => setPlaying(false),
       onStopped: () => setPlaying(false),
       onError: () => setPlaying(false)

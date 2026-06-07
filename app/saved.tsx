@@ -5,6 +5,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
 
 import { BottomNav } from "@/components/BottomNav";
+import { BrandWordmark } from "@/components/BrandWordmark";
 import { colors } from "@/theme/colors";
 import { spacing } from "@/theme/spacing";
 import { typography } from "@/theme/typography";
@@ -51,7 +52,7 @@ export default function SavedScreen() {
     <SafeAreaView edges={["top"]} style={styles.safe}>
       <ScrollView contentContainerStyle={[styles.container, { width: contentWidth }]} showsVerticalScrollIndicator={false}>
         <View style={styles.masthead}>
-          <Text style={styles.brand}>Bible Reality</Text>
+          <BrandWordmark color={colors.text} />
           <Text style={styles.volume}>SAVED</Text>
         </View>
 
@@ -127,7 +128,7 @@ const styles = StyleSheet.create({
   container: {
     alignSelf: "center",
     gap: spacing.xl,
-    maxWidth: 384,
+    maxWidth: 430,
     paddingBottom: 128,
     paddingHorizontal: 0,
     paddingTop: spacing.lg,
@@ -141,13 +142,6 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     paddingBottom: spacing.lg,
     paddingTop: spacing.xl
-  },
-  brand: {
-    color: colors.text,
-    fontFamily: "Georgia",
-    fontSize: 18,
-    fontStyle: "italic",
-    lineHeight: 24
   },
   volume: {
     ...typography.micro,

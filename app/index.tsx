@@ -5,6 +5,7 @@ import { Ionicons } from "@expo/vector-icons";
 import { SafeAreaView } from "react-native-safe-area-context";
 
 import { BottomNav } from "@/components/BottomNav";
+import { BrandWordmark } from "@/components/BrandWordmark";
 import { spacing } from "@/theme/spacing";
 import { useThemeMode } from "@/theme/themeMode";
 import { typography } from "@/theme/typography";
@@ -72,7 +73,7 @@ export default function StudyHomeScreen() {
     <SafeAreaView edges={["top"]} style={[styles.safe, { backgroundColor: palette.background }]}>
       <ScrollView contentContainerStyle={[styles.container, { width: contentWidth }]} showsVerticalScrollIndicator={false}>
         <View style={[styles.masthead, { borderBottomColor: palette.divider }]}>
-          <Text style={[styles.brand, { color: palette.text }]}>Bible Reality</Text>
+          <BrandWordmark color={palette.text} />
           <Text style={[styles.volume, { color: palette.textMuted }]}>HOME</Text>
         </View>
 
@@ -170,7 +171,7 @@ const styles = StyleSheet.create({
   container: {
     alignSelf: "center",
     gap: spacing.xl,
-    maxWidth: 384,
+    maxWidth: 430,
     paddingBottom: 190,
     paddingHorizontal: 0,
     paddingTop: spacing.lg,
@@ -183,12 +184,6 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     paddingBottom: spacing.lg,
     paddingTop: spacing.xl
-  },
-  brand: {
-    fontFamily: "Georgia",
-    fontSize: 18,
-    fontStyle: "italic",
-    lineHeight: 24
   },
   volume: {
     ...typography.micro,

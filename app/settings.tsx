@@ -4,6 +4,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 
 import { AppearanceToggle } from "@/components/AppearanceToggle";
 import { BottomNav } from "@/components/BottomNav";
+import { BrandWordmark } from "@/components/BrandWordmark";
 import { SacredNamesToggle } from "@/components/SacredNamesToggle";
 import { spacing } from "@/theme/spacing";
 import { useThemeMode } from "@/theme/themeMode";
@@ -46,7 +47,7 @@ export default function SettingsScreen() {
     <SafeAreaView edges={["top"]} style={[styles.safe, { backgroundColor: palette.background }]}>
       <ScrollView contentContainerStyle={[styles.container, { width: contentWidth }]} showsVerticalScrollIndicator={false}>
         <View style={[styles.masthead, { borderBottomColor: palette.divider }]}>
-          <Text style={[styles.brand, { color: palette.text }]}>Bible Reality</Text>
+          <BrandWordmark color={palette.text} />
           <Text style={[styles.volume, { color: palette.textMuted }]}>SETTINGS</Text>
         </View>
 
@@ -86,8 +87,8 @@ const styles = StyleSheet.create({
   container: {
     alignSelf: "center",
     gap: spacing.xl,
-    maxWidth: 384,
-    paddingBottom: 104,
+    maxWidth: 430,
+    paddingBottom: 128,
     paddingHorizontal: 0,
     paddingTop: spacing.lg,
     width: "88%"
@@ -99,12 +100,6 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     paddingBottom: spacing.lg,
     paddingTop: spacing.xl
-  },
-  brand: {
-    fontFamily: "Georgia",
-    fontSize: 18,
-    fontStyle: "italic",
-    lineHeight: 24
   },
   volume: {
     ...typography.micro,
