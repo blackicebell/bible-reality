@@ -86454,7 +86454,7 @@
       "character": "Samuel",
       "arc": "Samuel, Saul, and David",
       "previousStory": "1samuel-05-ark-among-philistines",
-      "nextStory": null
+      "nextStory": "1samuel-07-israel-asks-for-king"
     },
     "source": {
       "id": "1samuel-06-samuel-at-mizpah",
@@ -86648,6 +86648,1807 @@
         ]
       },
       "realitySummary": "Samuel at Mizpah and Victory Over the Philistines. Samuel gathers Israel at Mizpah, Philistines attack, Israel prevails, and Samuel judges Israel in a circuit."
+    }
+  },
+  {
+    "id": "1samuel-07-israel-asks-for-king",
+    "sourceFile": "1samuel-07-israel-asks-for-king.json",
+    "searchTerms": [
+      "Samuel",
+      "elders of Israel",
+      "Samuel's sons",
+      "Ramah",
+      "Beersheba",
+      "Israel Asks Samuel for a King",
+      "1 Samuel 8",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Request",
+      "Leadership Transition",
+      "Warning",
+      "United Kingdom Formation",
+      "Israel Asks Samuel for a King. Israel's elders ask Samuel for a king like the nations, and Samuel warns them about royal demands."
+    ],
+    "title": "Israel Asks Samuel for a King",
+    "reference": "1 Samuel 8",
+    "kicker": "Study",
+    "eventType": [
+      "Request",
+      "Leadership Transition",
+      "Warning"
+    ],
+    "summary": "Israel Asks Samuel for a King. Israel's elders ask Samuel for a king like the nations, and Samuel warns them about royal demands.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Samuel"
+      },
+      {
+        "label": "Location",
+        "value": "Ramah"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Central hill country / Israel-West Bank region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "Israel Asks Samuel for a King",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "Israel Asks Samuel for a King",
+    "stepIntoStory": "The scene centers on Ramah. Israel's elders ask Samuel for a king like the nations, and Samuel warns them about royal demands.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Samuel old in Ramah",
+      "Samuel's sons judging at Beersheba",
+      "Elders gathering to Samuel",
+      "Request for a king like the nations",
+      "Royal service warnings",
+      "Sons, daughters, fields, vineyards, flocks named",
+      "People refusing Samuel's warning"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Samuel judged Israel after the Mizpah victory and circuit."
+      },
+      {
+        "label": "Now",
+        "value": "Israel's elders ask Samuel for a king like the nations, and Samuel warns them about royal demands."
+      },
+      {
+        "label": "Next",
+        "value": "Saul is chosen through a sequence beginning with lost donkeys."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Ramah."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Samuel",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "elders of Israel",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Samuel's sons",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Ramah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Ramah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Samuel's home and leadership center"
+      },
+      {
+        "ancientName": "Beersheba",
+        "modernRegion": "Southern Judah / Negev region",
+        "description": "Place where Samuel's sons judge"
+      }
+    ],
+    "people": [
+      "Samuel",
+      "elders of Israel",
+      "Samuel's sons"
+    ],
+    "places": [
+      "Ramah",
+      "Ramah",
+      "Beersheba"
+    ],
+    "movement": [
+      "Israel's elders ask Samuel for a king like the nations, and Samuel warns them about royal demands.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Ramah",
+      "destination": "Ramah",
+      "route": [
+        "Israel's elders ask Samuel for a king like the nations, and Samuel warns them about royal demands.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Ramah",
+        "Ramah",
+        "Beersheba"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 8 focuses on Israel Asks Samuel for a King. Israel's elders ask Samuel for a king like the nations, and Samuel warns them about royal demands. The scene is grounded in Ramah, with elders of Israel, Samuel's sons directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-06-samuel-at-mizpah",
+      "1 Samuel 8",
+      "1samuel-08-saul-chosen-and-anointed"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-06-samuel-at-mizpah"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 8"
+      ],
+      "laterReferences": [
+        "1samuel-08-saul-chosen-and-anointed"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Samuel",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-06-samuel-at-mizpah",
+      "nextStory": "1samuel-08-saul-chosen-and-anointed"
+    },
+    "source": {
+      "id": "1samuel-07-israel-asks-for-king",
+      "reference": "1 Samuel 8",
+      "storyTitle": "Israel Asks Samuel for a King",
+      "eventType": [
+        "Request",
+        "Leadership Transition",
+        "Warning"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Samuel",
+        "approximateAge": null,
+        "currentLocation": "Ramah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "elders of Israel",
+          "Samuel's sons"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Samuel",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "elders of Israel",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Samuel's sons",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Ramah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Ramah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Samuel's home and leadership center"
+        },
+        {
+          "ancientName": "Beersheba",
+          "modernRegion": "Southern Judah / Negev region",
+          "description": "Place where Samuel's sons judge"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Ramah",
+        "destination": "Ramah",
+        "route": [
+          "Israel's elders ask Samuel for a king like the nations, and Samuel warns them about royal demands.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Ramah",
+          "Ramah",
+          "Beersheba"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "Samuel judged Israel after the Mizpah victory and circuit.",
+        "whatIsHappeningNow": "Israel's elders ask Samuel for a king like the nations, and Samuel warns them about royal demands.",
+        "whatHappensAfter": "Saul is chosen through a sequence beginning with lost donkeys.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "Israel Asks Samuel for a King ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Ramah.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Ramah. Israel's elders ask Samuel for a king like the nations, and Samuel warns them about royal demands.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Samuel old in Ramah",
+        "Samuel's sons judging at Beersheba",
+        "Elders gathering to Samuel",
+        "Request for a king like the nations",
+        "Royal service warnings",
+        "Sons, daughters, fields, vineyards, flocks named",
+        "People refusing Samuel's warning"
+      ],
+      "audioScript": "1 Samuel 8 focuses on Israel Asks Samuel for a King. Israel's elders ask Samuel for a king like the nations, and Samuel warns them about royal demands. The scene is grounded in Ramah, with elders of Israel, Samuel's sons directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-06-samuel-at-mizpah"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 8"
+        ],
+        "laterReferences": [
+          "1samuel-08-saul-chosen-and-anointed"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Samuel",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-06-samuel-at-mizpah",
+        "nextStory": "1samuel-08-saul-chosen-and-anointed"
+      },
+      "search": {
+        "people": [
+          "Samuel",
+          "elders of Israel",
+          "Samuel's sons"
+        ],
+        "places": [
+          "Ramah",
+          "Ramah",
+          "Beersheba"
+        ],
+        "events": [
+          "Israel Asks Samuel for a King",
+          "1 Samuel 8",
+          "elders of Israel",
+          "Samuel's sons"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "Israel Asks Samuel for a King",
+          "1 Samuel 8"
+        ]
+      },
+      "realitySummary": "Israel Asks Samuel for a King. Israel's elders ask Samuel for a king like the nations, and Samuel warns them about royal demands."
+    }
+  },
+  {
+    "id": "1samuel-08-saul-chosen-and-anointed",
+    "sourceFile": "1samuel-08-saul-chosen-and-anointed.json",
+    "searchTerms": [
+      "Saul",
+      "Samuel",
+      "Saul's servant",
+      "Israel tribes",
+      "Ramah, Zuph, and Mizpah",
+      "Land of Zuph",
+      "Mizpah",
+      "Gibeah",
+      "Saul Is Chosen and Anointed",
+      "1 Samuel 9-10",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Search",
+      "Anointing",
+      "Public Selection",
+      "United Kingdom Formation",
+      "Saul Is Chosen and Anointed. Saul searches for lost donkeys, meets Samuel, is anointed, and is publicly chosen at Mizpah."
+    ],
+    "title": "Saul Is Chosen and Anointed",
+    "reference": "1 Samuel 9-10",
+    "kicker": "Study",
+    "eventType": [
+      "Search",
+      "Anointing",
+      "Public Selection"
+    ],
+    "summary": "Saul Is Chosen and Anointed. Saul searches for lost donkeys, meets Samuel, is anointed, and is publicly chosen at Mizpah.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Saul"
+      },
+      {
+        "label": "Location",
+        "value": "Ramah, Zuph, and Mizpah"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Central hill country / Israel-West Bank region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "Saul Is Chosen and Anointed",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "Saul Is Chosen and Anointed",
+    "stepIntoStory": "The scene centers on Ramah, Zuph, and Mizpah. Saul searches for lost donkeys, meets Samuel, is anointed, and is publicly chosen at Mizpah.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Lost donkeys prompting travel",
+      "Saul and servant moving through hill country",
+      "Girls going out to draw water",
+      "Samuel at a high place feast",
+      "Flask of oil used for anointing",
+      "Signs along Saul's return route",
+      "Tribes and clans selected by lot",
+      "Saul hidden among baggage",
+      "Public presentation of Saul"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Israel asked Samuel for a king and heard warnings about royal demands."
+      },
+      {
+        "label": "Now",
+        "value": "Saul searches for lost donkeys, meets Samuel, is anointed, and is publicly chosen at Mizpah."
+      },
+      {
+        "label": "Next",
+        "value": "Saul rescues Jabesh-gilead and is confirmed as king at Gilgal."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Ramah, Zuph, and Mizpah."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Saul",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Samuel",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Saul's servant",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Israel tribes",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Ramah, Zuph, and Mizpah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Land of Zuph",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Region where Saul meets Samuel"
+      },
+      {
+        "ancientName": "Mizpah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Public selection location"
+      },
+      {
+        "ancientName": "Gibeah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Saul's home area"
+      }
+    ],
+    "people": [
+      "Saul",
+      "Samuel",
+      "Saul's servant",
+      "Israel tribes"
+    ],
+    "places": [
+      "Ramah, Zuph, and Mizpah",
+      "Land of Zuph",
+      "Mizpah",
+      "Gibeah"
+    ],
+    "movement": [
+      "Saul searches for lost donkeys, meets Samuel, is anointed, and is publicly chosen at Mizpah.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Ramah, Zuph, and Mizpah",
+      "destination": "Ramah, Zuph, and Mizpah",
+      "route": [
+        "Saul searches for lost donkeys, meets Samuel, is anointed, and is publicly chosen at Mizpah.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Ramah, Zuph, and Mizpah",
+        "Land of Zuph",
+        "Mizpah",
+        "Gibeah"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 9-10 focuses on Saul Is Chosen and Anointed. Saul searches for lost donkeys, meets Samuel, is anointed, and is publicly chosen at Mizpah. The scene is grounded in Ramah, Zuph, and Mizpah, with Samuel, Saul's servant, Israel tribes directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-07-israel-asks-for-king",
+      "1 Samuel 9-10",
+      "1samuel-09-saul-rescues-jabesh",
+      "Acts 13:21"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-07-israel-asks-for-king"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 9-10"
+      ],
+      "laterReferences": [
+        "1samuel-09-saul-rescues-jabesh"
+      ],
+      "newTestamentReferences": [
+        "Acts 13:21"
+      ]
+    },
+    "series": {
+      "character": "Saul",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-07-israel-asks-for-king",
+      "nextStory": "1samuel-09-saul-rescues-jabesh"
+    },
+    "source": {
+      "id": "1samuel-08-saul-chosen-and-anointed",
+      "reference": "1 Samuel 9-10",
+      "storyTitle": "Saul Is Chosen and Anointed",
+      "eventType": [
+        "Search",
+        "Anointing",
+        "Public Selection"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Saul",
+        "approximateAge": null,
+        "currentLocation": "Ramah, Zuph, and Mizpah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Samuel",
+          "Saul's servant",
+          "Israel tribes"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Saul",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Samuel",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Saul's servant",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Israel tribes",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Ramah, Zuph, and Mizpah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Land of Zuph",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Region where Saul meets Samuel"
+        },
+        {
+          "ancientName": "Mizpah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Public selection location"
+        },
+        {
+          "ancientName": "Gibeah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Saul's home area"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Ramah, Zuph, and Mizpah",
+        "destination": "Ramah, Zuph, and Mizpah",
+        "route": [
+          "Saul searches for lost donkeys, meets Samuel, is anointed, and is publicly chosen at Mizpah.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Ramah, Zuph, and Mizpah",
+          "Land of Zuph",
+          "Mizpah",
+          "Gibeah"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "Israel asked Samuel for a king and heard warnings about royal demands.",
+        "whatIsHappeningNow": "Saul searches for lost donkeys, meets Samuel, is anointed, and is publicly chosen at Mizpah.",
+        "whatHappensAfter": "Saul rescues Jabesh-gilead and is confirmed as king at Gilgal.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "Saul Is Chosen and Anointed ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Ramah, Zuph, and Mizpah.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Ramah, Zuph, and Mizpah. Saul searches for lost donkeys, meets Samuel, is anointed, and is publicly chosen at Mizpah.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Lost donkeys prompting travel",
+        "Saul and servant moving through hill country",
+        "Girls going out to draw water",
+        "Samuel at a high place feast",
+        "Flask of oil used for anointing",
+        "Signs along Saul's return route",
+        "Tribes and clans selected by lot",
+        "Saul hidden among baggage",
+        "Public presentation of Saul"
+      ],
+      "audioScript": "1 Samuel 9-10 focuses on Saul Is Chosen and Anointed. Saul searches for lost donkeys, meets Samuel, is anointed, and is publicly chosen at Mizpah. The scene is grounded in Ramah, Zuph, and Mizpah, with Samuel, Saul's servant, Israel tribes directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-07-israel-asks-for-king"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 9-10"
+        ],
+        "laterReferences": [
+          "1samuel-09-saul-rescues-jabesh"
+        ],
+        "newTestamentReferences": [
+          "Acts 13:21"
+        ]
+      },
+      "series": {
+        "character": "Saul",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-07-israel-asks-for-king",
+        "nextStory": "1samuel-09-saul-rescues-jabesh"
+      },
+      "search": {
+        "people": [
+          "Saul",
+          "Samuel",
+          "Saul's servant",
+          "Israel tribes"
+        ],
+        "places": [
+          "Ramah, Zuph, and Mizpah",
+          "Land of Zuph",
+          "Mizpah",
+          "Gibeah"
+        ],
+        "events": [
+          "Saul Is Chosen and Anointed",
+          "1 Samuel 9-10",
+          "Samuel",
+          "Saul's servant",
+          "Israel tribes"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "Saul Is Chosen and Anointed",
+          "1 Samuel 9-10"
+        ]
+      },
+      "realitySummary": "Saul Is Chosen and Anointed. Saul searches for lost donkeys, meets Samuel, is anointed, and is publicly chosen at Mizpah."
+    }
+  },
+  {
+    "id": "1samuel-09-saul-rescues-jabesh",
+    "sourceFile": "1samuel-09-saul-rescues-jabesh.json",
+    "searchTerms": [
+      "Saul",
+      "Nahash",
+      "Jabesh-gilead",
+      "Samuel",
+      "Gibeah and Jabesh-gilead",
+      "Gibeah",
+      "Gilgal",
+      "Saul Rescues Jabesh-gilead and Is Confirmed King",
+      "1 Samuel 11",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Battle",
+      "Deliverance",
+      "Kingship Confirmation",
+      "United Kingdom Formation",
+      "Saul Rescues Jabesh-gilead and Is Confirmed King. Saul musters Israel, rescues Jabesh-gilead from Nahash, and the kingship is renewed at Gilgal."
+    ],
+    "title": "Saul Rescues Jabesh-gilead and Is Confirmed King",
+    "reference": "1 Samuel 11",
+    "kicker": "Study",
+    "eventType": [
+      "Battle",
+      "Deliverance",
+      "Kingship Confirmation"
+    ],
+    "summary": "Saul Rescues Jabesh-gilead and Is Confirmed King. Saul musters Israel, rescues Jabesh-gilead from Nahash, and the kingship is renewed at Gilgal.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Saul"
+      },
+      {
+        "label": "Location",
+        "value": "Gibeah and Jabesh-gilead"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan / Transjordan region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "Saul Rescues Jabesh-gilead and Is Confirmed King",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "Saul Rescues Jabesh-gilead and Is Confirmed King",
+    "stepIntoStory": "The scene centers on Gibeah and Jabesh-gilead. Saul musters Israel, rescues Jabesh-gilead from Nahash, and the kingship is renewed at Gilgal.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Jabesh-gilead besieged",
+      "Nahash's threat involving right eyes",
+      "Messengers reaching Gibeah",
+      "Saul coming from field behind oxen",
+      "Oxen cut and sent through Israel",
+      "Forces mustering at Bezek",
+      "Three companies attacking at morning watch",
+      "Kingship renewed at Gilgal"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Saul was publicly selected at Mizpah but not yet fully proven in battle."
+      },
+      {
+        "label": "Now",
+        "value": "Saul musters Israel, rescues Jabesh-gilead from Nahash, and the kingship is renewed at Gilgal."
+      },
+      {
+        "label": "Next",
+        "value": "Samuel gives a farewell address after Saul's confirmation."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Gibeah and Jabesh-gilead."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Saul",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Nahash",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Jabesh-gilead",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Samuel",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Gibeah and Jabesh-gilead",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Jabesh-gilead",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Town threatened by Nahash"
+      },
+      {
+        "ancientName": "Gibeah",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Saul's home area"
+      },
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Kingship renewal location"
+      }
+    ],
+    "people": [
+      "Saul",
+      "Nahash",
+      "Jabesh-gilead",
+      "Samuel"
+    ],
+    "places": [
+      "Gibeah and Jabesh-gilead",
+      "Jabesh-gilead",
+      "Gibeah",
+      "Gilgal"
+    ],
+    "movement": [
+      "Saul musters Israel, rescues Jabesh-gilead from Nahash, and the kingship is renewed at Gilgal.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Gibeah and Jabesh-gilead",
+      "destination": "Gibeah and Jabesh-gilead",
+      "route": [
+        "Saul musters Israel, rescues Jabesh-gilead from Nahash, and the kingship is renewed at Gilgal.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Gibeah and Jabesh-gilead",
+        "Jabesh-gilead",
+        "Gibeah",
+        "Gilgal"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 11 focuses on Saul Rescues Jabesh-gilead and Is Confirmed King. Saul musters Israel, rescues Jabesh-gilead from Nahash, and the kingship is renewed at Gilgal. The scene is grounded in Gibeah and Jabesh-gilead, with Nahash, Jabesh-gilead, Samuel directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-08-saul-chosen-and-anointed",
+      "1 Samuel 11",
+      "1samuel-10-samuel-farewell"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-08-saul-chosen-and-anointed"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 11"
+      ],
+      "laterReferences": [
+        "1samuel-10-samuel-farewell"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Saul",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-08-saul-chosen-and-anointed",
+      "nextStory": "1samuel-10-samuel-farewell"
+    },
+    "source": {
+      "id": "1samuel-09-saul-rescues-jabesh",
+      "reference": "1 Samuel 11",
+      "storyTitle": "Saul Rescues Jabesh-gilead and Is Confirmed King",
+      "eventType": [
+        "Battle",
+        "Deliverance",
+        "Kingship Confirmation"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Saul",
+        "approximateAge": null,
+        "currentLocation": "Gibeah and Jabesh-gilead",
+        "modernRegion": "Jordan / Transjordan region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Nahash",
+          "Jabesh-gilead",
+          "Samuel"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Saul",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Nahash",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Jabesh-gilead",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Samuel",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Gibeah and Jabesh-gilead",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Jabesh-gilead",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Town threatened by Nahash"
+        },
+        {
+          "ancientName": "Gibeah",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Saul's home area"
+        },
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Kingship renewal location"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Gibeah and Jabesh-gilead",
+        "destination": "Gibeah and Jabesh-gilead",
+        "route": [
+          "Saul musters Israel, rescues Jabesh-gilead from Nahash, and the kingship is renewed at Gilgal.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Gibeah and Jabesh-gilead",
+          "Jabesh-gilead",
+          "Gibeah",
+          "Gilgal"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "Saul was publicly selected at Mizpah but not yet fully proven in battle.",
+        "whatIsHappeningNow": "Saul musters Israel, rescues Jabesh-gilead from Nahash, and the kingship is renewed at Gilgal.",
+        "whatHappensAfter": "Samuel gives a farewell address after Saul's confirmation.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "Saul Rescues Jabesh-gilead and Is Confirmed King ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Gibeah and Jabesh-gilead.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Gibeah and Jabesh-gilead. Saul musters Israel, rescues Jabesh-gilead from Nahash, and the kingship is renewed at Gilgal.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Jabesh-gilead besieged",
+        "Nahash's threat involving right eyes",
+        "Messengers reaching Gibeah",
+        "Saul coming from field behind oxen",
+        "Oxen cut and sent through Israel",
+        "Forces mustering at Bezek",
+        "Three companies attacking at morning watch",
+        "Kingship renewed at Gilgal"
+      ],
+      "audioScript": "1 Samuel 11 focuses on Saul Rescues Jabesh-gilead and Is Confirmed King. Saul musters Israel, rescues Jabesh-gilead from Nahash, and the kingship is renewed at Gilgal. The scene is grounded in Gibeah and Jabesh-gilead, with Nahash, Jabesh-gilead, Samuel directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-08-saul-chosen-and-anointed"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 11"
+        ],
+        "laterReferences": [
+          "1samuel-10-samuel-farewell"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Saul",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-08-saul-chosen-and-anointed",
+        "nextStory": "1samuel-10-samuel-farewell"
+      },
+      "search": {
+        "people": [
+          "Saul",
+          "Nahash",
+          "Jabesh-gilead",
+          "Samuel"
+        ],
+        "places": [
+          "Gibeah and Jabesh-gilead",
+          "Jabesh-gilead",
+          "Gibeah",
+          "Gilgal"
+        ],
+        "events": [
+          "Saul Rescues Jabesh-gilead and Is Confirmed King",
+          "1 Samuel 11",
+          "Nahash",
+          "Jabesh-gilead",
+          "Samuel"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "Saul Rescues Jabesh-gilead and Is Confirmed King",
+          "1 Samuel 11"
+        ]
+      },
+      "realitySummary": "Saul Rescues Jabesh-gilead and Is Confirmed King. Saul musters Israel, rescues Jabesh-gilead from Nahash, and the kingship is renewed at Gilgal."
+    }
+  },
+  {
+    "id": "1samuel-10-samuel-farewell",
+    "sourceFile": "1samuel-10-samuel-farewell.json",
+    "searchTerms": [
+      "Samuel",
+      "Saul",
+      "Israelites",
+      "Gilgal",
+      "Samuel's Farewell Address",
+      "1 Samuel 12",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Farewell Address",
+      "Historical Review",
+      "Warning",
+      "United Kingdom Formation",
+      "Samuel's Farewell Address. Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship."
+    ],
+    "title": "Samuel's Farewell Address",
+    "reference": "1 Samuel 12",
+    "kicker": "Study",
+    "eventType": [
+      "Farewell Address",
+      "Historical Review",
+      "Warning"
+    ],
+    "summary": "Samuel's Farewell Address. Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Samuel"
+      },
+      {
+        "label": "Location",
+        "value": "Gilgal"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Central hill country / Israel-West Bank region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "Samuel's Farewell Address",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "Samuel's Farewell Address",
+    "stepIntoStory": "The scene centers on Gilgal. Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Samuel publicly speaking at Gilgal",
+      "Saul standing as king",
+      "Witness language before the people",
+      "Historical review from Egypt to judges",
+      "Thunder and rain during wheat harvest",
+      "People asking Samuel to pray",
+      "Samuel continuing to instruct"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Saul rescued Jabesh-gilead and was confirmed as king at Gilgal."
+      },
+      {
+        "label": "Now",
+        "value": "Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship."
+      },
+      {
+        "label": "Next",
+        "value": "Saul faces a Philistine crisis at Gilgal and Michmash."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Gilgal."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Samuel",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Saul",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "description": "Public assembly location for Samuel's address"
+      }
+    ],
+    "people": [
+      "Samuel",
+      "Saul",
+      "Israelites"
+    ],
+    "places": [
+      "Gilgal",
+      "Gilgal"
+    ],
+    "movement": [
+      "Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Gilgal",
+      "destination": "Gilgal",
+      "route": [
+        "Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Gilgal",
+        "Gilgal"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 12 focuses on Samuel's Farewell Address. Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship. The scene is grounded in Gilgal, with Saul, Israelites directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-09-saul-rescues-jabesh",
+      "1 Samuel 12",
+      "1samuel-11-saul-at-gilgal"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-09-saul-rescues-jabesh"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 12"
+      ],
+      "laterReferences": [
+        "1samuel-11-saul-at-gilgal"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Samuel",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-09-saul-rescues-jabesh",
+      "nextStory": null
+    },
+    "source": {
+      "id": "1samuel-10-samuel-farewell",
+      "reference": "1 Samuel 12",
+      "storyTitle": "Samuel's Farewell Address",
+      "eventType": [
+        "Farewell Address",
+        "Historical Review",
+        "Warning"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Samuel",
+        "approximateAge": null,
+        "currentLocation": "Gilgal",
+        "modernRegion": "Central hill country / Israel-West Bank region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Saul",
+          "Israelites"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Samuel",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Saul",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Central hill country / Israel-West Bank region",
+          "description": "Public assembly location for Samuel's address"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Gilgal",
+        "destination": "Gilgal",
+        "route": [
+          "Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Gilgal",
+          "Gilgal"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "Saul rescued Jabesh-gilead and was confirmed as king at Gilgal.",
+        "whatIsHappeningNow": "Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship.",
+        "whatHappensAfter": "Saul faces a Philistine crisis at Gilgal and Michmash.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "Samuel's Farewell Address ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Gilgal.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Gilgal. Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Samuel publicly speaking at Gilgal",
+        "Saul standing as king",
+        "Witness language before the people",
+        "Historical review from Egypt to judges",
+        "Thunder and rain during wheat harvest",
+        "People asking Samuel to pray",
+        "Samuel continuing to instruct"
+      ],
+      "audioScript": "1 Samuel 12 focuses on Samuel's Farewell Address. Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship. The scene is grounded in Gilgal, with Saul, Israelites directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-09-saul-rescues-jabesh"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 12"
+        ],
+        "laterReferences": [
+          "1samuel-11-saul-at-gilgal"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Samuel",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-09-saul-rescues-jabesh",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Samuel",
+          "Saul",
+          "Israelites"
+        ],
+        "places": [
+          "Gilgal",
+          "Gilgal"
+        ],
+        "events": [
+          "Samuel's Farewell Address",
+          "1 Samuel 12",
+          "Saul",
+          "Israelites"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "Samuel's Farewell Address",
+          "1 Samuel 12"
+        ]
+      },
+      "realitySummary": "Samuel's Farewell Address. Samuel addresses Israel after Saul's confirmation and reviews the transition to kingship."
     }
   }
 ]
