@@ -94248,7 +94248,7 @@
       "character": "David",
       "arc": "Samuel, Saul, and David",
       "previousStory": "1samuel-22-david-spares-saul-hachilah",
-      "nextStory": null
+      "nextStory": "1samuel-24-saul-medium-endor"
     },
     "source": {
       "id": "1samuel-23-david-among-philistines",
@@ -94440,6 +94440,1851 @@
         ]
       },
       "realitySummary": "David Lives Among the Philistines at Ziklag. David goes to Achish of Gath, receives Ziklag, and raids southern groups while Achish believes he is attacking Judah."
+    }
+  },
+  {
+    "id": "1samuel-24-saul-medium-endor",
+    "sourceFile": "1samuel-24-saul-medium-endor.json",
+    "searchTerms": [
+      "Saul",
+      "Philistines",
+      "medium",
+      "Samuel",
+      "Gilboa and En-dor",
+      "Shunem",
+      "Mount Gilboa",
+      "En-dor",
+      "Saul Consults the Medium at En-dor",
+      "1 Samuel 28",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Military Crisis",
+      "Night Journey",
+      "Consultation",
+      "United Kingdom Formation",
+      "Saul Consults the Medium at En-dor. Facing Philistine forces, Saul goes by night to a medium at En-dor and hears a message concerning his death."
+    ],
+    "title": "Saul Consults the Medium at En-dor",
+    "reference": "1 Samuel 28",
+    "kicker": "Study",
+    "eventType": [
+      "Military Crisis",
+      "Night Journey",
+      "Consultation"
+    ],
+    "summary": "Saul Consults the Medium at En-dor. Facing Philistine forces, Saul goes by night to a medium at En-dor and hears a message concerning his death.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Saul"
+      },
+      {
+        "label": "Location",
+        "value": "Gilboa and En-dor"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Northern Israel / Jezreel-Galilee region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "Saul Consults the Medium at En-dor",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "Saul Consults the Medium at En-dor",
+    "stepIntoStory": "The scene centers on Gilboa and En-dor. Facing Philistine forces, Saul goes by night to a medium at En-dor and hears a message concerning his death.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Philistines camped at Shunem",
+      "Israel camped at Gilboa",
+      "Saul afraid when seeing Philistine camp",
+      "Saul disguised and traveling by night",
+      "Medium at En-dor fearing the law against mediums",
+      "Samuel figure brought up in the narrative",
+      "Saul falling full length to ground",
+      "Meal prepared before Saul leaves at night"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "David was living among the Philistines at Ziklag under Achish."
+      },
+      {
+        "label": "Now",
+        "value": "Facing Philistine forces, Saul goes by night to a medium at En-dor and hears a message concerning his death."
+      },
+      {
+        "label": "Next",
+        "value": "David is dismissed from the Philistine campaign before the battle."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Gilboa and En-dor."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Saul",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Philistines",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "medium",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Samuel",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Gilboa and En-dor",
+        "modernRegion": "Northern Israel / Jezreel-Galilee region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Shunem",
+        "modernRegion": "Northern Israel / Jezreel-Galilee region",
+        "description": "Philistine camp area"
+      },
+      {
+        "ancientName": "Mount Gilboa",
+        "modernRegion": "Northern Israel / Jezreel-Galilee region",
+        "description": "Israelite camp area"
+      },
+      {
+        "ancientName": "En-dor",
+        "modernRegion": "Northern Israel / Jezreel-Galilee region",
+        "description": "Village where Saul visits the medium"
+      }
+    ],
+    "people": [
+      "Saul",
+      "Philistines",
+      "medium",
+      "Samuel"
+    ],
+    "places": [
+      "Gilboa and En-dor",
+      "Shunem",
+      "Mount Gilboa",
+      "En-dor"
+    ],
+    "movement": [
+      "Facing Philistine forces, Saul goes by night to a medium at En-dor and hears a message concerning his death.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Gilboa and En-dor",
+      "destination": "Gilboa and En-dor",
+      "route": [
+        "Facing Philistine forces, Saul goes by night to a medium at En-dor and hears a message concerning his death.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Gilboa and En-dor",
+        "Shunem",
+        "Mount Gilboa",
+        "En-dor"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 28 focuses on Saul Consults the Medium at En-dor. Facing Philistine forces, Saul goes by night to a medium at En-dor and hears a message concerning his death. The scene is grounded in Gilboa and En-dor, with Philistines, medium, Samuel directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-23-david-among-philistines",
+      "1 Samuel 28",
+      "1samuel-25-david-dismissed-by-philistines"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-23-david-among-philistines"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 28"
+      ],
+      "laterReferences": [
+        "1samuel-25-david-dismissed-by-philistines"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Saul",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-23-david-among-philistines",
+      "nextStory": "1samuel-25-david-dismissed-by-philistines"
+    },
+    "source": {
+      "id": "1samuel-24-saul-medium-endor",
+      "reference": "1 Samuel 28",
+      "storyTitle": "Saul Consults the Medium at En-dor",
+      "eventType": [
+        "Military Crisis",
+        "Night Journey",
+        "Consultation"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Saul",
+        "approximateAge": null,
+        "currentLocation": "Gilboa and En-dor",
+        "modernRegion": "Northern Israel / Jezreel-Galilee region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Philistines",
+          "medium",
+          "Samuel"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Saul",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Philistines",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "medium",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Samuel",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Gilboa and En-dor",
+          "modernRegion": "Northern Israel / Jezreel-Galilee region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Shunem",
+          "modernRegion": "Northern Israel / Jezreel-Galilee region",
+          "description": "Philistine camp area"
+        },
+        {
+          "ancientName": "Mount Gilboa",
+          "modernRegion": "Northern Israel / Jezreel-Galilee region",
+          "description": "Israelite camp area"
+        },
+        {
+          "ancientName": "En-dor",
+          "modernRegion": "Northern Israel / Jezreel-Galilee region",
+          "description": "Village where Saul visits the medium"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Gilboa and En-dor",
+        "destination": "Gilboa and En-dor",
+        "route": [
+          "Facing Philistine forces, Saul goes by night to a medium at En-dor and hears a message concerning his death.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Gilboa and En-dor",
+          "Shunem",
+          "Mount Gilboa",
+          "En-dor"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "David was living among the Philistines at Ziklag under Achish.",
+        "whatIsHappeningNow": "Facing Philistine forces, Saul goes by night to a medium at En-dor and hears a message concerning his death.",
+        "whatHappensAfter": "David is dismissed from the Philistine campaign before the battle.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "Saul Consults the Medium at En-dor ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Gilboa and En-dor.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Gilboa and En-dor. Facing Philistine forces, Saul goes by night to a medium at En-dor and hears a message concerning his death.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Philistines camped at Shunem",
+        "Israel camped at Gilboa",
+        "Saul afraid when seeing Philistine camp",
+        "Saul disguised and traveling by night",
+        "Medium at En-dor fearing the law against mediums",
+        "Samuel figure brought up in the narrative",
+        "Saul falling full length to ground",
+        "Meal prepared before Saul leaves at night"
+      ],
+      "audioScript": "1 Samuel 28 focuses on Saul Consults the Medium at En-dor. Facing Philistine forces, Saul goes by night to a medium at En-dor and hears a message concerning his death. The scene is grounded in Gilboa and En-dor, with Philistines, medium, Samuel directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-23-david-among-philistines"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 28"
+        ],
+        "laterReferences": [
+          "1samuel-25-david-dismissed-by-philistines"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Saul",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-23-david-among-philistines",
+        "nextStory": "1samuel-25-david-dismissed-by-philistines"
+      },
+      "search": {
+        "people": [
+          "Saul",
+          "Philistines",
+          "medium",
+          "Samuel"
+        ],
+        "places": [
+          "Gilboa and En-dor",
+          "Shunem",
+          "Mount Gilboa",
+          "En-dor"
+        ],
+        "events": [
+          "Saul Consults the Medium at En-dor",
+          "1 Samuel 28",
+          "Philistines",
+          "medium",
+          "Samuel"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "Saul Consults the Medium at En-dor",
+          "1 Samuel 28"
+        ]
+      },
+      "realitySummary": "Saul Consults the Medium at En-dor. Facing Philistine forces, Saul goes by night to a medium at En-dor and hears a message concerning his death."
+    }
+  },
+  {
+    "id": "1samuel-25-david-dismissed-by-philistines",
+    "sourceFile": "1samuel-25-david-dismissed-by-philistines.json",
+    "searchTerms": [
+      "David",
+      "Achish",
+      "Philistine commanders",
+      "Aphek and Philistine camp",
+      "Aphek",
+      "Jezreel spring",
+      "David Is Dismissed from the Philistine Campaign",
+      "1 Samuel 29",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Military Assembly",
+      "Dismissal",
+      "United Kingdom Formation",
+      "David Is Dismissed from the Philistine Campaign. Philistine commanders reject David's presence in their army, and Achish sends him back from the campaign."
+    ],
+    "title": "David Is Dismissed from the Philistine Campaign",
+    "reference": "1 Samuel 29",
+    "kicker": "Study",
+    "eventType": [
+      "Military Assembly",
+      "Dismissal"
+    ],
+    "summary": "David Is Dismissed from the Philistine Campaign. Philistine commanders reject David's presence in their army, and Achish sends him back from the campaign.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "David"
+      },
+      {
+        "label": "Location",
+        "value": "Aphek and Philistine camp"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Coastal plain / Philistine region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "David Is Dismissed from the Philistine Campaign",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "David Is Dismissed from the Philistine Campaign",
+    "stepIntoStory": "The scene centers on Aphek and Philistine camp. Philistine commanders reject David's presence in their army, and Achish sends him back from the campaign.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Philistine forces gathered at Aphek",
+      "Israel camped by Jezreel spring",
+      "David and his men marching in rear with Achish",
+      "Philistine commanders questioning Hebrews in camp",
+      "Achish defending David",
+      "David dismissed before battle"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Saul consulted the medium at En-dor as Philistines gathered for war."
+      },
+      {
+        "label": "Now",
+        "value": "Philistine commanders reject David's presence in their army, and Achish sends him back from the campaign."
+      },
+      {
+        "label": "Next",
+        "value": "David returns to Ziklag and finds it raided by Amalekites."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Aphek and Philistine camp."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "David",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Achish",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Philistine commanders",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Aphek and Philistine camp",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Aphek",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Philistine mustering location"
+      },
+      {
+        "ancientName": "Jezreel spring",
+        "modernRegion": "Northern Israel / Jezreel-Galilee region",
+        "description": "Israelite camp reference"
+      }
+    ],
+    "people": [
+      "David",
+      "Achish",
+      "Philistine commanders"
+    ],
+    "places": [
+      "Aphek and Philistine camp",
+      "Aphek",
+      "Jezreel spring"
+    ],
+    "movement": [
+      "Philistine commanders reject David's presence in their army, and Achish sends him back from the campaign.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Aphek and Philistine camp",
+      "destination": "Aphek and Philistine camp",
+      "route": [
+        "Philistine commanders reject David's presence in their army, and Achish sends him back from the campaign.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Aphek and Philistine camp",
+        "Aphek",
+        "Jezreel spring"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 29 focuses on David Is Dismissed from the Philistine Campaign. Philistine commanders reject David's presence in their army, and Achish sends him back from the campaign. The scene is grounded in Aphek and Philistine camp, with Achish, Philistine commanders directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-24-saul-medium-endor",
+      "1 Samuel 29",
+      "1samuel-26-ziklag-raided"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-24-saul-medium-endor"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 29"
+      ],
+      "laterReferences": [
+        "1samuel-26-ziklag-raided"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "David",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-24-saul-medium-endor",
+      "nextStory": "1samuel-26-ziklag-raided"
+    },
+    "source": {
+      "id": "1samuel-25-david-dismissed-by-philistines",
+      "reference": "1 Samuel 29",
+      "storyTitle": "David Is Dismissed from the Philistine Campaign",
+      "eventType": [
+        "Military Assembly",
+        "Dismissal"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "David",
+        "approximateAge": null,
+        "currentLocation": "Aphek and Philistine camp",
+        "modernRegion": "Coastal plain / Philistine region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Achish",
+          "Philistine commanders"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "David",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Achish",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Philistine commanders",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Aphek and Philistine camp",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Aphek",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Philistine mustering location"
+        },
+        {
+          "ancientName": "Jezreel spring",
+          "modernRegion": "Northern Israel / Jezreel-Galilee region",
+          "description": "Israelite camp reference"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Aphek and Philistine camp",
+        "destination": "Aphek and Philistine camp",
+        "route": [
+          "Philistine commanders reject David's presence in their army, and Achish sends him back from the campaign.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Aphek and Philistine camp",
+          "Aphek",
+          "Jezreel spring"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "Saul consulted the medium at En-dor as Philistines gathered for war.",
+        "whatIsHappeningNow": "Philistine commanders reject David's presence in their army, and Achish sends him back from the campaign.",
+        "whatHappensAfter": "David returns to Ziklag and finds it raided by Amalekites.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "David Is Dismissed from the Philistine Campaign ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Aphek and Philistine camp.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Aphek and Philistine camp. Philistine commanders reject David's presence in their army, and Achish sends him back from the campaign.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Philistine forces gathered at Aphek",
+        "Israel camped by Jezreel spring",
+        "David and his men marching in rear with Achish",
+        "Philistine commanders questioning Hebrews in camp",
+        "Achish defending David",
+        "David dismissed before battle"
+      ],
+      "audioScript": "1 Samuel 29 focuses on David Is Dismissed from the Philistine Campaign. Philistine commanders reject David's presence in their army, and Achish sends him back from the campaign. The scene is grounded in Aphek and Philistine camp, with Achish, Philistine commanders directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-24-saul-medium-endor"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 29"
+        ],
+        "laterReferences": [
+          "1samuel-26-ziklag-raided"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "David",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-24-saul-medium-endor",
+        "nextStory": "1samuel-26-ziklag-raided"
+      },
+      "search": {
+        "people": [
+          "David",
+          "Achish",
+          "Philistine commanders"
+        ],
+        "places": [
+          "Aphek and Philistine camp",
+          "Aphek",
+          "Jezreel spring"
+        ],
+        "events": [
+          "David Is Dismissed from the Philistine Campaign",
+          "1 Samuel 29",
+          "Achish",
+          "Philistine commanders"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "David Is Dismissed from the Philistine Campaign",
+          "1 Samuel 29"
+        ]
+      },
+      "realitySummary": "David Is Dismissed from the Philistine Campaign. Philistine commanders reject David's presence in their army, and Achish sends him back from the campaign."
+    }
+  },
+  {
+    "id": "1samuel-26-ziklag-raided",
+    "sourceFile": "1samuel-26-ziklag-raided.json",
+    "searchTerms": [
+      "David",
+      "Amalekites",
+      "Abiathar",
+      "David's men",
+      "Ziklag and Besor Brook",
+      "Ziklag",
+      "Besor Brook",
+      "David Recovers Captives from the Amalekites",
+      "1 Samuel 30",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Raid",
+      "Pursuit",
+      "Rescue",
+      "United Kingdom Formation",
+      "David Recovers Captives from the Amalekites. David returns to burned Ziklag, pursues Amalekite raiders, recovers captives and goods, and distributes spoil."
+    ],
+    "title": "David Recovers Captives from the Amalekites",
+    "reference": "1 Samuel 30",
+    "kicker": "Study",
+    "eventType": [
+      "Raid",
+      "Pursuit",
+      "Rescue"
+    ],
+    "summary": "David Recovers Captives from the Amalekites. David returns to burned Ziklag, pursues Amalekite raiders, recovers captives and goods, and distributes spoil.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "David"
+      },
+      {
+        "label": "Location",
+        "value": "Ziklag and Besor Brook"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Southern Judah / Negev region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "David Recovers Captives from the Amalekites",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "David Recovers Captives from the Amalekites",
+    "stepIntoStory": "The scene centers on Ziklag and Besor Brook. David returns to burned Ziklag, pursues Amalekite raiders, recovers captives and goods, and distributes spoil.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Ziklag burned with fire",
+      "Women and children taken captive",
+      "David and men weeping until no strength",
+      "Men speaking of stoning David",
+      "Abiathar bringing ephod",
+      "Two hundred men stopping at Besor Brook",
+      "Egyptian servant found in field",
+      "Amalekite camp eating, drinking, and dancing",
+      "Captives recovered",
+      "Spoil sent to elders of Judah"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "David was dismissed from the Philistine campaign and returned south."
+      },
+      {
+        "label": "Now",
+        "value": "David returns to burned Ziklag, pursues Amalekite raiders, recovers captives and goods, and distributes spoil."
+      },
+      {
+        "label": "Next",
+        "value": "Philistines defeat Israel at Gilboa, and Saul dies."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Ziklag and Besor Brook."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "David",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Amalekites",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Abiathar",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "David's men",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Ziklag and Besor Brook",
+        "modernRegion": "Southern Judah / Negev region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Ziklag",
+        "modernRegion": "Southern Judah / Negev region",
+        "description": "David's town in Philistine-controlled region"
+      },
+      {
+        "ancientName": "Besor Brook",
+        "modernRegion": "Southern Judah / Negev region",
+        "description": "Stopping point during pursuit"
+      }
+    ],
+    "people": [
+      "David",
+      "Amalekites",
+      "Abiathar",
+      "David's men"
+    ],
+    "places": [
+      "Ziklag and Besor Brook",
+      "Ziklag",
+      "Besor Brook"
+    ],
+    "movement": [
+      "David returns to burned Ziklag, pursues Amalekite raiders, recovers captives and goods, and distributes spoil.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Ziklag and Besor Brook",
+      "destination": "Ziklag and Besor Brook",
+      "route": [
+        "David returns to burned Ziklag, pursues Amalekite raiders, recovers captives and goods, and distributes spoil.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Ziklag and Besor Brook",
+        "Ziklag",
+        "Besor Brook"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 30 focuses on David Recovers Captives from the Amalekites. David returns to burned Ziklag, pursues Amalekite raiders, recovers captives and goods, and distributes spoil. The scene is grounded in Ziklag and Besor Brook, with Amalekites, Abiathar, David's men directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-25-david-dismissed-by-philistines",
+      "1 Samuel 30",
+      "1samuel-27-saul-dies-gilboa"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-25-david-dismissed-by-philistines"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 30"
+      ],
+      "laterReferences": [
+        "1samuel-27-saul-dies-gilboa"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "David",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-25-david-dismissed-by-philistines",
+      "nextStory": "1samuel-27-saul-dies-gilboa"
+    },
+    "source": {
+      "id": "1samuel-26-ziklag-raided",
+      "reference": "1 Samuel 30",
+      "storyTitle": "David Recovers Captives from the Amalekites",
+      "eventType": [
+        "Raid",
+        "Pursuit",
+        "Rescue"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "David",
+        "approximateAge": null,
+        "currentLocation": "Ziklag and Besor Brook",
+        "modernRegion": "Southern Judah / Negev region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Amalekites",
+          "Abiathar",
+          "David's men"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "David",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Amalekites",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Abiathar",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "David's men",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Ziklag and Besor Brook",
+          "modernRegion": "Southern Judah / Negev region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Ziklag",
+          "modernRegion": "Southern Judah / Negev region",
+          "description": "David's town in Philistine-controlled region"
+        },
+        {
+          "ancientName": "Besor Brook",
+          "modernRegion": "Southern Judah / Negev region",
+          "description": "Stopping point during pursuit"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Ziklag and Besor Brook",
+        "destination": "Ziklag and Besor Brook",
+        "route": [
+          "David returns to burned Ziklag, pursues Amalekite raiders, recovers captives and goods, and distributes spoil.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Ziklag and Besor Brook",
+          "Ziklag",
+          "Besor Brook"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "David was dismissed from the Philistine campaign and returned south.",
+        "whatIsHappeningNow": "David returns to burned Ziklag, pursues Amalekite raiders, recovers captives and goods, and distributes spoil.",
+        "whatHappensAfter": "Philistines defeat Israel at Gilboa, and Saul dies.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "David Recovers Captives from the Amalekites ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Ziklag and Besor Brook.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Ziklag and Besor Brook. David returns to burned Ziklag, pursues Amalekite raiders, recovers captives and goods, and distributes spoil.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Ziklag burned with fire",
+        "Women and children taken captive",
+        "David and men weeping until no strength",
+        "Men speaking of stoning David",
+        "Abiathar bringing ephod",
+        "Two hundred men stopping at Besor Brook",
+        "Egyptian servant found in field",
+        "Amalekite camp eating, drinking, and dancing",
+        "Captives recovered",
+        "Spoil sent to elders of Judah"
+      ],
+      "audioScript": "1 Samuel 30 focuses on David Recovers Captives from the Amalekites. David returns to burned Ziklag, pursues Amalekite raiders, recovers captives and goods, and distributes spoil. The scene is grounded in Ziklag and Besor Brook, with Amalekites, Abiathar, David's men directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-25-david-dismissed-by-philistines"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 30"
+        ],
+        "laterReferences": [
+          "1samuel-27-saul-dies-gilboa"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "David",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-25-david-dismissed-by-philistines",
+        "nextStory": "1samuel-27-saul-dies-gilboa"
+      },
+      "search": {
+        "people": [
+          "David",
+          "Amalekites",
+          "Abiathar",
+          "David's men"
+        ],
+        "places": [
+          "Ziklag and Besor Brook",
+          "Ziklag",
+          "Besor Brook"
+        ],
+        "events": [
+          "David Recovers Captives from the Amalekites",
+          "1 Samuel 30",
+          "Amalekites",
+          "Abiathar",
+          "David's men"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "David Recovers Captives from the Amalekites",
+          "1 Samuel 30"
+        ]
+      },
+      "realitySummary": "David Recovers Captives from the Amalekites. David returns to burned Ziklag, pursues Amalekite raiders, recovers captives and goods, and distributes spoil."
+    }
+  },
+  {
+    "id": "1samuel-27-saul-dies-gilboa",
+    "sourceFile": "1samuel-27-saul-dies-gilboa.json",
+    "searchTerms": [
+      "Saul",
+      "Jonathan",
+      "Philistines",
+      "Saul's armor-bearer",
+      "men of Jabesh-gilead",
+      "Mount Gilboa and Beth-shan",
+      "Mount Gilboa",
+      "Beth-shan",
+      "Jabesh-gilead",
+      "Saul and Jonathan Die on Mount Gilboa",
+      "1 Samuel 31",
+      "1 Samuel",
+      "United Kingdom formation",
+      "Before Jerusalem Temple",
+      "Battle",
+      "Death",
+      "Aftermath",
+      "United Kingdom Formation",
+      "Saul and Jonathan Die on Mount Gilboa. Philistines defeat Israel at Gilboa; Saul and his sons die, and men of Jabesh-gilead recover their bodies."
+    ],
+    "title": "Saul and Jonathan Die on Mount Gilboa",
+    "reference": "1 Samuel 31",
+    "kicker": "Study",
+    "eventType": [
+      "Battle",
+      "Death",
+      "Aftermath"
+    ],
+    "summary": "Saul and Jonathan Die on Mount Gilboa. Philistines defeat Israel at Gilboa; Saul and his sons die, and men of Jabesh-gilead recover their bodies.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Saul"
+      },
+      {
+        "label": "Location",
+        "value": "Mount Gilboa and Beth-shan"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Northern Israel / Jezreel-Galilee region"
+      },
+      {
+        "label": "Timeline",
+        "value": "United Kingdom Formation"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Household / Regional / National Event"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy"
+      }
+    ],
+    "situation": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+    "storyPosition": [
+      "Judges",
+      "Ruth",
+      "Samuel Born",
+      "Ark Crisis",
+      "Saul Chosen",
+      "David Appears",
+      "Saul Pursues David",
+      "Saul and Jonathan Die on Mount Gilboa",
+      "Saul Dies",
+      "David's Reign"
+    ],
+    "currentStory": "Saul and Jonathan Die on Mount Gilboa",
+    "stepIntoStory": "The scene centers on Mount Gilboa and Beth-shan. Philistines defeat Israel at Gilboa; Saul and his sons die, and men of Jabesh-gilead recover their bodies.\n\nA nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.\n\nThe event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy.",
+    "notice": [
+      "Battle on Mount Gilboa",
+      "Israelites fleeing and falling",
+      "Jonathan, Abinadab, and Malchi-shua killed",
+      "Archers overtaking Saul",
+      "Saul falling on his sword",
+      "Armor placed in temple of Ashtaroth",
+      "Bodies fastened to wall of Beth-shan",
+      "Men of Jabesh-gilead marching all night",
+      "Bodies burned and bones buried under tamarisk"
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "David recovered the captives from Ziklag while the Philistine-Israelite battle approached in the north."
+      },
+      {
+        "label": "Now",
+        "value": "Philistines defeat Israel at Gilboa; Saul and his sons die, and men of Jabesh-gilead recover their bodies."
+      },
+      {
+        "label": "Next",
+        "value": "2 Samuel begins with David hearing of Saul and Jonathan's deaths."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book records Israel's transition from judgeship and prophetic leadership into monarchy."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Samuel, Saul, and David are the major figures in the leadership transition."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Philistine pressure is a recurring regional factor."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The monarchy begins during the book, but David does not become king over Israel until after Saul's death."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This unit belongs to the Samuel-Saul-David arc."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The event should be read as part of the leadership transition before David's reign."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The primary setting is Mount Gilboa and Beth-shan."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Household and military details are treated as documentary scene elements rather than theological commentary."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is a distinct narrative unit in the structure of 1 Samuel.",
+      "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+      "It introduces or develops people, places, or conflicts that shape later events.",
+      "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Saul",
+        "role": "Main figure in this narrative unit",
+        "relationships": []
+      },
+      {
+        "name": "Jonathan",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Philistines",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "Saul's armor-bearer",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      },
+      {
+        "name": "men of Jabesh-gilead",
+        "role": "Direct participant or group in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Mount Gilboa and Beth-shan",
+        "modernRegion": "Northern Israel / Jezreel-Galilee region",
+        "description": "Primary setting for this narrative unit"
+      },
+      {
+        "ancientName": "Mount Gilboa",
+        "modernRegion": "Northern Israel / Jezreel-Galilee region",
+        "description": "Battlefield where Saul dies"
+      },
+      {
+        "ancientName": "Beth-shan",
+        "modernRegion": "Northern Israel / Jezreel-Galilee region",
+        "description": "City where bodies are fastened to wall"
+      },
+      {
+        "ancientName": "Jabesh-gilead",
+        "modernRegion": "Jordan / Transjordan region",
+        "description": "Town whose men recover the bodies"
+      }
+    ],
+    "people": [
+      "Saul",
+      "Jonathan",
+      "Philistines",
+      "Saul's armor-bearer",
+      "men of Jabesh-gilead"
+    ],
+    "places": [
+      "Mount Gilboa and Beth-shan",
+      "Mount Gilboa",
+      "Beth-shan",
+      "Jabesh-gilead"
+    ],
+    "movement": [
+      "Philistines defeat Israel at Gilboa; Saul and his sons die, and men of Jabesh-gilead recover their bodies.",
+      "The event unfolds through the named locations and actions in the passage.",
+      "The outcome prepares the next narrative movement in 1 Samuel."
+    ],
+    "movementDetails": {
+      "startingPoint": "Mount Gilboa and Beth-shan",
+      "destination": "Mount Gilboa and Beth-shan",
+      "route": [
+        "Philistines defeat Israel at Gilboa; Saul and his sons die, and men of Jabesh-gilead recover their bodies.",
+        "The event unfolds through the named locations and actions in the passage.",
+        "The outcome prepares the next narrative movement in 1 Samuel."
+      ],
+      "majorStops": [
+        "Mount Gilboa and Beth-shan",
+        "Mount Gilboa",
+        "Beth-shan",
+        "Jabesh-gilead"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "1 Samuel 31 focuses on Saul and Jonathan Die on Mount Gilboa. Philistines defeat Israel at Gilboa; Saul and his sons die, and men of Jabesh-gilead recover their bodies. The scene is grounded in Mount Gilboa and Beth-shan, with Jonathan, Philistines, Saul's armor-bearer directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+    "crossReferences": [
+      "1samuel-26-ziklag-raided",
+      "1 Samuel 31",
+      "2samuel-01-david-hears-saul-death"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "1samuel-26-ziklag-raided"
+      ],
+      "directlyRelatedEvents": [
+        "1 Samuel 31"
+      ],
+      "laterReferences": [
+        "2samuel-01-david-hears-saul-death"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Saul",
+      "arc": "Samuel, Saul, and David",
+      "previousStory": "1samuel-26-ziklag-raided",
+      "nextStory": null
+    },
+    "source": {
+      "id": "1samuel-27-saul-dies-gilboa",
+      "reference": "1 Samuel 31",
+      "storyTitle": "Saul and Jonathan Die on Mount Gilboa",
+      "eventType": [
+        "Battle",
+        "Death",
+        "Aftermath"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Saul",
+        "approximateAge": null,
+        "currentLocation": "Mount Gilboa and Beth-shan",
+        "modernRegion": "Northern Israel / Jezreel-Galilee region",
+        "timelineEra": "United Kingdom Formation",
+        "keyCompanions": [
+          "Jonathan",
+          "Philistines",
+          "Saul's armor-bearer",
+          "men of Jabesh-gilead"
+        ],
+        "sceneScale": "Household / Regional / National Event",
+        "timeAnchor": "After the Judges era; before the Jerusalem Temple; during Israel's transition into monarchy",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": true,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Saul",
+          "role": "Main figure in this narrative unit",
+          "relationships": []
+        },
+        {
+          "name": "Jonathan",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Philistines",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "Saul's armor-bearer",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        },
+        {
+          "name": "men of Jabesh-gilead",
+          "role": "Direct participant or group in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Mount Gilboa and Beth-shan",
+          "modernRegion": "Northern Israel / Jezreel-Galilee region",
+          "description": "Primary setting for this narrative unit"
+        },
+        {
+          "ancientName": "Mount Gilboa",
+          "modernRegion": "Northern Israel / Jezreel-Galilee region",
+          "description": "Battlefield where Saul dies"
+        },
+        {
+          "ancientName": "Beth-shan",
+          "modernRegion": "Northern Israel / Jezreel-Galilee region",
+          "description": "City where bodies are fastened to wall"
+        },
+        {
+          "ancientName": "Jabesh-gilead",
+          "modernRegion": "Jordan / Transjordan region",
+          "description": "Town whose men recover the bodies"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Mount Gilboa and Beth-shan",
+        "destination": "Mount Gilboa and Beth-shan",
+        "route": [
+          "Philistines defeat Israel at Gilboa; Saul and his sons die, and men of Jabesh-gilead recover their bodies.",
+          "The event unfolds through the named locations and actions in the passage.",
+          "The outcome prepares the next narrative movement in 1 Samuel."
+        ],
+        "majorStops": [
+          "Mount Gilboa and Beth-shan",
+          "Mount Gilboa",
+          "Beth-shan",
+          "Jabesh-gilead"
+        ]
+      },
+      "timelineEra": "United Kingdom Formation",
+      "storyPosition": {
+        "whatHappenedBefore": "David recovered the captives from Ziklag while the Philistine-Israelite battle approached in the north.",
+        "whatIsHappeningNow": "Philistines defeat Israel at Gilboa; Saul and his sons die, and men of Jabesh-gilead recover their bodies.",
+        "whatHappensAfter": "2 Samuel begins with David hearing of Saul and Jonathan's deaths.",
+        "storyPositionStrip": [
+          "Judges",
+          "Ruth",
+          "Samuel Born",
+          "Ark Crisis",
+          "Saul Chosen",
+          "David Appears",
+          "Saul Pursues David",
+          "Saul and Jonathan Die on Mount Gilboa ← YOU ARE HERE",
+          "Saul Dies",
+          "David's Reign"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "1 Samuel takes place after the era of the judges and before the Jerusalem Temple exists.",
+          "The book records Israel's transition from judgeship and prophetic leadership into monarchy.",
+          "Samuel, Saul, and David are the major figures in the leadership transition.",
+          "Philistine pressure is a recurring regional factor.",
+          "The monarchy begins during the book, but David does not become king over Israel until after Saul's death.",
+          "This unit belongs to the Samuel-Saul-David arc.",
+          "The event should be read as part of the leadership transition before David's reign."
+        ],
+        "geographicContext": [
+          "The primary setting is Mount Gilboa and Beth-shan.",
+          "Named locations in the unit anchor the scene in Israel's hill country, Philistine territory, Judah, Transjordan, or northern battlefield regions.",
+          "Terrain, roads, camps, fields, towns, caves, or sanctuary spaces shape the action."
+        ],
+        "dailyLifeContext": [
+          "The narratives include sanctuary service, family households, sacrifices, feasts, military camps, royal court life, wilderness flight, and battlefield scenes.",
+          "Travel is usually by foot, donkey, or small armed group movement through hill country, valleys, roads, fields, caves, and towns.",
+          "Military scenes involve infantry, garrisons, watchmen, armor, weapons, messengers, musters, and strategic terrain.",
+          "Public decisions occur at sanctuaries, gates, assemblies, camps, royal courts, and before elders or commanders.",
+          "The profile preserves concrete details named in the passage: food, weapons, clothing, animals, gates, fields, caves, altars, or public assemblies where applicable.",
+          "Household and military details are treated as documentary scene elements rather than theological commentary."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is a distinct narrative unit in the structure of 1 Samuel.",
+        "It advances the transition from Samuel's leadership to Saul's reign and then to David's rise.",
+        "It introduces or develops people, places, or conflicts that shape later events.",
+        "It should remain separate in the app because it has its own setting, cast, movement, and narrative outcome."
+      ],
+      "stepIntoTheStory": [
+        "The scene centers on Mount Gilboa and Beth-shan. Philistines defeat Israel at Gilboa; Saul and his sons die, and men of Jabesh-gilead recover their bodies.",
+        "A nearby observer would notice the practical world of the passage first: people moving through towns, fields, camps, sanctuaries, caves, gates, or battle lines.",
+        "The event is part of a larger chain in which Samuel, Saul, and David move Israel from the late judges period toward monarchy."
+      ],
+      "documentaryObservations": [
+        "Battle on Mount Gilboa",
+        "Israelites fleeing and falling",
+        "Jonathan, Abinadab, and Malchi-shua killed",
+        "Archers overtaking Saul",
+        "Saul falling on his sword",
+        "Armor placed in temple of Ashtaroth",
+        "Bodies fastened to wall of Beth-shan",
+        "Men of Jabesh-gilead marching all night",
+        "Bodies burned and bones buried under tamarisk"
+      ],
+      "audioScript": "1 Samuel 31 focuses on Saul and Jonathan Die on Mount Gilboa. Philistines defeat Israel at Gilboa; Saul and his sons die, and men of Jabesh-gilead recover their bodies. The scene is grounded in Mount Gilboa and Beth-shan, with Jonathan, Philistines, Saul's armor-bearer directly involved. This is the transition world of 1 Samuel: sanctuary life, royal authority, Philistine pressure, family households, and military conflict all shape the story. The passage is presented as a concrete narrative event with named people, visible locations, and consequences for the next stage.",
+      "crossReferences": {
+        "earlierBackground": [
+          "1samuel-26-ziklag-raided"
+        ],
+        "directlyRelatedEvents": [
+          "1 Samuel 31"
+        ],
+        "laterReferences": [
+          "2samuel-01-david-hears-saul-death"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Saul",
+        "arc": "Samuel, Saul, and David",
+        "previousStory": "1samuel-26-ziklag-raided",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Saul",
+          "Jonathan",
+          "Philistines",
+          "Saul's armor-bearer",
+          "men of Jabesh-gilead"
+        ],
+        "places": [
+          "Mount Gilboa and Beth-shan",
+          "Mount Gilboa",
+          "Beth-shan",
+          "Jabesh-gilead"
+        ],
+        "events": [
+          "Saul and Jonathan Die on Mount Gilboa",
+          "1 Samuel 31",
+          "Jonathan",
+          "Philistines",
+          "Saul's armor-bearer",
+          "men of Jabesh-gilead"
+        ],
+        "timelineEra": [
+          "1 Samuel",
+          "United Kingdom formation",
+          "Before Jerusalem Temple"
+        ],
+        "alternateNames": [
+          "Saul and Jonathan Die on Mount Gilboa",
+          "1 Samuel 31"
+        ]
+      },
+      "realitySummary": "Saul and Jonathan Die on Mount Gilboa. Philistines defeat Israel at Gilboa; Saul and his sons die, and men of Jabesh-gilead recover their bodies."
     }
   }
 ]
