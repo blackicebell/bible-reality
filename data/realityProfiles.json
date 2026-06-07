@@ -73039,5 +73039,1996 @@
       },
       "realitySummary": "Introduction to the Judges Cycle. The narrator summarizes Joshua's death, the rise of a new generation, Israel's repeated pattern, and the role of judges."
     }
+  },
+  {
+    "id": "judges-04-othniel",
+    "sourceFile": "judges-04-othniel.json",
+    "searchTerms": [
+      "Othniel",
+      "Cushan-rishathaim",
+      "Israelites",
+      "Aram-naharaim",
+      "Canaan",
+      "Judah / Calebite region",
+      "first judge",
+      "forty years rest",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 3 Othniel",
+      "Othniel judge",
+      "first judge of Israel",
+      "Oppression",
+      "Deliverance",
+      "Battle",
+      "Judge",
+      "Othniel Delivers Israel",
+      "Judges 3:7-11",
+      "Othniel Delivers Israel. Othniel delivers Israel from Cushan-rishathaim, and the land has rest for forty years."
+    ],
+    "title": "Othniel Delivers Israel",
+    "reference": "Judges 3:7-11",
+    "kicker": "Study",
+    "eventType": [
+      "Oppression",
+      "Deliverance",
+      "Battle",
+      "Judge"
+    ],
+    "summary": "Othniel Delivers Israel. Othniel delivers Israel from Cushan-rishathaim, and the land has rest for forty years.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Othniel"
+      },
+      {
+        "label": "Location",
+        "value": "Southern Canaan / Aram-naharaim conflict setting"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Israel / Palestinian Territories region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Regional Deliverance"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After judges cycle introduction; before Ehud"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Othniel Delivers Israel",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Othniel Delivers Israel",
+    "stepIntoStory": "The first judge narrative is brief. Israel is under the power of Cushan-rishathaim for eight years.\n\nOthniel, already known from Caleb's family line, is named as the deliverer. The story gives no long speech or detailed battlefield map; it moves quickly from oppression to battle to rest.\n\nThe result is a forty-year period of rest, setting the pattern for later judge narratives.",
+    "notice": [
+      "Eight years of oppression stated.",
+      "Othniel named from Caleb's family context.",
+      "A regional battle without detailed location.",
+      "Cushan-rishathaim defeated.",
+      "Forty years of rest stated.",
+      "The first full cycle after the introduction."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "The narrator introduced the repeated judges cycle and the nations left in the land."
+      },
+      {
+        "label": "Now",
+        "value": "Othniel delivers Israel from Cushan-rishathaim, and the land has rest for forty years."
+      },
+      {
+        "label": "Next",
+        "value": "Israel again does evil, and Eglon of Moab oppresses them until Ehud acts."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the first compact example of the judges cycle in action."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Othniel connects the Judges narrative to Caleb's family traditions from Joshua and Judges 1."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The story establishes the pattern of oppression, cry, deliverer, victory, and rest."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The exact battle location is not specified."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Othniel's family background points toward the Judah/Calebite southern context."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Aram-naharaim points outside local Canaan, showing the first oppressor's reach is described broadly."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The narrative is concise and gives few battlefield details."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The judge is a deliverer and military leader, not a king."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The forty-year rest formula becomes a recurring time marker in Judges."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This begins the sequence of named judges.",
+      "It shows the cycle framework functioning in a specific story.",
+      "It links early Judges to Caleb's family line.",
+      "It introduces the rest formula used throughout the book."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Othniel",
+        "role": "First named deliverer in Judges",
+        "relationships": [
+          "Son of Kenaz",
+          "Caleb's younger relative"
+        ]
+      },
+      {
+        "name": "Cushan-rishathaim",
+        "role": "King of Aram-naharaim who oppresses Israel",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Cry out during oppression and receive deliverance in the narrative",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Aram-naharaim",
+        "modernRegion": "Upper Mesopotamia / exact political reach debated",
+        "description": "Region associated with Cushan-rishathaim"
+      },
+      {
+        "ancientName": "Canaan",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Land where Israel is living"
+      },
+      {
+        "ancientName": "Judah / Calebite region",
+        "modernRegion": "Southern Israel / Negev and Judah region",
+        "description": "Likely association for Othniel's family background"
+      }
+    ],
+    "people": [
+      "Othniel",
+      "Cushan-rishathaim",
+      "Israelites"
+    ],
+    "places": [
+      "Aram-naharaim",
+      "Canaan",
+      "Judah / Calebite region"
+    ],
+    "movement": [
+      "Israel is oppressed eight years",
+      "The people cry out",
+      "Othniel is raised as deliverer",
+      "He goes out to war",
+      "Cushan-rishathaim is defeated",
+      "The land has rest forty years"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israel under Cushan-rishathaim",
+      "destination": "Rest under Othniel",
+      "route": [
+        "Israel is oppressed eight years",
+        "The people cry out",
+        "Othniel is raised as deliverer",
+        "He goes out to war",
+        "Cushan-rishathaim is defeated",
+        "The land has rest forty years"
+      ],
+      "majorStops": [
+        "Israelite settlements",
+        "battle setting unspecified",
+        "period of rest"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 3:7-11 gives the first named judge after the cycle introduction. Israel is oppressed by Cushan-rishathaim for eight years. The people cry out, and Othniel, from Caleb's family line, is raised as deliverer. He goes out to war, the enemy is defeated, and the land has rest for forty years. The story is short, but it provides the first concrete example of the pattern the narrator has just described.",
+    "crossReferences": [
+      "Joshua 15:13-19",
+      "Judges 2:6-3:6",
+      "Judges 3:7-11",
+      "Judges 3:12-30"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Joshua 15:13-19",
+        "Judges 2:6-3:6"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 3:7-11"
+      ],
+      "laterReferences": [
+        "Judges 3:12-30"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Othniel",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-03-judges-cycle-introduction",
+      "nextStory": "judges-05-ehud-and-eglon"
+    },
+    "source": {
+      "id": "judges-04-othniel",
+      "reference": "Judges 3:7-11",
+      "storyTitle": "Othniel Delivers Israel",
+      "eventType": [
+        "Oppression",
+        "Deliverance",
+        "Battle",
+        "Judge"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Othniel",
+        "approximateAge": null,
+        "currentLocation": "Southern Canaan / Aram-naharaim conflict setting",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Israelites",
+          "Cushan-rishathaim"
+        ],
+        "sceneScale": "Regional Deliverance",
+        "timeAnchor": "After judges cycle introduction; before Ehud",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Othniel",
+          "role": "First named deliverer in Judges",
+          "relationships": [
+            "Son of Kenaz",
+            "Caleb's younger relative"
+          ]
+        },
+        {
+          "name": "Cushan-rishathaim",
+          "role": "King of Aram-naharaim who oppresses Israel",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Cry out during oppression and receive deliverance in the narrative",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Aram-naharaim",
+          "modernRegion": "Upper Mesopotamia / exact political reach debated",
+          "description": "Region associated with Cushan-rishathaim"
+        },
+        {
+          "ancientName": "Canaan",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Land where Israel is living"
+        },
+        {
+          "ancientName": "Judah / Calebite region",
+          "modernRegion": "Southern Israel / Negev and Judah region",
+          "description": "Likely association for Othniel's family background"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israel under Cushan-rishathaim",
+        "destination": "Rest under Othniel",
+        "route": [
+          "Israel is oppressed eight years",
+          "The people cry out",
+          "Othniel is raised as deliverer",
+          "He goes out to war",
+          "Cushan-rishathaim is defeated",
+          "The land has rest forty years"
+        ],
+        "majorStops": [
+          "Israelite settlements",
+          "battle setting unspecified",
+          "period of rest"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "The narrator introduced the repeated judges cycle and the nations left in the land.",
+        "whatIsHappeningNow": "Othniel delivers Israel from Cushan-rishathaim, and the land has rest for forty years.",
+        "whatHappensAfter": "Israel again does evil, and Eglon of Moab oppresses them until Ehud acts.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Othniel Delivers Israel ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This is the first compact example of the judges cycle in action.",
+          "Othniel connects the Judges narrative to Caleb's family traditions from Joshua and Judges 1.",
+          "The story establishes the pattern of oppression, cry, deliverer, victory, and rest."
+        ],
+        "geographicContext": [
+          "The exact battle location is not specified.",
+          "Othniel's family background points toward the Judah/Calebite southern context.",
+          "Aram-naharaim points outside local Canaan, showing the first oppressor's reach is described broadly."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "The narrative is concise and gives few battlefield details.",
+          "The judge is a deliverer and military leader, not a king.",
+          "The forty-year rest formula becomes a recurring time marker in Judges."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This begins the sequence of named judges.",
+        "It shows the cycle framework functioning in a specific story.",
+        "It links early Judges to Caleb's family line.",
+        "It introduces the rest formula used throughout the book."
+      ],
+      "stepIntoTheStory": [
+        "The first judge narrative is brief. Israel is under the power of Cushan-rishathaim for eight years.",
+        "Othniel, already known from Caleb's family line, is named as the deliverer. The story gives no long speech or detailed battlefield map; it moves quickly from oppression to battle to rest.",
+        "The result is a forty-year period of rest, setting the pattern for later judge narratives."
+      ],
+      "documentaryObservations": [
+        "Eight years of oppression stated.",
+        "Othniel named from Caleb's family context.",
+        "A regional battle without detailed location.",
+        "Cushan-rishathaim defeated.",
+        "Forty years of rest stated.",
+        "The first full cycle after the introduction."
+      ],
+      "audioScript": "Judges 3:7-11 gives the first named judge after the cycle introduction. Israel is oppressed by Cushan-rishathaim for eight years. The people cry out, and Othniel, from Caleb's family line, is raised as deliverer. He goes out to war, the enemy is defeated, and the land has rest for forty years. The story is short, but it provides the first concrete example of the pattern the narrator has just described.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Joshua 15:13-19",
+          "Judges 2:6-3:6"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 3:7-11"
+        ],
+        "laterReferences": [
+          "Judges 3:12-30"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Othniel",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-03-judges-cycle-introduction",
+        "nextStory": "judges-05-ehud-and-eglon"
+      },
+      "search": {
+        "people": [
+          "Othniel",
+          "Cushan-rishathaim",
+          "Israelites"
+        ],
+        "places": [
+          "Aram-naharaim",
+          "Canaan",
+          "Judah / Calebite region"
+        ],
+        "events": [
+          "Othniel",
+          "first judge",
+          "Cushan-rishathaim",
+          "forty years rest"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 3 Othniel",
+          "Othniel judge",
+          "first judge of Israel"
+        ]
+      },
+      "realitySummary": "Othniel Delivers Israel. Othniel delivers Israel from Cushan-rishathaim, and the land has rest for forty years."
+    }
+  },
+  {
+    "id": "judges-05-ehud-and-eglon",
+    "sourceFile": "judges-05-ehud-and-eglon.json",
+    "searchTerms": [
+      "Ehud",
+      "Eglon",
+      "Moabites",
+      "Israelites",
+      "City of Palms",
+      "Moab",
+      "Gilgal",
+      "Seirah",
+      "Fords of the Jordan",
+      "Moab oppression",
+      "Jordan fords",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 3 Ehud",
+      "Ehud and Eglon",
+      "left-handed judge",
+      "Oppression",
+      "Assassination",
+      "Battle",
+      "Deliverance",
+      "Ehud Kills Eglon and Israel Defeats Moab",
+      "Judges 3:12-30",
+      "Ehud Kills Eglon and Israel Defeats Moab. Eglon of Moab oppresses Israel, Ehud kills him during a private audience, escapes, rallies Israel, and Moab is defeated at the Jordan fords."
+    ],
+    "title": "Ehud Kills Eglon and Israel Defeats Moab",
+    "reference": "Judges 3:12-30",
+    "kicker": "Study",
+    "eventType": [
+      "Oppression",
+      "Assassination",
+      "Battle",
+      "Deliverance"
+    ],
+    "summary": "Ehud Kills Eglon and Israel Defeats Moab. Eglon of Moab oppresses Israel, Ehud kills him during a private audience, escapes, rallies Israel, and Moab is defeated at the Jordan fords.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Ehud"
+      },
+      {
+        "label": "Location",
+        "value": "Jericho / Moab / Jordan fords"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Jordan Valley / Transjordan region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Regional Deliverance and Ambush"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Othniel; before Shamgar"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Ehud Kills Eglon and Israel Defeats Moab",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Ehud Kills Eglon and Israel Defeats Moab",
+    "stepIntoStory": "The story begins under Moabite control. Eglon holds power from the region of the City of Palms, and Israel sends tribute.\n\nEhud enters the scene as the tribute bearer. His hidden sword, private audience, locked room, and escape route create a tight palace-like sequence.\n\nAfter escaping to the hill country, Ehud sounds the trumpet. The battle then moves to the Jordan fords, where Israel cuts off Moab's retreat.",
+    "notice": [
+      "Tribute carried to Eglon.",
+      "Ehud described as left-handed.",
+      "A double-edged sword hidden on Ehud's right thigh.",
+      "Eglon seated in a private cool upper room.",
+      "Servants waiting outside the locked doors.",
+      "Ehud escaping toward Seirah.",
+      "Trumpet sounded in Ephraim's hill country.",
+      "Israelites seizing the Jordan fords.",
+      "Moabites blocked from crossing back."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Othniel delivered Israel, and the land had rest forty years."
+      },
+      {
+        "label": "Now",
+        "value": "Eglon of Moab oppresses Israel, Ehud kills him during a private audience, escapes, rallies Israel, and Moab is defeated at the Jordan fords."
+      },
+      {
+        "label": "Next",
+        "value": "Shamgar is briefly named as another deliverer."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the first extended judge narrative after Othniel."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It uses geography strategically: tribute route, private chamber, hill country, and Jordan fords."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces Benjamin, Moab, and the Jericho region into the judges cycle."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Moab lies east of the Dead Sea/Jordan region, while the City of Palms points toward the Jericho area west of the river."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Jordan fords are strategic crossing points between Moab and western Israelite territory."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Ephraim's hill country provides a rallying area after Ehud escapes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Tribute delivery creates access to a foreign ruler."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Private upper rooms offered restricted, guarded space in elite settings."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Control of river fords can trap or block retreating forces."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "A trumpet blast functions as a public military signal."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This shows a deliverance story using assassination and terrain rather than open battle at first.",
+      "It explains how Moab's control is broken in this cycle.",
+      "It highlights the Jordan fords as strategic military geography.",
+      "It produces the longest period of rest stated so far in Judges."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Ehud",
+        "role": "Left-handed Benjaminite who brings tribute and kills Eglon",
+        "relationships": [
+          "Son of Gera"
+        ]
+      },
+      {
+        "name": "Eglon",
+        "role": "King of Moab who oppresses Israel",
+        "relationships": []
+      },
+      {
+        "name": "Moabites",
+        "role": "Oppressing force defeated at the Jordan fords",
+        "relationships": []
+      },
+      {
+        "name": "Israelites",
+        "role": "Follow Ehud and seize the fords",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "City of Palms",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Jericho region associated with Eglon's control"
+      },
+      {
+        "ancientName": "Moab",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Region east of the Dead Sea/Jordan associated with Eglon"
+      },
+      {
+        "ancientName": "Gilgal",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Area near carved images/idols where Ehud turns back in the narrative"
+      },
+      {
+        "ancientName": "Seirah",
+        "modernRegion": "Ancient location uncertain",
+        "description": "Place to which Ehud escapes"
+      },
+      {
+        "ancientName": "Fords of the Jordan",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "description": "Crossing points seized by Israel against Moab"
+      }
+    ],
+    "people": [
+      "Ehud",
+      "Eglon",
+      "Moabites",
+      "Israelites"
+    ],
+    "places": [
+      "City of Palms",
+      "Moab",
+      "Gilgal",
+      "Seirah",
+      "Fords of the Jordan"
+    ],
+    "movement": [
+      "Israel serves Eglon eighteen years",
+      "Ehud brings tribute to Eglon",
+      "Ehud turns back from the idols near Gilgal",
+      "He speaks privately with Eglon and kills him",
+      "Ehud escapes to Seirah",
+      "He sounds the trumpet in Ephraim's hill country",
+      "Israel seizes the Jordan fords and defeats Moab"
+    ],
+    "movementDetails": {
+      "startingPoint": "Israel under Moabite oppression",
+      "destination": "Jordan fords and regional deliverance",
+      "route": [
+        "Israel serves Eglon eighteen years",
+        "Ehud brings tribute to Eglon",
+        "Ehud turns back from the idols near Gilgal",
+        "He speaks privately with Eglon and kills him",
+        "Ehud escapes to Seirah",
+        "He sounds the trumpet in Ephraim's hill country",
+        "Israel seizes the Jordan fords and defeats Moab"
+      ],
+      "majorStops": [
+        "City of Palms",
+        "Gilgal area",
+        "Eglon's upper room",
+        "Seirah",
+        "Ephraim hill country",
+        "Jordan fords"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 3:12-30 tells the story of Ehud and Eglon. Israel serves Eglon king of Moab for eighteen years. Ehud, a left-handed Benjaminite, brings tribute to Eglon and carries a concealed sword. After turning back near Gilgal, he gains a private audience and kills Eglon in his upper room. Ehud escapes to Seirah, sounds the trumpet in Ephraim's hill country, and leads Israel to seize the fords of the Jordan. Moab is cut off, and the land has rest for eighty years.",
+    "crossReferences": [
+      "Judges 3:7-11",
+      "Judges 3:12-30",
+      "Judges 3:31"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 3:7-11"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 3:12-30"
+      ],
+      "laterReferences": [
+        "Judges 3:31"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Ehud",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-04-othniel",
+      "nextStory": "judges-06-shamgar"
+    },
+    "source": {
+      "id": "judges-05-ehud-and-eglon",
+      "reference": "Judges 3:12-30",
+      "storyTitle": "Ehud Kills Eglon and Israel Defeats Moab",
+      "eventType": [
+        "Oppression",
+        "Assassination",
+        "Battle",
+        "Deliverance"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Ehud",
+        "approximateAge": null,
+        "currentLocation": "Jericho / Moab / Jordan fords",
+        "modernRegion": "Jordan Valley / Transjordan region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Eglon",
+          "Moabites",
+          "Israelites"
+        ],
+        "sceneScale": "Regional Deliverance and Ambush",
+        "timeAnchor": "After Othniel; before Shamgar",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Ehud",
+          "role": "Left-handed Benjaminite who brings tribute and kills Eglon",
+          "relationships": [
+            "Son of Gera"
+          ]
+        },
+        {
+          "name": "Eglon",
+          "role": "King of Moab who oppresses Israel",
+          "relationships": []
+        },
+        {
+          "name": "Moabites",
+          "role": "Oppressing force defeated at the Jordan fords",
+          "relationships": []
+        },
+        {
+          "name": "Israelites",
+          "role": "Follow Ehud and seize the fords",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "City of Palms",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Jericho region associated with Eglon's control"
+        },
+        {
+          "ancientName": "Moab",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Region east of the Dead Sea/Jordan associated with Eglon"
+        },
+        {
+          "ancientName": "Gilgal",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Area near carved images/idols where Ehud turns back in the narrative"
+        },
+        {
+          "ancientName": "Seirah",
+          "modernRegion": "Ancient location uncertain",
+          "description": "Place to which Ehud escapes"
+        },
+        {
+          "ancientName": "Fords of the Jordan",
+          "modernRegion": "Jordan Valley / Transjordan region",
+          "description": "Crossing points seized by Israel against Moab"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Israel under Moabite oppression",
+        "destination": "Jordan fords and regional deliverance",
+        "route": [
+          "Israel serves Eglon eighteen years",
+          "Ehud brings tribute to Eglon",
+          "Ehud turns back from the idols near Gilgal",
+          "He speaks privately with Eglon and kills him",
+          "Ehud escapes to Seirah",
+          "He sounds the trumpet in Ephraim's hill country",
+          "Israel seizes the Jordan fords and defeats Moab"
+        ],
+        "majorStops": [
+          "City of Palms",
+          "Gilgal area",
+          "Eglon's upper room",
+          "Seirah",
+          "Ephraim hill country",
+          "Jordan fords"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Othniel delivered Israel, and the land had rest forty years.",
+        "whatIsHappeningNow": "Eglon of Moab oppresses Israel, Ehud kills him during a private audience, escapes, rallies Israel, and Moab is defeated at the Jordan fords.",
+        "whatHappensAfter": "Shamgar is briefly named as another deliverer.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Ehud Kills Eglon and Israel Defeats Moab ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This is the first extended judge narrative after Othniel.",
+          "It uses geography strategically: tribute route, private chamber, hill country, and Jordan fords.",
+          "It introduces Benjamin, Moab, and the Jericho region into the judges cycle."
+        ],
+        "geographicContext": [
+          "Moab lies east of the Dead Sea/Jordan region, while the City of Palms points toward the Jericho area west of the river.",
+          "The Jordan fords are strategic crossing points between Moab and western Israelite territory.",
+          "Ephraim's hill country provides a rallying area after Ehud escapes."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Tribute delivery creates access to a foreign ruler.",
+          "Private upper rooms offered restricted, guarded space in elite settings.",
+          "Control of river fords can trap or block retreating forces.",
+          "A trumpet blast functions as a public military signal."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This shows a deliverance story using assassination and terrain rather than open battle at first.",
+        "It explains how Moab's control is broken in this cycle.",
+        "It highlights the Jordan fords as strategic military geography.",
+        "It produces the longest period of rest stated so far in Judges."
+      ],
+      "stepIntoTheStory": [
+        "The story begins under Moabite control. Eglon holds power from the region of the City of Palms, and Israel sends tribute.",
+        "Ehud enters the scene as the tribute bearer. His hidden sword, private audience, locked room, and escape route create a tight palace-like sequence.",
+        "After escaping to the hill country, Ehud sounds the trumpet. The battle then moves to the Jordan fords, where Israel cuts off Moab's retreat."
+      ],
+      "documentaryObservations": [
+        "Tribute carried to Eglon.",
+        "Ehud described as left-handed.",
+        "A double-edged sword hidden on Ehud's right thigh.",
+        "Eglon seated in a private cool upper room.",
+        "Servants waiting outside the locked doors.",
+        "Ehud escaping toward Seirah.",
+        "Trumpet sounded in Ephraim's hill country.",
+        "Israelites seizing the Jordan fords.",
+        "Moabites blocked from crossing back."
+      ],
+      "audioScript": "Judges 3:12-30 tells the story of Ehud and Eglon. Israel serves Eglon king of Moab for eighteen years. Ehud, a left-handed Benjaminite, brings tribute to Eglon and carries a concealed sword. After turning back near Gilgal, he gains a private audience and kills Eglon in his upper room. Ehud escapes to Seirah, sounds the trumpet in Ephraim's hill country, and leads Israel to seize the fords of the Jordan. Moab is cut off, and the land has rest for eighty years.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 3:7-11"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 3:12-30"
+        ],
+        "laterReferences": [
+          "Judges 3:31"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Ehud",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-04-othniel",
+        "nextStory": "judges-06-shamgar"
+      },
+      "search": {
+        "people": [
+          "Ehud",
+          "Eglon",
+          "Moabites",
+          "Israelites"
+        ],
+        "places": [
+          "City of Palms",
+          "Moab",
+          "Gilgal",
+          "Seirah",
+          "Fords of the Jordan"
+        ],
+        "events": [
+          "Ehud",
+          "Eglon",
+          "Moab oppression",
+          "Jordan fords"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 3 Ehud",
+          "Ehud and Eglon",
+          "left-handed judge"
+        ]
+      },
+      "realitySummary": "Ehud Kills Eglon and Israel Defeats Moab. Eglon of Moab oppresses Israel, Ehud kills him during a private audience, escapes, rallies Israel, and Moab is defeated at the Jordan fords."
+    }
+  },
+  {
+    "id": "judges-06-shamgar",
+    "sourceFile": "judges-06-shamgar.json",
+    "searchTerms": [
+      "Shamgar",
+      "Philistines",
+      "Philistine region",
+      "Israelite territory",
+      "oxgoad",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 3:31",
+      "Shamgar son of Anath",
+      "Shamgar oxgoad",
+      "Deliverance",
+      "Battle Notice",
+      "Judge",
+      "Shamgar Strikes the Philistines",
+      "Shamgar Strikes the Philistines. Shamgar is briefly named as striking six hundred Philistines with an oxgoad and delivering Israel."
+    ],
+    "title": "Shamgar Strikes the Philistines",
+    "reference": "Judges 3:31",
+    "kicker": "Study",
+    "eventType": [
+      "Deliverance",
+      "Battle Notice",
+      "Judge"
+    ],
+    "summary": "Shamgar Strikes the Philistines. Shamgar is briefly named as striking six hundred Philistines with an oxgoad and delivering Israel.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Shamgar"
+      },
+      {
+        "label": "Location",
+        "value": "Philistine border region"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Coastal plain / Philistine region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Brief Regional Deliverance Notice"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Ehud; before Deborah and Barak"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Shamgar Strikes the Philistines",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Shamgar Strikes the Philistines",
+    "stepIntoStory": "The verse is brief, but the image is concrete. Shamgar is named after Ehud, and the enemy group is Philistine.\n\nThe weapon is not a sword or spear but an oxgoad, an agricultural implement used with draft animals.\n\nThe story gives no speech, route, or city. It records a remembered act of deliverance in compressed form.",
+    "notice": [
+      "Shamgar named as son of Anath.",
+      "Philistines identified as the enemy.",
+      "Six hundred Philistines struck.",
+      "An oxgoad used as weapon.",
+      "A brief deliverance notice with no detailed location.",
+      "Philistine conflict introduced before Samson."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Ehud delivered Israel from Moab, and the land had rest eighty years."
+      },
+      {
+        "label": "Now",
+        "value": "Shamgar is briefly named as striking six hundred Philistines with an oxgoad and delivering Israel."
+      },
+      {
+        "label": "Next",
+        "value": "The narrative moves to the Deborah and Barak cycle under Jabin and Sisera."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is a short transitional deliverer notice."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces Philistine conflict before the later Samson narratives."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It shows that not every judge story receives a full cycle narrative."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The Philistine setting points toward the coastal plain and its border with Israelite areas."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "No precise battle location is given."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The notice is regional and compact."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "An oxgoad is an agricultural tool used for driving animals, making the weapon detail concrete and unusual."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Brief notices may preserve a deliverer memory without extended narrative setting."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Philistine pressure becomes more prominent later in Judges."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This adds a brief deliverer between Ehud and Deborah.",
+      "It introduces the Philistines into the book's deliverer sequence.",
+      "It shows the variety of judge notices: some extended, some very short."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Shamgar",
+        "role": "Briefly named deliverer who strikes Philistines",
+        "relationships": [
+          "Son of Anath"
+        ]
+      },
+      {
+        "name": "Philistines",
+        "role": "Enemy group struck by Shamgar",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Philistine region",
+        "modernRegion": "Coastal plain / Philistine region",
+        "description": "Coastal plain region associated with Philistine settlements"
+      },
+      {
+        "ancientName": "Israelite territory",
+        "modernRegion": "Israel / Palestinian Territories region",
+        "description": "Area said to be delivered by Shamgar"
+      }
+    ],
+    "people": [
+      "Shamgar",
+      "Philistines"
+    ],
+    "places": [
+      "Philistine region",
+      "Israelite territory"
+    ],
+    "movement": [
+      "Shamgar is named after Ehud",
+      "He strikes six hundred Philistines with an oxgoad",
+      "He also delivers Israel"
+    ],
+    "movementDetails": {
+      "startingPoint": "Philistine pressure region",
+      "destination": "Brief deliverance notice",
+      "route": [
+        "Shamgar is named after Ehud",
+        "He strikes six hundred Philistines with an oxgoad",
+        "He also delivers Israel"
+      ],
+      "majorStops": [
+        "Philistine frontier",
+        "Israelite territory"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 3:31 is a short notice about Shamgar son of Anath. After Ehud, Shamgar strikes six hundred Philistines with an oxgoad and is said to deliver Israel. The verse gives no extended setting, speech, or campaign route. Its most tangible detail is the weapon: an oxgoad, a tool normally used with animals. The notice introduces Philistine conflict early in Judges, before the longer Samson stories later in the book.",
+    "crossReferences": [
+      "Judges 3:12-30",
+      "Judges 3:31",
+      "Judges 5:6",
+      "Judges 13:1"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 3:12-30"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 3:31"
+      ],
+      "laterReferences": [
+        "Judges 5:6",
+        "Judges 13:1"
+      ],
+      "newTestamentReferences": []
+    },
+    "series": {
+      "character": "Shamgar",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-05-ehud-and-eglon",
+      "nextStory": "judges-07-deborah-and-barak"
+    },
+    "source": {
+      "id": "judges-06-shamgar",
+      "reference": "Judges 3:31",
+      "storyTitle": "Shamgar Strikes the Philistines",
+      "eventType": [
+        "Deliverance",
+        "Battle Notice",
+        "Judge"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Shamgar",
+        "approximateAge": null,
+        "currentLocation": "Philistine border region",
+        "modernRegion": "Coastal plain / Philistine region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Philistines"
+        ],
+        "sceneScale": "Brief Regional Deliverance Notice",
+        "timeAnchor": "After Ehud; before Deborah and Barak",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Shamgar",
+          "role": "Briefly named deliverer who strikes Philistines",
+          "relationships": [
+            "Son of Anath"
+          ]
+        },
+        {
+          "name": "Philistines",
+          "role": "Enemy group struck by Shamgar",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Philistine region",
+          "modernRegion": "Coastal plain / Philistine region",
+          "description": "Coastal plain region associated with Philistine settlements"
+        },
+        {
+          "ancientName": "Israelite territory",
+          "modernRegion": "Israel / Palestinian Territories region",
+          "description": "Area said to be delivered by Shamgar"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Philistine pressure region",
+        "destination": "Brief deliverance notice",
+        "route": [
+          "Shamgar is named after Ehud",
+          "He strikes six hundred Philistines with an oxgoad",
+          "He also delivers Israel"
+        ],
+        "majorStops": [
+          "Philistine frontier",
+          "Israelite territory"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Ehud delivered Israel from Moab, and the land had rest eighty years.",
+        "whatIsHappeningNow": "Shamgar is briefly named as striking six hundred Philistines with an oxgoad and delivering Israel.",
+        "whatHappensAfter": "The narrative moves to the Deborah and Barak cycle under Jabin and Sisera.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Shamgar Strikes the Philistines ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This is a short transitional deliverer notice.",
+          "It introduces Philistine conflict before the later Samson narratives.",
+          "It shows that not every judge story receives a full cycle narrative."
+        ],
+        "geographicContext": [
+          "The Philistine setting points toward the coastal plain and its border with Israelite areas.",
+          "No precise battle location is given.",
+          "The notice is regional and compact."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "An oxgoad is an agricultural tool used for driving animals, making the weapon detail concrete and unusual.",
+          "Brief notices may preserve a deliverer memory without extended narrative setting.",
+          "Philistine pressure becomes more prominent later in Judges."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This adds a brief deliverer between Ehud and Deborah.",
+        "It introduces the Philistines into the book's deliverer sequence.",
+        "It shows the variety of judge notices: some extended, some very short."
+      ],
+      "stepIntoTheStory": [
+        "The verse is brief, but the image is concrete. Shamgar is named after Ehud, and the enemy group is Philistine.",
+        "The weapon is not a sword or spear but an oxgoad, an agricultural implement used with draft animals.",
+        "The story gives no speech, route, or city. It records a remembered act of deliverance in compressed form."
+      ],
+      "documentaryObservations": [
+        "Shamgar named as son of Anath.",
+        "Philistines identified as the enemy.",
+        "Six hundred Philistines struck.",
+        "An oxgoad used as weapon.",
+        "A brief deliverance notice with no detailed location.",
+        "Philistine conflict introduced before Samson."
+      ],
+      "audioScript": "Judges 3:31 is a short notice about Shamgar son of Anath. After Ehud, Shamgar strikes six hundred Philistines with an oxgoad and is said to deliver Israel. The verse gives no extended setting, speech, or campaign route. Its most tangible detail is the weapon: an oxgoad, a tool normally used with animals. The notice introduces Philistine conflict early in Judges, before the longer Samson stories later in the book.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 3:12-30"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 3:31"
+        ],
+        "laterReferences": [
+          "Judges 5:6",
+          "Judges 13:1"
+        ],
+        "newTestamentReferences": []
+      },
+      "series": {
+        "character": "Shamgar",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-05-ehud-and-eglon",
+        "nextStory": "judges-07-deborah-and-barak"
+      },
+      "search": {
+        "people": [
+          "Shamgar",
+          "Philistines"
+        ],
+        "places": [
+          "Philistine region",
+          "Israelite territory"
+        ],
+        "events": [
+          "Shamgar",
+          "oxgoad",
+          "Philistines"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 3:31",
+          "Shamgar son of Anath",
+          "Shamgar oxgoad"
+        ]
+      },
+      "realitySummary": "Shamgar Strikes the Philistines. Shamgar is briefly named as striking six hundred Philistines with an oxgoad and delivering Israel."
+    }
+  },
+  {
+    "id": "judges-07-deborah-and-barak",
+    "sourceFile": "judges-07-deborah-and-barak.json",
+    "searchTerms": [
+      "Deborah",
+      "Barak",
+      "Jabin",
+      "Sisera",
+      "Jael",
+      "Heber the Kenite",
+      "Palm of Deborah",
+      "Kedesh in Naphtali",
+      "Mount Tabor",
+      "Kishon River",
+      "Harosheth-ha-goiim",
+      "Jael's tent",
+      "Deborah and Barak",
+      "Song of Deborah",
+      "Judges",
+      "Before the monarchy",
+      "Tribal Israel",
+      "Judges 4-5",
+      "Deborah judge",
+      "Barak and Sisera",
+      "Oppression",
+      "Prophetic Leadership",
+      "Battle",
+      "Deliverance",
+      "Song",
+      "Deborah, Barak, Sisera, and the Song",
+      "Deborah, Barak, Sisera, and the Song. Deborah summons Barak, Israel fights Sisera near the Kishon, Jael kills Sisera, and Judges 5 preserves a victory song."
+    ],
+    "title": "Deborah, Barak, Sisera, and the Song",
+    "reference": "Judges 4-5",
+    "kicker": "Study",
+    "eventType": [
+      "Oppression",
+      "Prophetic Leadership",
+      "Battle",
+      "Deliverance",
+      "Song"
+    ],
+    "summary": "Deborah, Barak, Sisera, and the Song. Deborah summons Barak, Israel fights Sisera near the Kishon, Jael kills Sisera, and Judges 5 preserves a victory song.",
+    "snapshot": [
+      {
+        "label": "Main Person",
+        "value": "Deborah"
+      },
+      {
+        "label": "Location",
+        "value": "Mount Tabor, Kishon, and northern Israel"
+      },
+      {
+        "label": "Modern Region",
+        "value": "Northern Israel / Galilee and Jezreel region"
+      },
+      {
+        "label": "Timeline",
+        "value": "Judges"
+      },
+      {
+        "label": "Scene Scale",
+        "value": "Regional Battle and Victory Song"
+      },
+      {
+        "label": "Time Anchor",
+        "value": "After Shamgar; before Gideon"
+      }
+    ],
+    "situation": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+    "storyPosition": [
+      "Joshua Dies",
+      "Tribal Settlement Continues",
+      "Cycles of Oppression and Deliverance",
+      "Regional Judges",
+      "Tribal Disorder",
+      "Deborah, Barak, Sisera, and the Song",
+      "Rise of Samuel",
+      "Monarchy Begins"
+    ],
+    "currentStory": "Deborah, Barak, Sisera, and the Song",
+    "stepIntoStory": "Deborah sits under her palm in the hill country, where Israelites come for judgment. From there the story reaches north to Barak in Kedesh.\n\nBarak gathers men at Mount Tabor. Sisera brings a chariot force toward the Kishon, turning the battle into a valley confrontation.\n\nSisera escapes the battlefield on foot and enters Jael's tent. The final act happens not on the battlefield but inside a tent, before the story becomes a song of victory.",
+    "notice": [
+      "Deborah sitting under a palm between Ramah and Bethel.",
+      "Barak summoned from Kedesh.",
+      "Ten thousand men gathered at Mount Tabor.",
+      "Sisera's nine hundred iron chariots.",
+      "The Kishon River battlefield.",
+      "Sisera fleeing on foot.",
+      "Jael offering tent shelter.",
+      "Tent peg and hammer used in Sisera's death.",
+      "Deborah and Barak singing after the victory.",
+      "Tribes named in the song as participants or absent."
+    ],
+    "realityContext": [
+      {
+        "label": "Before",
+        "value": "Shamgar was briefly named as a deliverer against the Philistines."
+      },
+      {
+        "label": "Now",
+        "value": "Deborah summons Barak, Israel fights Sisera near the Kishon, Jael kills Sisera, and Judges 5 preserves a victory song."
+      },
+      {
+        "label": "Next",
+        "value": "Gideon's cycle begins with Midianite oppression."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Judges takes place after Joshua's death and before Israel has a human king."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "The book shows regional tribal life rather than a centralized national government."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "Many narratives are local or regional rather than involving all Israel at once."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "This is the first major judge story featuring a woman as judge and prophetess."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It combines prose narrative in Judges 4 with poetic victory song in Judges 5."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It introduces northern geography: Hazor, Kedesh, Tabor, Kishon, and the Jezreel region."
+      },
+      {
+        "label": "Biblical Context",
+        "value": "It shows chariot warfare as a major military factor."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "The battle setting moves from hill country judgment to northern muster and valley conflict."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Mount Tabor rises near the Jezreel region, while the Kishon is associated with the battle scene."
+      },
+      {
+        "label": "Geographic Context",
+        "value": "Chariots are more effective in open valley terrain than rugged hill country."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Tribal musters bring fighters from specific northern tribes."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Tents of semi-nomadic groups appear alongside city-state warfare."
+      },
+      {
+        "label": "Daily Life Context",
+        "value": "Songs can preserve public memory of battle and tribal participation."
+      }
+    ],
+    "whyThisMattersInTheStory": [
+      "This is one of the central deliverance narratives in Judges.",
+      "It gives both narrative and song versions of the event.",
+      "It expands the book's geography into the north.",
+      "It names tribes that participate and tribes that are criticized or absent in the song."
+    ],
+    "peopleDetails": [
+      {
+        "name": "Deborah",
+        "role": "Prophetess and judge in Israel",
+        "relationships": [
+          "Wife of Lappidoth"
+        ]
+      },
+      {
+        "name": "Barak",
+        "role": "Military leader summoned from Kedesh",
+        "relationships": [
+          "Son of Abinoam"
+        ]
+      },
+      {
+        "name": "Jabin",
+        "role": "King of Canaan ruling in Hazor",
+        "relationships": []
+      },
+      {
+        "name": "Sisera",
+        "role": "Commander of Jabin's army with nine hundred iron chariots",
+        "relationships": []
+      },
+      {
+        "name": "Jael",
+        "role": "Woman who kills Sisera in her tent",
+        "relationships": [
+          "Wife of Heber the Kenite"
+        ]
+      },
+      {
+        "name": "Heber the Kenite",
+        "role": "Connected to Jael and encamped near Kedesh",
+        "relationships": []
+      }
+    ],
+    "placesDetails": [
+      {
+        "ancientName": "Palm of Deborah",
+        "modernRegion": "Central hill country / West Bank region",
+        "description": "Judging location between Ramah and Bethel"
+      },
+      {
+        "ancientName": "Kedesh in Naphtali",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "description": "Barak's location"
+      },
+      {
+        "ancientName": "Mount Tabor",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "description": "Muster point for Barak's forces"
+      },
+      {
+        "ancientName": "Kishon River",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "description": "Battle area in the Jezreel region"
+      },
+      {
+        "ancientName": "Harosheth-ha-goiim",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "description": "Sisera's base area"
+      },
+      {
+        "ancientName": "Jael's tent",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "description": "Place where Sisera is killed"
+      }
+    ],
+    "people": [
+      "Deborah",
+      "Barak",
+      "Jabin",
+      "Sisera",
+      "Jael",
+      "Heber the Kenite"
+    ],
+    "places": [
+      "Palm of Deborah",
+      "Kedesh in Naphtali",
+      "Mount Tabor",
+      "Kishon River",
+      "Harosheth-ha-goiim",
+      "Jael's tent"
+    ],
+    "movement": [
+      "Deborah summons Barak from Kedesh",
+      "Barak gathers ten thousand men from Naphtali and Zebulun at Mount Tabor",
+      "Sisera brings chariots to the Kishon",
+      "Israel fights and Sisera flees on foot",
+      "Sisera reaches Jael's tent",
+      "Jael kills Sisera",
+      "Deborah and Barak sing the victory song"
+    ],
+    "movementDetails": {
+      "startingPoint": "Deborah's judging place in the hill country",
+      "destination": "Mount Tabor, Kishon, and Jael's tent",
+      "route": [
+        "Deborah summons Barak from Kedesh",
+        "Barak gathers ten thousand men from Naphtali and Zebulun at Mount Tabor",
+        "Sisera brings chariots to the Kishon",
+        "Israel fights and Sisera flees on foot",
+        "Sisera reaches Jael's tent",
+        "Jael kills Sisera",
+        "Deborah and Barak sing the victory song"
+      ],
+      "majorStops": [
+        "Palm of Deborah",
+        "Kedesh",
+        "Mount Tabor",
+        "Kishon River",
+        "Harosheth-ha-goiim",
+        "Jael's tent"
+      ]
+    },
+    "mapId": null,
+    "audioScript": "Judges 4 and 5 tell the story of Deborah and Barak. Deborah judges Israel under her palm in the hill country. She summons Barak from Kedesh and tells him to gather men at Mount Tabor. Sisera, commander of Jabin's army, brings nine hundred iron chariots toward the Kishon. The battle breaks Sisera's force, and Sisera flees on foot to the tent of Jael. There he is killed. Judges 5 then preserves the event in song, naming tribes, terrain, and battle imagery in poetic form.",
+    "crossReferences": [
+      "Judges 3:31",
+      "Judges 4:1-5:31",
+      "Judges 6:1",
+      "1 Samuel 12:9-11",
+      "Hebrews 11:32"
+    ],
+    "crossReferenceGroups": {
+      "earlierBackground": [
+        "Judges 3:31"
+      ],
+      "directlyRelatedEvents": [
+        "Judges 4:1-5:31"
+      ],
+      "laterReferences": [
+        "Judges 6:1",
+        "1 Samuel 12:9-11"
+      ],
+      "newTestamentReferences": [
+        "Hebrews 11:32"
+      ]
+    },
+    "series": {
+      "character": "Deborah",
+      "arc": "Israel Before the Monarchy",
+      "previousStory": "judges-06-shamgar",
+      "nextStory": null
+    },
+    "source": {
+      "id": "judges-07-deborah-and-barak",
+      "reference": "Judges 4-5",
+      "storyTitle": "Deborah, Barak, Sisera, and the Song",
+      "eventType": [
+        "Oppression",
+        "Prophetic Leadership",
+        "Battle",
+        "Deliverance",
+        "Song"
+      ],
+      "realitySnapshot": {
+        "mainPerson": "Deborah",
+        "approximateAge": null,
+        "currentLocation": "Mount Tabor, Kishon, and northern Israel",
+        "modernRegion": "Northern Israel / Galilee and Jezreel region",
+        "timelineEra": "Judges",
+        "keyCompanions": [
+          "Barak",
+          "Sisera",
+          "Jael",
+          "Jabin"
+        ],
+        "sceneScale": "Regional Battle and Victory Song",
+        "timeAnchor": "After Shamgar; before Gideon",
+        "israelExistsYet": true,
+        "templeExistsYet": false,
+        "kingdomExistsYet": false,
+        "exodusHappenedYet": true
+      },
+      "people": [
+        {
+          "name": "Deborah",
+          "role": "Prophetess and judge in Israel",
+          "relationships": [
+            "Wife of Lappidoth"
+          ]
+        },
+        {
+          "name": "Barak",
+          "role": "Military leader summoned from Kedesh",
+          "relationships": [
+            "Son of Abinoam"
+          ]
+        },
+        {
+          "name": "Jabin",
+          "role": "King of Canaan ruling in Hazor",
+          "relationships": []
+        },
+        {
+          "name": "Sisera",
+          "role": "Commander of Jabin's army with nine hundred iron chariots",
+          "relationships": []
+        },
+        {
+          "name": "Jael",
+          "role": "Woman who kills Sisera in her tent",
+          "relationships": [
+            "Wife of Heber the Kenite"
+          ]
+        },
+        {
+          "name": "Heber the Kenite",
+          "role": "Connected to Jael and encamped near Kedesh",
+          "relationships": []
+        }
+      ],
+      "places": [
+        {
+          "ancientName": "Palm of Deborah",
+          "modernRegion": "Central hill country / West Bank region",
+          "description": "Judging location between Ramah and Bethel"
+        },
+        {
+          "ancientName": "Kedesh in Naphtali",
+          "modernRegion": "Northern Israel / Galilee and Jezreel region",
+          "description": "Barak's location"
+        },
+        {
+          "ancientName": "Mount Tabor",
+          "modernRegion": "Northern Israel / Galilee and Jezreel region",
+          "description": "Muster point for Barak's forces"
+        },
+        {
+          "ancientName": "Kishon River",
+          "modernRegion": "Northern Israel / Galilee and Jezreel region",
+          "description": "Battle area in the Jezreel region"
+        },
+        {
+          "ancientName": "Harosheth-ha-goiim",
+          "modernRegion": "Northern Israel / Galilee and Jezreel region",
+          "description": "Sisera's base area"
+        },
+        {
+          "ancientName": "Jael's tent",
+          "modernRegion": "Northern Israel / Galilee and Jezreel region",
+          "description": "Place where Sisera is killed"
+        }
+      ],
+      "movementJourney": {
+        "startingPoint": "Deborah's judging place in the hill country",
+        "destination": "Mount Tabor, Kishon, and Jael's tent",
+        "route": [
+          "Deborah summons Barak from Kedesh",
+          "Barak gathers ten thousand men from Naphtali and Zebulun at Mount Tabor",
+          "Sisera brings chariots to the Kishon",
+          "Israel fights and Sisera flees on foot",
+          "Sisera reaches Jael's tent",
+          "Jael kills Sisera",
+          "Deborah and Barak sing the victory song"
+        ],
+        "majorStops": [
+          "Palm of Deborah",
+          "Kedesh",
+          "Mount Tabor",
+          "Kishon River",
+          "Harosheth-ha-goiim",
+          "Jael's tent"
+        ]
+      },
+      "timelineEra": "Judges",
+      "storyPosition": {
+        "whatHappenedBefore": "Shamgar was briefly named as a deliverer against the Philistines.",
+        "whatIsHappeningNow": "Deborah summons Barak, Israel fights Sisera near the Kishon, Jael kills Sisera, and Judges 5 preserves a victory song.",
+        "whatHappensAfter": "Gideon's cycle begins with Midianite oppression.",
+        "storyPositionStrip": [
+          "Joshua Dies",
+          "Tribal Settlement Continues",
+          "Cycles of Oppression and Deliverance",
+          "Regional Judges",
+          "Tribal Disorder",
+          "Deborah, Barak, Sisera, and the Song ← YOU ARE HERE",
+          "Rise of Samuel",
+          "Monarchy Begins"
+        ]
+      },
+      "realityContext": {
+        "biblicalContext": [
+          "Judges takes place after Joshua's death and before Israel has a human king.",
+          "Israel exists as a tribal people in the land, but the monarchy and Jerusalem Temple do not yet exist.",
+          "The Tabernacle exists during this era, with Shiloh functioning as an important sanctuary location in several passages.",
+          "The book shows regional tribal life rather than a centralized national government.",
+          "Many narratives are local or regional rather than involving all Israel at once.",
+          "This is the first major judge story featuring a woman as judge and prophetess.",
+          "It combines prose narrative in Judges 4 with poetic victory song in Judges 5.",
+          "It introduces northern geography: Hazor, Kedesh, Tabor, Kishon, and the Jezreel region.",
+          "It shows chariot warfare as a major military factor."
+        ],
+        "geographicContext": [
+          "The battle setting moves from hill country judgment to northern muster and valley conflict.",
+          "Mount Tabor rises near the Jezreel region, while the Kishon is associated with the battle scene.",
+          "Chariots are more effective in open valley terrain than rugged hill country."
+        ],
+        "dailyLifeContext": [
+          "The period includes village life, hill-country settlements, fortified towns, agriculture, livestock, clan structures, elders, local rulers, and tribal musters.",
+          "Travel often happens by foot, donkey, or small group movement through hill country, valleys, roads, and city gates.",
+          "Military conflict is usually regional, involving tribal forces, city-states, raiders, chariots, ambushes, or fortified places.",
+          "Public decisions often occur at gates, sanctuaries, assemblies, or before tribal leaders.",
+          "Tribal musters bring fighters from specific northern tribes.",
+          "Tents of semi-nomadic groups appear alongside city-state warfare.",
+          "Songs can preserve public memory of battle and tribal participation."
+        ]
+      },
+      "whyThisMattersInTheStory": [
+        "This is one of the central deliverance narratives in Judges.",
+        "It gives both narrative and song versions of the event.",
+        "It expands the book's geography into the north.",
+        "It names tribes that participate and tribes that are criticized or absent in the song."
+      ],
+      "stepIntoTheStory": [
+        "Deborah sits under her palm in the hill country, where Israelites come for judgment. From there the story reaches north to Barak in Kedesh.",
+        "Barak gathers men at Mount Tabor. Sisera brings a chariot force toward the Kishon, turning the battle into a valley confrontation.",
+        "Sisera escapes the battlefield on foot and enters Jael's tent. The final act happens not on the battlefield but inside a tent, before the story becomes a song of victory."
+      ],
+      "documentaryObservations": [
+        "Deborah sitting under a palm between Ramah and Bethel.",
+        "Barak summoned from Kedesh.",
+        "Ten thousand men gathered at Mount Tabor.",
+        "Sisera's nine hundred iron chariots.",
+        "The Kishon River battlefield.",
+        "Sisera fleeing on foot.",
+        "Jael offering tent shelter.",
+        "Tent peg and hammer used in Sisera's death.",
+        "Deborah and Barak singing after the victory.",
+        "Tribes named in the song as participants or absent."
+      ],
+      "audioScript": "Judges 4 and 5 tell the story of Deborah and Barak. Deborah judges Israel under her palm in the hill country. She summons Barak from Kedesh and tells him to gather men at Mount Tabor. Sisera, commander of Jabin's army, brings nine hundred iron chariots toward the Kishon. The battle breaks Sisera's force, and Sisera flees on foot to the tent of Jael. There he is killed. Judges 5 then preserves the event in song, naming tribes, terrain, and battle imagery in poetic form.",
+      "crossReferences": {
+        "earlierBackground": [
+          "Judges 3:31"
+        ],
+        "directlyRelatedEvents": [
+          "Judges 4:1-5:31"
+        ],
+        "laterReferences": [
+          "Judges 6:1",
+          "1 Samuel 12:9-11"
+        ],
+        "newTestamentReferences": [
+          "Hebrews 11:32"
+        ]
+      },
+      "series": {
+        "character": "Deborah",
+        "arc": "Israel Before the Monarchy",
+        "previousStory": "judges-06-shamgar",
+        "nextStory": null
+      },
+      "search": {
+        "people": [
+          "Deborah",
+          "Barak",
+          "Jabin",
+          "Sisera",
+          "Jael",
+          "Heber the Kenite"
+        ],
+        "places": [
+          "Palm of Deborah",
+          "Kedesh in Naphtali",
+          "Mount Tabor",
+          "Kishon River",
+          "Harosheth-ha-goiim",
+          "Jael's tent"
+        ],
+        "events": [
+          "Deborah and Barak",
+          "Sisera",
+          "Jael",
+          "Kishon River",
+          "Song of Deborah"
+        ],
+        "timelineEra": [
+          "Judges",
+          "Before the monarchy",
+          "Tribal Israel"
+        ],
+        "alternateNames": [
+          "Judges 4-5",
+          "Deborah judge",
+          "Barak and Sisera"
+        ]
+      },
+      "realitySummary": "Deborah, Barak, Sisera, and the Song. Deborah summons Barak, Israel fights Sisera near the Kishon, Jael kills Sisera, and Judges 5 preserves a victory song."
+    }
   }
 ]
